@@ -1,9 +1,12 @@
+#backend:
+#  name: test-repo
+
 backend:
-  name: git-gateway
-  branch: master # Branch to update (optional; defaults to master)
+  name: github
+  repo: jaustin/songbook
 
 # Uncomment below to enable drafts
-# publish_mode: editorial_workflow
+publish_mode: editorial_workflow
 
 media_folder: "static/img" # Media files will be stored in the repo under images/uploads
 
@@ -20,6 +23,30 @@ collections:
       - { label: "Summary", name: "summary", widget: "text" }
       - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
       - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: song
+    label: Song
+    folder: songs
+    create: true
+    slug: "{{title}}-{{slug}}"
+    fields:
+      - {
+          label: Template Key,
+          name: templateKey,
+          widget: hidden,
+          default: song,
+        }
+      - { label: Title, name: title, widget: string }
+      - { label: Words by, name: words-by, widget: string, required: false }
+      - { label: Tune by, name: tune-by, widget: string, required: false }
+      - { label: Chorus first line, name: chorus-line, widget: string, required: false }
+      - { label: Song first line, name: song-line, widget: string, required: false }
+      - { label: Tune link, name: tune-link, widget: string, required: false }
+      - { label: Description, name: description, widget: text, required: false }
+      - { label: Tags, name: tags, widget: list, required: false }
+      - { label: Words, name: body, widget: markdown }
+      - { label: Publish Date, name: date, widget: datetime, required: false }
+
   # Our pages e.g. About
   - name: "pages"
     label: "Page"
