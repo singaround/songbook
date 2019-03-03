@@ -3,7 +3,7 @@
 
 backend:
   name: github
-  repo: jaustin/songbook
+  repo: singaround/songbook
 
 # Uncomment below to enable drafts
 publish_mode: editorial_workflow
