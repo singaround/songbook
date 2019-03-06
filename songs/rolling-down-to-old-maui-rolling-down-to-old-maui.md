@@ -6,20 +6,17 @@ tuneBy: Trad
 chorusLine: 'Rolling down to old Maui, my boys'
 songLine: 'It''s a rough, tough, full of toil and strife'
 tuneLink: 'https://www.youtube.com/watch?v=0fu4x3DSfYs'
+tags:
+  - song
+  - whaling
+  - arctic
+date: 2019-03-03T21:46:56.052Z
 description: >-
-  This is a great tune and it's well known, but there are some _rather
-  uncomfortable _sections about "native maids" that we avoid singing.
+  This is a great tune and it's well known, but there are some _rather uncomfortable_ sections about "native maids" that we avoid singing.
 
 
   Please sing the version here, which is more **comfortable as well as more
   poetical anyway.**
-
-
-  ****
-tags:
-  - song
-  - whaling
-date: 2019-03-03T21:46:56.052Z
 ---
 Once more we are waft by the northern gales a-bounding over the main,  
 And soon the hills of the tropic isles we all shall see again.  
@@ -56,4 +53,4 @@ Rolling down to old Maui.\
 We're homeward bound from the Arctic ground,\
 Rolling down to old Maui.\
 Homeward bound from the Arctic ground,\
-Rolling down to old Maui.\
+Rolling down to old Maui.
