@@ -42,10 +42,10 @@ collections:
       - { label: Chorus first line, name: chorusLine, widget: string, required: false }
       - { label: Song first line, name: songLine, widget: string, required: false }
       - { label: Tune link, name: tuneLink, widget: string, required: false }
-      - { label: Description, name: description, widget: text, required: false }
       - { label: Tags, name: tags, widget: list, default: ["song"] }
-      - { label: Words, name: body, widget: markdown }
       - { label: Publish Date, name: date, widget: datetime, required: false }
+      - { label: Description, name: description, widget: markdown, required: false }
+      - { label: Words, name: body, widget: markdown }
 
   # Our pages e.g. About
   - name: "pages"
