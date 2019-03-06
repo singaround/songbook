@@ -1,0 +1,21 @@
+<section>
+	{% for song in songslist %}
+		<article{% if song.url == url %} data-current="current item"{% endif %}>
+			<h3>
+				<a href="{{ song.url | url }}">
+					{% if song.data.songNumber %}
+						{{ song.data.songNumber }}
+					{% else %}
+						_
+					{% endif %}
+					- 
+					{% if song.data.title %}
+						{{ song.data.title }}
+					{% else %}
+						Untitled
+					{% endif %}
+				</a>
+			</h3>
+		</article>
+	{% endfor %}
+</section>

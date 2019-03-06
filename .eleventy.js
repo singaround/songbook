@@ -51,6 +51,20 @@ module.exports = function(eleventyConfig) {
     });
   });
 
+    // Number songs in the 'songs' directory
+    eleventyConfig.addCollection("numberedSongs", function(collection) {
+      songCollection = collection.getAll().filter(function(item) {
+        return item.inputPath.match(/^\.\/songs\//) !== null;})
+          .sort(function(a,b) {
+            a.data.title.localeCompare(b.data.title)});
+
+      // Inject the song number so we have it for the URL and the numbering
+      songCollection.forEach(function(a, i) {
+        console.log("item:" + a.data.title + "is index " + i)
+        a.data.songNumber = i + 1;
+      })
+    return songCollection
+    });
   // Don't process folders with static assets e.g. images
   eleventyConfig.addPassthroughCopy("static/img");
   eleventyConfig.addPassthroughCopy("admin");

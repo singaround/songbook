@@ -1,0 +1,11 @@
+---
+layout: layouts/base.njk
+section: songbook
+permalink: /songbook/index.html
+---
+<h1>{{ title }}</h1>
+
+{{ layoutContent | safe }}
+
+{% set songslist = collections.numberedSongs %}
+{% include "components/songslist.njk" %}
