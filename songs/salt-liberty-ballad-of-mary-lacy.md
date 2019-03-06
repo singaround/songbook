@@ -1,6 +1,13 @@
 ---
 templateKey: song
 title: Salt Liberty - The Ballad of Mary Lacy
+wordsBy: Rosanna Sharkey
+tuneBy: Rosanna Sharkey
+chorusLine: But I longed for the sea
+songLine: I grew up as a girl in the fields of Kent
+tags:
+  - song
+  - gender
 date: 2019-03-02T23:16:44.616Z
 description: >-
   based on the account from The Female Shipwright, or Life and Extraordinary
