@@ -1,0 +1,17 @@
+---
+pagination:
+  data: collections.numberedSongs
+  size: 1
+permalink: /n/{{ pagination.pageNumber + 1 }}/
+todo: "use a layout for the redirect"
+---
+<html>
+    <head>
+  {%- for song in pagination.items %}
+	<meta http-equiv="refresh" content="0; url={{ song.url }}">
+	<link rel="canonical" href="{{ song.url }}" />
+  {% endfor -%}
+
+    </head>
+</html>
+
