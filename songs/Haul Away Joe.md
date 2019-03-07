@@ -7,7 +7,7 @@ chorusLine:
 songLine:
 tags:
 description: An ironic singing of verse 3 can be enhanced with another verse in dialogue. I've had a stab here where our sailor discovers that maybe he doesn't want to kiss the girls after all, which you can feel free to omit.
-date:
+date: 2019-03-07T08:05:12.000Z
 ---
 Louis was the king of France
 

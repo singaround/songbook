@@ -7,7 +7,7 @@ chorusLine:
 songLine:
 tags:
 description: The Diamond was lost in the winter of 1830 in the ice of Melville Bay, Greenland. In total, twentyfive ships from the British whaling fleet were lost.
-date:
+date: 2019-03-07T08:05:12.000Z
 ---
 The Diamond is a ship, my lads
 

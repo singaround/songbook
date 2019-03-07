@@ -7,7 +7,7 @@ chorusLine:
 songLine:
 tags:
 description: This was likely used as a long haul or halyard shanty. It's a variant on 'South Australia'. The named town could be substituted for the name of another fishing town, should the sailors wish the song's jokes to be at someone else's expense!
-date:
+date: 2019-03-07T08:05:12.000Z
 ---
 Cape Cod men ain\'t got no ale
 

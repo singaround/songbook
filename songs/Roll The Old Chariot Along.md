@@ -7,7 +7,7 @@ chorusLine:
 songLine:
 tags:
 description:
-date:
+date: 2019-03-07T08:05:12.000Z
 ---
 Well a drop of Nelson's blood wouldn\'t do us any harm
 

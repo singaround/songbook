@@ -7,7 +7,7 @@ chorusLine:
 songLine:
 tags:
 description: Until 1801 America and England paid yearly tribute to the four Barbary states of North Africa for free passage of merchant ships. This song celebrating the fight of the Prince of Wales with one of the Barbary pirates was written by Charles Dibdin, writer of songs for the British Navy.
-date:
+date: 2019-03-07T08:05:12.000Z
 ---
 There were two lofty ships from old England came
 

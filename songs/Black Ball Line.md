@@ -7,7 +7,7 @@ chorusLine:
 songLine:
 tags:
 description: The Black Ball Line was the name of two fleets of transatlantic packet ships, one based in Liverpool and the other based in the US and boasting some of the finest sailing clippers in the world. The Liverpool branch of the line operated from 1852 until 1871.
-date:
+date: 2019-03-07T08:05:12.000Z
 ---
 In the Black Ball line I served my time
 

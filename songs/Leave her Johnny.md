@@ -7,7 +7,7 @@ chorusLine:
 songLine:
 tags:
 description: "This shanty could be used at the pumps or the capstan, but had a more famous function as the last song of the voyage. Shantysingers had protected status on the ship compared to other sailors. Although they were a non ranking sailor, they made the ship far more efficient and were the main source of entertainment for the long months of sailing. They were in sufficiently short supply and sufficiently important that they could criticise the ship without being punished. Throughout the voyages, their fellow sailors would share their objections to any aspect of the journey - the destination, the food, the captain and other officers. Once the ship was warping in through the locks or sailing down the river to approach the pier head the shanty singer would let rip with this song, finally airing months of pent up frustrations.  As such, every time this song was sung would have been different to match the specific anger of the ship. The verses listed below [are not]{.underline} a command, and if you sang them all you'd be here a very long while. Rather, pick and choose your favourites. Or better still, write some yourself about whatever's grinding your gears - the patriarchy, the government, rival pubs, viola players etc."
-date:
+date: 2019-03-07T08:05:12.000Z
 ---
 \
 I thought I heard the Old Man say\

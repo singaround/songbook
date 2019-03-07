@@ -7,7 +7,7 @@ chorusLine:
 songLine:
 tags:
 description: This modern shanty by Les Sullivan explores the fate of various ships which fought in the Battle of Jutland in 1916, the largest fleet action of World War One.
-date:
+date: 2019-03-07T08:05:12.000Z
 ---
 Where are you goin\' my Billy-O?
 

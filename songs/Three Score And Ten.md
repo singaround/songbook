@@ -7,7 +7,7 @@ chorusLine:
 songLine:
 tags:
 description:
-date:
+date: 2019-03-07T08:05:12.000Z
 ---
 Methinks I see a host of craft
 
