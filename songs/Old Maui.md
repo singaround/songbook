@@ -9,20 +9,14 @@ tags:
 description:
 date: 2019-03-07T08:05:12.000Z
 ---
-It\'s a damn tough life full of toil and strife
-
+It's a damn tough life full of toil and strife
 We whalermen undergo
-
-And we don\'t give a damn when the day is done
-
+And we don't give a damn when the day is done
 How hard the winds did blow
 
-\'cause we\'re homeward bound from the Artic ground
-
+'cause we're homeward bound from the Artic ground
 With a good ship, taut and free
-
-And we don\'t give a damn when we drink our rum
-
+And we don't give a damn when we drink our rum
 With the girls of old Maui
 
 Rolling down to old Maui, me boys

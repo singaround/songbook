@@ -32,18 +32,18 @@ module.exports = function(eleventyConfig) {
   });
 
   // Minify HTML output
-  eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
+   eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
     if (outputPath.indexOf(".html") > -1) {
       let minified = htmlmin.minify(content, {
         useShortDoctype: true,
         removeComments: true,
-        collapseWhitespace: true
+        collapseWhitespace: false
       });
       return minified;
     }
     return content;
   });
-
+ 
   // only content in the `posts/` directory
   eleventyConfig.addCollection("posts", function(collection) {
     return collection.getAllSorted().filter(function(item) {
@@ -53,7 +53,7 @@ module.exports = function(eleventyConfig) {
 
     // Number songs in the 'songs' directory
     eleventyConfig.addCollection("numberedSongs", function(collection) {
-      songCollection = collection.getAll().filter(function(item) {
+      songCollection = collection.getAllSorted().filter(function(item) {
         return item.inputPath.match(/^\.\/songs\//) !== null;})
           .sort(function(a,b) {
             a.data.title.localeCompare(b.data.title)});
@@ -77,13 +77,8 @@ module.exports = function(eleventyConfig) {
     breaks: true,
     linkify: true,
     typographer: true,
-    quotes: '“”‘’'
   };
-  let opts = {
-    permalink: true,
-    permalinkClass: "direct-link",
-    permalinkSymbol: "#"
-  };
+    eleventyConfig.setLibrary("md", markdownIt(options));
 
   return {
     templateFormats: ["md", "njk", "html"],
