@@ -1,11 +1,11 @@
 ---
 templateKey: song
 title: Bold Riley  
-words-by:
-tune-by:
-chorus-line:
-song-line:
-tune-link:
+wordsBy:
+tuneBy:
+chorusLine:
+songLine:
+tags:
 description: A halyard shanty, likely from the West Indies but not recorded until 1952 when it mysteriously appeared on an AL Lloyd record called 'A Sailor's Garland'. During the 19th Century in Liverpool, it was fashionable for wealthier women to wear white cotton stockings. On White-Stocking Day, women were required to draw their \'allotment\' which was the half pay of their sailing family member away at sea. These wives and mothers wore white stockings on that day, considering themselves members of the middle and upper classes for the day.*
 date:
 ---

@@ -1,11 +1,11 @@
 ---
 templateKey: song
 title: Cape Cod Girls  
-words-by:
-tune-by:
-chorus-line:
-song-line:
-tune-link:
+wordsBy:
+tuneBy:
+chorusLine:
+songLine:
+tags:
 description: This was likely used as a long haul or halyard shanty. It's a variant on 'South Australia'. The named town could be substituted for the name of another fishing town, should the sailors wish the song's jokes to be at someone else's expense!
 date:
 ---

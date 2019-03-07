@@ -1,11 +1,11 @@
 ---
 templateKey: song
 title: Poor Old Horse  
-words-by:
-tune-by:
-chorus-line:
-song-line:
-tune-link:
+wordsBy:
+tuneBy:
+chorusLine:
+songLine:
+tags:
 description:
 date:
 ---

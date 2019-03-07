@@ -1,11 +1,11 @@
 ---
 templateKey: song
 title: Jutland  
-words-by:
-tune-by:
-chorus-line:
-song-line:
-tune-link:
+wordsBy:
+tuneBy:
+chorusLine:
+songLine:
+tags:
 description: This modern shanty by Les Sullivan explores the fate of various ships which fought in the Battle of Jutland in 1916, the largest fleet action of World War One.
 date:
 ---

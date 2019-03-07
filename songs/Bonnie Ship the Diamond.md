@@ -1,11 +1,11 @@
 ---
 templateKey: song
 title: Bonnie Ship the Diamond  
-words-by:
-tune-by:
-chorus-line:
-song-line:
-tune-link:
+wordsBy:
+tuneBy:
+chorusLine:
+songLine:
+tags:
 description: The Diamond was lost in the winter of 1830 in the ice of Melville Bay, Greenland. In total, twentyfive ships from the British whaling fleet were lost.
 date:
 ---

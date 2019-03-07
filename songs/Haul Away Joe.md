@@ -1,11 +1,11 @@
 ---
 templateKey: song
 title: Haul Away Joe  
-words-by:
-tune-by:
-chorus-line:
-song-line:
-tune-link:
+wordsBy:
+tuneBy:
+chorusLine:
+songLine:
+tags:
 description: An ironic singing of verse 3 can be enhanced with another verse in dialogue. I've had a stab here where our sailor discovers that maybe he doesn't want to kiss the girls after all, which you can feel free to omit.
 date:
 ---

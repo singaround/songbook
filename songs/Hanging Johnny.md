@@ -1,12 +1,12 @@
 ---
 templateKey: song
 title: Hanging Johnny  
-words-by:
-tune-by:
-chorus-line:
-song-line:
-tune-link:
-description: With a double pull, this shanty was probably used for the Halyard or a long drag. A classic example of a 'stringing-out' shanty.. one where one the shanty singer could make up as many verses as required to get the job done. Sung at a shanty session, it's important that you read the room and think carefully about how many verses to include if there are lots of people who would like a sing.. it would be totally historically in keeping to shorten (or even lengthen!) the song to match the occasion.
+wordsBy:
+tuneBy:
+chorusLine:
+songLine:
+tags:
+description: "With a double pull, this shanty was probably used for the Halyard or a long drag. A classic example of a 'stringing-out' shanty - one where one the shanty singer could make up as many verses as required to get the job done. Sung at a shanty session, it's important that you read the room and think carefully about how many verses to include if there are lots of people who would like a sing - it would be totally historically in keeping to shorten (or even lengthen!) the song to match the occasion."
 date:
 ---
 They call me hanging Johnny,

@@ -1,12 +1,12 @@
 ---
 templateKey: song
 title: Fall Down Billy O'Shea  
-words-by:
-tune-by:
-chorus-line:
-song-line:
-tune-link:
-description: This shanty tells the common story of being pressed. Between 1664 and 1814, Impressment was used to fill the crews of British navy ships. Any man between 18 and 55 with sailing ability could be pressed into service by the Navy Impressment Service, known as 'The Press Gang'. The punishment for refusing was hanging. Having attempted to plead that they are non sailors, the captain whips Billy O'Shea up the rigging, where his lack of topsman ability soon leads to his early demise.  *Sir John Rogerson\'s Quay is a street and quay in Dublin on the south bank of the River Liffey between City Quay in the west and Britain Quay. Named for politician and property developer Sir John Rogerson (1648..1724), the quay was formerly part of Dublin Port. The cat referred to is, of course, the cat o nine tails.
+wordsBy:
+tuneBy:
+chorusLine:
+songLine:
+tags:
+description: "This shanty tells the common story of being pressed. Between 1664 and 1814, Impressment was used to fill the crews of British navy ships. Any man between 18 and 55 with sailing ability could be pressed into service by the Navy Impressment Service, known as 'The Press Gang'. The punishment for refusing was hanging. Having attempted to plead that they are non sailors, the captain whips Billy O'Shea up the rigging, where his lack of topsman ability soon leads to his early demise.  *Sir John Rogerson\'s Quay is a street and quay in Dublin on the south bank of the River Liffey between City Quay in the west and Britain Quay. Named for politician and property developer Sir John Rogerson (1648--1724), the quay was formerly part of Dublin Port. The cat referred to is, of course, the cat o nine tails."
 date:
 ---
 We all got drunk in Dublin city

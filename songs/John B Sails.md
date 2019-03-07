@@ -1,11 +1,11 @@
 ---
 templateKey: song
 title: John B Sails  
-words-by:
-tune-by:
-chorus-line:
-song-line:
-tune-link:
+wordsBy:
+tuneBy:
+chorusLine:
+songLine:
+tags:
 description: A shanty from the Bahamas first published in 1916 and later made famous by the Beach Boys. It is sung as a club anthem by FC United of Manchester.
 date:
 ---

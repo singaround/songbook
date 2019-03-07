@@ -1,11 +1,11 @@
 ---
 templateKey: song
 title: Rollickin' Randy Dandy O  
-words-by:
-tune-by:
-chorus-line:
-song-line:
-tune-link:
+wordsBy:
+tuneBy:
+chorusLine:
+songLine:
+tags:
 description:
 date:
 ---

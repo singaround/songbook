@@ -1,11 +1,11 @@
 ---
 templateKey: song
 title: Blow The Man Down  
-words-by:
-tune-by:
-chorus-line:
-song-line:
-tune-link:
+wordsBy:
+tuneBy:
+chorusLine:
+songLine:
+tags:
 description: The Black Ball Line was the name of two fleets of transatlantic packet ships, one based in Liverpool and the other based in the US and boasting some of the finest sailing clippers in the world. The Liverpool branch of the line operated from 1852 until 1871. The 'Kicking Jack Williams' (often incorrectly named 'Jack Rogers' in other versions) was a captain on the American side of the Black Ball Line. Infamous for his tough discipline on board, he became famous for driving the 1,679 ton clipper* Andrew Jackson *on a record-breaking run from New York to San Francisco when he made the voyage in under 90 days in 1859.
 date:
 ---
