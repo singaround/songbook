@@ -6,7 +6,7 @@ tune-by:
 chorus-line:
 song-line:
 tune-link:
-description: Here are two versions of lowlands. Version one has a female lover, version two a male lover. It should also be noted that in some versions, the last chorus line will add an extra few words: Lowlands, sweet lowlands away. If you plan to sing this version, just make sure we're clued in before you kick off.
+description: Here are two versions of lowlands. Version one has a female lover, version two a male lover. It should also be noted that in some versions, the last chorus line will add an extra few words\: Lowlands, sweet lowlands away. If you plan to sing this version, just make sure we're clued in before you kick off.
 date:
 ---
 (Version 1)
