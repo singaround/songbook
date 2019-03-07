@@ -75,7 +75,9 @@ module.exports = function(eleventyConfig) {
   let options = {
     html: true,
     breaks: true,
-    linkify: true
+    linkify: true,
+    typographer: true,
+    quotes: '“”‘’'
   };
   let opts = {
     permalink: true,
