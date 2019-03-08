@@ -56,7 +56,7 @@ module.exports = function(eleventyConfig) {
       songCollection = collection.getAllSorted().filter(function(item) {
         return item.inputPath.match(/^\.\/songs\//) !== null;})
           .sort(function(a,b) {
-            a.data.title.localeCompare(b.data.title)});
+            return a.data.title.localeCompare(b.data.title)});
 
       // Inject the song number so we have it for the URL and the numbering
       songCollection.forEach(function(a, i) {
