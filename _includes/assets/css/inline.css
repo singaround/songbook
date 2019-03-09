@@ -34,7 +34,7 @@ code {
 
 a[href],
 a[href]:visited {
-	color: var(--blue);
+
 }
 
 a[href]:not(:hover) {
