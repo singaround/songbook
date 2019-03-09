@@ -1,0 +1,17 @@
+{% for entry in indexlist %}
+            <p>
+            {{ entry.data[indexItem] }} - 
+            <a href="{{ entry.url | url }}">
+                {% if entry.data.title %}
+                    {{ entry.data.title }}
+                {% else %}
+                    Untitled
+                {% endif %} </a>
+                ...
+            {% if entry.data.songNumber %}
+            <a href="{{ entry.url | url }}">{{ entry.data.songNumber }}</a>
+        {% endif %}
+            </a>
+            </p>
+{% endfor %}
+

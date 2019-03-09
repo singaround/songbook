@@ -51,20 +51,40 @@ module.exports = function(eleventyConfig) {
     });
   });
 
-    // Number songs in the 'songs' directory
-    eleventyConfig.addCollection("numberedSongs", function(collection) {
-      songCollection = collection.getAllSorted().filter(function(item) {
-        return item.inputPath.match(/^\.\/songs\//) !== null;})
-          .sort(function(a,b) {
-            return a.data.title.localeCompare(b.data.title)});
+  // Number songs in the 'songs' directory
+  eleventyConfig.addCollection("numberedSongs", function (collection) {
+    songCollection = collection.getAllSorted().filter(function (item) {
+      return item.inputPath.match(/^\.\/songs\//) !== null;
+    })
+      .sort(function (a, b) {
+        return a.data.title.localeCompare(b.data.title)
+      });
 
-      // Inject the song number so we have it for the URL and the numbering
-      songCollection.forEach(function(a, i) {
-        console.log("item:" + a.data.title + "is index " + i)
-        a.data.songNumber = i + 1;
-      })
+    // Inject the song number so we have it for the URL and the numbering
+    songCollection.forEach(function (a, i) {
+      a.data.songNumber = i + 1;
+      console.log("%s: songNumber: %s ", a.inputPath, i + 1 )
+    })
     return songCollection
+  });
+
+  // Create a list of songs sorted by firstline
+  eleventyConfig.addCollection("songsByFirstline", function(collection) {
+    return collection.getAll().filter(function(item) {
+      return  item.data.songLine != null;
+    }).sort(function (a,b) {
+      return a.data.songLine.localeCompare(b.data.songLine)
     });
+  });
+  // Create a list of songs sorted by chorusline
+  eleventyConfig.addCollection("songsByChorus", function(collection) {
+    return collection.getAll().filter(function(item) {
+      return item.data.chorusLine != null;
+    }).sort(function (a,b)  {
+      return a.data.chorusLine.localeCompare(b.data.chorusLine)
+    });
+  });
+
   // Don't process folders with static assets e.g. images
   eleventyConfig.addPassthroughCopy("static/img");
   eleventyConfig.addPassthroughCopy("admin");
@@ -78,7 +98,7 @@ module.exports = function(eleventyConfig) {
     linkify: true,
     typographer: true,
   };
-    eleventyConfig.setLibrary("md", markdownIt(options));
+  eleventyConfig.setLibrary("md", markdownIt(options));
 
   return {
     templateFormats: ["md", "njk", "html"],

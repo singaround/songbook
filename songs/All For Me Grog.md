@@ -3,8 +3,8 @@ templateKey: song
 title: All For Me Grog  
 wordsBy:
 tuneBy:
-chorusLine:
-songLine:
+chorusLine: "And it's all for me grog, me jolly, jolly grog"
+songLine: "Where are my boots, my nogging, nogging boots"
 tags:
 description:
 date: 2019-03-07T08:05:12.000Z
