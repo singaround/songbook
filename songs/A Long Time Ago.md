@@ -3,17 +3,17 @@ templateKey: song
 title: A Long Time Ago  
 wordsBy:
 tuneBy:
-chorusLine:
-songLine:
-tags:
+chorusLine: To me way, hey, hey, oh
+songLine: In Frisco Bay there were three ships
+tags: songs, animals, Noah, ark, Frisco Bay
 description:
 date: 2019-03-07T08:05:12.000Z
 ---
-In \'Frisco Bay there were three ships,
+In Frisco Bay there were three ships,
 
 *To me way, hey, hey, oh.*
 
-In \'Frisco Bay there were three ships,
+In Frisco Bay there were three ships,
 
 *A long time ago.*
 
