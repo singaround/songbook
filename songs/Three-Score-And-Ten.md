@@ -1,13 +1,38 @@
 ---
 templateKey: song
-title: Three Score And Ten  
-wordsBy:
-tuneBy:
-chorusLine:
-songLine:
-tags:
-description:
+title: Three Score And Ten
+wordsBy: William Delf
+tuneBy: ''
 date: 2019-03-07T08:05:12.000Z
+description: >-
+  https://mainlynorfolk.info/watersons/songs/threescoreandten.html
+
+
+  "Three Score and Ten" is a broadside ballad commemorating a tragic storm off
+  Grimsby and Hull in February 1889. With 9 vessels and a number of men losing
+  their lives, it remains one of the greatest disasters in the history of the
+  towns. The song was composed by local fisherman William Delf to raise money
+  for the affected families. 
+
+
+  Delf's poem had 8 verses and no choruses. The song in its well known version
+  was first collected from a master mariner, Mr J. Pearson of Filey, in 1957.
+  It's subsequently become famous on the folk scene after recordings by Lou
+  Killen and the Watersons.
+
+
+  From the Hull Times, 2nd March 1889: 
+
+
+  "As day after day passes and no tidings arrive of the missing Grimsby smacks,
+  it is beginning to be realised that the gale of the 9th ult. will prove one of
+  the most disastrous to the Grimsby fishing trade on record. altogether nearly
+  a dozen fishing vessels, carrying between 60 and 70 hands, are missing.
+
+
+  Most of the vessels were provisioned for eight or nine days, and many of them
+  have been out for over a month. Of the safety of seven of them all hope has
+  now been abandoned."
 ---
 Methinks I see a host of craft
 
