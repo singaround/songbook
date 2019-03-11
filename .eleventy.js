@@ -55,10 +55,11 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection("numberedSongs", function (collection) {
     songCollection = collection.getAllSorted().filter(function (item) {
       return item.inputPath.match(/^\.\/songs\//) !== null;
-    })
-      .sort(function (a, b) {
-        return a.data.title.localeCompare(b.data.title)
-      });
+    }).filter(function (item) {
+      return item.data.published === true;
+    }).sort(function (a, b) {
+      return a.data.title.localeCompare(b.data.title)
+    });
 
     // Inject the song number so we have it for the URL and the numbering
     songCollection.forEach(function (a, i) {
@@ -72,6 +73,8 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection("songsByFirstline", function(collection) {
     return collection.getAll().filter(function(item) {
       return  item.data.songLine != null;
+    }).filter(function (item) {
+      return item.data.published === true;
     }).sort(function (a,b) {
       return a.data.songLine.localeCompare(b.data.songLine)
     });
@@ -80,6 +83,8 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection("songsByChorus", function(collection) {
     return collection.getAll().filter(function(item) {
       return item.data.chorusLine != null;
+    }).filter(function (item) {
+      return item.data.published === true;
     }).sort(function (a,b)  {
       return a.data.chorusLine.localeCompare(b.data.chorusLine)
     });
