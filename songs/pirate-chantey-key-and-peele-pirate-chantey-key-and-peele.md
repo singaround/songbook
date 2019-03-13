@@ -22,12 +22,9 @@ So it was off with her we went\
 And we threw her in bed and rested her head\
 And we left, 'cause that's what gentlemen do.
 
-_A woman has a right to a drink or two_
-
-_Without worrying about what you will do_
-
-_We say "yo, ho!" but we don't say "hoe"_
-
+_A woman has a right to a drink or two_\
+_Without worrying about what you will do_\
+_We say "yo, ho!" but we don't say "hoe"_\
 _'Cause "hoe" is disrespectful, yo_
 
 There once was a girl from Leeds\
