@@ -35,7 +35,7 @@ _Ranzo my boys oh Ranzo Ray_
 
 _(Chorus x 2)_
 
-You broke my heart oh you broke it full sore o'\
+You broke my heart oh you broke it full sore\
 _Ranzo my boys oh Ranzo Ray_\
 If I sail like the wild goose\
 You'll break it no more\
