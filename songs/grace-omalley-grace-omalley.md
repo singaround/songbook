@@ -9,7 +9,7 @@ tags:
   - song
 date: 2019-03-13T22:35:27.039Z
 description: >-
-  From Cathie Ryan's 2001 album, Somewhere along the road. Youtube link
+  From Cathie Ryan's 2001 album, 'Somewhere Along the Road'. Youtube link
   [here.](https://www.youtube.com/watch?v=c8cDhq-N5Ug)
 ---
 Now in sailor's clothes Granuaile did go\
