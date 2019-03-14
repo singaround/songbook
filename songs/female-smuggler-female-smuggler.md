@@ -55,7 +55,7 @@ He to the judge and jury said,\
 Pardon for her on my knees I crave,\
 For this female smuggler, for this female smuggler, so valiant and so brave."
 
-Then this commodore to his father went,\
+Then this commodore to her father went,\
 To gain her hand he asked his consent.\
-His consent he gained, so the commodore\
+His consent and hers he got, so the commodore\
 And the female smuggler, and the female smuggler, are one for evermore.
