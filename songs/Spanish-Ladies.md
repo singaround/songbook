@@ -1,58 +1,52 @@
 ---
 templateKey: song
-title: Spanish Ladies  
-wordsBy:
-tuneBy:
-chorusLine:
-songLine:
+title: Spanish Ladies
+wordsBy: Traditional
+tuneBy: Traditional
+chorusLine: We’ll rant and we’ll roar like true British sailors
+songLine: Farewell and adieu to you Spanish ladies
 tags:
-description:
+  - song
+  - spanish
 date: 2019-03-07T08:05:12.000Z
 ---
-Farewell and adieu unto you spanish ladies
+Farewell and adieu to you Spanish ladies\
+Farewell and adieu to you ladies of Spain\
+For we've received orders to sail for old England\
+But we hope in a short while to see you again
 
-Farewell and adieu to you ladies of spain
+_We'll rant and we'll roar like true British sailors_\
+_We'll rant and we'll roar across the salt seas_\
+_Until we strike soundings in the channel of Old England_\
+_From Ushant to Scilly is thirty-five leagues_
 
-For it\'s we\'ve received orders for to sail for old England
+We hove our ship to with the wind at Sou'west, boys\
+We hove our ship to, our soundings to take\
+So we rounded and sounded; got forty-five fathoms\
+We squared our main yard and up channel did make
 
-But we hope very soon we shall see you again
+_We'll rant and we'll roar like true British sailors_\
+_We'll rant and we'll roar across the salt seas_\
+_Until we strike soundings in the channel of Old England_\
+_From Ushant to Scilly is thirty-five leagues_
 
-We hove our ship to with the wind at Sou\'west, boys
-
-We hove our ship to, our soundings to see
-
-So we rounded and sounded; got forty-five fathoms
-
-We squared our main yard and up channel steered we
-
-We\'ll rant and we\'ll roar like true British sailors
-
-We\'ll rant and we\'ll roar across the salt seas
-
-Until we strike soundings in the channel of Old England
-
-From Ushant to Ccilly is thirty-five leagues
-
-Now the first land we made it is called the Deadman
-
-Next ram head off Plymouth, off Portland the Wight
-
-We sailed by Beachy, by Fairlee and Dungeness
-
+Now the first land we sighted is called the Deadman\
+Next Ram's Head off Plymouth, off Portland the Wight\
+We sailed by Beachy, by Fairlee and Dungeness\
 Till we came abreast of the South Foreland Light
 
-Then the signal was made for the Grand Fleet to anchor
+_We'll rant and we'll roar like true British sailors..._
 
-All in the downs that night for to lie
+Then the order was made for the Grand Fleet to anchor\
+All in the downs that night for to lie\
+Let go your shank-painters, let go your cat-stoppers,\
+Haul up your clew garnets, let tacks and sheets fly
 
-Then it\'s stand by your Stoppers, see clear your Shank-Painters,
+_We'll rant and we'll roar like true British sailors..._
 
-Haul all your Clew Garnets, let Tacks and sheets fly
+Now let every one toss off a full bumper\
+And let every one drink off a full glass\
+And we'll drink and be jolly and drown melancholy\
+Singing, here's to the health to each true-hearted lass
 
-Now let every man toss off a full bumper
-
-And let every man drink off a full glass
-
-And we\'ll drink and be merry and drown melancholy
-
-Singing, here\'s a good health to each true-hearted lass
+_We'll rant and we'll roar like true British sailors..._
