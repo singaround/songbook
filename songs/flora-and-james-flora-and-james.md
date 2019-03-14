@@ -15,7 +15,7 @@ Come all you true lovers attend for a while to a tale I am going to unfold! \
 Young James was a lad who was virtuous and kind, and Flora a sailor so bold. \
 “Adieu! Lovely James!” One morning said she, “We are called, I am forced for to go, \
 Far from my native shore, when the loud cannons roar, up aloft when the stormy winds blow.” \
-_Up_ a_loft when the stormy winds blow!_ \
+_Up_ _aloft when the stormy winds blow!_ \
 _Far from my native shore, when the loud cannons roar, up aloft when the stormy winds blow._ 
 
 Oh James how he wept, sad tears from his blue eyes, when young Flora said she must depart \
