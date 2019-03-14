@@ -10,66 +10,38 @@ tags:
   - song
 date: 2019-03-13T22:54:34.527Z
 ---
-The Navy would never have a lass at sea
+The Navy would never have a lass at sea\
+_Away Santianna_\
+So I went in search of piracy\
+_Along the coast of Mexico_
 
-Away Santianna
+So heave her up and away we'll go\
+_Heave away Santianna_\
+To Mexico where the warm winds blow\
+_Along the coast of Mexico_
 
-So I went in search of piracy
+And now we sail the Southern Seas\
+_Away Santianna_
 
-Along the coast of Mexico
+And we'll have those lads down on their knees\
+_Along the coast of Mexico_
 
+In Mexico I want to be\
+_Away Santianna_\
+With a cask of rum on a drinkin' spree\
+_Along the coast of Mexico_\
+\
+When I was a young lass singing prime\
+_Away Santianna_\
+I had them Irish lads two at a time\
+_Along the coast of Mexico_
 
+But I'd never leave the sea to settle down\
+_Away Santianna_\
+When I can have a man in every town\
+_Along the coast of Mexico_
 
-So heave her up and away we'll go, Heave away Santianna!
-
-To Mexico where the warm winds blow, Along the coast of Mexico
-
-
-
-And now we sail the Southern Seas
-
-Away Santianna
-
-And we'll have those lady-lads on their knees
-
-Along the coast of Mexico
-
-
-
-In Mexico I want to be
-
-Away Santianna
-
-With a cask of rum on a drinkin' spree
-
-Along the coast of Mexico
-
-
-
-When I was a young lass singing prime
-
-Away Santianna
-
-I had them Irish lads two at a time
-
-Along the coast of Mexico
-
-
-
-But I'd never leave the sea to settle down
-
-Away Santianna
-
-When I can have a lad in every town
-
-Along the coast of Mexico
-
-
-
-Though the times is hard and the riches low
-
-Away Santianna
-
-Ah but we pirates must all "row and yo”
-
-Along the coast of Mexico
+Though the times is hard and the riches low\
+_Away Santianna_\
+Ah but we pirates must all "row and yo”\
+_Along the coast of Mexico_
