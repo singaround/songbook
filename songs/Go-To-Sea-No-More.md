@@ -1,76 +1,52 @@
 ---
 templateKey: song
-title: Go To Sea No More  
-wordsBy:
-tuneBy:
-chorusLine:
-songLine:
-tags:
-description:
+title: Go To Sea No More
 date: 2019-03-07T08:05:12.000Z
 ---
-When first I landed in Liverpool, I went upon a spree
+When first I landed in Liverpool, I went upon a spree\
+While money lasts I spent it fast, got drunk as drunk could be\
+And when me money was all gone, 'twas then I wanted more\
+But I'd made up my mind that I was inclined to go to sea no more
 
-Me money alas I spent it fast, got drunk as drunk could be
+_No more, no more, I'll go to sea no more_\
+_I'd made up my mind that I was inclined to go to sea no more_
 
-And when me money was all gone, \'twas then I wanted more
+As I was walking down the street I met with Angeline.\
+She said: “Come home with me, my lad, and we'll have a cracking time.”\
+But when I awoke, it was no joke, I found I was all alone.\
+My silver watch and my money too, and my whole bloody gear was gone.
 
-But a man must be blind to make up his mind to go to sea once more
+_Was gone, was gone! My whole bloody gear was gone._\
+_When I awoke, it was no joke for my whole bloody gear was gone._
 
-*Once more, once more, I'll go to sea once more*
+As I was walking down the street I met big Rapper Brown.\
+I asked him if he would take me in, and he looked at me with a frown.\
+He said, “Last time you was paid off, with me you chalked up no score,\
+But I'll take your advance and I'll give youse a chance to go to sea once more.”.
 
-*A man must be blind to make up his mind to go to sea once more*
+_"Once more, once more! To go to sea once more._\
+_I'll take your advance and I'll give youse a chance to go to sea once more.”_
 
-I spent the night with Angeline too drunk to roll in bed
+He shipped me on board of a whaling ship bound for the Arctic seas,\
+Where cold winds blow and there's frost and snow and Jamaica rum would freeze.\
+And worse to bear, I'd no hard-weather gear, for I'd lost all my dunnage ashore.\
+It was then that I wished that I was dead so I'd go to sea no more.
 
-Me watch was new and me money too, in the morning with them she fled
+_No more, no more! I'd go to sea no more._\
+_It was then that I wished that I was dead so I'd go to sea no more._
 
-And as I walked the streets about, the whores they all did roar
+Sometimes we're catching whales, my lads, but mostly we get none,\
+With a twenty-foot oar in every paw from five o'clock in the morn.\
+And when daylight's gone and the night coming on, you rest upon your oar,\
+And oh boys, you wish that you was dead or snug with the girls ashore.
 
-There goes Jack Spratt, the poor sailorlad, he must go to sea once more
+_Ashore, ashore! Snug with the girls ashore._\
+_Oh boys, you wish that you was dead or snug with the girls ashore._
 
-*Once more, once more, I'll go to sea once more*
+Come all you bold seafaring lads that listen to my song.\
+Now it's when you come off them long trips, I'll have you not go wrong.\
+Take my advice, drink no strong drink, ignore the whales and war,\
+Get married instead and spend all night in bed and go to sea no more.
 
-*There goes Jack Spratt, the poor sailorlad, he must go to sea once
-more*
-
-And as I walked the streets about, I met with the Rapper Brown
-
-I asked him for to take me on and he looked at me with a frown
-
-He said last time you was paid off with me you could no score
-
-But I\'ll give you a chance and I\'ll take your advance and I\'ll send
-you to sea once more
-
-*Once more, once more, I'll send you to sea once more*
-
-*I\'ll give you a chance and I\'ll take your advance and I\'ll send you
-to see once more*
-
-He shipped me on board a whaling ship bound for the arctic seas
-
-Where the cold winds blow through the frost and snow and Jamaica rum
-would freeze
-
-But worse to bear, I\'d no hard weather gear for I\'d spent all money on
-shore
-
-\'twas then that I wished that I was dead and could go to sea no more
-
-*No more, no more, I'll go to sea no more*
-
-*\'twas then that I wished that I was dead and could go to sea no more*
-
-So come all you bold seafaring men, who listen to me song
-
-When you come off them long trips, I\'ll have you not go wrong
-
-Take my advice, drink no strong drink, don\'t go sleeping with them
-whores
-
-Get married instead and spend all night in bed and go to sea no more
-
-*No more, no more, I'll go to sea no more*
-
-> *Get married instead and spend all night in bed and go to sea no more*
+_No more, no more! Don't go to sea no more._\
+_Get married instead and spend all night in bed and go to sea no more._
