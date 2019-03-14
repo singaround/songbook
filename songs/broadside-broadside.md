@@ -15,8 +15,8 @@ date: 2019-03-13T22:06:27.563Z
 ---
 Keep your land you gentry of England, France and Spain\
 For there’s nothing like dominion of the water\
-From the rocky coast of Kerry to the bloody Spanish Maine\
-It’s the best thing you can ever teach your daughter.
+From the rocky coast of Kerry to the bloody Spanish Main\
+It’s the best thing you can ever teach your daughter
 
 _Broadside to broadside, two captains collide_\
 _Queen of the spheres and queen of the tide_\
