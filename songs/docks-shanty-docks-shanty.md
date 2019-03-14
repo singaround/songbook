@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title: Docks Shanty
+title: Docks Shanty (Paint my sails red)
 published: false
 wordsBy: Carlo Ritchie
 tuneBy: Carlo Ritchie
