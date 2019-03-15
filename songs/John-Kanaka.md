@@ -1,42 +1,33 @@
 ---
 templateKey: song
-title: John Kanaka  
-wordsBy:
-tuneBy:
-chorusLine:
-songLine:
+title: '*John Kanaka'
 tags:
-description:
+  - song
 date: 2019-03-07T08:05:12.000Z
 ---
 I thought I heard the old man say
 
-*John Kanaka-naka too lie ay*
+_John Kanaka-naka too lie ay_
 
 Today, today is a holiday
 
-*John Kanaka-naka too lie ay*
+_John Kanaka-naka too lie ay_
 
-*Too lie ay, oh, to lie ay (hoo)*
+_Too lie ay, oh, to lie ay (hoo)_
 
-*John Kanaka-naka too lie ay*
+_John Kanaka-naka too lie ay_
 
-We\'ll work tomorrow but no work today
+We'll work tomorrow but no work today\
+We'll work tomorrow but no work today
 
-We\'ll work tomorrow but no work today
+We're bound away for 'Frisco Bay\
+We're bound away at the break of day
 
-We\'re bound away for \'Frisco Bay
+We're bound away 'round Cape Horn\
+We wish to Christ we'd never been born
 
-We\'re bound away at the break of day
-
-We\'re bound away \'round Cape Horn
-
-We wish to Christ we\'d never been born
-
-Oh haul, oh haul, oh haul away
-
+Oh haul, oh haul, oh haul away\
 Oh haul away and make your pay
 
-And we are Liverpool born and bred
-
-We\'re strong in the arm but we\'re thick in the head
+And we are Liverpool born and bred\
+We're strong in the arm but we're thick in the head
