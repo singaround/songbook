@@ -13,30 +13,21 @@ description: >-
   of providing for sailors’ and soldiers' dependants during the First World War,
   eventually culminating in her Family Allowances Act of 1945.
 ---
-Our anchor's aweigh and our sails are set,
+Our anchor's aweigh and our sails are set,\
+_Bold Riley-oh, bold Riley,_\
+And the folks we're leaving we'll never forget,\
+_Bold Riley-oh has gone away!_
 
-*Bold Riley-oh, bold Riley,*
+_Goodbye my sweetheart, goodbye my darling,_\
+_Bold Riley-oh, bold Riley,_\
+_Goodbye my sweetheart, goodbye my dear heart,_\
+_Bold Riley-oh has gone away._
 
-And the folks we're leaving we'll never forget,
-
-*Bold Riley-oh has gone away!*
-
-*Goodbye my sweethear, goodbye my darling,*
-
-*Bold Riley-oh, bold Riley,*
-
-*Goodbye my sweetheart, goodbye my dear heart,*
-
-*Bold Riley-oh has gone away.*
-
-Wake up Mary Ellen, don't look so glum,
-
+Wake up Mary Ellen, don't look so glum,\
 On Whitestocking day, you'll be drinking hot rum
 
-And oh it's raining all day long,
-
+And oh it's raining all day long,\
 And the Northerly Gale, it blows so strong,
 
-So we're outward bound for the Bengal Bay,
-
+So we're outward bound for the Bengal Bay,\
 Bend your backs me boys, it's a hell of a way.
