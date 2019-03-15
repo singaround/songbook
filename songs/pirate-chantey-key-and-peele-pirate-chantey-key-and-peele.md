@@ -4,7 +4,7 @@ title: Pirate Chantey (Key and Peele)
 published: false
 wordsBy: 'Keegan-Michael Key, Jordan Peele'
 tuneBy: 'Keegan-Michael Key, Jordan Peele'
-chorusLine: 'We say "yo, ho!" but we don''t say "hoe"'
+chorusLine: 'We say "yo, ho!" but we don''t say "ho"'
 songLine: I once met a lass so fine
 tags:
   - song
@@ -24,8 +24,8 @@ And we left, 'cause that's what gentlemen do.
 
 _A woman has a right to a drink or two_\
 _Without worrying about what you will do_\
-_We say "yo, ho!" but we don't say "hoe"_\
-_'Cause "hoe" is disrespectful, yo_
+_We say "yo, ho!" but we don't say "ho"_\
+_'Cause "ho" is disrespectful, yo_
 
 There once was a girl from Leeds\
 Who I heard was good on her knees\
@@ -39,8 +39,8 @@ And performed cunnilingus for an hour or so
 
 _Always take care of your lady fair_\
 _'Cause they deserve as much attention down there_\
-_We say "yo, ho!" but we don't say "hoe"_\
-_'Cause "hoe" is disrespectful, yo_
+_We say "yo, ho!" but we don't say "ho"_\
+_'Cause "ho" is disrespectful, yo_
 
 I once had a woman so fair\
 Whose womb contained my heir\
@@ -53,8 +53,8 @@ Because it's her body and therefore her choice
 
 _A woman has a right to a drink or two_\
 _Without worrying about what you will do_\
-_We say "yo, ho!" but we don't say "hoe"_\
-_'Cause "hoe" is disrespectful, yo_
+_We say "yo, ho!" but we don't say "ho"_\
+_'Cause "ho" is disrespectful, yo_
 
 No, we don't say "booty" 'less we're talking 'bout gold\
 We don't look at chests 'less it treasure holds\
@@ -74,5 +74,5 @@ Is I bet you assume the doctor was a man
 
 _Women are doctors too_\
 _And for a fraction of the dubloons_\
-_We say "yo, ho!" but we don't say "hoe"_\
-_'Cause "hoe" is disrespectful, yo_
+_We say "yo, ho!" but we don't say "ho"_\
+_'Cause "ho" is disrespectful, yo_
