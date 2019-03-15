@@ -1,6 +1,11 @@
 ---
 templateKey: song
 title: Lowlands
+wordsBy: Traditional
+tuneBy: Traditional
+chorusLine: 'Lowlands, lowlands away my John'
+tags:
+  - song
 date: 2019-03-07T08:05:12.000Z
 description: >-
   Here are two versions of lowlands. Version one has a female lover, version two
