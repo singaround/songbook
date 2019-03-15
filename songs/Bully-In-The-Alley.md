@@ -4,7 +4,7 @@ title: Bully In The Alley
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: 'So help me Bob, I’m bully in the alley'
-songLine: Sally is the girl that I loved dearly
+songLine: Sally is the girl that I love dearly
 tags:
   - song
 date: 2019-03-07T08:05:12.000Z
@@ -18,7 +18,7 @@ _Way, hey, bully in the alley_\
 _So help me Bob, I'm bully in the alley_\
 _Bully down in Shinbone Al_
 
-Sally is the girl that I loved dearly\
+Sally is the girl that I love dearly\
 _Way, hey, bully in the alley_\
 Sally is the girl that I spliced nearly\
 _Bully down in Shinbone Al_
@@ -49,7 +49,7 @@ She took my hand, took me to bed\
 We tossed and tumbled all night long-o\
 In the morning the cock did crow-o
 
-I left my Sal, I went a-sailing\
+I left my Sal, went a-sailing\
 Signed on a big ship, went a-whaling
 
 If ever I get back, she says we'll marry\
