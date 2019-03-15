@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title: Bully In The Alley
+title: Bully In the Alley
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: 'So help me Bob, I’m bully in the alley'
@@ -9,9 +9,10 @@ tags:
   - song
 date: 2019-03-07T08:05:12.000Z
 description: >-
-  The consensus is that 'bully' means 'drunk' and 'spliced' means 'married'.
-  We've added some new verses to change the relationship dynamic from
-  dilly-dallying and give Sally a bit more agency...
+  The general consensus is that 'bully' means 'drunk' and 'spliced' means
+  'married'. We've added some new verses to change the relationship dynamic from
+  dilly-dallying, and give Sally more of an active role...which she's used to
+  initiate a pre-voyage romp.
 ---
 _So help me Bob, I'm bully in the alley_\
 _Way, hey, bully in the alley_\
