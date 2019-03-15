@@ -1,11 +1,16 @@
 ---
 templateKey: song
 title: Go To Sea No More
+wordsBy: Traditional
+tuneBy: Traditional
 chorusLine: 'No more, no more, I’ll go to sea no more'
 songLine: 'When first I landed in Liverpool, I went upon a spree'
 tags:
   - song
 date: 2019-03-07T08:05:12.000Z
+description: >-
+  This is a sad forebitter about a sailor cheated by a dishonest prostitute and
+  boarding house master and condemned to return to sea.
 ---
 When first I landed in Liverpool, I went upon a spree\
 While money lasts I spent it fast, got drunk as drunk could be\
@@ -26,7 +31,7 @@ _When I awoke, it was no joke for my whole bloody gear was gone._
 As I was walking down the street I met big Rapper Brown.\
 I asked him if he would take me in, and he looked at me with a frown.\
 He said, “Last time you was paid off, with me you chalked up no score,\
-But I'll take your advance and I'll give youse a chance to go to sea once more.”.
+But I'll take your advance and I'll give youse a chance to go to sea once more.”
 
 _"Once more, once more! To go to sea once more._\
 _I'll take your advance and I'll give youse a chance to go to sea once more.”_
@@ -49,8 +54,8 @@ _Oh boys, you wish that you was dead or snug with the girls ashore._
 
 Come all you bold seafaring lads that listen to my song.\
 Now it's when you come off them long trips, I'll have you not go wrong.\
-Take my advice, drink no strong drink, ignore the whales and war,\
-Get married instead and spend all night in bed and go to sea no more.
+Take my advice, drink no strong drink,  but lay up your money in store,\
+Get married my boys and spend all night in bed and go to sea no more.
 
 _No more, no more! Don't go to sea no more._\
-_Get married instead and spend all night in bed and go to sea no more._
+_Get married my boys and spend all night in bed and go to sea no more._
