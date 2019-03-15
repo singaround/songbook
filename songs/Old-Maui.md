@@ -1,6 +1,14 @@
 ---
 templateKey: song
 title: Old Maui
+wordsBy: Traditional
+tuneBy: Traditional
+chorusLine: 'Rolling down to old Maui, me boys'
+songLine: It’s a damn tough life full of toil and strife
+tags:
+  - song
+  - whaling
+  - Maui
 date: 2019-03-07T08:05:12.000Z
 description: >-
   This is a song about the Kamchatka bowhead whale and Pacific sperm whale
@@ -9,69 +17,48 @@ description: >-
   Arctic, when they fished the bowhead grounds off Kamchatka and the Gulf on
   Anadyr. In November, they returned to fit out for sperm-whaling in the
   tropical and subtropical waters of the Southern Seas.
+
+
+  Some versions have unfortunate lyrics about 'native maids', which we have
+  avoided here.
 ---
 It's a damn tough life full of toil and strife
 We whalermen undergo
 And we don't give a damn when the day is done
-How hard the winds did blow
-
+How hard the winds did blow\
 'cause we're homeward bound from the Artic ground
 With a good ship, taut and free
 And we don't give a damn when we drink our rum
 With the girls of old Maui
 
-Rolling down to old Maui, me boys
+_Rolling down to old Maui, me boys_\
+_Rolling down to old Maui_\
+_We're homeward bound from the Artic ground_\
+_Rolling down to old Maui_
 
-Rolling down to old Maui
-
-We\'re homeward bound from the Artic ground
-
-Rolling down to old Maui
-
-Once more we sail with a northerly gale
-
-Towards our island home.
-
-Our mainmast sprung, our whaling done
-
-And we ain\'t got far to roam
-
-Six hellish months we passed away
-
-On the cold Kamchatka sea
-
-But now we\'re bound from the Artic ground
-
+Once more we sail with a northerly gale\
+Towards our island home.\
+Our mainmast sprung, our whaling done\
+And we ain't got far to roam\
+Six hellish months we passed away\
+On the cold Kamchatka sea\
+But now we're bound from the Arctic ground\
 Rolling down to old Maui.
 
-Once more we sail with a northerly gale
+Once more we sail with a northerly gale\
+Through the ice and wind and rain\
+Them coconut fronds, them tropical lands\
+We soon shall see again\
+Our stu'n's'l booms is carried away\
+What care we for that sound?\
+A living gale is after us\
+Thank God we're homeward bound
 
-Through the ice and wind and rain
-
-Them coconut fronds, them tropical lands
-
-We soon shall see again
-
-Our stu\'n\'s\'l booms is carried away
-
-What care we for that sound?
-
-A living gale is after us
-
-Thank god we\'re homeward bound
-
-How soft the breeze through the island trees
-
-Now the ice is far astern
-
-Them native maids, them tropical glades
-
-Is a-waiting our return
-
-Even now their big brown eyes look out
-
-Hoping some fine day to see
-
-Our baggy sails runnin\' \'fore the gales
-
-Rolling down to old Maui
+An ample share of toil and care\
+We whalemen undergo,\
+But when it’s over, what care we\
+How bitter the blast may blow?\
+We’re homeward bound\
+that joyful sound across the Arctic sea,\
+We’re homeward bound from the Arctic ground\
+rolling down to old Maui.
