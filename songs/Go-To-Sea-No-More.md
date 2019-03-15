@@ -1,6 +1,10 @@
 ---
 templateKey: song
 title: Go To Sea No More
+chorusLine: 'No more, no more, I’ll go to sea no more'
+songLine: 'When first I landed in Liverpool, I went upon a spree'
+tags:
+  - song
 date: 2019-03-07T08:05:12.000Z
 ---
 When first I landed in Liverpool, I went upon a spree\
