@@ -1,29 +1,56 @@
 ---
 templateKey: song
 title: Bully In The Alley
+wordsBy: Traditional
+tuneBy: Traditional
+chorusLine: 'So help me Bob, I’m bully in the alley'
+songLine: Sally is the girl that I loved dearly
+tags:
+  - song
 date: 2019-03-07T08:05:12.000Z
+description: >-
+  The consensus is that 'bully' means 'drunk' and 'spliced' means 'married'.
+  We've added some new verses to change the relationship dynamic from
+  dilly-dallying and give Sally a bit more agency...
 ---
-So Help Me Bob, I'm Bully In The Alley\
-Way, Hey, Bully In The Alley\
-So Help Me Bob, I'm Bully In The Alley\
-Bully Down In Shinbone Al
+_So help me Bob, I'm bully in the alley_\
+_Way, hey, bully in the alley_\
+_So help me Bob, I'm bully in the alley_\
+_Bully down in Shinbone Al_
 
-Sally Is A Girl That I Loved Dearly\
-Way, Hey, Bully In The Alley\
-Sally Is The Gal That I Spliced Nearly\
-Bully Down In Shinbone Al
+Sally is the girl that I loved dearly\
+_Way, hey, bully in the alley_\
+Sally is the girl that I spliced nearly\
+_Bully down in Shinbone Al_
 
-When I went out all on the gin-oh\
-My dearest Sal first took me in-oh\
-I bought her white, I bought her red-oh\
-She drank it all, left me for dead oh
+_So help me Bob, I'm bully in the alley_\
+_Way, hey, bully in the alley_\
+_So help me Bob, I'm bully in the alley_\
+_Bully down in Shinbone Al_
 
-For Seven Long Years I Courted Little Sally,\
-All She Did Was Dilly And Dally,\
-I Left My Sal, I Went A-Sailing\
-Signed On A Big Ship, I Went A-Whaling
 
-If Ever I Get Back, I'll Marry Little Sally,\
-Have Six Kids And Live In Shinbone Alley,\
-I Thought I Heard The Old Man Saying,\
-One More Pull And We're Belaying.
+\
+r\
+_Way, hey, bully in the alley_\
+__\
+r\
+_Bully down in Shinbone Al_
+
+_So help me Bob..._
+
+I went to tell my Sally dear\
+I hoped that she might shed a tear\
+\
+_So help me Bob..._\
+__\
+Sweet Sally only shook her head\
+She took my hand, took me to bed\
+\
+We tossed and tumbled all night long-o\
+In the morning the cock did crow-o
+
+I left my Sal, I went a-sailing\
+Signed on a big ship, went a-whaling
+
+If ever I get back, she says we'll marry\
+Have six kids and live in Shinbone Alley
