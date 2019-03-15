@@ -1,62 +1,49 @@
 ---
 templateKey: song
-title: One More Day  
-wordsBy:
-tuneBy:
-chorusLine:
-songLine:
+title: One More Day
+wordsBy: Traditional
+tuneBy: Traditional
+chorusLine: One more day!
+songLine: 'Have you heard the news, my Johnny'
 tags:
-description:
+  - song
 date: 2019-03-07T08:05:12.000Z
+description: Another shanty that usually needs some judicious verse-trimming.
 ---
-Have you heard the news, my Johnny
+Have you heard the news, my Johnny\
+_One more day!_\
+We're homeward bound tomorrow\
+_Only one more day!_
 
-One more day!
+Don't you hear the old man growlin'\
+Don't you hear the mate a howlin'
 
-We\'re homeward bound tomorrow
+Don't you hear the old man callin'\
+Don't you hear the pilot bawlin'
 
-Only one more day!
+Only one more day a-howlin'\
+Can't you hear the gals a-callin'
 
-Don\'t you hear the old man growlin\'
+Only one more day a-rollin'\
+Can't you hear the gulls a-callin'
 
-Don\'t you hear the mate a howlin\'
+Only one more day a-furlin'\
+Only one more day a-cursin'
 
-Don\'t you hear the old man callin\'
+Heave and sight the anchor, Johnny\
+For we're close 'board the port, Johnny
 
-Don\'t you hear the pilot bawlin\'
+Put on your long-tail blue, Johnny\
+For your payday's nearly due.
 
-Only one more day a-howlin\'
+We're homeward bound today, Johnny\
+We'll leave her without sorrow, Johnny
 
-Can\'t you hear the gals a-callin\'
+Pack your bags today, my Johnny\
+O, an' leave her where she lies, Johnny
 
-Only one more day a-rollin\'
-
-Can\'t you hear the gulls a-callin\'
-
-Only one more day a-furlin\'
-
-Only one more day a-cursin\'
-
-Heave and sight the anchor, Johnny
-
-For we\'re close \'board the port, Johnny
-
-Put on your long-tail blue, Johnny
-
-For your payday\'s nearly due.
-
-We\'re homeward bound today, Johnny
-
-We\'ll leave her without sorrow, Johnny
-
-Pack your bags today, my Johnny
-
-O, an\' leave her where she lies, Johnny
-
-No more gales or heavy weather
-
+No more gales or heavy weather\
 Only one more day together
 
-Only one more day, my Johnny,
-
+Only one more day, my Johnny,\
 O, rock and roll me over.
