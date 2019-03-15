@@ -1,42 +1,32 @@
 ---
 templateKey: song
-title: Bye-Bye My Roseanna  
-wordsBy:
-tuneBy:
-chorusLine:
-songLine:
+title: Bye-Bye my Roseanna
+wordsBy: Traditional
+tuneBy: Traditional
+chorusLine: 'Bye-bye, bye-bye, bye-bye, bye-bye'
+songLine: The boats are sailing round the bay
 tags:
-description:
+  - song
 date: 2019-03-07T08:05:12.000Z
 ---
-Roseanne, sweet Roseanne
+The boats are sailing round the bay,\
+_Bye-bye my Roseanna._\
+All loaded down with fishermen,\
+_I won't be home tomorrow._
 
-*Bye-bye, my Roseanna*
+> _Bye-bye, bye-bye, bye-bye, bye-bye_\
+> _Bye-bye, my Roseanna_\
+> _Bye-bye, bye-bye, bye-bye, bye-bye_\
+> _I won't be home tomorrow_
 
-Roseanne, my Roseanne
-
-*I won\'t be home tomorrow*
-
-> *Bye-bye, bye-bye, bye-bye, bye-bye*
->
-> *Bye-bye, my Roseanna*
->
-> *Bye-bye, bye-bye, bye-bye, bye-bye*
->
-> *I won\'t be home tomorrow*
-
-A dollar a day is a fisherman's pay
-
+A dollar a day is a fisherman's pay\
 It's easy come, easy go away
 
-We're leaving port at break of day
-
+We're leaving port at break of day\
 We're sailing out across the bay
 
-Our ship is a sailing around the bend
+Around the horn we must go,\
+The gales are strong and the winds do blow,
 
-It's loaded down with fishermen
-
-Roseanne, my Roseanne
-
+Roseanne, my Roseanne\
 I'm going away but not to stay
