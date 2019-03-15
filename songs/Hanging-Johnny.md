@@ -1,6 +1,11 @@
 ---
 templateKey: song
 title: Hanging Johnny
+wordsBy: Traditional
+tuneBy: Traditional
+songLine: They call me hanging Johnny
+tags:
+  - song
 date: 2019-03-07T08:05:12.000Z
 description: >-
   With a double pull, this shanty was probably used for the halyard or a long
