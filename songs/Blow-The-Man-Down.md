@@ -3,7 +3,7 @@ templateKey: song
 title: Blow The Man Down
 wordsBy: Traditional
 tuneBy: Traditional
-chorusLine: 'low the man down to me, blow the man down'
+chorusLine: 'Blow the man down to me, blow the man down'
 songLine: Come all you young fellows that follow the sea
 date: 2019-03-07T08:05:12.000Z
 description: >-
