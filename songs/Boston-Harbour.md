@@ -1,6 +1,12 @@
 ---
 templateKey: song
 title: Boston Harbour
+wordsBy: Traditional
+tuneBy: Traditional
+chorusLine: 'With a big bow wow, tow row row'
+songLine: From Boston harbour we set sail
+tags:
+  - song
 date: 2019-03-07T08:05:12.000Z
 ---
 From Boston harbour we set sail\
