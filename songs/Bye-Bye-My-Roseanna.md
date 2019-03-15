@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title: Bye-Bye my Roseanna
+title: Bye-bye my Roseanna
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: 'Bye-bye, bye-bye, bye-bye, bye-bye'
