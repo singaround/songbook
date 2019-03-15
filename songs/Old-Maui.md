@@ -1,13 +1,14 @@
 ---
 templateKey: song
-title: Old Maui  
-wordsBy:
-tuneBy:
-chorusLine:
-songLine:
-tags:
-description:
+title: Old Maui
 date: 2019-03-07T08:05:12.000Z
+description: >-
+  This is a song about the Kamchatka bowhead whale and Pacific sperm whale
+  fishing in the 1850s. The Pacific whalers used to meet on Maui or in nearby
+  Oahu twice a year. In March they fitted out for the summer season in the
+  Arctic, when they fished the bowhead grounds off Kamchatka and the Gulf on
+  Anadyr. In November, they returned to fit out for sperm-whaling in the
+  tropical and subtropical waters of the Southern Seas.
 ---
 It's a damn tough life full of toil and strife
 We whalermen undergo
