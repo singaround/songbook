@@ -1,76 +1,65 @@
 ---
 templateKey: song
-title: Mermaid  
-wordsBy:
-tuneBy:
-chorusLine:
-songLine:
+title: Mermaid
+wordsBy: Traditional
+tuneBy: Traditional
+chorusLine: Oh the ocean waves do roll
+songLine: It was a Friday morn when we set sail
 tags:
-description:
+  - song
 date: 2019-03-07T08:05:12.000Z
 ---
-It was a Friday morn when we set sail
-
-And we were not far from the land
-
-When our captain, he spied a fishy mermaid
-
+It was a Friday morn when we set sail\
+And we were not far from the land\
+When our captain, he spied a fishy mermaid\
 With a comb and a glass in her hand
 
-> *Oh the ocean waves do roll*
+> _Oh the ocean waves do roll_
 >
-> *And the stormy winds do blow*
+> _And the stormy winds do blow_
 >
-> *And we poor sailors are skipping at the top*
+> _And we poor sailors are skipping at the top_
 >
-> *While the landlubbers lie down below, below, below*
+> _While the landlubbers lie down below, below, below_
 >
-> *While the landlubbers lie down below*
+> _While the landlubbers lie down below_
 
-Up spoke the captain of our gallant ship
+Now the song she sang, she sang so sweet,\
+No answer at all could I say\
+Till our gallant ship she swung round about\
+Which made our poor hearts to ache
 
-And a brave old skipper was he
+Up spoke the captain of our gallant ship\
+And a brave old skipper was he\
+"This fishy mermaid has warned me of our doom\
+We shall sink to the bottom of the sea"
 
-\"This fishy mermaid has warned me of our doom
+Up spoke the first mate of our gallant ship\
+And a well-spoken man was he\
+"I have me a wife in Salem by the sea\
+And tonight she a widow will be"
 
-We shall sink to the bottom of the sea\"
+Up spoke the bosun of our gallant ship\
+And a brave young man was he\
+"Well I've got a sweetheart at St. John's by the sea\
+And tonight she be weepin' for me"
 
-Up spoke the first mate of our gallant ship
+Up spoke the cook of our gallant ship\
+And a greasy old butcher was he\
+"I care much more for my pots and my pans\
+Than I do for the bottom of the sea"
 
-And a well-spoken man was he
+Then up spoke the cabin boy, of our gallant ship\
+And a nasty little lad was he\
+"I'm not quite sure I can spell mermaid\
+But I'm going to the bottom of the sea"
 
-\"I have me a wife in Salem by the sea
+Then up stepped the helmsman of our ship\
+In his hand a lead and line\
+For to sound the seas so wide and so deep\
+No hard rock or sand could he find
 
-And tonight she a widow will be\"
-
-Up spoke the bosun of our gallant ship
-
-And a brave young man was he
-
-\"Well I\'ve got a sweetheart at St. John\'s by the sea
-
-And tonight she be weepin\' for me\"
-
-Up spoke the cook of our gallant ship
-
-And a greasy old butcher was he
-
-\"I care much more for my pots and my pans
-
-Than I do for the bottom of the sea\"
-
-Then up spoke the cabinboy, of our gallant ship
-
-And a nasty little lad was he
-
-\"I\'m not quite sure I can spell mermaid
-
-But I\'m going to the bottom of the sea\"
-
-Then three times around spun our gallant ship
-
-And three times around spun she
-
-Three times around spun our gallant ship
-
+Then three times around spun our gallant ship\
+And three times around spun she\
+Three times around spun our gallant ship\
 And she sank to the bottom of the sea
