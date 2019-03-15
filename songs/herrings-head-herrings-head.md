@@ -5,7 +5,7 @@ published: false
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: The herring is the king of the sea
-songLine: 'The herring is the king of the sea,'
+songLine: The herring is the king of the sea
 tags:
   - song
   - herring
