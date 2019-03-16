@@ -1,3 +1,4 @@
+
 :root {
 	--turkey: #FFF0EB;
 	--white: white;
@@ -34,21 +35,11 @@ code {
 
 a[href],
 a[href]:visited {
-	color: var(--blue);
+
 }
 
 a[href]:not(:hover) {
 	text-decoration: none;
-}
-
-header,
-main,
-footer {
-	padding: 1em;
-}
-
-main {
-	padding-bottom: 2em;
 }
 
 main :first-child,
@@ -78,6 +69,7 @@ ul {
 	list-style: none;
 }
 
+
 /* Header Logo (style as h2) */
 header > em {
 	display: block;
@@ -87,10 +79,11 @@ header > em {
 	font-style: normal;
 }
 
-/* Header Nav */
+/* Header Nav  */
 header nav ul :first-child {
 	margin-left: 0;
 }
+
 
 header nav li {
 	display: inline-block;
@@ -159,16 +152,6 @@ form label {
 }
 
 input,
-textarea,
-button {
-  width: 100%;
-  padding: 1em;
-  margin-bottom: 1em;
-	font-size: 1rem;
-	font-family: "Avenir", "Avenir Next", sans-serif;
-}
-
-input,
 textarea {
 	border: 1px solid black;
 }
@@ -185,3 +168,13 @@ button {
 		font-size: 1.1rem;
 	}
 }
+/* https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/ */
+.site {
+	display: flex;
+	min-height: calc(100vh - 3.5rem);
+	flex-direction: column;
+  }
+  
+  .site-content {
+	flex: 1;
+  }

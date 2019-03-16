@@ -1,7 +1,7 @@
 ---
 title: About us
 tags:
-  - nav
+  - navSecond
 navtitle: About
 section: about
 date: 2017-01-01

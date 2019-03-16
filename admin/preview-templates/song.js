@@ -27,7 +27,7 @@ const Song = createClass({
 
     return html`
       <main>
-        <article>
+        <article class="content">
           <h1>${entry.getIn(["data", "title"], null)}</h1>
           <p>
             <small>
@@ -35,7 +35,7 @@ const Song = createClass({
                 >${
                   format(
                     entry.getIn(["data", "date"], new Date()),
-                    "DD MMM, yyyy"
+                    "DD MMM, YYYY"
                   )
                 }</time
               >

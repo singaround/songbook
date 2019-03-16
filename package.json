@@ -24,12 +24,13 @@
   "devDependencies": {
     "@11ty/eleventy": "^0.7.1",
     "luxon": "^1.11.0",
-    "markdown-it": "^8.4.1",
-    "markdown-it-anchor": "^4.0.0"
+    "markdown-it": "^8.4.1"
   },
   "dependencies": {
+    "bulma": "^0.7.4",
     "clean-css": "^4.2.1",
     "html-minifier": "^3.5.21",
+    "materialize-css": "^1.0.0-rc.2",
     "uglify-es": "^3.3.9"
   }
 }

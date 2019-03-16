@@ -1,23 +1,23 @@
 <!doctype html>
-<html {% if section %} data-current="{{ section }}"{% endif %} lang="en">
+<html {% if section %} data-current="{{ section }}"{% endif %} lang="en" class="has-navbar-fixed-top">
 
 	{% include "components/head.njk" %}
 
-	<body>
-
+	<body class="site">
 		<header>
-			<em>
-				<a href="{{ '/' | url }}">{{ metadata.title }}</a>
-			</em>
 			{% include "components/nav.njk" %}
 		</header>
 
-		<main>
+		<main class="site-content">
+		<section class="section">
+   		<div class="container">
+		<div class="content">
 			{{ layoutContent | safe }}
+		</div>
+		</div>
+		</section>
 		</main>
-
 		{% include "components/footer.njk" %}
-
 	</body>
 
 </html>
