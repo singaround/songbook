@@ -1,21 +1,21 @@
 ---
 templateKey: song
-title: '*John Kanaka'
+title: John Kanaka
 tags:
   - song
 date: 2019-03-07T08:05:12.000Z
 ---
 I thought I heard the old man say
 
-_John Kanaka-naka too lie ay_
+_John, here comes the Bosun, too lie ay_
 
 Today, today is a holiday
 
-_John Kanaka-naka too lie ay_
+_John, here comes the Bosun, too lie ay_
 
 _Too lie ay, oh, to lie ay (hoo)_
 
-_John Kanaka-naka too lie ay_
+_John, here comes the Bosun, too lie ay_
 
 We'll work tomorrow but no work today\
 We'll work tomorrow but no work today
