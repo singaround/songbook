@@ -34,7 +34,7 @@ And now I'll walk to work in better weather
 All gone for beer and tobacco,\
 The men are all in power,\
 But we'll boot them in an hour,\
-And now we'll all have equal-share of better weather,\*\*\
+And now we'll a share of better weather,\*\*\
 2.
 \*\*Where is the patriarchy, the noggin nogging patriarchy,\
 All gone for beer and tobacco,\
