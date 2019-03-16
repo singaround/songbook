@@ -1,5 +1,5 @@
 {
   "layout": "layouts/song.njk",
   "permalink": "songs/{{ title | slug }}/index.html",
-  "tags": "song"
+  "tags": ["song"]
 }
