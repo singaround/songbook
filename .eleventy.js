@@ -51,6 +51,22 @@ module.exports = function(eleventyConfig) {
     });
   });
 
+    // Number songs in the 'songs' directory
+    eleventyConfig.addCollection("untaggedSongs", function (collection) {
+      songCollection = collection.getAllSorted().filter(function (item) {
+        return item.inputPath.match(/^\.\/songs\//) !== null;
+      }).filter(function (item) {
+        if (item.data.tags) {
+          return item.data.tags.includes("song") === false;
+        } else {
+          return true;
+        }
+      }).sort(function (a, b) {
+        return a.data.title.localeCompare(b.data.title)
+      });
+
+      return songCollection
+  });
   // Number songs in the 'songs' directory
   eleventyConfig.addCollection("numberedSongs", function (collection) {
     songCollection = collection.getAllSorted().filter(function (item) {
