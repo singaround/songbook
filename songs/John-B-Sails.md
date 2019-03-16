@@ -20,15 +20,10 @@ Got into a fight\
 Well, I feel so broke up and I want to go home
 
 > _Hoist up the John B's sails_
->
 > _See how the main sails set_
->
 > _Call for the captain ashore, let me go home_
->
 > _Let me go home_
->
 > _I want to go home_
->
 > _Well, I feel so broke up, I want to go home_
 
 First mate, he got drunk\
