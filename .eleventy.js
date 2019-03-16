@@ -105,6 +105,16 @@ module.exports = function(eleventyConfig) {
   };
   eleventyConfig.setLibrary("md", markdownIt(options));
 
+  const slugify = require("slugify");
+  eleventyConfig.addFilter("slug", (input) => {
+    const options = {
+      replacement: "-",
+      remove: /[&,+()$~%.'":*?<>{}]/g,
+      lower: true
+    };
+    return slugify(input, options);
+  });
+
   return {
     templateFormats: ["md", "njk", "html"],
 
