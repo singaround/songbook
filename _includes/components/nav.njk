@@ -3,49 +3,42 @@
     <a class="navbar-item" href="/">
       <img src="/static/img/auntie-shanty-logo.svg" height="60">
     </a>
-           <div class="navbar-item">
-        <div class="control">
-          <input id="songNumberBox" class="input" type="number" placeholder="1" style="width: 3em;">
-          <button class="button is-primary" onclick="window.location.href='/n/'+getElementById('songNumberBox').value">Jump to song #</button>
-          </div>
-        </div>
-    {%- for nav in collections.nav | sort(attribute="date") -%}
-      <a class="navbar-item" href="{{ nav.url | url }}"{% if nav.url == page.url %} data-current="current item"{% endif %}>
-      {{ nav.data.navtitle }}
-      </a>
-    {%- endfor -%} 
 
-      <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
-
-      <span aria-hidden="true"></span>
-      <span aria-hidden="true"></span>
-      <span aria-hidden="true"></span>
-
-    </a>
- 
-  </div>
-  </div>
-  <div id="navbarBasicExample" class="navbar-menu">
-    {%- for nav in collections.navSecond | sort(attribute="date") -%}
-
-      <a class="navbar-item" href="{{ nav.url | url }}"{% if nav.url == page.url %} data-current="current item"{% endif %}>
-      {{ nav.data.navtitle }}
-      </a>
-  
-  {%- endfor -%}
-        </div>
+    <div class="navbar-item">
+      <div class="control">
+        <input id="songNumberBox" class="input" type="number" placeholder="1" style="width: 3em;">
+        <button class="button is-primary" onclick="songJump()">Jump to song #</button>
       </div>
-       <div class="navbar-end">
-      <div class="navbar-item">
-                </div>
-
     </div>
 
+    {%- for nav in collections.nav | sort(attribute="date") -%}
+      <a class="navbar-item" href="{{ nav.url | url }}" {% if nav.url == page.url %} data-current="current item" {% endif %}>
+        {{ nav.data.navtitle }}
+      </a>
+    {%- endfor -%}
 
-  
-
+    <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
   </div>
+</div>
+<div id="navbarBasicExample" class="navbar-menu">
+  {%- for nav in collections.navSecond | sort(attribute="date") -%}
 
+    <a class="navbar-item" href="{{ nav.url | url }}" {% if nav.url == page.url %} data-current="current item" {% endif %}>
+      {{ nav.data.navtitle }}
+    </a>
 
+  {%- endfor -%}
+</div>
+</div>
+<div class="navbar-end">
+<div class="navbar-item"></div>
+
+</div>
+
+</div>
 
 </nav>

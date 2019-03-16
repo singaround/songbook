@@ -8,6 +8,20 @@ if (window.netlifyIdentity) {
   });
 }
 
+/* Used to jump to a song. Relies on a 'songNumberBox' which can't
+be good practice  TODO */
+
+function songJump() {
+  var songNumber = document.getElementById('songNumberBox').value;
+  while (isNaN(parseInt(songNumber))) {
+    songNumber = prompt('Please enter a song number');
+    if (songNumber == null) {
+      return;
+    }
+  }
+  window.location.href = '/n/' + songNumber;
+}
+
 document.addEventListener('DOMContentLoaded', () => {
 
   // Get all "navbar-burger" elements
