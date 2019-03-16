@@ -7,7 +7,8 @@ tuneBy: Traditional
 chorusLine: 'To me way, hey, hey, oh'
 songLine: In Frisco Bay there were three ships
 date: 2019-03-07T08:05:12.000Z
-tags: song
+tags:
+  - song
 ---
 In Frisco Bay there were three ships,\
 _To me way, hey, hey, oh._\
