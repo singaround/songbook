@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title: '*Liverpool Judies'
+title: Liverpool Judies
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: 'And it’s row, row bullies, row,'
@@ -8,6 +8,17 @@ songLine: When I was a youngster I sailed with the rest
 tags:
   - song
 date: 2019-03-07T08:05:12.000Z
+description: >-
+  This song was borderline. Although Auntie Shanty doesn't take an anti sex work
+  stance, we felt that "Liverpool judies have got us in tow" has the
+  connotations of male sailors being led on and disadvantaged, putting the
+  female sex workers on the back foot. Liverpool as a Victorian era seaport is
+  sometimes called the "Victorian England's capital of prostitution" and far
+  from empowerment, many women turned to sex work through the lack of education
+  and employment opportunities. They were vilified by the police and legislators
+  (concerned apparently with public health). Here is an interesting page about
+  some of these women!
+  https://waywardwomen.wordpress.com/category/life-stories/liverpool/
 ---
 When I was a youngster I sailed with the rest\
 On a Liverpool packet bound out for the West.\
