@@ -1,8 +1,10 @@
 ---
 templateKey: song
 title: '*All For Me Grog'
-chorusLine: ''
-songLine: 'And it''s all for me grog, me jolly, jolly grog'
+chorusLine: 'And it''s all for me grog, me jolly, jolly grog'
+songLine: 'Where are my boots, my nogging, nogging boots'
+tags:
+  - song
 date: 2019-03-07T08:05:12.000Z
 ---
 And it's all for me grog, me jolly, jolly grog\

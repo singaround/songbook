@@ -2,8 +2,10 @@
 templateKey: song
 title: Ben Backstay
 chorusLine: 'Singing chip cho, cherry cho'
-songLine: Ben Backstay was a boatswain
+songLine: 'Ben Backstay was a boatswain'
 date: 2019-03-07T08:05:12.000Z
+tags:
+  - song
 ---
 Ben Backstay was a boatswain,\
 A very jolly boy,\

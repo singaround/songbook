@@ -3,6 +3,8 @@ templateKey: song
 title: Black Ball Line
 songLine: In the Black Ball line I served my time
 date: 2019-03-07T08:05:12.000Z
+tags:
+  - song
 description: >-
   The Black Ball Line was the name of two rival fleets of transatlantic packet
   ships, one based in Liverpool and the other based in the New York. The

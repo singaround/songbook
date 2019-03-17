@@ -2,8 +2,10 @@
 templateKey: song
 title: Barrett's Privateers
 chorusLine: God damn them all!
-songLine: 'Oh, the year was 1778'
+songLine: "Oh, the year was 1778"
 date: 2019-03-07T08:05:12.000Z
+tags:
+  - song
 ---
 Oh, the year was 1778\
 _How I wish I was in Sherbrooke now_\

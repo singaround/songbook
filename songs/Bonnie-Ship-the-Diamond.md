@@ -6,6 +6,8 @@ tuneBy: Traditional
 chorusLine: For it's cheer up my lads
 songLine: 'The Diamond is a ship, my lads'
 date: 2019-03-07T08:05:12.000Z
+tags:
+  - song
 description: >-
   By the 1820s the relativity milder northern waters were fished clean, and
   whalemen had to search in more distant corners of the Arctic, including
