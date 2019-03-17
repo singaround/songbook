@@ -29,6 +29,13 @@ Well the front it got worn out\
 And the tyres are kicked about\
 And now I'll walk to work in better weather
 
+1.
+\*\*Where is equality, me noggin nogging 'quality,\
+All gone for beer and tobacco,\
+The men are all in power,\
+But we'll boot them in an hour,\
+And now we'll a share of better weather,\*\*\
+2.
 \*\*Where is the patriarchy, the noggin nogging patriarchy,\
 All gone for beer and tobacco,\
 The men are all worn out,\

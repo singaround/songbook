@@ -1,11 +1,10 @@
 ---
 title: About us
+date: 2017-01-01T00:00:00.000Z
+permalink: /about/index.html
+navtitle: About
 tags:
   - navSecond
-navtitle: About
-section: about
-date: 2017-01-01
-permalink: /about/index.html
 ---
 
 Auntie Shanty FAQs 
@@ -18,7 +17,7 @@ Welcome to Auntie Shanty! This is an open folk music session where all are welco
 ## How do you all know the words?
 ### We don’t! Grab a songbook or just join in. 
  
-We try to remember to share the name of the song with the whole group before we start singing to help people find the words and sing along. If someone forgets, just ask. There’s a crowdsourced Auntie Shanty songbook (see if there’s a spare copy to share) or you can view the website of songs here: XXX. If a song’s not in the book, have a google or copy someone who seems to know the chorus - it’s all about having a go and learning together. No-one will judge you for reading lyrics off your phone or forgetting them halfway through.
+We try to remember to share the name of the song with the whole group before we start singing to help people find the words and sing along. If someone forgets, just ask. There’s a crowdsourced Auntie Shanty songbook (see if there’s a spare copy to share) or you can view the website of songs here: https://www.auntieshanty.org. If a song’s not in the book, have a google or copy someone who seems to know the chorus - it’s all about having a go and learning together. No-one will judge you for reading lyrics off your phone or forgetting them halfway through.
 
 ## Are we meant to join in the verses too?
 ### Maybe!
