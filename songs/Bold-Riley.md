@@ -2,8 +2,8 @@
 templateKey: song
 title: Bold Riley
 date: 2019-03-07T08:05:12.000Z
-chorusLine: 'Goodbye my sweetheart, goodbye my darling'
-songLine: 'Our anchor's aweigh and our sails are set'
+chorusLine: "Goodbye my sweetheart, goodbye my darling"
+songLine: "Our anchor's aweigh and our sails are set"
 tags:
   - song
 description: >-
