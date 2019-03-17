@@ -1,17 +1,25 @@
 {% for entry in indexlist %}
-            <p>
-            {{ entry.data[indexItem] }} - 
-            <a href="{{ entry.url | url }}">
-                {% if entry.data.title %}
-                    {{ entry.data.title }}
-                {% else %}
-                    Untitled
-                {% endif %} </a>
-                ...
-            {% if entry.data.songNumber %}
-            <a href="{{ entry.url | url }}">{{ entry.data.songNumber }}</a>
-        {% endif %}
-            </a>
-            </p>
-{% endfor %}
+    <!-- Main container -->
+    <div class="columns is-mobile">
+        <!-- Left side -->
+        <div class="column">
+                <p>
+                    {{ entry.data[indexItem] }}
+                    -
+                    <a href="{{ entry.url | url }}">
+                        {% if entry.data.title %}
+                            {{ entry.data.title }}
+                        {% else %}
+                            Untitled
+                        {% endif %}
+                    </a>
+                    </p>
+                </div>
+            <div class="column is-one-fifth is-pulled-right">
+                {% if entry.data.songNumber %}
+                <p class="has-text-right">...<a href="{{ entry.url | url }}">{{ entry.data.songNumber }}</a></p>
+                {% endif %}
+            </div>
 
+ </div>
+    {% endfor %}
