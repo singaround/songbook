@@ -8,12 +8,32 @@ templateEngineOverride: njk,md
   <h1>{{ songNumber}} - {{ title }}</h1>
   <p>
     <small>
-     words by {{ wordsBy }}, music by {{ musicby }}
-    </small>
+{% if wordsBy %}
+words by {{ wordsBy }}<br />
+{% endif %}
+{% if musicby %}
+music by {{ musicby }}
+{% endif %}
+  </small>
   </p>
   <p>
-  {{ description  }}
+{% if description %}
+<div class="message is-info">
+<label for="show-hide">
+  <div class="message-header">
+  Background
+  <div class="checkbox-hidable" aria-label="show/hide">tap to show/hide</div>
+  </div>
+  </label>
+  <input class="checkboxhack" type="checkbox" id="show-hide" checked>
+  <div class="message-body checkbox-hidable">
+
+{{ description  }}
+
+  </div>
+</div>
   </p>
+{% endif %}
 
   {{ layoutContent | safe }}
 

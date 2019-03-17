@@ -178,3 +178,9 @@ button {
   .site-content {
 	flex: 1;
   }
+  input:not(:checked) ~ .checkbox-hidable {
+	display: none;
+  }
+  .checkboxhack {
+	display: none;
+  }
