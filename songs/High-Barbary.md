@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: High Barbary
-wordsBy: Charles Dibdin
+wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: 'Blow high, blow low and so sail we'
 songLine: There were two lofty ships from old England came
