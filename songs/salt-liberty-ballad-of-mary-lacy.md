@@ -1,6 +1,7 @@
 ---
 templateKey: song
 title: Salt Liberty - The Ballad of Mary Lacy
+published: true
 wordsBy: Rosie Sharkey
 tuneBy: Rosie Sharkey
 chorusLine: But I longed for the sea
