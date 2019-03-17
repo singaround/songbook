@@ -1,11 +1,13 @@
 ---
 templateKey: song
 title: Bold Riley
-date: 2019-03-07T08:05:12.000Z
-chorusLine: "Goodbye my sweetheart, goodbye my darling"
-songLine: "Our anchor's aweigh and our sails are set"
+wordsBy: Traditional
+tuneBy: Traditional
+chorusLine: 'Goodbye my sweetheart, goodbye my darling'
+songLine: Our anchor's aweigh and our sails are set
 tags:
   - song
+date: 2019-03-07T08:05:12.000Z
 description: >-
   In 19th-century Liverpool, it was fashionable for wealthier women to wear
   white stockings. Each month on 'white stocking day', women went to the
