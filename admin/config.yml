@@ -37,7 +37,7 @@ collections:
           default: song,
         }
       - { label: Title, name: title, widget: string }
-      - { label: Published, name: published, widget: boolean, default: false, required: false}
+      - { label: Visible, name: published, widget: boolean, default: false, required: false}
       - { label: Words by, name: wordsBy, widget: string, required: false }
       - { label: Tune by, name: tuneBy, widget: string, required: false }
       - { label: Chorus first line, name: chorusLine, widget: string, required: false }
