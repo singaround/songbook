@@ -61,4 +61,5 @@ collections:
       - { label: "Permalink", name: "permalink", widget: "string" }
       - { label: "Navigation Title", name: "navtitle", widget: "string" }
       - { label: "Tags", name: "tags", widget: "hidden", default: "nav" }
+      - { label: "Layout", name: "layout", widget: "string", default: "layouts/page.njk" }
       - { label: "Body", name: "body", widget: "markdown" }
