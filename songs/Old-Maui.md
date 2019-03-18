@@ -1,6 +1,7 @@
 ---
 templateKey: song
 title: Old Maui
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: 'Rolling down to old Maui, me boys'
