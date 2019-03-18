@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Row me bully boys row
-published: false
+published: true
 wordsBy: Alan Doyle
 tuneBy: Alan Doyle
 chorusLine: And it's row me bully boys...
@@ -12,21 +12,17 @@ tags:
 date: 2019-03-11T19:53:57.972Z
 ---
 _And it's row me bully boys, we're in a hurry boys, we got a long way to go_
-
 _And we'll sing and we'll dance and bid farewell to France_ 
-
 _And it's row me bully boys row_ 
-
 
 
 I'll sing you a song, it's a song of the sea 
 
-	Row me bully boys row 
+_Row me bully boys row_
 
 I'll sing you a song if you'll sing it with me 
 
-	And it's row me bully boys row 
-
+_And it's row me bully boys row_
 
 
 _And it's row me bully boys..._
