@@ -1,6 +1,7 @@
 ---
 templateKey: song
 title: Go To Sea No More
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: 'No more, no more, I’ll go to sea no more'
@@ -54,7 +55,7 @@ _Oh boys, you wish that you was dead or snug with the girls ashore._
 
 Come all you bold seafaring lads that listen to my song.\
 Now it's when you come off them long trips, I'll have you not go wrong.\
-Take my advice, drink no strong drink,  but lay up your money in store,\
+Take my advice, drink no strong drink, but lay up your money in store,\
 Get married my boys and spend all night in bed and go to sea no more.
 
 _No more, no more! Don't go to sea no more._\
