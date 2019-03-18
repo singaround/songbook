@@ -1,6 +1,7 @@
 ---
 templateKey: song
 title: Jutland
+published: true
 wordsBy: Les Sullivan
 tuneBy: Les Sullivan
 songLine: Where are you goin’ my Billy-O?
