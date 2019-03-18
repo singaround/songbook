@@ -1,8 +1,13 @@
 ---
 templateKey: song
 title: Leave her Johnny
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
+chorusLine: 'Leave her, Johnny, leave her'
+songLine: I thought I heard the Old Man say
+tags:
+  - song
 date: 2019-03-07T08:05:12.000Z
 description: >-
   This shanty could be used at the pumps or the capstan, but had a more famous
@@ -22,7 +27,6 @@ description: >-
   favourites. Or better still, write some yourself about whatever's grinding
   your gears - the patriarchy, the government, rival pubs, viola players etc.
 ---
-\
 I thought I heard the Old Man say\
 _Leave her, Johnny, leave her_\
 You can go ashore and take your pay\
