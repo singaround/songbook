@@ -1,13 +1,14 @@
 ---
 templateKey: song
 title: Blow The Man Down
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: 'Blow the man down to me, blow the man down'
 songLine: Come all you young fellows that follow the sea
-date: 2019-03-07T08:05:12.000Z
 tags:
   - song
+date: 2019-03-07T08:05:12.000Z
 description: >-
   The Black Ball Line was the name of two fleets of transatlantic packet ships,
   one based in Liverpool and the other in New York. 'Kicking Jack Williams' was
