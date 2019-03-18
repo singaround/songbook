@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Paddy lay back
-published: false
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: 'Paddy lay back, take in your slack'
