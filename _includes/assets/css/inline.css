@@ -23,6 +23,10 @@ body {
 	background-color: var(--white);
 }
 
+.navbar-logo {
+	width: 23px;
+}
+
 /* Contact Form */
 form {
   display: grid;
