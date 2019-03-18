@@ -1,6 +1,7 @@
 ---
 templateKey: song
 title: Last Shanty
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: 'Don’t haul on the rope, don’t climb up the mast'
