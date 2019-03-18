@@ -1,13 +1,17 @@
 ---
 templateKey: song
 title: What shall we do with the Patriarchy?
-published: false
+published: true
 tuneBy: Traditional
 chorusLine: Hooray and up she rises
 songLine: What shall we do with the Patriarchy?
 tags:
   - song
 date: 2019-03-13T22:59:25.352Z
+description: >-
+  There are loads of verses for this one - you might not want to sing **all** of
+  them, so when it gets to the end just pick a few if you don't feel like
+  singing them all.
 ---
 What shall we do with the Patriarchy?\
 What shall we do with the Patriarchy?\
