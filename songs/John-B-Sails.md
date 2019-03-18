@@ -1,6 +1,7 @@
 ---
 templateKey: song
 title: The Sloop John B
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: Hoist up the John B’s sails
@@ -10,7 +11,7 @@ tags:
 date: 2019-03-07T08:05:12.000Z
 description: >-
   A shanty from the Bahamas first published in 1916 and later made famous by the
-  Beach Boys. It is sung as a club anthem by FC United of Manchester.
+  Beach Boys. It is sung as a club anthem by Manchester United.
 ---
 We come on the sloop John B\
 My Grandfather and me\
