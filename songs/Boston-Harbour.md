@@ -1,6 +1,7 @@
 ---
 templateKey: song
 title: Boston Harbour
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: 'With a big bow wow, tow row row'
