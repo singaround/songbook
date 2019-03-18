@@ -1,8 +1,10 @@
 ---
 templateKey: song
 title: Hanging Johnny
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
+chorusLine: 'Away, boys, away!'
 songLine: They call me hanging Johnny
 tags:
   - song
