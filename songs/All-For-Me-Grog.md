@@ -36,7 +36,7 @@ And now I'll walk to work in better weather
 All gone for beer and tobacco,\
 The men are all in power,\
 But we'll boot them in an hour,\
-And now we'll a share of better weather,\*\*\
+And now we'll have a share of better weather,\*\*\
 2.
 \*\*Where is the patriarchy, the noggin nogging patriarchy,\
 All gone for beer and tobacco,\
@@ -44,8 +44,8 @@ The men are all worn out,\
 Their ideas have been kicked out,\
 And now we'll all live in better weather,\*\*\
 \
-Well He's Sick In The Head And He Hasn't Been To Bed\
-Since First He Came Ashore With His Plunder\
-He's Seen Centipedes And Snakes\
-Till His Head Is Full Of Aches\
-And We Hope To Take A Path To Way Up Yonder
+Well he's sick In the head and he hasn't been to bed\
+Since first he came ashore with his plunder\
+He's seen centipedes and snakes\
+Till his head is full of aches\
+And we hope to take a path to way up yonder
