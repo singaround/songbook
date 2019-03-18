@@ -2,6 +2,8 @@
 templateKey: song
 title: Barrett's Privateers
 published: true
+wordsBy: Stan Rogers
+tuneBy: Stan Rogers
 chorusLine: God damn them all!
 songLine: 'Oh, the year was 1778'
 tags:
