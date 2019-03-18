@@ -1,9 +1,10 @@
 ---
 templateKey: song
 title: Pleasant and Delightful
-published: false
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
+chorusLine: And the larks they sang melodious
 songLine: It was pleasant and delightful on a midsummer’s morn
 tags:
   - song
