@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Run the Riggin' Again
-published: false
+published: true
 chorusLine: 'The music so grand, the music so grand'
 songLine: When I was a fair maid about seventeen
 tags:
