@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Pirate Chantey (Key and Peele)
-published: false
+published: true
 wordsBy: 'Keegan-Michael Key, Jordan Peele'
 tuneBy: 'Keegan-Michael Key, Jordan Peele'
 chorusLine: 'We say "yo, ho!" but we don''t say "ho"'
