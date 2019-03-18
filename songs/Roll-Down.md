@@ -1,8 +1,10 @@
 ---
 templateKey: song
 title: Sweet Ladies of Plymouth
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
+chorusLine: Ro-o-o-oll down!
 songLine: 'Sweet ladies of Plymouth, we’re saying goodbye'
 tags:
   - song
