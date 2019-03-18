@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Greenland Whale Fisheries
-published: false
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
 songLine: It was eighteen-hundred and forty-four
@@ -20,7 +20,7 @@ Our good ship she did anchor weigh
 
 And for Greenland bore away, brave boys,
 
-And for Greenland bore away.
+>And for Greenland bore away.
 
 
 
@@ -32,7 +32,7 @@ There's a whale, there's a whale, there's a whale! he cried,
 
 And she blows at every span, brave boys,
 
-And she blows at every span!
+>And she blows at every span!
 
 
 
@@ -44,7 +44,7 @@ Overhaul, overhaul, let your davit tackles fall!
 
 And you put your boats to the sea, brave boys,
 
-And you put your boats to the sea!
+>And you put your boats to the sea!
 
 
 
@@ -56,7 +56,7 @@ And resolved was each sailor bold,
 
 To steer where the whalefish blew, brave boys,
 
-To steer where the whalefish blew.
+>To steer where the whalefish blew.
 
 
 
@@ -68,7 +68,7 @@ Our boat capsized and we lost five men
 
 And we did not catch that whale, brave boys,
 
-And we did not catch that whale.
+>And we did not catch that whale.
 
 
 
@@ -80,7 +80,7 @@ But, the loosing of that bloody sperm whale
 
 It grieved him ten times more, brave boys,
 
-It grieved him ten times more!
+>It grieved him ten times more!
 
 
 
@@ -92,7 +92,7 @@ There's ice and snow and the whale-fishies blow
 
 And the land never was green, brave boys,
 
-And the land never was green
+>And the land never was green
 
 
 
@@ -104,4 +104,4 @@ To stow below our running gear
 
 And from Greenland bear away, brave boys,
 
-From Greenland bear away.
+>From Greenland bear away.
