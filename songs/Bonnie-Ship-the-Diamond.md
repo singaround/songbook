@@ -1,13 +1,14 @@
 ---
 templateKey: song
 title: The Bonnie Ship the Diamond
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: For it's cheer up my lads
 songLine: 'The Diamond is a ship, my lads'
-date: 2019-03-07T08:05:12.000Z
 tags:
   - song
+date: 2019-03-07T08:05:12.000Z
 description: >-
   By the 1820s the relativity milder northern waters were fished clean, and
   whalemen had to search in more distant corners of the Arctic, including
