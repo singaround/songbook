@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Let the Bulgine Run
-published: false
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: 'Timme Hey, Rig-a-jig, and a jaunting run!'
@@ -18,21 +18,21 @@ description: >-
   oldest street.
 ---
 Oh, the smartest packet you can find,\
-_Ah Hey! Ah Ho! Are you most done?_\
+Ah Hey! Ah Ho! Are you most done?\
 Is the Old Wild Cat of the Swallowtail Line!\
-_Clear away the track, and let the bulgine run!_
+Clear away the track, and let the bulgine run!
 
-_Timme Hey, Rig-a-jig, and a jaunting run!_\
-_Ah Hey! Ah Ho! Are you most done?_\
-_With Liza Lee all on my knee,_\
-_Clear away the track, and let the bulgine run!_
+>Timme Hey, Rig-a-jig, and a jaunting run!\
+>Ah Hey! Ah Ho! Are you most done?\
+>With Liza Lee all on my knee,\
+>Clear away the track, and let the bulgine run!
 
 Oh! the Old Wildcat of the Swallowtail Line,\
-_Ah Hey! Ah Ho! Are you most done?_\
+Ah Hey! Ah Ho! Are you most done?\
 She's never a day behind her time!\
-_Clear away the track, and let the bulgine run!_
+Clear away the track, and let the bulgine run!
 
-_Timme Hey, Rig-a-jig, and a jaunting run..._
+>Timme Hey, Rig-a-jig, and a jaunting run...
 
 Oh, we're outward bound for New York Town,\
 Them Bowery gals we'll waltz around.
