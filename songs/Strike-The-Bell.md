@@ -1,6 +1,7 @@
 ---
 templateKey: song
 title: Strike The Bell
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: 'Strike the bell, Second Mate'
