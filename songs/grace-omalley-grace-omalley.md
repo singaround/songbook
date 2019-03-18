@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Grace O'Malley
-published: false
+published: true
 wordsBy: 'Cathy Ryan, John Doyle'
 tuneBy: 'Cathie Ryan, John Doyle'
 songLine: Now in sailor’s clothes Granuaile did go
