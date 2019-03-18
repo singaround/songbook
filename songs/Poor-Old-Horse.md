@@ -2,6 +2,8 @@
 templateKey: song
 title: Poor Old Horse
 published: true
+wordsBy: Traditional
+tuneBy: Traditional
 chorusLine: Oh poor old man
 songLine: 'They say, old man, your horse will die'
 tags:
