@@ -1,6 +1,7 @@
 ---
 templateKey: song
 title: Towrope Girls
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: 'Goodbye Serafina, Rosita and Luz'
@@ -41,5 +42,5 @@ For the girls have got a hold of our tow rope today
 
 At last we're in harbour the rags are all furled\
 The girl's are all waiting, we're on top of the world\
-That'll do cries the mate. now it's fourteen month's pay\
+That'll do cries the mate. Now it's fourteen month's pay\
 And the girls have got a hold of our tow rope today.
