@@ -75,7 +75,7 @@ Folk music’s a living tradition and we want to share the joy of shouty pub sin
 
 ### The songbook!
 
-Don’t panic! We’ve created a songbook together featuring lots of songs which we think are good to go - sometimes thanks to some rewrites or missing out the occasional dodgy verse. We can’t promise that nothing dubious has slipped through (we’re all still learning too!), but the songbook’s a great place to start. Grab a paper copy or find it online here: [www.auntieshanty.org](www.auntieshanty.org). 
+Don’t panic! We’ve created a songbook together featuring lots of songs which we think are good to go - sometimes thanks to some rewrites or missing out the occasional dodgy verse. We can’t promise that nothing dubious has slipped through (we’re all still learning too!), but the songbook’s a great place to start. Grab a paper copy or find it online here: [www.auntieshanty.org](https://www.auntieshanty.org). 
 
 ## My favourite song’s not in the book - can I sing it?
 
@@ -113,7 +113,7 @@ So instead of solely focusing on discrimination based on gender, (and therefore 
 
 ## How do I find out more?
 
-Join the Auntie Shanty Oxford facebook group, have a look at the website at [www.auntieshanty.org](www.auntieshanty.org), or check Daily Info for upcoming dates.
+Join the Auntie Shanty Oxford facebook group, have a look at the website at [www.auntieshanty.org](https://www.auntieshanty.org), or check Daily Info for upcoming dates.
 
 ## When’s the next session?
 
