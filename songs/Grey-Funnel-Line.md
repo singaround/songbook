@@ -1,6 +1,7 @@
 ---
 templateKey: song
 title: Grey Funnel Line
+published: true
 wordsBy: Cyril Tawney
 tuneBy: Cyril Tawney
 chorusLine: And it's one more day on the Grey Funnel Line
@@ -9,14 +10,14 @@ tags:
   - song
 date: 2019-03-07T08:05:12.000Z
 description: >-
-  _Written by Cyril Tawney, this melancholy shanty reflects on his time in the Navy_:
-  _'This was the last song I wrote before I left the Royal Navy in
-  1959. 'The Grey Funnel Line' is the sailors' nickname for the Royal Navy-just
-  as if it were another mercantile line. It's a straightforward song about a
-  sailor leaving home and the loved one. He's extremely fed up with the Senior
-  Service and he'd rather be outside, but he has to go away yet again. On
-  occasions like this I think the close of the first day out, as the sun is
-  setting, is the time when we're most vulnerable to nostalgia.'_
+  _Written by Cyril Tawney, this melancholy shanty reflects on his time in the
+  Navy_: _'This was the last song I wrote before I left the Royal Navy in 1959.
+  'The Grey Funnel Line' is the sailors' nickname for the Royal Navy-just as if
+  it were another mercantile line. It's a straightforward song about a sailor
+  leaving home and the loved one. He's extremely fed up with the Senior Service
+  and he'd rather be outside, but he has to go away yet again. On occasions like
+  this I think the close of the first day out, as the sun is setting, is the
+  time when we're most vulnerable to nostalgia.'_
 ---
 Don't mind the rain or the rolling sea\
 The weary night never worries me\
