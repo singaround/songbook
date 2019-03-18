@@ -1,6 +1,7 @@
 ---
 templateKey: song
 title: Cape Cod Girls
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
 songLine: Cape Cod girls ain't got no combs
