@@ -15,12 +15,9 @@ description: >-
   Eastern North Atlantic, and taking slaves in coastal raids. This song
   celebrates a victory of two English shops over one of the Barbary pirates.
 ---
-There were two lofty ships from old England came
-
-_Blow high, blow low and so sail we_
-
-One was the Prince of Luther, the other Prince of Wales
-
+There were two lofty ships from old England came\
+_Blow high, blow low and so sail we_\
+One was the Prince of Luther, the other Prince of Wales\
 _All a-cruisin' down the coast of High Barbary_ 
 
 Aloft there, aloft there our jolly bosun cried\
