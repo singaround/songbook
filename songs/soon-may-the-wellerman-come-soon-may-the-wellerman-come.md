@@ -13,10 +13,11 @@ description: >-
   This is a New Zealand shore whaler's song, made by those who went to live on
   the archipelagos to catch whales from small boats. The whalers got their stake
   from agents of big companies like Weller Bros, of Sydney, Australia. The
-  “Wellerman” referred to is the boat/skipper bringing supplies to the stations,
-  and taking away the oil accumulated since the last visit. Shore whalers were
-  paid in staples, not money, so many of them never made enough to return home
-  and ended up farming or fishing on the little islands forever.
+  “Wellerman” is the company boat/skipper bringing supplies to the stations, and
+  taking away the oil accumulated since the last visit. Shore whalers were paid
+  in slops (ready made clothing), spirits and tobacco, not money. Many of them
+  never made enough to return home and ended up farming or fishing on the little
+  islands forever.
 ---
 There was a ship that put to sea, \
 The name of the ship was the Billy of Tea \
