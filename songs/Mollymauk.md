@@ -1,8 +1,10 @@
 ---
 templateKey: song
 title: Mollymauk
+published: true
 wordsBy: Bob Watson
 tuneBy: Bob Watson
+chorusLine: 'Won’t you ride the wind and go, white seabird'
 songLine: Oh the southern ocean is a lonely place
 tags:
   - song
@@ -53,11 +55,10 @@ _Ride the wind and go, Mollymauk_\
 _Down upon the southern ocean sailing_\
 _Down below Cape Horn_\
 __\
-When I gets too weary for to sail no more\
-Let my bones sink better far away from shore\
+_When I gets too weary for to sail no more_\
+_Let my bones sink better far away from shore_\
 _Down upon the southern ocean sailing_\
-_Down below Cape Horn_
-
+_Down below Cape Horn_\
 You can cast me loose and leave me driftin' free\
 And I'll keep that big bird company\
 _Down upon the southern ocean sailing_\
