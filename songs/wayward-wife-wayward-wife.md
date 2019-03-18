@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Wayward Wife
-published: false
+published: true
 wordsBy: Janie Meneely
 tuneBy: Janie Meneely
 songLine: As my mother’s only daughter
