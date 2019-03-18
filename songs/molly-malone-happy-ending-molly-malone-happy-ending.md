@@ -1,9 +1,10 @@
 ---
 templateKey: song
 title: Molly Malone (happy ending)
-published: false
+published: true
 wordsBy: Traditional/Rosie Sharkey
 tuneBy: Traditional
+chorusLine: 'Alive alive-o, alive alive-o, Crying cockles and mussels alive alive-o'
 songLine: In Dublin’s fair city
 tags:
   - song
