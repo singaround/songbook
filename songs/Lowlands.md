@@ -1,6 +1,7 @@
 ---
 templateKey: song
 title: Lowlands
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: 'Lowlands, lowlands away my John'
