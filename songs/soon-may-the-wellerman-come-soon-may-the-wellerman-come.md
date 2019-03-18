@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Soon may the Wellerman come
-published: false
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: Soon may the Wellerman come
@@ -34,20 +34,28 @@ When down on her a right whale bore. \
 The captain called all hands and swore \
 He'd take that whale in tow. 
 
+_Soon may the Wellerman come..._
+
 Before the boat had hit the water \
 The whale's tail came up and caught her. \
 All hands to the side, harpooned and fought her \
 When she dived down below. 
+
+_Soon may the Wellerman come..._
 
 No line was cut, no whale was freed; \
 The Captain's mind was not of greed, \
 But he belonged to the whaleman's creed; \
 She took the ship in tow. 
 
+_Soon may the Wellerman come..._
+
 For forty days, or even more, \
 The line went slack, then tight once more. \
 All boats were lost (there were only four) \
 But still the whale did go. 
+
+_Soon may the Wellerman come..._
 
 As far as I've heard, the fight's still on; \
 The line's not cut and the whale's not gone. \
