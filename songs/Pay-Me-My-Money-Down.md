@@ -1,6 +1,7 @@
 ---
 templateKey: song
 title: Pay Me My Money Down
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: 'Pay me, Oh pay me'
