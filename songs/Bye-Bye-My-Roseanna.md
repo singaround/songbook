@@ -1,6 +1,7 @@
 ---
 templateKey: song
 title: Bye-bye my Roseanna
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: 'Bye-bye, bye-bye, bye-bye, bye-bye'
@@ -25,8 +26,8 @@ It's easy come, easy go away
 We're leaving port at break of day\
 We're sailing out across the bay
 
-Around the horn we must go,\
-The gales are strong and the winds do blow,
+Around the horn we must go\
+The gales are strong and the winds do blow
 
 Roseanne, my Roseanne\
 I'm going away but not to stay
