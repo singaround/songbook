@@ -1,6 +1,7 @@
 ---
 templateKey: song
 title: High Barbary
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: 'Blow high, blow low and so sail we'
