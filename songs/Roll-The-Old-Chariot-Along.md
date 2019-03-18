@@ -1,12 +1,7 @@
 ---
 templateKey: song
-title: Roll The Old Chariot Along  
-wordsBy:
-tuneBy:
-chorusLine:
-songLine:
-tags:
-description:
+title: Roll The Old Chariot Along/Nelson's Blood
+published: false
 date: 2019-03-07T08:05:12.000Z
 ---
 Well a drop of Nelson's blood wouldn\'t do us any harm
