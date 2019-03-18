@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title: '*John Kanaka'
+title: John Kanaka
 published: true
 wordsBy: Traditional
 tuneBy: Traditional
@@ -8,6 +8,7 @@ chorusLine: ''
 songLine: I thought I heard the old man say
 tags:
   - song
+  - problematic
 date: 2019-03-07T08:05:12.000Z
 description: >-
   We love this song and it is an absolute favourite on all our nights!
