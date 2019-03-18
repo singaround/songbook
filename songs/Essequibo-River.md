@@ -1,6 +1,7 @@
 ---
 templateKey: song
 title: Essequibo River
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: 'Buddy ta-na-na, we are somebody, oh'
