@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title: John Kanaka
+title: '*John Kanaka'
 tags:
   - song
 date: 2019-03-07T08:05:12.000Z
