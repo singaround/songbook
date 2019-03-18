@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: The Mariner's Dream
-published: false
+published: true
 wordsBy: Rosie Sharkey
 tuneBy: Traditional
 chorusLine: 'My sailor boy, I wish you sweet sleep'
