@@ -1,6 +1,7 @@
 ---
 templateKey: song
 title: Bully In the Alley
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: 'So help me Bob, I’m bully in the alley'
@@ -29,21 +30,11 @@ _Way, hey, bully in the alley_\
 _So help me Bob, I'm bully in the alley_\
 _Bully down in Shinbone Al_
 
-
-\
-r\
-_Way, hey, bully in the alley_\
-__\
-r\
-_Bully down in Shinbone Al_
-
-_So help me Bob..._
-
 I went to tell my Sally dear\
 I hoped that she might shed a tear\
 \
 _So help me Bob..._\
-__\
+\
 Sweet Sally only shook her head\
 She took my hand, took me to bed\
 \
