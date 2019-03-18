@@ -1,6 +1,7 @@
 ---
 templateKey: song
 title: One More Day
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: One more day!
