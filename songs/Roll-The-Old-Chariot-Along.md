@@ -1,13 +1,13 @@
 ---
 templateKey: song
 title: Roll The Old Chariot Along (Nelson's Blood)
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
-chorusLine: "And we'll roll the old chariot along"
-songLine: "A drop of Nelson's blood wouldn't do us any harm"
+chorusLine: And we'll roll the old chariot along
+songLine: A drop of Nelson's blood wouldn't do us any harm
 tags:
   - song
-description:
 date: 2019-03-07T08:05:12.000Z
 ---
 Oh we'd be all right, if the wind was in our sails (x3)
