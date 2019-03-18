@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: The Ballad of Anne Bonny
-published: false
+published: true
 wordsBy: Janie Meneely
 tuneBy: Janie Meneely
 chorusLine: She'll steal the pennies off your eyes
