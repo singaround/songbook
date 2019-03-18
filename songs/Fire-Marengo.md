@@ -1,6 +1,7 @@
 ---
 templateKey: song
 title: Fire Marengo
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: 'Fire Marengo, fire away!'
