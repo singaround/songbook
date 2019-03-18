@@ -1,6 +1,7 @@
 ---
 templateKey: song
 title: Greenland Whale Fishery
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
 songLine: In eighteen hundred and forty-six
