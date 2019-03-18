@@ -21,13 +21,9 @@ Cape Cod girls ain't got no combs
 They comb their hair with codfish bones
 
 > _And we're bound away for Australia_
->
 > _So heave away, my bully, bully boys_
->
 > _Haul away, haul away_
->
 > _Heave away, why don't you make some noise_
->
 > _And we're bound away for Australia_
 
 Cape Cod kids ain't got no sleds\

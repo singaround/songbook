@@ -4,7 +4,7 @@ title: Don't forget your old shipmate
 published: false
 wordsBy: Traditional
 tuneBy: Traditional
-chorusLine: Long we've tossed on the rolling main ...
+chorusLine: Long we've tossed on the rolling main
 songLine: Safe and sound at home again
 tags:
   - song
@@ -61,7 +61,8 @@ Sponger I and loader you
 
 
 
-_Long we've tossed on the rolling main..._
+_Long we've tossed on the rolling main
+..._
 
 __
 
@@ -75,7 +76,8 @@ Tugging out the flapping sail
 
 
 
-_Long we've tossed on the rolling main..._
+_Long we've tossed on the rolling main
+..._
 
 
 
@@ -89,7 +91,8 @@ Who could choose a rousing stave
 
 
 
-_Long we've tossed on the rolling main..._
+_Long we've tossed on the rolling main
+..._
 
 
 
@@ -103,7 +106,8 @@ Number seven starboard mess
 
 
 
-_Long we've tossed on the rolling main..._
+_Long we've tossed on the rolling main
+..._
 
 
 
@@ -117,4 +121,5 @@ Hand yer flipper for a shake
 
 
 
-_Long we've tossed on the rolling main..._
+_Long we've tossed on the rolling main
+..._

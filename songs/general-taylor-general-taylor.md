@@ -4,7 +4,7 @@ title: General Taylor
 published: false
 wordsBy: Traditional
 tuneBy: Traditional
-chorusLine: 'To me way hey, you Stormy'
+chorusLine: 'To me way hey, you Stormy, Walk him along, John, carry him along'
 songLine: General Taylor's dead and gone
 tags:
   - song
@@ -12,11 +12,11 @@ date: 2019-03-13T21:14:24.077Z
 ---
 General Taylor's dead and gone
 
-Walk him along, John, carry him along
+_Walk him along, John, carry him along_
 
 Oh, General Taylor's dead and gone
 
-Carry him to his burying ground
+_Carry him to his burying ground_
 
 
 
@@ -36,7 +36,9 @@ I'd build him a ship o' ten thousand tons
 
 
 
-_To me way hey, you Stormy_...
+_To me way hey, you Stormy_
+
+...
 
 
 

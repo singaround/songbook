@@ -5,6 +5,7 @@ published: true
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: 'Lowlands, lowlands away my John'
+songLine: 'I dreamed a dream the other night'
 tags:
   - song
 date: 2019-03-07T08:05:12.000Z

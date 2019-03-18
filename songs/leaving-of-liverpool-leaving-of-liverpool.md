@@ -4,7 +4,7 @@ title: Leaving of Liverpool
 published: false
 wordsBy: Traditional
 tuneBy: Traditional
-chorusLine: ' So fare thee well, my own true love'
+chorusLine: 'So fare thee well, my own true love'
 songLine: Farewell to you my own true love
 tags:
   - song
@@ -22,7 +22,8 @@ but I know that I'll return some day
 
 
 
-_So fare thee well, my own true love_
+
+_So fare thee well, my own true love_
 
 _When I return, united we will be_
 
@@ -32,7 +33,8 @@ _But my darling when I think of thee_
 
 
 
-Farewell to Prince's Landing Stage 
+
+Farewell to Prince's Landing Stage 
 
 River Mersey, fare thee well 
 
@@ -42,7 +44,8 @@ A place I know right well
 
 
 
-_So fare thee well, my own true love_
+
+_So fare thee well, my own true love_
 
 _When I return, united we will be_
 
@@ -62,7 +65,9 @@ When I am homeward bound
 
 
 
-_So fare thee well..._
+
+
+_So fare thee well..._
 
 __
 
@@ -76,7 +81,8 @@ And they say she's a floating shame
 
 
 
-_So fare thee well..._
+
+_So fare thee well..._
 
 
 
@@ -90,7 +96,9 @@ If not, then he's sure in Hell
 
 
 
-_So fare thee well..._
+
+
+_So fare thee well..._
 
 __
 
@@ -104,7 +112,9 @@ Before I see you again
 
 
 
-_So fare thee well..._
+
+
+_So fare thee well..._
 
 __
 
@@ -118,4 +128,5 @@ until I see you again
 
 
 
-_So fare thee well..._
+
+_So fare thee well..._

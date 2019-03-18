@@ -1,31 +1,33 @@
 ---
 templateKey: song
-title: Roll The Old Chariot Along/Nelson's Blood
-published: false
+title: Roll The Old Chariot Along (Nelson's Blood)
+wordsBy: Traditional
+tuneBy: Traditional
+chorusLine: "And we'll roll the old chariot along"
+songLine: "A drop of Nelson's blood wouldn't do us any harm"
+tags:
+  - song
+description:
 date: 2019-03-07T08:05:12.000Z
 ---
-Well a drop of Nelson's blood wouldn\'t do us any harm
+Oh we'd be all right, if the wind was in our sails (x3)
 
-And a drop of Nelson's blood wouldn\'t do us any harm
+_And we'll all hang on behind_
 
-And a drop of Nelson's blood wouldn\'t do us any harm
+>_And we'll roll the old chariot along_
+>_We'll roll the old chariot along_
+>_And we'll roll the old chariot along_
+>_And we'll all hang on behind_
 
-And we\'ll all hang on behind
+Well a drop of Nelson's blood wouldn't do us any harm (x3)
 
-And we\'ll roll the old chariot along (x3)
+Well a nights' watch below wouldn't do us any harm (x3)
 
-We\'ll roll the old chariot along
+Well a pot of Irish stew wouldn't do us any harm (x3)
 
-And we\'ll roll the old chariot along
+And no VAT on tampons wouldn't do us any harm (x3)
 
-And we\'ll all hang on behind
+Equal pay for equal work wouldn't do us any harm (x3)
 
-Well a nice watch below wouldn\'t do us any harm (x3)
+...add your own!
 
-Well a nice glass of beer wouldn\'t do us any harm (x3)
-
-Well a pot of Irish stew wouldn\'t do us any harm (x3)
-
-Well some rum, beer and baccy wouldn't do us any harm (x3)
-
-Well a night on shore wouldn\'t do us any harm (x3)

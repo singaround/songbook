@@ -16,13 +16,9 @@ When our captain, he spied a fishy mermaid\
 With a comb and a glass in her hand
 
 > _Oh the ocean waves do roll_
->
 > _And the stormy winds do blow_
->
 > _And we poor sailors are skipping at the top_
->
 > _While the landlubbers lie down below, below, below_
->
 > _While the landlubbers lie down below_
 
 Now the song she sang, she sang so sweet,\

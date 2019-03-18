@@ -4,7 +4,7 @@ title: Last Shanty
 published: true
 wordsBy: Traditional
 tuneBy: Traditional
-chorusLine: 'Don’t haul on the rope, don’t climb up the mast'
+chorusLine: "Don’t haul on the rope, don’t climb up the mast"
 songLine: Well me father often told me when I was just a lad
 tags:
   - song
@@ -16,11 +16,8 @@ But now I've joined the navy, I'm aboard a man-o-war\
 And now I've found a sailor ain't a sailor any more
 
 > _Don't haul on the rope, don't climb up the mast_
->
 > _If you see a sailing ship it might be your last_
->
 > _Just get your civies ready for another run ashore_
->
 > _A sailor ain't a sailor, ain't a sailor anymore_
 
 Well the killock of our mess he says we've had it soft\

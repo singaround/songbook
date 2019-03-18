@@ -4,6 +4,7 @@ title: Bold William Taylor
 published: false
 wordsBy: Traditional
 tuneBy: Traditional
+songLine: Billy Taylor, youthful lover
 tags:
   - song
 date: 2019-03-13T22:23:27.020Z
