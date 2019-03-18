@@ -28,7 +28,7 @@ We anchored one day in the harbour of Cork,\
 Then we put out for the port of New York.
 
 _And it's row, row bullies, row,_\
-_Them Liverpool Tugboats have got us in tow._
+_Them Liverpool judies have got us in tow._
 
 For forty two days we was hungry and sore.\
 Oh, the winds was again'us, the gales, they did roar.\
