@@ -1,6 +1,7 @@
 ---
 templateKey: song
 title: Sam's Gone Away
+published: true
 chorusLine: 'Sam’s gone away, aboard a Man O’War'
 songLine: 'I wish I was a cabin boy, aboard a Man O’War'
 date: 2019-03-07T08:05:12.000Z
