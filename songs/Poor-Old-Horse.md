@@ -10,11 +10,11 @@ date: 2019-03-07T08:05:12.000Z
 ---
 They say, old man, your horse will die
 
-_And they say so, and we hope so_
+> And they say so, and we hope so
 
 They say, old man, your horse will die
 
-_Oh poor old man_
+> Oh poor old man
 
 And if he dies then we'll tan his hide
 
