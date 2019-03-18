@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Barge Ballad
-published: false
+published: true
 wordsBy: The Longest Johns
 tuneBy: The Longest Johns
 chorusLine: So we're loaded down with bales so high
