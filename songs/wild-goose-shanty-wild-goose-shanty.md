@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Wild Goose Shanty
-published: false
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: Ranzo you'll rue the day
