@@ -1,6 +1,7 @@
 ---
 templateKey: song
 title: Bold Riley
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: 'Goodbye my sweetheart, goodbye my darling'
