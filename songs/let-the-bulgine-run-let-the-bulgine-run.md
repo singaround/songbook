@@ -2,6 +2,10 @@
 templateKey: song
 title: Let the Bulgine Run
 published: false
+wordsBy: Traditional
+tuneBy: Traditional
+chorusLine: 'Timme Hey, Rig-a-jig, and a jaunting run!'
+songLine: 'Oh, the smartest packet you can find,'
 tags:
   - song
 date: 2019-03-15T20:22:05.061Z
