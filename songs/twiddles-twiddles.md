@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Twiddles
-published: false
+published: true
 wordsBy: Janie Meneely
 tuneBy: Janie Meneely
 chorusLine: 'And it''s twiddly-i dee-i dee-i, twiddly-i dee-ay'
