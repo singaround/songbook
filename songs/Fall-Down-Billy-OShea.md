@@ -1,6 +1,7 @@
 ---
 templateKey: song
 title: Fall Down Billy O'Shea
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: 'Fall down, fall down, fall down me Billy'
@@ -13,10 +14,9 @@ description: >-
   impressment was used to fill the crews of British navy ships. Any man between
   18 and 55 with sailing ability could be pressed into service by the Navy
   Impressment Service, known as 'The Press Gang'. The punishment for refusing
-  was hanging. Having attempted to plead that they are non sailors, the captain
+  was hanging. Having attempted to plead that they are non-sailors, the captain
   whips Billy O'Shea up the rigging, where his lack of topsman ability soon
-  leads to his early demise. The cat referred to is, of course, the cat o nine
-  tails.
+  leads to his early demise. The cat referred to is the cat o' nine tails.
 ---
 We all got drunk in Dublin city\
 _Fall down me Billy_\
