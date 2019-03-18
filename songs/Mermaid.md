@@ -1,6 +1,7 @@
 ---
 templateKey: song
 title: Mermaid
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: Oh the ocean waves do roll
@@ -38,11 +39,6 @@ Up spoke the first mate of our gallant ship\
 And a well-spoken man was he\
 "I have me a wife in Salem by the sea\
 And tonight she a widow will be"
-
-Up spoke the bosun of our gallant ship\
-And a brave young man was he\
-"Well I've got a sweetheart at St. John's by the sea\
-And tonight she be weepin' for me"
 
 Up spoke the cook of our gallant ship\
 And a greasy old butcher was he\
