@@ -1,6 +1,7 @@
 ---
 templateKey: song
 title: Spanish Ladies
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: We’ll rant and we’ll roar like true British sailors
