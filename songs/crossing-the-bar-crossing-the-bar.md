@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Crossing the Bar
-published: false
+published: true
 wordsBy: Alfred Lord Tennyson
 tuneBy: Various
 chorusLine: When I put out to sea
