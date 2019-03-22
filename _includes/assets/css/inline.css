@@ -59,19 +59,22 @@ button {
 	display: flex;
 	min-height: calc(100vh - 3.5rem);
 	flex-direction: column;
-  }
+}
   
-  .site-content {
+.site-content {
 	flex: 1;
-  }
-  input:not(:checked) ~ .checkbox-hidable {
+}
+
+input:not(:checked) ~ .checkbox-hidable {
 	display: none;
-  }
-  .checkboxhack {
+}
+
+.checkboxhack {
 	display: none;
+}
+
+@media only screen and (max-width: 768px) {
+	.navbar-narrow {
+		padding: .3rem .3rem;
 	}
-	@media only screen and (max-width: 768px) {
-    .navbar-narrow {
-			padding: .3rem .3rem;
-		}
-	}
+}
