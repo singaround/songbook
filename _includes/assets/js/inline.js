@@ -24,6 +24,15 @@ function songJump() {
 
   document.addEventListener('DOMContentLoaded', () => {
 
+    var songInput = document.getElementById('songNumberBox');
+
+    songInput.addEventListener("keypress", function (event) {
+      if (event.keyCode == 13) {
+        event.preventDefault();
+        songJump();
+      }
+    });
+
   // Get all "navbar-burger" elements
   const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
 
