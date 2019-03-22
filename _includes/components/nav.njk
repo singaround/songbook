@@ -1,10 +1,10 @@
 <nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
-    <a class="navbar-item" href="/">
+    <a class="navbar-item navbar-narrow" href="/">
       <img class="navbar-logo" src="/static/img/auntie-shanty-logo.svg">
     </a>
 
-    <div class="navbar-item">
+    <div class="navbar-item navbar-narrow">
       <div class="control">
         <input id="songNumberBox" class="input" type="number" placeholder="1" style="width: 3em;" min="1" inputmode="numeric" pattern="[0-9]*" title="Enter a song number">
         <button class="button is-primary" onclick="songJump()">Jump to song #</button>
@@ -12,7 +12,7 @@
     </div>
 
     {%- for nav in collections.nav | sort(attribute="date") -%}
-      <a class="navbar-item" href="{{ nav.url | url }}" {% if nav.url == page.url %} data-current="current item" {% endif %}>
+      <a class="navbar-item navbar-narrow" href="{{ nav.url | url }}" {% if nav.url == page.url %} data-current="current item" {% endif %}>
         {{ nav.data.navtitle }}
       </a>
     {%- endfor -%}
@@ -25,6 +25,21 @@
   </div>
 </div>
 <div id="navbarBasicExample" class="navbar-menu">
+  <div class="navbar-item has-dropdown is-hoverable">
+    <a class="navbar-link">
+          Index
+    </a>
+  <div class="navbar-dropdown">
+  {%- for nav in collections.navIndex | sort(attribute="title") -%}
+
+    <a class="navbar-item" href="{{ nav.url | url }}" {% if nav.url == page.url %} data-current="current item" {% endif %}>
+      {{ nav.data.navtitle }}
+    </a>
+
+  {%- endfor -%}
+  </div>
+  </div>
+
   {%- for nav in collections.navSecond | sort(attribute="date") -%}
 
     <a class="navbar-item" href="{{ nav.url | url }}" {% if nav.url == page.url %} data-current="current item" {% endif %}>
