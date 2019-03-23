@@ -1,7 +1,7 @@
-<nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation">
+<nav class="navbar is-fixed-top is-light" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
     <a class="navbar-item navbar-narrow" href="/">
-      <img class="navbar-logo" src="/static/img/auntie-shanty-logo.svg">
+      <img class="navbar-logo" src="/static/img/auntie-shanty-logo-small-100.png">
     </a>
 
     <div class="navbar-item navbar-narrow">
@@ -24,7 +24,8 @@
     </a>
   </div>
 </div>
-<div id="navbarBasicExample" class="navbar-menu">
+<div id="navbarBasicExample" class="navbar-menu is-black">
+  <div class="navbar-start">
   <div class="navbar-item has-dropdown is-hoverable">
     <a class="navbar-link">
           Index
@@ -38,6 +39,8 @@
 
   {%- endfor -%}
   </div>
+  <div class="navbar-end">
+  </div>
   </div>
 
   {%- for nav in collections.navSecond | sort(attribute="date") -%}
@@ -48,10 +51,6 @@
 
   {%- endfor -%}
 </div>
-</div>
-<div class="navbar-end">
-<div class="navbar-item"></div>
-
 </div>
 
 </div>
