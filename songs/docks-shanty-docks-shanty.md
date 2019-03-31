@@ -1,7 +1,7 @@
 ---
 templateKey: song
-title: Docks Shanty (Paint my sails red)
-published: false
+title: Paint my sails red (Docks Shanty)
+published: true
 wordsBy: Carlo Ritchie
 tuneBy: Carlo Ritchie
 chorusLine: 'So I''ll paint my sails red, and I''ll sail out to sea'
@@ -17,7 +17,7 @@ description: >-
   Brittany. Born in 1300, Jeanne and her third husband, Olivier, sided with
   France against the English in the Breton War of Secession. Enraged when the
   French king executed Olivier under suspicion of treason, Jeanne sought
-  vengeance. She raised an army to attach French strongholds, and eventually
+  vengeance. She raised an army to attack French strongholds, and eventually
   went to England where the king gave her three warships. She had them painted
   black with red sails, and named her flagship 'My Revenge.' Her piracy was so
   notorious that she was mentioned in the 1347 Treaty of Calais. Escaping the
