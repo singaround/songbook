@@ -31,53 +31,53 @@ description: >-
 
   The original words from Stetrice are below, for any French speakers.
 ---
-Let me tell you, my friends, of a woman named Jeanne\
-As widow and pirate she avenged her dead man\
-With sails red as blood, aboard her black ships three\
+Let me tell you, my friends, of a woman named Jeanne
+As widow and pirate she avenged her dead man
+With sails red as blood, aboard her black ships three
 Lioness of Bretagne, la belle dame sans merci
 
-_With sails red as blood, aboard her black ships three_\
+_With sails red as blood, aboard her black ships three_
 _Lioness of Bretagne, la belle dame sans merci_
 
-Seven centuries ago, in the hundred years’ war\
-England and France fought for Brittany’s shores\
-Olivier de Clisson sided with the French crown\
+Seven centuries ago, in the hundred years’ war
+England and France fought for Brittany’s shores
+Olivier de Clisson sided with the French crown
 But for fear of betrayal, Charles de Blois cast him down
 
-Thanks to whispers of treason in King Philip’s ear\
-Olivier was condemned, faced the sword without fear\
-And like salt in the wound, the king sent his head\
+Thanks to whispers of treason in King Philip’s ear
+Olivier was condemned, faced the sword without fear
+And like salt in the wound, the king sent his head\
 To hang on Nantes’ gates, shaming the dead
 
-Jeanne de Clisson heard her husband was dead\
-So she took her young sons to see their father’s head\
-Gazing at his blank eyes, Jeanne yearned for revenge\
+Jeanne de Clisson heard her husband was dead
+So she took her young sons to see their father’s head
+Gazing at his blank eyes, Jeanne yearned for revenge
 And she vowed in that moment, her love to avenge
 
-_With sails red as blood, aboard her black ships three_\
+_With sails red as blood, aboard her black ships three_
 _Lioness of Bretagne, la belle dame sans merci_
 
-She-wolf of the Channel, Lioness of the main\
-Jeanne murdered French sailors again and again\
-She’d leave one man alive to warn others to flee\
+She-wolf of the Channel, Lioness of the main
+Jeanne murdered French sailors again and again
+She’d leave one man alive to warn others to flee
 From Jeanne de Clisson, la belle dame sans merci
 
-Her flagship, ‘My Vengeance’ was beaten at last\
-She escaped from the wreck, holding her two sons fast. \
-For five days she rowed, praying for England’s shore\
+Her flagship, ‘My Vengeance’ was beaten at last
+She escaped from the wreck, holding her two sons fast. 
+For five days she rowed, praying for England’s shore
 But her youngest, Guillaume, at last breathed no more
 
-_With sails red as blood, aboard her black ships three_\
+_With sails red as blood, aboard her black ships three_
 _Lioness of Bretagne, la belle dame sans merci_
 
-She cradled his body, adrift on the sea\
-Swore she’d bring his sweet brother home to Brittany\
-And Jeanne found her way home, and lived peacefully\
+She cradled his body, adrift on the sea
+Swore she’d bring his sweet brother home to Brittany
+And Jeanne found her way home, and lived peacefully
 Lioness of Bretagne, la belle dame sans merci
 
-_Let me tell you, my friends, of a woman named Jeanne_\
-_As widow and pirate she avenged her dead man_\
-_With sails red as blood, aboard her black ships three_\
+_Let me tell you, my friends, of a woman named Jeanne_
+_As widow and pirate she avenged her dead man_
+_With sails red as blood, aboard her black ships three_\
 _Lioness of Bretagne, la belle dame sans merci_
 
 \---
