@@ -26,7 +26,10 @@ description: >-
   and fit with the tune, the words ended up changing a lot. So the English
   version is a reinterpretation that fits the original tune, and tells a bit
   more of Jeanne's story, for anglophones. It has a refrain, but it doesn't kick
-  in after every verse, so watch out!
+  in after every verse, so watch out! The 'La belle dame sans merci' line is
+  originally from a French poem about unrequited love written over a century
+  after Jeanne was born, but it seemed to fit her merciless revenge just as much
+  as a scornful lover.
 
 
   The original words from Stetrice are below, for any French speakers.
@@ -44,9 +47,9 @@ England and France fought for Brittany’s shores
 Olivier de Clisson sided with the French crown
 But for fear of betrayal, Charles de Blois cast him down
 
-Thanks to whispers of treason in King Philip’s ear
+Thanks to whispers of treason in King Philippe’s ear
 Olivier was condemned, faced the sword without fear
-And like salt in the wound, the king sent his head\
+And like salt in the wound, the King sent his head\
 To hang on Nantes’ gates, shaming the dead
 
 Jeanne de Clisson heard her husband was dead
@@ -58,7 +61,7 @@ _With sails red as blood, aboard her black ships three_
 _Lioness of Bretagne, la belle dame sans merci_
 
 She-wolf of the Channel, Lioness of the main
-Jeanne murdered French sailors again and again
+Jeanne slaughtered French sailors again and again
 She’d leave one man alive to warn others to flee
 From Jeanne de Clisson, la belle dame sans merci
 
