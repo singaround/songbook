@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title: Jeanne de Clisson
+title: Jeanne de Clisson (la belle dame sans merci)
 published: true
 wordsBy: 'French: Patrice Deshayes and Stéphanie Deshayes; English: Rosie Sharkey'
 tuneBy: Patrice Deshayes and Stéphanie Deshayes
