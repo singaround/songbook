@@ -1,9 +1,9 @@
 ---
 templateKey: song
 title: Broadside
-published: false
+published: true
 wordsBy: Nancy Kerr
-tuneBy: Nancy Kerr
+tuneBy: 'Nancy Kerr, John Smith, Martin Simpson'
 chorusLine: 'Broadside to broadside, two captains collide'
 songLine: 'Keep your land you gentry of England, France and Spain'
 tuneLink: ''
@@ -11,7 +11,18 @@ tags:
   - song
   - Grace O'Malley
   - feminism
+  - pirate
+  - queen
 date: 2019-03-13T22:06:27.563Z
+description: >-
+  Nancy Kerr's lyrics draw loosely on the account of the 1593 meeting of Irish
+  pirate queen Grace O'Malley/Gráinne Ní Mháille and Queen Elizabeth I. Grace is
+  believed to have carried herself in that meeting with the dignity of a queen
+  meeting an equal, refusing to bow or accept the title of countess.
+
+
+  The song was written in 2014 as part of The Elizabethan Session, commissioned
+  by Folk by the Oak and the English Folk Dance and Song Society.
 ---
 Keep your land you gentry of England, France and Spain\
 For there’s nothing like dominion of the water\
