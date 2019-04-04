@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Blood Red Roses
-published: false
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: 'Go down, you blood red roses, go down!'
