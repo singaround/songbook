@@ -4,8 +4,19 @@ section: songbook
 permalink: /songbook/index.html
 ---
 <h1>{{ title }}</h1>
-
 {{ layoutContent | safe }}
-
+Search the songs:
+<script>
+  (function() {
+    var cx = '018245618682331088118:getooo00wtq';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
 {% set songslist = collections.numberedSongs %}
 {% include "components/songslist.njk" %}
