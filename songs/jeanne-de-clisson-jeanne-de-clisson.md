@@ -22,14 +22,16 @@ description: >-
   Clisson, Lioness of Brittany. 
 
 
-  We loved the tune so tried translating but, in order to keep the rhyme scheme
-  and fit with the tune, the words ended up changing a lot. So the English
-  version is a reinterpretation that fits the original tune, and tells a bit
-  more of Jeanne's story, for anglophones. It has a refrain, but it doesn't kick
-  in after every verse, so watch out! The 'La belle dame sans merci' line is
-  originally from a French poem about unrequited love written over a century
-  after Jeanne was born, but it seemed to fit her merciless revenge just as much
-  as a scornful lover.
+  We loved the tune so inexpertly tried translating but, in order to keep the
+  rhyme scheme and fit with the tune, the words ended up changing a lot. So the
+  English version is a reinterpretation that fits the original tune, and tells a
+  bit more of Jeanne's story, for anglophones. It has a refrain, but it doesn't
+  kick in after every verse, so watch out! 
+
+
+  The 'La belle dame sans merci' line is originally from a French poem about
+  unrequited love written over a century after Jeanne was born, but it seemed to
+  fit her merciless revenge just as much as a scornful lover.
 
 
   The original words from Stetrice are below, for any French speakers.
