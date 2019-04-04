@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Flora and James
-published: false
+published: true
 wordsBy: Cat Kelly/Traditional
 tuneBy: Cat Kelly
 chorusLine: Up aloft when the stormy winds blow
@@ -9,7 +9,20 @@ songLine: 'Come all you true lovers attend for a while to a tale I am going to u
 tags:
   - song
 date: 2019-03-13T23:01:49.517Z
-description: '[Youtube link here.](https://www.youtube.com/watch?v=P9Qqm9mrkPw)'
+description: >-
+  Folk Weekend Oxford legend [Cat
+  Kelly](http://www.folkweekendoxford.co.uk/108-cat-kelly/projects/119-cat-kelly.html)
+  was commissioned by The Bodleian Libraries in 2018 to arrange and adapt this
+  broadside ballad for community choirs. She playfully updated the gender roles
+  too, switching Flora and James (and getting rid of the free wedding!) 
+
+
+  Learn Cat's tune at the [youtube link
+  here](https://www.youtube.com/watch?v=P9Qqm9mrkPw) and buy the sheet music for
+  the full arrangement
+  [here](http://www.folkweekendoxford.co.uk/songs-of-life-and-love.html). You
+  can see the original words from the broadside
+  [here](http://ballads.bodleian.ox.ac.uk/static/images/sheets/20000/17658.gif).
 ---
 Come all you true lovers attend for a while to a tale I am going to unfold! \
 Young James was a lad who was virtuous and kind, and Flora a sailor so bold. \
