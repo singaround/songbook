@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Female Sailor Bold
-published: false
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
 songLine: 'Come, all ye good people, and listen to my song'
@@ -9,7 +9,11 @@ tuneLink: ''
 tags:
   - song
 date: 2019-03-13T22:13:12.233Z
-description: '[Youtube link here.](https://www.youtube.com/watch?v=ELKrLZDEtMM)'
+description: >-
+  Another popular broadside ballad on the theme of the disguised female sailor.
+  Dianne Dugaw sang [The Female Sailor Bold](https://youtu.be/v7ovc9cpcuY) on
+  her CD _Dangerous Examples_, which accompanies her book _Warrior Woman and
+  Popular Balladry 1650-1850._
 ---
 Come, all ye good people, and listen to my song,\
 While I relate a circumstance that does to love belong,\
