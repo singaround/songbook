@@ -9,7 +9,10 @@ tags:
   - song
 date: 2019-03-13T22:35:27.039Z
 description: >-
-  From Cathie Ryan's 2001 album, 'Somewhere Along the Road'. Youtube link
+  A song about Grace O'Malley (Gráinne Ní Mháille in Irish, often anglicised to
+  Granuaile), a 16th-century pirate who was lord of the Ó Máille dynasty in the
+  west of Ireland. This is from Cathie Ryan's 2001 album, 'Somewhere Along the
+  Road' - the youtube link is
   [here.](https://www.youtube.com/watch?v=c8cDhq-N5Ug)
 ---
 Now in sailor's clothes Granuaile did go\
