@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Herring's Head
-published: false
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: The herring is the king of the sea
@@ -68,6 +68,6 @@ I’ll make it into a barrel of ale,\
 I’ll make it into a barrel of ale\
 And all sorts of things.\
 Herring's tail, a barrel of ale,\
-Herring's gills, a window sills, etc.
+Herring's gills, window sills, etc.
 
 _The herring is the king of the sea..._
