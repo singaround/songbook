@@ -10,6 +10,11 @@ tags:
   - song
   - feminism
 date: 2019-03-13T22:46:22.211Z
+description: >-
+  [Janie Meneely](http://www.janiemeneely.com/l-twiddles.html) writes modern sea
+  songs celebrating the maritime history, characters, and traditions of the
+  Chesapeake Bay. You can buy her CDs
+  [here](http://www.janiemeneely.com/music.html).
 ---
 When the boats all get to sailing and the men are off and gone\
 What about the women who are up and left alone\
