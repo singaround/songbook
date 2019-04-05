@@ -2,6 +2,8 @@
 templateKey: song
 title: Ben Backstay
 published: true
+wordsBy: Traditional
+tuneBy: Traditional
 chorusLine: 'Singing chip cho, cherry cho'
 songLine: Ben Backstay was a boatswain
 tags:
