@@ -37,8 +37,7 @@ So I docked my ship for an overnight trip\
 To take care of all of my needs\
 She had piles of tales to tell\
 And my mast began to swell\
-So I laid her down and raised her gown
-
+So I laid her down and raised her gown\
 And performed cunnilingus for an hour or so
 
 _Always take care of your lady fair_\
