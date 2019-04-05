@@ -2,11 +2,21 @@
 templateKey: song
 title: 'Roll Alabama, Roll'
 published: true
+wordsBy: Frank Townsend
+tuneBy: Traditional
 chorusLine: 'Roll, Alabama, roll'
 songLine: When the Alabama's keel was laid
 tags:
   - song
 date: 2019-03-07T08:05:12.000Z
+description: >-
+  CSS Alabama was built in secrecy in 1862 by British shipbuilders John Laird
+  Sons and Company at their shipyards at Birkenhead. Under British neutrality
+  law during the American Civil War, it was possible to build a ship designed as
+  an armed vessel as long as it wasn't actually armed until after it sailed into
+  international waters. Alabama was a successful Confederate commerce raider,
+  attacking Union merchant and naval ships. She was sunk in June 1864 by USS
+  Kearsarge at the Battle of Cherbourg.
 ---
 When the Alabama's keel was laid
 
