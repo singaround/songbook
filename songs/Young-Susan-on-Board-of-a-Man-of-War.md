@@ -1,12 +1,17 @@
 ---
 templateKey: song
-title: "Young Susan on Board of a Man-of-War"
-tuneBy:
-chorusLine:
-songLine:
+title: Young Susan on Board of a Man-of-War
+published: true
+wordsBy: Traditional
+tuneBy: Traditional
+songLine: 'Young Susan was a blooming maid, so valiant, true and bold'
 tags:
-description: "Collected in Frank Kidson’s Traditional Tunes, this song was 'much thought of among the seafaring classes round about Hull'.. For good reasons only!?"
+  - song
 date: 2019-03-07T08:05:12.000Z
+description: >-
+  Collected in Frank Kidson’s Traditional Tunes, this song (yet another on the
+  popular theme of a woman going to sea in disguise to be with her lover) was
+  apparently "much thought of among the seafaring classes round about Hull."
 ---
 Young Susan was a blooming maid, so valiant, true and bold,
 And when her sailor went to sea, young Susan, we are told,
