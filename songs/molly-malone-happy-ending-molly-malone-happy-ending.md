@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title: Molly Malone (happy ending)
+title: Molly Malone (cockless with muscles)
 published: true
 wordsBy: Traditional/Rosie Sharkey
 tuneBy: Traditional
@@ -9,6 +9,9 @@ songLine: In Dublin’s fair city
 tags:
   - song
 date: 2019-03-13T23:00:34.183Z
+description: >-
+  Nothing wrong with the original but it seems sad that Molly suddenly dies, so
+  here's a happier version with some puerile innuendo.
 ---
 In Dublin's fair city\
 where the girls are so pretty\
