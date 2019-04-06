@@ -26,13 +26,13 @@ Let the wind blow high blow low-o\
 _If I can't have that maid on the shore"_
 
 After many persuasions they brought her on board\
-They seated her down at his chair-o\
+Let the wind blow high blow low-o\
 He invited her down to his cabin below\
 Farewell to all sorrow and care-o\
 _Farewell to all sorrow and care_\
-__\
-_"_Oh thank you, oh thank you," this young girl she cried,\
-“It's just what I've been waiting for-o:\
+\
+"Oh thank you, oh thank you," this young girl she cried,\
+“It's just what I've been waiting for-o\
 For I've grown so weary of my maidenhead\
 As I walked all alone on the shore, shore, shore\
 As I walked all alone on the shore.”
@@ -41,7 +41,7 @@ As I walked all alone on the shore.”
 This captain was weeping for joy-o\
 She sang it so sweetly, so soft and completely\
 She sang captain and sailors to sleep-o\
-_She sang_ c_aptain and sailors to sleep_
+_She sang_ _captain and sailors to sleep_
 
 She robbed them of silver, she robbed them of gold\
 She robbed them of costly fine fare-o\
@@ -56,7 +56,7 @@ For to roam once again on the shore, shore, shore\
 _For to roam once again on the shore_
 
 "Now you must be mad and your men must be sad,\
-And your men must be deep in despair-o\
+Oh your men must be deep in despair-o\
 I sang you to sleep and I robbed you of wealth\
-Again I'm a maid on the shore, shore, shore\
-_Again I'm a maid on the shore."_
+Once again I'm a maid on the shore, shore, shore\
+_Once_ _again I'm a maid on the shore."_
