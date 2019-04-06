@@ -6,25 +6,18 @@ wordsBy: William Delf
 tuneBy: ''
 chorusLine: And it’s three score and ten
 songLine: Methinks I see a host of craft
+tags:
+  - song
 date: 2019-03-07T08:05:12.000Z
 description: >-
-  https://mainlynorfolk.info/watersons/songs/threescoreandten.html
-
-
   "Three Score and Ten" is a broadside ballad commemorating a tragic storm off
-  Grimsby and Hull in February 1889. With 9 vessels and a number of men losing
+  Grimsby and Hull in February 1889. With 9 vessels sunk and many men losing
   their lives, it remains one of the greatest disasters in the history of the
   towns. The song was composed by local fisherman William Delf to raise money
   for the affected families. 
 
 
-  Delf's poem had 8 verses and no choruses. The song in its well known version
-  was first collected from a master mariner, Mr J. Pearson of Filey, in 1957.
-  It's subsequently become famous on the folk scene after recordings by Lou
-  Killen and the Watersons.
-
-
-  From the Hull Times, 2nd March 1889: 
+  From the Hull Times, 2 March 1889: 
 
 
   "As day after day passes and no tidings arrive of the missing Grimsby smacks,
@@ -39,7 +32,7 @@ description: >-
 ---
 Methinks I see a host of craft
 Spreading their sails alee
-Down the humber they do glide
+Down the Humber they do glide
 All bound for the Northern sea
 
 Methinks I see on each small craft
@@ -49,7 +42,7 @@ Upon the restless wave
 
 _And it's three score and ten
 Boys and men were lost from Grimsby town
-From yarmouth down to Scarborough
+From Yarmouth down to Scarborough
 Many hundreds more were drowned
 Our herring craft, our Trawlers
 Our fishing Smacks, as well
@@ -59,29 +52,26 @@ And battle with the swell_
 Methinks I see them yet again\
 As they leave this land behind\
 Casting their nets into the sea\
-The herring shoals to find
-
+The herring shoals to find\
 \
 Methinks I see them yet again\
 They're all on board all right\
 With their nets rolled up and their decks cleaned off\
-And the side lights burning bright
-
+And the side lights burning bright\
 \
 Methinks I've heard the Captain say\
 "me lads we'll shorten sail"\
 With the sky to all appearances\
-Looks like an approaching gale
-
+Looks like an approaching gale\
 \
 Methinks I see them yet again\
 The midnight hour is past\
-The little craft a battling\
+The little craft abattling\
 There against the icy blast
 
 October's night brought such a sight\
 'twas never seen before\
-There were mast and yards and broken spars\
+There were masts and yards and broken spars\
 Awashed up on the shore
 
 There were many a heart in sorrow\
