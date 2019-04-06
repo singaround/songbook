@@ -68,7 +68,7 @@ She’d leave one man alive to warn others to flee
 From Jeanne de Clisson, la belle dame sans merci
 
 Her flagship, ‘My Vengeance’ was beaten at last
-She escaped from the wreck, holding her two sons fast. 
+She escaped from the wreck, holding her two sons fast
 For five days she rowed, praying for England’s shore
 But her youngest, Guillaume, at last breathed no more
 
