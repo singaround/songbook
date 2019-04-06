@@ -2,6 +2,8 @@
 templateKey: song
 title: When I was a fair maid / Run the Riggin' Again
 published: true
+wordsBy: Traditional
+tuneBy: Traditional
 chorusLine: 'The music so grand, the music so grand'
 songLine: When I was a fair maid about seventeen
 tags:
