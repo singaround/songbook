@@ -9,6 +9,10 @@ songLine: It was pleasant and delightful on a midsummer’s morn
 tags:
   - song
 date: 2019-03-14T20:56:41.851Z
+description: >-
+  A lovely farewell ballad, with obvious links to 'Adieu, sweet lovely Nancy.'
+  We've added an optional final verse because babies are cute and it's nice to
+  sing about the larks again.
 ---
 It was pleasant and delightful on a midsummer's morn\
 And the green fields and the meadows were all covered in corn;\
