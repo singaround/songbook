@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title: Run the Riggin' Again
+title: When I was a fair maid / Run the Riggin' Again
 published: true
 chorusLine: 'The music so grand, the music so grand'
 songLine: When I was a fair maid about seventeen
