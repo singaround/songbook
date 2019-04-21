@@ -2,8 +2,8 @@
 templateKey: song
 title: The Shores of Hispaniola
 published: true
-wordsBy: Nancy Kerr
-tuneBy: Nancy Kerr
+wordsBy: © Nancy Kerr
+tuneBy: © Nancy Kerr
 songLine: They came in the night and their ships were as black as the ocean
 tags:
   - song
@@ -21,10 +21,11 @@ description: >-
   1564 slaving voyage.
 
 
-  Nancy Kerr wrote this song as part of the 2014 project, The Elizabethan
-  Session, supported by the English Folk Dance and Song Society and Folk by the
-  Oak. It imagines the grief and rage of a woman grieving for the captured
-  father of her children.
+  Nancy Kerr wrote this song as part of the 2014 project, [The Elizabethan
+  Session](https://www.folkbytheoak.com/elizabethan-session/), supported by the
+  English Folk Dance and Song Society and Folk by the Oak. It imagines the grief
+  and rage of a woman grieving for the captured father of her children. Nancy
+  has kindly given us permission to reproduce the lyrics here.
 ---
 They came in the night and their ships were as black as the ocean.\
 It was Hawkins the dread privateer and all of his crew.\
