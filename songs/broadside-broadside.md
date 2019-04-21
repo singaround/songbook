@@ -21,9 +21,10 @@ description: >-
   meeting an equal, refusing to bow or accept the title of countess.
 
 
-  The song was written in 2014 as part of The Elizabethan Session, commissioned
-  by Folk by the Oak and the English Folk Dance and Song Society. Nancy has
-  kindly given us permission to reproduce the lyrics here.
+  The song was written in 2014 as part of [The Elizabethan
+  Session](https://www.folkbytheoak.com/elizabethan-session/), commissioned by
+  Folk by the Oak and the English Folk Dance and Song Society. Nancy has kindly
+  given us permission to reproduce the lyrics here.
 ---
 Keep your land you gentry of England, France and Spain\
 For there’s nothing like dominion of the water\
