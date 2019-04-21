@@ -2,8 +2,8 @@
 templateKey: song
 title: Barge Ballad
 published: true
-wordsBy: The Longest Johns
-tuneBy: The Longest Johns
+wordsBy: © The Longest Johns
+tuneBy: © The Longest Johns
 chorusLine: So we're loaded down with bales so high
 songLine: Once there was a barge lad
 tuneLink: 'https://open.spotify.com/album/3iXPqxL9KwTQcefOhBcsc4'
@@ -12,6 +12,12 @@ tags:
   - barge
   - river
 date: 2019-03-11T19:24:41.091Z
+description: >-
+  [The Longest Johns](https://thelongestjohns.bandcamp.com/music) are a
+  Bristol-based a cappella folk band and have kindly given us permission to
+  include the words to some of their original compositions here. Barge Ballad
+  can be found on their debut album, [Written in
+  Salt](https://www.thelongestjohns.com/product-page/written-in-salt).
 ---
 Once there was a barge lad
 
