@@ -2,8 +2,8 @@
 templateKey: song
 title: Twiddles
 published: true
-wordsBy: Janie Meneely
-tuneBy: Janie Meneely
+wordsBy: © Janie Meneely
+tuneBy: © Janie Meneely
 chorusLine: 'And it''s twiddly-i dee-i dee-i, twiddly-i dee-ay'
 songLine: When the boats all get to sailing and the men are off and gone
 tags:
@@ -13,8 +13,11 @@ date: 2019-03-13T22:46:22.211Z
 description: >-
   [Janie Meneely](http://www.janiemeneely.com/l-twiddles.html) writes modern sea
   songs celebrating the maritime history, characters, and traditions of the
-  Chesapeake Bay. You can buy her CDs
-  [here](http://www.janiemeneely.com/music.html).
+  Chesapeake Bay. She has kindly given Auntie Shanty permission to reproduce the
+  lyrics so that we can enjoy her songs in the pub. If you would like to
+  discover more of Janie's music, you can buy her CDs
+  [here](http://www.janiemeneely.com/music.html) and see the lyrics to her songs
+  [here](http://www.janiemeneely.com/lyrics.html).
 ---
 When the boats all get to sailing and the men are off and gone\
 What about the women who are up and left alone\
