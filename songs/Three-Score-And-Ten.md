@@ -3,7 +3,7 @@ templateKey: song
 title: Three Score And Ten
 published: true
 wordsBy: William Delf
-tuneBy: ''
+tuneBy: Traditional
 chorusLine: And it’s three score and ten
 songLine: Methinks I see a host of craft
 tags:
