@@ -1,15 +1,23 @@
 ---
 templateKey: song
-title: The Ballad of Anne Bonny
+title: The Ballad of Anne Bonney
 published: true
-wordsBy: Janie Meneely
-tuneBy: Janie Meneely
+wordsBy: © Janie Meneely
+tuneBy: © Janie Meneely
 chorusLine: She'll steal the pennies off your eyes
 songLine: We think she stole Black Caesar's rig
 tags:
   - song
   - Anne Bonny
 date: 2019-03-13T21:56:14.010Z
+description: >-
+  [Janie Meneely](http://www.janiemeneely.com/l-twiddles.html) writes modern sea
+  songs celebrating the maritime history, characters, and traditions of the
+  Chesapeake Bay. She has kindly given Auntie Shanty permission to reproduce the
+  lyrics so that we can enjoy her songs in the pub. If you would like to
+  discover more of Janie's music, you can buy her CDs
+  [here](http://www.janiemeneely.com/music.html) and see the lyrics to her songs
+  [here](http://www.janiemeneely.com/lyrics.html).
 ---
 We think she stole Black Caesar's rig\
 He kept it in the Keys\
