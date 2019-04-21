@@ -2,8 +2,8 @@
 templateKey: song
 title: Broadside
 published: true
-wordsBy: Nancy Kerr
-tuneBy: 'Nancy Kerr, John Smith, Martin Simpson'
+wordsBy: © Nancy Kerr
+tuneBy: '© Nancy Kerr, John Smith, Martin Simpson'
 chorusLine: 'Broadside to broadside, two captains collide'
 songLine: 'Keep your land you gentry of England, France and Spain'
 tuneLink: ''
@@ -22,7 +22,8 @@ description: >-
 
 
   The song was written in 2014 as part of The Elizabethan Session, commissioned
-  by Folk by the Oak and the English Folk Dance and Song Society.
+  by Folk by the Oak and the English Folk Dance and Song Society. Nancy has
+  kindly given us permission to reproduce the lyrics here.
 ---
 Keep your land you gentry of England, France and Spain\
 For there’s nothing like dominion of the water\
