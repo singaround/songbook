@@ -45,7 +45,7 @@ _When you see the Jolly Roger on the Severn's mighty shores_
 Well, you'd think the local farmers would know that I'm at large
 But just the other day I found an unprotected barge
 I snuck up right behind them and they were none the wiser,
-I rammed their ship and sank it and I stole their fertilizer!\
+I rammed their ship and sank it and I stole their fertilizer!
 
 A bridge outside of Chepstow spans the mighty river
 Farmers cross in so much fear their stomachs are a'quiver
@@ -75,7 +75,7 @@ _When you see the Jolly Roger on the Severn's mighty shores_
 Well, Pirate life's appealing but you just don't find it here,
 I hear that up in Yorkshire there's a band of buccaneers
 They roam around the Yorkshire Dales from Yarm to Brierly
-And you're gonna lose your flat cap if you have to pass their way!\
+And you're gonna lose your flat cap if you have to pass their way!
 
 Well, winter is a'comin' and a chill is in the breeze
 My pirate days are over once the river starts to freeze
