@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: 'Row, bullies, row (Liverpool judies)'
-published: false
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: 'And it''s row, row bullies row,'
