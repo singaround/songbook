@@ -26,9 +26,13 @@ Which spoiled his constitut-i-on
 _Away, haul away, we'll haul away Joe_
 
 > _(To me) way, haul away_
->
-> _We'll heave and hang together_
->
+> _(To me) way, haul away_
+> _We'll haul away together_
+> _(To me) way, haul away_
+> _We'll haul away together_
+> _Away, haul away, we'll haul away Joe_
+> _(To me) way, haul away_
+> _We'll haul for better weather_
 > _Away, haul away, we'll haul away Joe_
 
 Saint Patrick was a gentleman\
