@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Molly Malone (cockless with muscles)
-published: false
+published: true
 wordsBy: Traditional/Rosie Sharkey
 tuneBy: Traditional
 chorusLine: 'Alive alive-o, alive alive-o, Crying cockles and mussels alive alive-o'
