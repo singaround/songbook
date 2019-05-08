@@ -1,6 +1,6 @@
 ---
 title: About us
-date: 2019-03-13
+date: 2019-03-13T00:00:00.000Z
 permalink: /about/index.html
 navtitle: About
 tags:
@@ -19,7 +19,7 @@ Welcome to Auntie Shanty! This is an open folk music session where all are welco
 
 ### We don’t! Grab a songbook or just join in.
 
-We try to remember to share the name of the song with the whole group before we start singing to help people find the words and sing along. If someone forgets, just ask. There’s a crowdsourced Auntie Shanty songbook (see if there’s a spare paper copy to share) or you can view the website of songs here: <https://www.auntieshanty.org>. 
+We try to remember to share the name of the song with the whole group before we start singing to help people find the words and sing along. If someone forgets, just ask. There’s a crowdsourced Auntie Shanty songbook and you can view the website of songs here: <https://www.auntieshanty.org>. 
 
 If a song’s not in the book, have a google or copy someone who seems to know the chorus - it’s all about having a go and learning together. No-one will judge you for reading lyrics off your phone or forgetting them halfway through.
 
@@ -59,7 +59,7 @@ Sometimes these issues are very easy to spot, but some of the more subtle ones i
 
 There isn’t a simple answer to the question of which songs are ok to sing at Auntie Shanty, because there isn’t a single person in charge who passes judgement on lyrics - we’re a group of individuals, we all have different views and knowledge, and we’re all learning. It’s everyone’s responsibility to think carefully and critically about what our words and actions might mean to different people. 
 
-Auntie Shanty was specifically set up to make a space in the local folk scene where we committed to doing this together so, by joining this session, you’re becoming part of that tradition of questioning and creatively adapting shanties for the 21st  century. 
+Auntie Shanty was specifically set up to make a space in the local folk scene where we committed to doing this together so, by joining this session, you’re becoming part of that tradition of questioning and creatively adapting shanties for the 21st century. 
 
 ## But isn’t changing the original words a kind of censorship...and historically inaccurate?
 
@@ -75,7 +75,7 @@ Folk music’s a living tradition and we want to share the joy of shouty pub sin
 
 ### The songbook!
 
-Don’t panic! We’ve created a songbook together featuring lots of songs which we think are good to go - sometimes thanks to some rewrites or missing out the occasional dodgy verse. We can’t promise that nothing dubious has slipped through (we’re all still learning too!), but the songbook’s a great place to start. Grab a paper copy or find it online here: [www.auntieshanty.org](https://www.auntieshanty.org). 
+Don’t panic! We’ve created a songbook together featuring lots of songs which we think are good to go - sometimes thanks to some rewrites or missing out the occasional dodgy verse. We can’t promise that nothing dubious has slipped through (we’re all still learning too!), but the songbook’s a great place to start. Find it online here: [www.auntieshanty.org](https://www.auntieshanty.org). 
 
 ## My favourite song’s not in the book - can I sing it?
 
@@ -117,4 +117,4 @@ Join the Auntie Shanty Oxford facebook group, have a look at the website at [www
 
 ## When’s the next session?
 
-Auntie sessions at the Half Moon are the penultimate Monday of the month—so usually the 3rd Monday, but sometimes the 4th, to keep us on our toes. 2019 session dates are 18 March, 22 April, 20 May, 17 June, 22 July, 19 August, 23 September, 21 October, 18 November, 23 December (although we’ll probably rearrange that last one…)
+Auntie sessions at the Half Moon are the 3rd Monday of the month—2019 session dates are 20 May, 17 June, 15 July, 19 August, 16 September, 21 October, 18 November, 16 December.
