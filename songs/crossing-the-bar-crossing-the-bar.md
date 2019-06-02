@@ -22,11 +22,11 @@ _When I put out to sea._
 
 Twilight and evening bell,\
 And after that the dark!\
-And may there be no sadness or farewell\
+And may there be no sadness of farewell\
 When I embark.
 
 _When I embark, when I embark,_\
-_And may there be no sadness or farewell_\
+_And may there be no sadness of farewell_\
 _When I embark._
 
 But such a tide as moving seems asleep,\
