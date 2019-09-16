@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Greenland Whale Fisheries
-published: true
+published: false
 wordsBy: Traditional
 tuneBy: Traditional
 songLine: It was eighteen-hundred and forty-four
