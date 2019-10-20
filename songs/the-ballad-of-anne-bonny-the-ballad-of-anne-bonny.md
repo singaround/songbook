@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title: The Ballad of Anne Bonney
+title: The Ballad of Anne Bonny
 published: true
 wordsBy: © Janie Meneely
 tuneBy: © Janie Meneely
