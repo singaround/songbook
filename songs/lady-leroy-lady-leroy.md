@@ -52,7 +52,7 @@ These brave Irish heroes have made this reply\
 
 So it's broadside and broadside each other did pour\
 And louder and louder the cannons did roar\
-These brave Irish heres have gained victory\
+These brave Irish heroes have gained victory\
 Hurrah for true lovers - may they always run free
 
 They've landed in Boston that city of fame\
