@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Our captain cried all hands / Fountains Flowing
-published: false
+published: true
 songLine: Our captain cried all hands we sail tomorrow
 tuneLink: 'https://www.youtube.com/watch?v=2as0Ab6pBJ4'
 tags:
