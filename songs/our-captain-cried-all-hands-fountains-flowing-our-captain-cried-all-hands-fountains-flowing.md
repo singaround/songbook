@@ -10,9 +10,10 @@ tags:
 date: 2019-10-20T21:21:58.148Z
 description: >-
   There are many versions of this old farewell song to the tune of The
-  Blacksmith. This slightly reordered version of June Tabor's rendition
-  contrasts the fatalism of the sailor with the bitterness of the lover left
-  behind, who vows to love women in future.
+  Blacksmith. This slightly reordered version of [June Tabor's
+  rendition](https://www.youtube.com/watch?v=2as0Ab6pBJ4) contrasts the fatalism
+  of the sailor with the bitterness of the lover left behind, who vows to love
+  women in future.
 ---
 Our captain cried all hands we sail tomorrow,\
 Leaving us poor girls behind in grief and sorrow.\
