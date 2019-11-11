@@ -4,7 +4,7 @@ title: All For Me Grog
 published: true
 wordsBy: traditional
 tuneBy: traditional
-chorusLine: 'And it''s all for me grog, me jolly, jolly grog'
+chorusLine: ''
 songLine: 'Where are my boots, my nogging, nogging boots'
 tags:
   - song
