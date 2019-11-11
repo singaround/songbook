@@ -6,7 +6,7 @@
 
     <div class="navbar-item navbar-narrow">
       <div class="control">
-        <input id="songNumberBox" class="input" type="number" placeholder="1" style="width: 3em;" min="1" inputmode="numeric" pattern="[0-9]*" title="Enter a song number">
+        <input id="songNumberBox" class="input" type="number" placeholder="{% if songNumber %}{{ songNumber }}{% else %}1{% endif %}" style="width: 3.5em;" min="1" inputmode="numeric" pattern="[0-9]*" title="Enter a song number">
         <button class="button is-primary" onclick="songJump()">Jump to song #</button>
       </div>
     </div>
