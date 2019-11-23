@@ -1,10 +1,10 @@
 ---
 templateKey: song
-title: John Kanaka
+title: 'John the Slacker, Slacker'
 published: true
 wordsBy: Traditional
 tuneBy: Traditional
-chorusLine: ''
+chorusLine: 'John the slacker, slacker (was kanaka)'
 songLine: I thought I heard the old man say
 tags:
   - song
@@ -22,20 +22,21 @@ description: >-
   complaints of mistreatment on the ocean, with a cheery melody.
 
 
-  We're not sure what to do with this one - we could replace 'John Kanaka' with
-  'John, here comes the bosun', or 'Auntie Shanty Shanty' or...?
+  We're not sure what to do with this one - we liked what the [London Sea Shanty
+  Collective ](https://londonseashantycollective.com/) had done with it at a
+  recent workshop, replacing 'John Kanaka' with 'John, the slacker', so we've
+  adopted that
 ---
 I thought I heard the old man say
 
-_John, here comes the Bosun, too lie ay_
+_John, the slacker, slacker, too lie ay_
 
 Today, today is a holiday
 
-_John, here comes the Bosun, too lie ay_
+_John, the slacker, slacker, too lie ay_
 
-_Too lie ay, oh, to lie ay (hoo)_
-
-_John, here comes the Bosun, too lie ay_
+> _Too lie ay, oh, to lie ay (hoo)_
+> _John, the slacker, slacker, too lie ay_
 
 We'll work tomorrow but no work today\
 We'll work tomorrow but no work today
