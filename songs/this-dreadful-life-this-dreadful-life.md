@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: This Dreadful Life
-published: false
+published: true
 wordsBy: "Kevin Brown of the Ancient Mariners Chanteymen, lyrics from a
   performance by Cliff Haslam "
 tuneBy: Kevin Brown of the Ancient Mariners Chanteymen
