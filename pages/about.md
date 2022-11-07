@@ -115,6 +115,6 @@ So instead of solely focusing on discrimination based on gender, (and therefore 
 
 Join the Auntie Shanty Oxford facebook group, have a look at the website at [www.auntieshanty.org](https://www.auntieshanty.org), or check Daily Info for upcoming dates.
 
-## When’s the next session?
+# When & Where is the next session?
 
 Auntie sessions are on the 3rd Monday of every month, at the [Jolly Farmers, Oxford](https://www.jollyfarmers-oxford.co.uk/)
