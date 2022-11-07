@@ -7,7 +7,7 @@ tags:
   - navSecond
 layout: layouts/page.njk
 ---
-# Auntie Shanty FAQs 
+# Auntie Shanty FAQs
 
 ## What is happening?!
 
@@ -117,4 +117,4 @@ Join the Auntie Shanty Oxford facebook group, have a look at the website at [www
 
 ## When’s the next session?
 
-Auntie sessions at the Half Moon are the 3rd Monday of the month—2019 session dates are 20 May, 17 June, 15 July, 19 August, 16 September, 21 October, 18 November, 16 December.
+Auntie sessions are on the 3rd Monday of every month, at the [Jolly Farmers, Oxford](https://www.jollyfarmers-oxford.co.uk/)
