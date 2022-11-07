@@ -24,7 +24,7 @@
   "devDependencies": {
     "@11ty/eleventy": "^0.7.1",
     "luxon": "^1.11.0",
-    "markdown-it": "^8.4.1"
+    "markdown-it": "^12.3.2"
   },
   "dependencies": {
     "bulma": "^0.7.4",
