@@ -2,12 +2,18 @@
 templateKey: song
 title: Wayward Wife
 published: true
-wordsBy: Janie Meneely
-tuneBy: Janie Meneely
+wordsBy: (c) Janie Meneely
+tuneBy: (c) Janie Meneely
 songLine: As my mother’s only daughter
 tags:
   - song
 date: 2019-03-13T22:37:57.857Z
+description: "[Janie Meneely](http://www.janiemeneely.com/) writes modern sea
+  songs celebrating the maritime history, characters, and traditions of the
+  Chesapeake Bay. She has kindly given Auntie Shanty permission to reproduce the
+  lyrics so that we can enjoy her songs in the pub. If you would like to
+  discover more of Janie's music, you can buy her CDs
+  [here](https://www.janiemeneely.com/page-7/page-8/)."
 ---
 As my mother's only daughter\
 I was doused with holy water\
