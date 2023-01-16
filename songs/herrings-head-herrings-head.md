@@ -54,12 +54,12 @@ Herring's fins and needles and pins, etc.
 
 _The herring is the king of the sea..._
 
-Now what'll I do with me herring's tail?\
-I’ll make it into a barrel of ale,\
-I’ll make it into a barrel of ale\
+Now what'll I do with me herring's gills?\
+I’ll make 'em into window sills,\
+I’ll make 'em into window sills\
 And all sorts of things.\
-Herring's tail, a barrel of ale,\
-Herring's gills, window sills, etc.
+Herring's gills, window sills,\
+Herring's back, a laddie called Jack, etc.
 
 _The herring is the king of the sea..._
 
