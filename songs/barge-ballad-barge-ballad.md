@@ -4,7 +4,7 @@ title: Barge Ballad
 published: true
 wordsBy: © The Longest Johns
 tuneBy: © The Longest Johns
-chorusLine: So we're loaded down with bales so high
+chorusLine: Oh, we're loaded down with bales so high
 songLine: Once there was a barge lad
 tuneLink: 'https://open.spotify.com/album/3iXPqxL9KwTQcefOhBcsc4'
 tags:
@@ -31,7 +31,7 @@ Well I was that barge lad
 
 But now I'm the skipper and that young nipper had better be holding fast
 
->_So we're loaded down with bales so high_
+>_Oh, we're loaded down with bales so high_
 >_You've got to lean backwards if you want to see the sky_
 >_Oh, the Thames may forgive us, but the old never will_
 >_So eyes front and away we sail_
@@ -48,10 +48,10 @@ Well I was that able
 
 But now I'm the skipper and that young nipper is hardy enough to last
 
->_So we're loaded down with bales so high_
+>_Oh, we're loaded down with bales so high_
 >_You've got to lean backwards if you want to see the sky_
 >_Oh, the Thames may forgive us, but the old never will_
->_So eyes front and away we sail_
+>_So eyes front, keep your head, and away we sail_
 
 Oh, you've eyes like an eagle
 
@@ -65,10 +65,10 @@ Well, I was that eagle
 
 But now I'm the skipper and that young nipper will keep us from taking a bath
 
->_So we're loaded down with bales so high_
+>_Oh, we're loaded down with bales so high_
 >_You've got to lean backwards if you want to see the sky_
 >_Oh, the Thames may forgive us, but the old never will_
->_So eyes front and away we sail_
+>_So eyes front, keep your head, clear your throat, and away we sail_
 
 Oh, you've got to remember
 
@@ -82,9 +82,9 @@ Well, I do remember
 
 But now I'm the skipper and that young nipper is taking the rivers to heart
 
->_So we're loaded down with bales so high_
+>_Oh, we're loaded down with bales so high_
 >_You've got to lean backwards if you want to see the sky_
 >_Oh, the Thames may forgive us, but the old never will_
->_So eyes front and away we sail_
-
->_fill your pipe, hold on tight, look for the light and away we sail_
+>_So eyes front, keep your head, clear your throat,
+>_Know your way, fill your pipe,
+>_Grab on tight, look for the light and away we sail_
