@@ -43,7 +43,11 @@ module.exports = function(eleventyConfig) {
     }
     return content;
   });
- 
+  function compareTitles(a, b) {
+    const titleA = a.data.title.replace(/^the /i, '');
+    const titleB = b.data.title.replace(/^the /i, '');
+    return titleA.localeCompare(titleB);
+  }
   // only content in the `posts/` directory
   eleventyConfig.addCollection("posts", function(collection) {
     return collection.getAllSorted().filter(function(item) {
@@ -61,9 +65,7 @@ module.exports = function(eleventyConfig) {
         } else {
           return true;
         }
-      }).sort(function (a, b) {
-        return a.data.title.localeCompare(b.data.title)
-      });
+      }).sort(compareTitles);
 
       return songCollection
   });
@@ -73,9 +75,7 @@ module.exports = function(eleventyConfig) {
       return item.inputPath.match(/^\.\/songs\//) !== null;
     }).filter(function (item) {
       return item.data.published === true;
-    }).sort(function (a, b) {
-      return a.data.title.localeCompare(b.data.title)
-    });
+    }).sort(compareTitles);
 
     // Inject the song number so we have it for the URL and the numbering
     songCollection.forEach(function (a, i) {
