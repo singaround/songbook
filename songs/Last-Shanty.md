@@ -2,8 +2,8 @@
 templateKey: song
 title: Last Shanty
 published: true
-wordsBy: Traditional
-tuneBy: Traditional
+wordsBy: Tom Lewis
+tuneBy: Tom Lewis
 chorusLine: "Don’t haul on the rope, don’t climb up the mast"
 songLine: Well me father often told me when I was just a lad
 tags:
