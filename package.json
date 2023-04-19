@@ -23,7 +23,7 @@
   "homepage": "https://github.com/singaround/songbook",
   "devDependencies": {
     "@11ty/eleventy": "^0.7.1",
-    "luxon": "^1.11.0",
+    "luxon": "^1.28.1",
     "markdown-it": "^12.3.2"
   },
   "dependencies": {
