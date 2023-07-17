@@ -4,6 +4,7 @@
 backend:
   name: github
   repo: singaround/songbook
+  branch: main
 
 # Uncomment below to enable drafts
 # publish_mode: editorial_workflow
