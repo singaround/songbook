@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: The Last Leviathan
-published: false
+published: true
 wordsBy: Andy Barnes
 chorusLine: My soul has been torn from me and I am bleeding
 songLine: My soul has been torn from me and I am bleeding
@@ -60,4 +60,3 @@ And now we are all gone, there'll be no more hunting.
 The big fellow is no more and there is no use lamenting.
 What race will be next in line all for the slaughter?
 The elephant or the seals or your sons and daughters?
-
