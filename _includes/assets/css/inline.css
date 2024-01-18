@@ -78,3 +78,23 @@ input:not(:checked) ~ .checkbox-hidable {
 		padding: .3rem .3rem;
 	}
 }
+
+/*Hide stuff when printing */
+@media print {
+	.is-hidden-print {
+	display: none !important;
+	}
+	}
+
+/* Workaround for vertical centreing when printing that appears not to work */
+.is-vertical-center {
+	display: flex;
+	align-items: center;
+  }
+  @media print {
+    html, body, .page {
+        height: 100%;
+        padding: 0;
+        margin: 0;
+    }
+}
