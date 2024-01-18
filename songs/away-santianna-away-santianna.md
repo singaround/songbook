@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Away Santianna
-published: false
+published: true
 wordsBy: Pyrates Royale
 tuneBy: Traditional
 chorusLine: Away Santianna
