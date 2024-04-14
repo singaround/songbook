@@ -55,10 +55,10 @@ We worked like hell to save her, all heedless of the cost\
 But the groan she made as she went down, it caused us to proclaim\
 That the Mary Ellen Carter'd rise again
 
-_Rise again, rise again!_\
-_May her name not be lost to the knowledge of men_\
-_All those who loved her best and who were with her till the end_\
-_Will make the Mary Ellen Carter rise again!_
+> _Rise again, rise again!_\
+> _May her name not be lost to the knowledge of men_\
+> _All those who loved her best and who were with her till the end_\
+> _Will make the Mary Ellen Carter rise again!_
 
 Well, the comp'ny wrote her off, not a nickel would they spend\
 She gave 20 years of service, boys, and met a sorry end\
@@ -69,10 +69,10 @@ She's worth a quarter million afloatin' at the dock\
 And with every jar that hit the bar we swore we would remain\
 And make the Mary Ellen Carter rise again
 
-_Rise again, rise again!_\
-_May her name not be lost to the knowledge of men_\
-_All those who loved her best and who were with her till the end_\
-_Will make the Mary Ellen Carter rise again!_
+> _Rise again, rise again!_\
+> _May her name not be lost to the knowledge of men_\
+> _All those who loved her best and who were with her till the end_\
+> _Will make the Mary Ellen Carter rise again!_
 
 All spring now we've been with her on a barge lent by a friend\
 Three dives a day in a hard hat suit and twice I've had the bends\
@@ -84,10 +84,10 @@ Put cables to her fore and aft and girded her around\
 Tomorrow noon we'll hit the air and then take up the strain\
 And make the Mary Ellen Carter rise again
 
-_Rise again, rise again!_\
-_May her name not be lost to the knowledge of men_\
-_All those who loved her best and who were with her till the end_\
-_Will make the Mary Ellen Carter rise again!_
+> _Rise again, rise again!_\
+> _May her name not be lost to the knowledge of men_\
+> _All those who loved her best and who were with her till the end_\
+> _Will make the Mary Ellen Carter rise again!_
 
 Well, we couldn't leave her there, you see, to crumble into scale\
 She'd saved our lives so many times fightin' through the gale\
@@ -98,11 +98,11 @@ We're smiling bastards lying to you everywhere you go\
 Turn to and put out all your strength of arm and heart and brain\
 And like the Mary Ellen Carter, rise again
 
-_Rise again, rise again!_\
-_Though your heart it be broke and your life about to end_\
-_No matter what you lost, be it a home, a love, a friend_\
-_Like the Mary Ellen Carter, rise again!_\
-_Rise again, rise again!_\
-_Though your heart it be broke and your life about to end_\
-_No matter what you lost, be it a home, a love, a friend_\
-_Like the Mary Ellen Carter, rise again!_
+> _Rise again, rise again!_\
+> _Though your heart it be broke and your life about to end_\
+> _No matter what you lost, be it a home, a love, a friend_\
+> _Like the Mary Ellen Carter, rise again!_\
+> _Rise again, rise again!_\
+> _Though your heart it be broke and your life about to end_\
+> _No matter what you lost, be it a home, a love, a friend_\
+> _Like the Mary Ellen Carter, rise again!_
