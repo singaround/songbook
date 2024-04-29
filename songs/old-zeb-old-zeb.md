@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Old Zeb
-published: false
+published: true
 wordsBy: >-
   Larry Kaplan, crediting Bob Walser, Indian Neck, 1984 (who got it from Bruce
   Thompson)

@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: 'Row on, row on'
-published: false
+published: true
 wordsBy: Traditional
 tuneBy: Tim Laycock
 chorusLine: 'Row on, row on another day'
