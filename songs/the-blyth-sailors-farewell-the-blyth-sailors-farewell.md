@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title: The Blyth Sailor's Fairwell
+title: The Blyth Sailor's Farewell
 published: true
 wordsBy: James Anderson
 tuneBy: Carolina Oliphant
