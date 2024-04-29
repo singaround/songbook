@@ -23,21 +23,9 @@ Cold and slender as a secret river\
 And glamour folds within my hand\
 Like a salmon skin of beaten silver
 
-> My little fish slip off your skin
->
-> \
->
->
-> And leave it in the tide for gulls to plunder
->
-> \
->
->
-> And if you wish to walk or swim
->
-> \
->
->
+> My little fish slip off your skin\
+> And leave it in the tide for gulls to plunder\
+> And if you wish to walk or swim\
 > Let there be nothing in the world to hinder
 
 I cannot walk among your kin\
@@ -45,21 +33,9 @@ For after water, land seems so much harder\
 But I will fall from wandering\
 To land on beaten sand and fragile water
 
-> My little fish slip off your skin
->
-> \
->
->
-> And leave it in the tide for gulls to plunder
->
-> \
->
->
-> And if you wish to walk or swim
->
-> \
->
->
+> My little fish slip off your skin\
+> And leave it in the tide for gulls to plunder\
+> And if you wish to walk or swim\
 > Let there be nothing in the world to hinder
 
 There are other gifts than silver\
@@ -77,38 +53,14 @@ But as the ocean courts the strand\
 So generations may understand\
 We are all beaten sand and fragile water
 
-> My little fish slip off your skin
->
-> \
->
->
-> And leave it in the tide for gulls to plunder
->
-> \
->
->
-> And if you wish to walk or swim
->
-> \
->
->
+> My little fish slip off your skin\
+> And leave it in the tide for gulls to plunder\
+> And if you wish to walk or swim\
 > Let there be nothing in the world to hinder
 >
-> My little fish slip off your skin
->
-> \
->
->
-> And leave it in the tide for gulls to plunder
->
-> \
->
->
-> And if you wish to walk or swim
->
-> \
->
->
+> My little fish slip off your skin\
+> And leave it in the tide for gulls to plunder\
+> And if you wish to walk or swim\
 > Let there be nothing in the world to hinder
 
 There are other gifts than silver\
