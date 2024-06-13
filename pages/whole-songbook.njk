@@ -1,0 +1,70 @@
+---
+layout: layouts/base.njk
+title: Whole Songbook
+tags:
+navtitle: Whole Songbook
+date: 2019-03-03
+permalink: /whole-songbook/index.html
+---
+<section class="section">
+<div class="columns is-centered">
+<h1>The Auntie Shanty Songbook</h1>
+</div>
+<div class="columns is-centered is-vertical-center" style="page-break-after: always">
+<img src="/static/img/auntie-shanty-logo-with-text.png" />
+</div>
+<div class="is-hidden-print">
+If you'd like to use the Auntie Shanty songbook offline, you can either 'print' this page and create a PDF, or use your phone's browser to save it offline. 
+<br />
+<em>Note that as we add songs, your saved page will get out of sync with the online version, so it's worth checking back and getting an up-to-date version every so often</em>
+<h3><a href="#lineindex">Index by First Line</a></h3>
+<h3><a href="#chorusindex">Index by Chorus</h3>
+</div>
+</section>
+<section class="section">
+<h1 style="page-break-before: always">Contents</h1>
+{% set songslist = collections.numberedSongs %}
+{% include "components/songslist.njk" %}
+</section>
+<section class="section">
+<h1 style="page-break-before: always">Songs</h1>
+	{% for song in collections.numberedSongs %}
+		<article style="page-break-inside: avoid">
+			<h2>
+				<a href="{{ song.url | url }}">
+					{% if song.data.songNumber %}
+						{{ song.data.songNumber }}
+					{% else %}
+						_
+					{% endif %}
+					- 
+					{% if song.data.title %}
+						{{ song.data.title }}
+					{% else %}
+						Untitled
+					{% endif %}
+				</a>
+			</h2>
+			{{ song.templateContent | safe }}
+      <br />
+      {% if song.data.wordsBy %}<small>Words: {{ song.data.wordsBy }}</small><br />{% endif %}
+      {% if song.song.data.tuneBy %}<small>Tune: {{ song.data.tuneBy }}</small>{% endif %} 
+      {% if song.data.description %}
+      <small>There's more information about this song online at https://auntieshanty.org/n/{% if song.data.songNumber %}{{ song.data.songNumber }}{% else %}0{% endif %}</small>
+      {% endif %}
+  	</article>
+    <br />
+	{% endfor %}
+</section>
+<h1 id="lineindex" style="page-break-before: always">Index by First Line</h1>
+<section class="section">
+{% set indexlist = collections.songsByFirstline %}
+{% set indexItem = "songLine" %}
+{% include "components/indexlist.njk" %}
+</section>
+<h1 id="chorusindex" style="page-break-before: always">Index by Chorus</h1>
+<section class="section">
+{% set indexlist = collections.songsByChorus %}
+{% set indexItem = "chorusLine" %}
+{% include "components/indexlist.njk" %}
+</section>
