@@ -26,7 +26,7 @@ Not all of these will meet all definitions of feminism (especially some of the o
 * [Broadside](/songs/broadside/)
 * [Grace Darling](/songs/grace-darling/)
 * [Grace O'Malley](/songs/grace-omalley/)
-* [Female Sailor Bold](songs/female-sailor-bold/)
+* [Female Sailor Bold](/songs/female-sailor-bold/)
 * [Female Smuggler](/songs/female-smuggler/)
 * [Flora and James](/songs/flora-and-james/)
 * [Jeanne de Clisson (la belle dame sans merci)](/songs/jeanne-de-clisson-la-belle-dame-sans-merci/)
