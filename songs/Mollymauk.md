@@ -4,7 +4,7 @@ title: Mollymauk
 published: true
 wordsBy: Bob Watson
 tuneBy: Bob Watson
-chorusLine: 'Won’t you ride the wind and go, white seabird'
+chorusLine: Won’t you ride the wind and go, white seabird
 songLine: Oh the southern ocean is a lonely place
 tags:
   - song
@@ -12,6 +12,9 @@ date: 2019-03-07T08:05:12.000Z
 description: >-
   Mollymauk is another name for the albatross and one superstition was that the
   soul of a drowned sailor would fly forever as an albatross.
+
+
+  There are a lot of songs that use 'he' by default, so we've switched the pronouns here, because why not?
 ---
 Oh the southern ocean is a lonely place\
 Where the storms are many and the shelter's scarce\
@@ -27,11 +30,11 @@ _Ride the wind and go, Mollymauk_\
 _Down upon the southern ocean sailing_\
 _Down below Cape Horn_
 
-See the Mollymauk floatin' on his wide white wings\
-And Lord, what a lonely song he sings\
+See the Mollymauk floatin' on her wide white wings\
+And Lord, what a lonely song she sings\
 _Down upon the southern ocean sailing_\
 _Down below Cape Horn_\
-And he's got no compass and he's got no gear\
+And she's got no compass and she's got no gear\
 And there's none can tell you how the Mollymauks steer\
 _Down upon the southern ocean sailing_\
 _Down below Cape Horn_
@@ -41,12 +44,12 @@ _Ride the wind and go, Mollymauk_\
 _Down upon the southern ocean sailing_\
 _Down below Cape Horn_\
 \
-He's the ghost of a sailor-man as I've heard say\
-Whose body sank, and his soul flew away\
+She's the ghost of a sailor-woman I've heard say\
+Whose body sank, and her soul flew away\
 _Down upon the southern ocean sailing_\
 _Down below Cape Horn_\
-And he's got no haven and he's got no home\
-He's bound evermore for to wheel and roam\
+And she's got no haven and she's got no home\
+She's bound evermore for to wheel and roam\
 _Down upon the southern ocean sailing_\
 _Down below Cape Horn_
 
