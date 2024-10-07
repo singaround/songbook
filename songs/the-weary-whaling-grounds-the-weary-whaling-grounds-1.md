@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: The Weary Whaling Grounds
-published: true
+published: false
 wordsBy: Traditional
 tags:
   - song
