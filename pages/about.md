@@ -1,6 +1,6 @@
 ---
 title: About us
-date: 2019-03-13T00:00:00.000Z
+date: 2024-10-08T00:00:00.000Z
 permalink: /about/index.html
 navtitle: About
 tags:
@@ -117,4 +117,4 @@ Join the Auntie Shanty Oxford facebook group, have a look at the website at [www
 
 # When & Where is the next session?
 
-Auntie sessions are on the 3rd Monday of every month, at the [Jolly Farmers, Oxford](https://www.jollyfarmers-oxford.co.uk/)
+Auntie sessions are on the 1st Monday of every month, at the [Jolly Farmers, Oxford](https://www.jollyfarmers-oxford.co.uk/)
