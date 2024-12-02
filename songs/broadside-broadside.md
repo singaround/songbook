@@ -25,6 +25,9 @@ description: >-
   Session](https://www.folkbytheoak.com/elizabethan-session/), commissioned by
   Folk by the Oak and the English Folk Dance and Song Society. Nancy has kindly
   given us permission to reproduce the lyrics here.
+
+  One of our regulars has contributed a third verse using two couplets from
+  the poems of Cicely Fox Smith.
 ---
 Keep your land you gentry of England, France and Spain\
 For there’s nothing like dominion of the water\
@@ -40,6 +43,13 @@ Plunder men for treasure, and never heed their blows\
 For there’s nothing given freely to a woman\
 Be generous to friendship and lavish to your foes\
 Then pirate queens may share the seas in common
+
+_Broadside to broadside, two captains collide..._
+
+Blades are bared for battle, these queens of half the world\
+And cannons primed and ready with their thunder\
+They know just what they fight for when the flag o’ war’s unfurled\
+It’s freedom they’ll be seizing with their plunder
 
 _Broadside to broadside, two captains collide..._
 
