@@ -48,7 +48,7 @@ We next saw a thresher, as strong as a horse.\
 He says ‘you old skipper, you’re miles off your course’\
 In this…
 
-We next saw the conga, as long as a mile.\
+We next saw the conger, as long as a mile.\
 ‘Wind’s rising easterly’ he says with a smile.\
 In this…
 
