@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: My Mother's Savage Daughter
-published: true
+published: false
 wordsBy: c.1990 k.l. u. kahan
 tuneBy: c.1990 k.l. u. kahan
 chorusLine: I am my mother’s savage daughter
