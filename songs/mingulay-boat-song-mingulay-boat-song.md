@@ -12,7 +12,7 @@ date: 2019-03-14T20:47:06.251Z
 description: __
 ---
 >Hill-yo-ho, boys! Let her go, boys!\
->Bring her head round, and all together.\
+>Bring her head round, into the weather.\
 >Hill-yo-ho, boys! Let her go, boys,\
 >Sailing homeward to Mingulay.
 
@@ -22,7 +22,7 @@ Pull her round, boys, every inch is\
 Heading homeward to Mingulay.
 
 >Hill-yo-ho, boys! Let her go, boys!\
->Bring her head round, and all together.\
+>Bring her head round, into the weather.\
 >Hill-yo-ho, boys! Let her go, boys,\
 >Sailing homeward to Mingulay.
 
@@ -32,7 +32,7 @@ They'll return though, when the sun sets\
 They'll return to Mingulay.
 
 >Hill-yo-ho, boys! Let her go, boys!\
->Bring her head round, and all together.\
+>Bring her head round, into the weather.\
 >Hill-yo-ho, boys! Let her go, boys,\
 >Sailing homeward to Mingulay.
 
@@ -42,6 +42,6 @@ Let her go boys, and we'll anchor\
 'Ere the sun sets on Mingulay.
 
 >Hill-yo-ho, boys! Let her go, boys!\
->Bring her head round, and all together.\
+>Bring her head round, into the weather.\
 >Hill-yo-ho, boys! Let her go, boys,\
 >Sailing homeward to Mingulay.
