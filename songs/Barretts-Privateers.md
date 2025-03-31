@@ -9,6 +9,9 @@ songLine: 'Oh, the year was 1778'
 tags:
   - song
 date: 2019-03-07T08:05:12.000Z
+
+description: >-
+ This is quite a long one, so if you decide to lead this, be prepared! It doesn't hurt to keep it pacey!
 ---
 Oh, the year was 1778\
 _How I wish I was in Sherbrooke now_\
@@ -35,10 +38,10 @@ And the cook in the scuppers with the staggers and jags
 
 On the King's birthday we put to sea\
 _How I wish I was in Sherbrooke now_\
-We were 91 days to Montego Bay\
+We were ninety-one days to Montego Bay\
 Pumping like madmen all the way
 
-On the 96th day we sailed again\
+On the ninety-sixth day we sailed again\
 _How I wish I was in Sherbrooke now_\
 When a bloody great Yankee hove in sight\
 With our cracked four pounders we made to fight
@@ -58,7 +61,7 @@ _How I wish I was in Sherbrooke now_\
 Barrett was smashed like a bowl of eggs\
 And the main truck carried off both me legs
 
-So here I lay in my 23rd year\
+So here I lay in my twenty-third year\
 _How I wish I was in Sherbrooke now_\
-It's been 6 years since we sailed away\
+It's been six years since we sailed away\
 And I just made Halifax yesterday
