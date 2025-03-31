@@ -12,10 +12,9 @@ tags:
 date: 2019-11-11T20:09:38.788Z
 description: >-
   Nancy Kerr generously gave us permission to reproduce lyrics of her original
-  sea songs. Fragile Water, from the album[
-  Instar](https://nancykerr.co.uk/product/instar-exclusive-signed-copy/), 
+  sea songs. Fragile Water, from the album Instar, 
   explores gender fluidity, transition and transformation, inspired by Orkney
-  folk song 'The Grey Selkie of Sule Skerry'. In folkore, selkies shed their
+  folk song 'The Grey Selkie of Sule Skerry'. In folklore, selkies shed their
   seal skin to become human on land.
 ---
 I am a man upon the land\
@@ -23,20 +22,20 @@ Cold and slender as a secret river\
 And glamour folds within my hand\
 Like a salmon skin of beaten silver
 
-> My little fish slip off your skin\
-> And leave it in the tide for gulls to plunder\
-> And if you wish to walk or swim\
-> Let there be nothing in the world to hinder
+>_My little fish slip off your skin_\
+>_And leave it in the tide for gulls to plunder_\
+>_And if you wish to walk or swim_\
+>_Let there be nothing in the world to hinder_
 
 I cannot walk among your kin\
 For after water, land seems so much harder\
 But I will fall from wandering\
 To land on beaten sand and fragile water
 
-> My little fish slip off your skin\
-> And leave it in the tide for gulls to plunder\
-> And if you wish to walk or swim\
-> Let there be nothing in the world to hinder
+>_My little fish slip off your skin_\
+>_And leave it in the tide for gulls to plunder_\
+>_And if you wish to walk or swim_\
+>_Let there be nothing in the world to hinder_
 
 There are other gifts than silver\
 Like another word for lover\
@@ -53,15 +52,15 @@ But as the ocean courts the strand\
 So generations may understand\
 We are all beaten sand and fragile water
 
-> My little fish slip off your skin\
-> And leave it in the tide for gulls to plunder\
-> And if you wish to walk or swim\
-> Let there be nothing in the world to hinder
+>_My little fish slip off your skin_\
+>_And leave it in the tide for gulls to plunder_\
+>_And if you wish to walk or swim_\
+>_Let there be nothing in the world to hinder_
 >
-> My little fish slip off your skin\
-> And leave it in the tide for gulls to plunder\
-> And if you wish to walk or swim\
-> Let there be nothing in the world to hinder
+>_My little fish slip off your skin_\
+>_And leave it in the tide for gulls to plunder_\
+>_And if you wish to walk or swim_\
+>_Let there be nothing in the world to hinder_
 
 There are other gifts than silver\
 Like another word for lover\
@@ -72,4 +71,4 @@ There are other gifts for silver\
 Like another word for lover\
 If we only hold each other\
 We are beaten sand and fragile water\
-We are beaten sand and fragile water
+_We are beaten sand and fragile water_
