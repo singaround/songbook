@@ -57,4 +57,9 @@ You’d be better on the sea like brave O’Malley\
 And when that gallant vessel goes a rolling on the wave\
 Be sure you’re on the deck not in the galley
 
->_Broadside to broadside, two captains collide..._
+>_Broadside to broadside, two captains collide_\
+>_Queen of the spheres and queen of the tide_\
+>_Regalia and rebellion go sailing side by side_\
+>_Haul away, sister,_\
+>_Haul away, sister,_\
+>_Haul away, sister, haul away_
