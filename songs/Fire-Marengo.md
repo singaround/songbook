@@ -14,31 +14,32 @@ description: >-
   compress and force bales of cotton into the hold until they were packed solid.
   There's no consensus on what 'Marengo' means.
 ---
-Lift him up and carry him along
-
-> _Fire Marengo, fire away!_
-
-Stow him down where he belongs
-
-> _Fire Marengo, fire away!_
+Lift him up and carry him along\
+_Fire Marengo, fire away!_\
+Stow him down where he belongs\
+_Fire Marengo, fire away!_
 
 Ease him in and let him lay\
-We'll screw him down and there he'll stay
+_Fire Marengo, fire away!_\
+We'll screw him down and there he'll stay\
+_Fire Marengo, fire away!_
 
 Stow him down in the hold below\
-Screw him down and then we'll go
+_Fire Marengo, fire away!_\
+Screw him down and then we'll go\
+_Fire Marengo, fire away!_
 
 When I get back to London town\
-I'll pass my line to little Sally Brown
-
-Sally she's a pretty little craft\
-She's sharp to the fore with a rounded aft
-
-I'll haul her high I'll haul her low\
-I'll bust her blocks and make her go
+_Fire Marengo, fire away!_\
+I'll pass my line to pretty Sally Brown\
+_Fire Marengo, fire away!_
 
 Screw the cotton, screw him down\
-Bound away from Hilo Town
+_Fire Marengo, fire away!_\
+Bound away from Hilo Town\
+_Fire Marengo, fire away!_
 
 Thought I heard the old man say\
-That's one last turn and then belay
+_Fire Marengo, fire away!_\
+That's one last turn and then belay\
+_Fire Marengo, fire away!_
