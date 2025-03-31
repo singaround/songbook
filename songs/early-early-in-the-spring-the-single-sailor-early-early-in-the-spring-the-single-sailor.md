@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title: 'Early, early in the spring / The single sailor'
+title: 'Early, Early in the Spring / The Single Sailor'
 published: true
 wordsBy: Traditional
 tuneBy: Traditional
