@@ -12,36 +12,36 @@ tags:
 date: 2019-03-13T22:54:34.527Z
 ---
 The Navy would never have a lass at sea\
-_Away Santianna_\
+*Away Santianna*\
 So I went in search of piracy\
-_All Along the coast of Mexico_
+*All along the coast of Mexico*
 
->So heave her up and away we'll go\
->_Heave away Santianna_\
->To Mexico where the warm winds blow\
->_All Along the coast of Mexico_
+> So heave her up and away we'll go\
+> *Heave away Santianna*\
+> To Mexico where the warm winds blow\
+> *All along the coast of Mexico*
 
 And now we sail the Southern Seas\
-_Away Santianna_\
+*Away Santianna*\
 And we'll have those lads down on their knees\
-_All Along the coast of Mexico_
+*All along the coast of Mexico*
 
 In Mexico I want to be\
-_Away Santianna_\
+*Away Santianna*\
 With a cask of rum on a drinkin' spree\
-_All Along the coast of Mexico_
+*All along the coast of Mexico*
 
 When I was a young lass in my prime\
-_Away Santianna_\
+*Away Santianna*\
 I had them Irish lads two at a time\
-_All Along the coast of Mexico_
+*All along the coast of Mexico*
 
 But I'd never leave the sea to settle down\
-_Away Santianna_\
+*Away Santianna*\
 When I can have a man in every town\
-_All Along the coast of Mexico_
+*All along the coast of Mexico*
 
 The times is hard and the riches low\
-_Away Santianna_\
+*Away Santianna*\
 But we pirates must "row and yo”\
-_All Along the coast of Mexico_
+*All along the coast of Mexico*
