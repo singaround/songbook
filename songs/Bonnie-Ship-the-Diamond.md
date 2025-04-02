@@ -44,37 +44,16 @@ Though you be left behind\
 For the rose will grow on Greenland's ice\
 Before we change our mind
 
-> _For it's cheer up my lads_\
-> _Let your hearts never fail_\
-> _For the bonnie ship the Diamond_\
-> _Goes a-hunting for the whale_
+> _For it's cheer up my lads_
 
-Here's a health to the _Resolution_\
-Likewise the _Eliza Swan_\
-Three cheers for the _Battler of Montrose_\
-And the _Diamond_, ship of fame
+Here's a health to the Resolution\
+Likewise the Eliza Swan\
+Three cheers for the Battler of Montrose\
+And the Diamond, ship of fame
 
 We wear the trousers of the white\
 The jackets of the blue\
 When we get back to Peterhead\
 We'll have full pockets too
 
-> _For it's cheer up my lads_\
-> _Let your hearts never fail_\
-> _For the bonnie ship the Diamond_\
-> _Goes a-hunting for the whale_
-
-It will be bright both day and night\
-When the Greenland lads come home\
-Our ship full up with oil, my lads\
-And money to our name
-
-We'll make the cradles for to rock\
-And the blankets for to tear\
-And every lass in Peterhead sing\
-"Hushabye, my dear"
-
-_For it's cheer up my lads_\
-_Let your hearts never fail_\
-_For the bonnie ship the Diamond_\
-_Goes a-hunting for the whale_
+> _For it's cheer up my lads_

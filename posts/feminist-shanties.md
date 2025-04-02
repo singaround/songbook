@@ -11,7 +11,7 @@ As [Auntie Shanty](/about) aims to be an inclusive session, a lot of the songs i
 
 While this makes the [songbook's songs](/songs) great for singing with a broad group, it doesn't by any means leave the edited songs with feminist lyrics. For someone approaching the site for the first time flicking through more than 100 songs, you might find an awful lot more geographical and nautical terms than you do kickass women.
 
-Luckily, we do have some more explicitly feminist shanties in the colleciton. This post is here for people seeking the more deliberately feminist shanties from the songbook. As with everything here, it's a work in progress - if we missed things please get in touch, or [edit the page](/posts/editing-the-songbook/).
+Luckily, we do have some more explicitly feminist shanties in the collection. This post is here for people seeking the more deliberately feminist shanties from the songbook. As with everything here, it's a work in progress - if we missed things please get in touch, or [edit the page](/posts/editing-the-songbook/).
 
 Not all of these will meet all definitions of feminism (especially some of the older broadside ballads about female sailors) but I felt a more inclusive list was appropriate.
 

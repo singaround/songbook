@@ -15,6 +15,8 @@ tags:
   - adversity
 date: 2023-13-04T18:06:27.563Z
 description: >-
+  Typically folk don't sing the chorus between the first & second verses (Stan Rogers included), but you're welcome to add it in if you feel like it.
+
   A song about a sunken ship, but also about hope and common humanity,
   and triumph over adversity.
 
@@ -54,11 +56,6 @@ There were just us four aboard her when she finally was awash\
 We worked like hell to save her, all heedless of the cost\
 But the groan she made as she went down, it caused us to proclaim\
 That the Mary Ellen Carter'd rise again
-
-> _Rise again, rise again!_\
-> _May her name not be lost to the knowledge of men_\
-> _All those who loved her best and who were with her till the end_\
-> _Will make the Mary Ellen Carter rise again!_
 
 Well, the comp'ny wrote her off, not a nickel would they spend\
 She gave 20 years of service, boys, and met a sorry end\

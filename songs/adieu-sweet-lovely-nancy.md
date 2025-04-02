@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title: 'Adieu, sweet lovely Nancy'
+title: 'Adieu, Sweet Lovely Nancy'
 published: true
 wordsBy: Traditional
 tuneBy: Traditional

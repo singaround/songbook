@@ -10,9 +10,8 @@ tags:
   - smuggler
 date: 2019-03-13T22:28:39.596Z
 description: >-
-  Many copies of this popular [broadside
-  ballad](http://ballads.bodleian.ox.ac.uk/static/images/sheets/20000/17651.gif)
-  survive. The ending, with the smuggler dressing as a bride to encourage a
+  Many copies of this popular broadside
+  ballad survive. The ending, with the smuggler dressing as a bride to encourage a
   marriage that saves her life, recalls the (somewhat garbled and unreliable)
   story that pirates Mary Read and/or Anne Bonny were saved from hanging by
   pregnancy.

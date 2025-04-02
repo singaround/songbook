@@ -8,6 +8,7 @@ chorusLine: 'Windy old weather, stormy old weather.'
 songLine: As we were a fishing off Happisburgh Light
 tags:
   - song
+  - herring
 date: 2019-11-11T20:02:47.381Z
 description: >-
   Transcribed from a recording of Joe Latter, this song appears on some
