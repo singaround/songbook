@@ -17,7 +17,7 @@ So sturdy and so stout\
 What he is thinking of\
 He only knows himself\
 Oh, we wish that he would hurry up\
-And strike, strike the bell
+And **strike, strike the bell**
 
 > ***Strike the bell, Second Mate***\
 > ***Let us go below***\
@@ -35,7 +35,7 @@ Ready for their bunks\
 Over to windward\
 They see a great swell\
 They're wishing that the Second Mate\
-Would strike, strike the bell
+Would **strike, strike the bell**
 
 Aft at the wheel\
 Poor Anderson stands\
@@ -44,7 +44,7 @@ In his cold, mittened hands\
 Looking at the compass\
 The course is clear as hell\
 He's wishing that the Second Mate\
-Would strike, strike the bell
+Would **strike, strike the bell**
 
 For'ad in the fo'c'sle head\
 Keeping sharp lookout\
@@ -53,7 +53,7 @@ Ready for to shout\
 "lights' burning bright, Sir\
 And everything is well"\
 He's wishing that the Second Mate\
-Would strike, strike the bell
+Would **strike, strike the bell**
 
 Aft the quarterdeck\
 The gallant Captain stands\
@@ -62,4 +62,4 @@ With his glasses in his hand\
 What he is thinking of\
 We know very well\
 He's thinking more of shortening sail\
-Than strike, strike the bell
+Than **strike, strike the bell**
