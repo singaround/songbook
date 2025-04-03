@@ -25,24 +25,24 @@ _Bold Riley-oh, bold Riley,_\
 And the folks we're leaving we'll never forget,\
 _Bold Riley-oh has gone away!_
 
->_Goodbye my sweetheart, goodbye my dear-o,_\
->_Bold Riley-oh, bold Riley,_\
->_Goodbye my darling, goodbye my dear-o,_\
->_Bold Riley-oh has gone away._
+> _Goodbye my sweetheart, goodbye my dear-o,_\
+> _Bold Riley-oh, bold Riley,_\
+> _Goodbye my darling, goodbye my dear-o,_\
+> _Bold Riley-oh has gone away._
 
 Wake up Mary Ellen, don't look so glum,\
 _Bold Riley-oh, bold Riley,_\
 On Whitestocking day, you'll be drinking rum\
 _Bold Riley-oh has gone away!_
 
->_Goodbye my sweetheart, goodbye my dear-o,_
+> _Goodbye my sweetheart, goodbye my dear-o,_
 
 The rain it rains all day long,\
 _Bold Riley-oh, bold Riley,_\
 And the Northern Gale, it blows so strong,\
 _Bold Riley-oh has gone away!_
 
->_Goodbye my sweetheart, goodbye my dear-o,_
+> _Goodbye my sweetheart, goodbye my dear-o,_
 
 So we're outward bound for the Bengal Bay,\
 _Bold Riley-oh, bold Riley,_\

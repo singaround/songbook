@@ -26,10 +26,10 @@ I know it sounds absurd\
 She ran the brig to Martinique\
 Past that we haven't heard
 
->_She'll steal the pennies off your eyes before your corpse is cold_\
->_And wear your guts as garters before your shirt's been sold_\
->_But generous to a fault, they say she'd give away her coat_\
->_And if you're caught asleep on watch, she'll slit your bloody throat_
+> _She'll steal the pennies off your eyes before your corpse is cold_\
+> _And wear your guts as garters before your shirt's been sold_\
+> _But generous to a fault, they say she'd give away her coat_\
+> _And if you're caught asleep on watch, she'll slit your bloody throat_
 
 The Spanish were full terrified\
 She'd cleaned off all their decks\

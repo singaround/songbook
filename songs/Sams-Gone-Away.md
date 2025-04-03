@@ -8,11 +8,11 @@ date: 2019-03-07T08:05:12.000Z
 ---
 I wish I was a cabin boy, aboard a Man O\'War
 
->Sam\'s gone away, aboard a Man O\'War
+> Sam\'s gone away, aboard a Man O\'War
 
 I wish I was a cabin boy, aboard a Man O\'War
 
->Sam\'s gone away, aboard a Man O\'War
+> Sam\'s gone away, aboard a Man O\'War
 Pretty work, brave boys
 Pretty work, I say
 Sam\'s gone away, aboard a Man O\'War

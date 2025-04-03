@@ -20,28 +20,28 @@ From bonnie Blyth Harbour leaving friends old and new\
 To parents and wives and sweethearts a-dear\
 Let us join in one chorus with hearty good cheer
 
->_Then trusting our vessel to captain and mate_\
->_For health and for fortune we're subject to fate_\
->_But we'll dare even death on the wide-ranging main_\
->_And return to Blyth Harbour again and again_
+> _Then trusting our vessel to captain and mate_\
+> _For health and for fortune we're subject to fate_\
+> _But we'll dare even death on the wide-ranging main_\
+> _And return to Blyth Harbour again and again_
 
 They'll leave home contented quite Blyth-some and gay\
 Fighting the ocean so far far away\
 Seeking for cargo in many a strange shore\
 Then turn her around for Blyth Harbour once more
 
->_Then trusting our vessel to captain and mate_
+> _Then trusting our vessel to captain and mate_
 
 We're loaded with coal to Holland we're bound\
 Then away on down channel where trade can be found\
 Calling ports there from France through to Spain\
 With a westerly breeze turning homeward again
 
->_Then trusting our vessel to captain and mate_
+> _Then trusting our vessel to captain and mate_
 
 Then heave her home boys we are now homeward bound\
 With a valuable cargo no matter where found\
 With fair wind and weather we'll soon be ashore\
 Safe-anchored in bonnie Blyth Harbour once more
 
->_Then trusting our vessel to captain and mate_
+> _Then trusting our vessel to captain and mate_
