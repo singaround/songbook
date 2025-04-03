@@ -18,34 +18,47 @@ description: >-
   be totally historically in keeping to shorten (or even lengthen!) the song to
   match the occasion.
 ---
-They call me hanging Johnny,
-
-> ***Away, boys, away!***
-
-They say I hang for money!
-
-> ***So hang, boys, hang down!***
+They call me hanging Johnny,\
+**Away, boys, away!**\
+They say I hang for money!\
+**Away, boys, away!**
 
 They say I hanged my mother,\
-My sisters and my brothers
+**Away, boys, away!**\
+My sisters and my brothers\
+**Away, boys, away!**
 
 They say I hanged my granny,\
-I strung her up so canny
+**Away, boys, away!**\
+I strung her up so canny\
+**Away, boys, away!**
 
 They say I hung a copper,\
-I gave him the long dropper
+**Away, boys, away!**\
+I gave him the long dropper\
+**Away, boys, away!**
 
 I'd hang the mates and skippers,\
-I'd hang 'em by their flippers
+**Away, boys, away!**\
+I'd hang 'em by their flippers\
+**Away, boys, away!**
 
 A rope, a beam, a ladder,\
-I'll hang ye all together
+**Away, boys, away!**\
+I'll hang ye all together\
+**Away, boys, away!**
 
 Hang 'em from the yardarm,\
-Hang the sea and buy a pigfarm
+**Away, boys, away!**\
+Hang the sea and buy a pigfarm\
+**Away, boys, away!**
 
 They say I hang for money,\
-I hang because it's funny
+**Away, boys, away!**\
+I hang because it's funny\
+**Away, boys, away!**
 
 They call me hanging Johnny,\
-Ain't never hanged nobody
+**Away, boys, away!**\
+Ain't never hanged nobody\
+**Away, boys, away!**
