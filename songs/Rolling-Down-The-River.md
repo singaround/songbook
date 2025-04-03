@@ -1,55 +1,51 @@
 ---
 templateKey: song
-title: Rolling Down The River  
-wordsBy:
-tuneBy:
-chorusLine:
-songLine:
+title: Rolling Down The River
+published: false
+wordsBy: Jack Forbes (adapted by Auntie Shanty)
+tuneBy: Jack Forbes
+chorusLine: Rolling up! rolling down!
+songLine: I once was a rigger and I worked like hell
 tags:
   - song
 description:
 date: 2019-03-07T08:05:12.000Z
 ---
-Oh! I once was a rigger and I worked like hell.
 
-Rolling up, rolling down,
+I once was a rigger and I worked like hell\
+***Rolling up, rolling down!***\
+And now I’m a sailor with the OCL\
+***I go rolling down the river!***
 
-But now I\'m sailing with the OCL
+>***Rolling up! rolling down!\
+We’ll all get drunk in Tilbury town,\
+Twenty-four hours we’ll turn around\
+And go rolling down the river***
 
-And go rolling down the river.
+Now the work is good and the wages fine\
+***Rolling up, rolling down!***\
+When you make a trip in a container line\
+***And go rolling down the river!***
 
-Rolling up, rolling down.
+>***Rolling up! rolling down!...***
 
-We\'ll all get drunk in Tilbury town
+Now the cargo comes in TEUs\
+***Rolling up, rolling down!***\
+That’s a twenty-foot box, boys, full of booze\
+***To go rolling down the river!***
 
-Twenty four hours to turn around.
+>***Rolling up! rolling down!...***
 
-And go rolling down the river.
+When first I saw a TEU\
+***Rolling up, rolling down!***\
+I wondered where they stowed the crew\
+***To go rolling down the river!***
 
-When first I saw a TEU.
+>***Rolling up! rolling down!...***
 
-I wondered where they stowed the crew
+Now we’re the boys to sail ’em through
+***Rolling up, rolling down!***\
+To hell with the channel and the TEUs!\
+***We'll go rolling down the river!***
 
-To go rolling down the river.
-
-Well cargo comes in TEU\'s.
-
-A 20 foot box, boys, filled with booze.
-
-There\'s a Tilbury girl called kettle Jane.
-
-First on the boil then off again.
-
-She\'s got a mate called teapot Anne.
-
-She gets well brewed, she likes a man.
-
-Tilbury girls go round in pairs,
-
-You won\'t catch them unawares.
-
-Well, we\'re the boys to see her through.
-
-So to hell the channel and the TEU.
-
-Let\'s roll down the river.
+>***Rolling up! rolling down!***
