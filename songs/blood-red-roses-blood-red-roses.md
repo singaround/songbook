@@ -12,7 +12,7 @@ date: 2019-03-14T19:43:26.974Z
 ---
 Our boots and clothes is all in pawn,\
 ***Go down, you blood red roses, go down!***\
-And its flamin' drafty 'round Cape Horn.\
+And it's flamin' drafty 'round Cape Horn.\
 ***Go down, you blood red roses, go down!***
 
 > ***Oh, you pinks and posies,***\
@@ -20,7 +20,8 @@ And its flamin' drafty 'round Cape Horn.\
 
 It's 'round that cape we all must go,\
 ***Go down, you blood red roses, go down!***\
-Around all stiff through the frost and snow.
+Around all stiff through the frost and snow.\
+***Go down, you blood red roses, go down!***
 
 > ***Oh, you pinks and posies...***\
 > ***Go down, you blood red roses, go down!***
