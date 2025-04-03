@@ -12,31 +12,31 @@ date: 2019-03-14T21:05:57.570Z
 description: ''
 ---
 Did you ever see the wild goose sailing on the ocean\
-_Ranzo my boys oh Ranzo Ray_\
+***Ranzo my boys oh Ranzo Ray***\
 They're just like them pretty girls when they get the notion\
 Ranzo my boys oh Ranzo Ray
 
 Chorus:
 
-_Ranzo you'll rue the day_\
-_As the wild goose sails away_
+***Ranzo you'll rue the day***\
+***As the wild goose sails away***
 
 As I was walking one evening by the river\
-_Ranzo my boys oh Ranzo Ray_\
+***Ranzo my boys oh Ranzo Ray***\
 I met with a pretty girl my heart it was a quiver\
-_Ranzo my boys oh Ranzo Ray_
+***Ranzo my boys oh Ranzo Ray***
 
-_(Chorus x 2)_
+***(Chorus x 2)***
 
 I said how are you doing this morning\
-_Ranzo my boys oh Ranzo Ray_\
+***Ranzo my boys oh Ranzo Ray***\
 She said none the better for the seeing of you\
-_Ranzo my boys oh Ranzo Ray_
+***Ranzo my boys oh Ranzo Ray***
 
-_(Chorus x 2)_
+***(Chorus x 2)***
 
 You broke my heart oh you broke it full sore\
-_Ranzo my boys oh Ranzo Ray_\
+***Ranzo my boys oh Ranzo Ray***\
 If I sail like the wild goose\
 You'll break it no more\
-_Ranzo my boys oh Ranzo Ray_
+***Ranzo my boys oh Ranzo Ray***

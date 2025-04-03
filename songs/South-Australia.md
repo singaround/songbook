@@ -11,19 +11,19 @@ date: 2019-03-07T08:05:12.000Z
 ---
 In South Australia I was born
 
-> (To me) heave away, haul away
+> ***(To me) heave away, haul away***
 
 In South Australia round Cape Horn
 
-> We're bound for South Australia
+> ***We're bound for South Australia***
 
 Haul away you rolling Kings
 
-> (To me) heave away, haul away
+> ***(To me) heave away, haul away***
 
 Haul away, you'll hear me sing
 
-> We're bound for South Australia
+> ***We're bound for South Australia***
 
 As I walked out one morning fair
 

@@ -17,21 +17,16 @@ description: >-
 ---
 Pour retrouver ma douce amie
 
->    Oh mes boués, ouh là ouh là là.
+> ***Oh mes boués, ouh là ouh là là.***
 
 Pour retrouver ma douce amie
 
->    Oh mes boués, ouh là ouh là là.
->
-> Pique la baleine, joli baleinier
->
-> \
->
->
-> Pique la baleine, je veux naviguer.
+> ***Oh mes boués, ouh là ouh là là.***\
+> ***Pique la baleine, joli baleinier***\
+> ***Pique la baleine, je veux naviguer.***
 
-Aux mille mers j'ai navigué.\
-\
+Aux mille mers j'ai navigué.
+
 Des mers du nord aux mers du sud.
 
 Je l'ai retrouvée quand j'm'ai noyé.
@@ -42,21 +37,18 @@ Tous deux ensemble on a pleuré.
 
 En couple à elle, j'm'suis couché.
 
-
-
-English translation:
-
-To find my sweet love,
-
->    Oh my boys, oh la la,
+English translation
+---
 
 To find my sweet love,
 
->    Oh my boys, oh la la,
->
-> Lance the whale, jolly whalerman,
->
-> You lance the whale, I'll steer.
+> ***Oh my boys, oh la la,***
+
+To find my sweet love,
+
+> ***Oh my boys, oh la la,***\
+> ***Lance the whale, jolly whalerman,***\
+> ***You lance the whale, I'll steer.***
 
 I sailed many seas
 

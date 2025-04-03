@@ -32,10 +32,10 @@ Pure as the air around her, of danger ne'er afraid.\
 One morning just at daybreak a storm-tossed wreck she spied.\
 Although to try seemed madness,"I'll save the crew," she cried.
 
-_And she pulled away o'er the rolling seas, over the waters blue._\
-_"Help, help": she could hear the cry of the shipwrecked crew;_\
-_But Grace had an English heart: the raging storm she braved;_\
-_She pulled away 'mid the dashing spray, and the crew she saved._
+***And she pulled away o'er the rolling seas, over the waters blue.***\
+***"Help, help": she could hear the cry of the shipwrecked crew;***\
+***But Grace had an English heart: the raging storm she braved;***\
+***She pulled away 'mid the dashing spray, and the crew she saved.***
 
 They to the rocks were clinging, a crew of nine, all told;\
 Between them and the lighthouse the seas like mountains rolled.\

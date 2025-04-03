@@ -29,10 +29,10 @@ To sail the ocean wide\
 Where the sun it never sets, my lads\
 Nor darkness dims the sky
 
-> _For it's cheer up my lads_\
-> _Let your hearts never fail_\
-> _For the bonnie ship the Diamond_\
-> _Goes a-hunting for the whale_
+> ***For it's cheer up my lads***\
+> ***Let your hearts never fail***\
+> ***For the bonnie ship the Diamond***\
+> ***Goes a-hunting for the whale***
 
 Along the quay at Peterhead\
 The lasses stand around\
@@ -44,7 +44,7 @@ Though you be left behind\
 For the rose will grow on Greenland's ice\
 Before we change our mind
 
-> _For it's cheer up my lads_
+> ***For it's cheer up my lads***
 
 Here's a health to the Resolution\
 Likewise the Eliza Swan\
@@ -56,4 +56,4 @@ The jackets of the blue\
 When we get back to Peterhead\
 We'll have full pockets too
 
-> _For it's cheer up my lads_
+> ***For it's cheer up my lads***

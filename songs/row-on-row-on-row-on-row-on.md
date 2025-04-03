@@ -18,10 +18,10 @@ There's thunder in the wind.
 Row on, row on and homeward hie,
 Nae give one look behind.
 
-> Row on, row on, another day
-> May shine with brighter light.
-> Ply, ply the oars and haul away,
-> There's dawn beyond the night.
+> ***Row on, row on, another day***\
+> ***May shine with brighter light.***\
+> ***Ply, ply the oars and haul away,***\
+> ***There's dawn beyond the night.***
 
 Bear where thou goest these words of love,
 Say all that words can say.

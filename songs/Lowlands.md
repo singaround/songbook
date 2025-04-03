@@ -19,11 +19,11 @@ description: >-
 
 I dreamed a dream the other night
 
-> _Lowlands, lowlands away my John_
+> ***Lowlands, lowlands away my John***
 
 I dreamed a dream the other night
 
-> _Lowlands away_
+> ***Lowlands away***
 
 I dreamed my love came in my sleep\
 Her cheeks were wet, her eyes did weep
@@ -44,11 +44,11 @@ Then awoke to hear the cry\
 
 I dreamed a dream the other night
 
-> _Lowlands, lowlands away my John_
+> ***Lowlands, lowlands away my John***
 
 I dreamed a dream the other night
 
-> _Lowlands away_
+> ***Lowlands away***
 
 I dreamed I saw my own true love\
 He stood so still, he did not move

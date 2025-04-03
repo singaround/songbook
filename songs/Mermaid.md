@@ -15,11 +15,11 @@ And we were not far from the land\
 When our captain, he spied a fishy mermaid\
 With a comb and a glass in her hand
 
-> _Oh the ocean waves do roll_
-> _And the stormy winds do blow_
-> _And we poor sailors are skipping at the top_
-> _While the landlubbers lie down below, below, below_
-> _While the landlubbers lie down below_
+> ***Oh the ocean waves do roll***\
+> ***And the stormy winds do blow***\
+> ***And we poor sailors are skipping at the top***\
+> ***While the landlubbers lie down below, below, below***\
+> ***While the landlubbers lie down below***
 
 Now the song she sang, she sang so sweet,\
 No answer at all could I say\

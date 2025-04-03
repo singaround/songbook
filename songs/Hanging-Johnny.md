@@ -20,11 +20,11 @@ description: >-
 ---
 They call me hanging Johnny,
 
-> _Away, boys, away!_
+> ***Away, boys, away!***
 
 They say I hang for money!
 
-> _So hang, boys, hang down!_
+> ***So hang, boys, hang down!***
 
 They say I hanged my mother,\
 My sisters and my brothers

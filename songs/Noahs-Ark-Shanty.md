@@ -11,14 +11,14 @@ tags:
   - song
 ---
 In Frisco Bay there were three ships,\
-_To me way, hey, hey, oh._\
+***To me way, hey, hey, oh.***\
 In Frisco Bay there were three ships,\
-_A long time ago._
+***A long time ago.***
 
 And one of those ships was Noah's old ark,\
-_To me way, hey, hey, oh._\
+***To me way, hey, hey, oh.***\
 Covered all over with hickory bark.\
-_A long time ago._
+***A long time ago.***
 
 They took two animals of every kind,\
 They took two animals of every kind.

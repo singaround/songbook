@@ -32,10 +32,10 @@ With a good ship, taut and free
 And we don't give a damn when we drink our rum
 With the girls of old Maui
 
-_Rolling down to old Maui, me boys_\
-_Rolling down to old Maui_\
-_We're homeward bound from the Artic ground_\
-_Rolling down to old Maui_
+***Rolling down to old Maui, me boys***\
+***Rolling down to old Maui***\
+***We're homeward bound from the Artic ground***\
+***Rolling down to old Maui***
 
 Once more we sail with a northerly gale\
 Towards our island home.\

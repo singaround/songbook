@@ -15,11 +15,9 @@ When they come down from San Francisco
 
 *With a hog-eye*
 
-> *Railroad navvy with his hog-eye*
->
-> *Oh, you roll ashore with a hog-eye oh*
->
-> *She wants the hog-eyed man*
+> ***Railroad navvy with his hog-eye*** \
+> ***Oh, you roll ashore with a hog-eye oh*** \
+> ***She wants the hog-eyed man***
 
 So off and hand and primed is he
 

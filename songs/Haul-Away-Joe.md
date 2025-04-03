@@ -18,22 +18,22 @@ description: >-
 Louis was the king of France\
 Before the revolut-i-on
 
-_Away, haul away, we'll haul away Joe_
+***Away, haul away, we'll haul away Joe***
 
 But then he got his head chopped off\
 Which spoiled his constitut-i-on
 
-_Away, haul away, we'll haul away Joe_
+***Away, haul away, we'll haul away Joe***
 
-> _(To me) way, haul away_
-> _(To me) way, haul away_
-> _We'll haul away together_
-> _(To me) way, haul away_
-> _We'll haul away together_
-> _Away, haul away, we'll haul away Joe_
-> _(To me) way, haul away_
-> _We'll haul for better weather_
-> _Away, haul away, we'll haul away Joe_
+> ***(To me) way, haul away***\
+> ***(To me) way, haul away***\
+> ***We'll haul away together***\
+> ***(To me) way, haul away***\
+> ***We'll haul away together***\
+> ***Away, haul away, we'll haul away Joe***\
+> ***(To me) way, haul away***\
+> ***We'll haul for better weather***\
+> ***Away, haul away, we'll haul away Joe***
 
 Saint Patrick was a gentleman\
 He came from decent people\

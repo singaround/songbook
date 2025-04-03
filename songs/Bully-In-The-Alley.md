@@ -15,49 +15,49 @@ description: >-
   dilly-dallying, and give Sally more of an active role... which she's used to
   initiate a pre-voyage romp.
 ---
-> _So help me Bob, I'm bully in the alley_\
-> _Way, hey, bully in the alley_\
-> _So help me Bob, I'm bully in the alley_\
-> _Bully down in Shinbone Al_
+> ***So help me Bob, I'm bully in the alley***\
+> ***Way, hey, bully in the alley***\
+> ***So help me Bob, I'm bully in the alley***\
+> ***Bully down in Shinbone Al***
 
 Sally is the girl that I love dearly\
-_Way, hey, bully in the alley_\
+***Way, hey, bully in the alley***\
 Sally is the girl that I spliced nearly\
-_Bully down in Shinbone Al_
+***Bully down in Shinbone Al***
 
-> _So help me Bob, I'm bully in the alley_
+> ***So help me Bob, I'm bully in the alley***
 
 I went to tell my Sally dear\
-_Way, hey, bully in the alley_\
+***Way, hey, bully in the alley***\
 I hoped that she might shed a tear\
-_Bully down in Shinbone Al_
+***Bully down in Shinbone Al***
 
-> _So help me Bob, I'm bully in the alley_
+> ***So help me Bob, I'm bully in the alley***
 
 Sweet Sally only shook her head\
-_Way, hey, bully in the alley_\
+***Way, hey, bully in the alley***\
 She took my hand, took me to bed\
-_Bully down in Shinbone Al_
+***Bully down in Shinbone Al***
 
-> _So help me Bob, I'm bully in the alley_
+> ***So help me Bob, I'm bully in the alley***
 
 We tossed and tumbled all night long-o\
-_Way, hey, bully in the alley_\
+***Way, hey, bully in the alley***\
 In the morning the cock did crow-o\
-_Bully down in Shinbone Al_
+***Bully down in Shinbone Al***
 
-> _So help me Bob, I'm bully in the alley_
+> ***So help me Bob, I'm bully in the alley***
 
 I left my Sal, went a-sailing\
-_Way, hey, bully in the alley_\
+***Way, hey, bully in the alley***\
 Signed on a big ship, went a-whaling\
-_Bully down in Shinbone Al_
+***Bully down in Shinbone Al***
 
-> _So help me Bob, I'm bully in the alley_
+> ***So help me Bob, I'm bully in the alley***
 
 If ever I get back, she says we'll marry\
-_Way, hey, bully in the alley_\
+***Way, hey, bully in the alley***\
 Have six kids and live in Shinbone Alley\
-_Bully down in Shinbone Al_
+***Bully down in Shinbone Al***
 
-> _So help me Bob, I'm bully in the alley_
+> ***So help me Bob, I'm bully in the alley***

@@ -22,17 +22,17 @@ Ah Hey! Ah Ho! Are you most done?\
 Is the Old Wild Cat of the Swallowtail Line!\
 Clear away the track, and let the bulgine run!
 
-> Timme Hey, Rig-a-jig, and a jaunting run!\
-> Ah Hey! Ah Ho! Are you most done?\
-> With Liza Lee all on my knee,\
-> Clear away the track, and let the bulgine run!
+> ***Timme Hey, Rig-a-jig, and a jaunting run!***\
+> ***Ah Hey! Ah Ho! Are you most done?***\
+> ***With Liza Lee all on my knee,***\
+> ***Clear away the track, and let the bulgine run!***
 
 Oh! the Old Wildcat of the Swallowtail Line,\
 Ah Hey! Ah Ho! Are you most done?\
 She's never a day behind her time!\
 Clear away the track, and let the bulgine run!
 
-> Timme Hey, Rig-a-jig, and a jaunting run...
+> ***Timme Hey, Rig-a-jig, and a jaunting run...***
 
 Oh, we're outward bound for New York Town,\
 Them Bowery gals we'll waltz around.

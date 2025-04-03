@@ -13,22 +13,22 @@ description: >-
   traveling down the Missouri River in canoes in the early 19th Century.
 ---
 Oh Shenandoah, I long to see you,\
-_Away you rolling river._\
+***Away you rolling river.***\
 Oh Shenandoah, I long to see you\
-_Away, I'm bound away_\
-_Across The wide Missouri._
+***Away, I'm bound away***\
+***Across The wide Missouri.***
 
 Oh Shenandoah, I love your Daughter,\
-_Away you rolling river._\
+***Away you rolling river.***\
 For her I'd cross your roaming waters,\
-_Away, I'm bound away_\
-_Across The wide Missouri._\
-__\
+***Away, I'm bound away***\
+***Across The wide Missouri.***
+
 'Tis seven years since last I've seen you,\
-_Away you rolling river._\
+***Away you rolling river.***\
 'Tis seven years since last I've seen you,\
-_Away, I'm bound away_\
-_Across The wide Missouri._
+***Away, I'm bound away***\
+***Across The wide Missouri.***
 
 Oh Shenandoah, I long to hear you,\
 Oh Shenandoah, I long to hear you,

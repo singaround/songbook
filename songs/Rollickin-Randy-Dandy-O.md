@@ -12,14 +12,14 @@ description:
 date: 2019-03-07T08:05:12.000Z
 ---
 Now we are ready to head for the horn,\
-_Weigh, hey, roll an' go!_\
+***Weigh, hey, roll an' go!***\
 Our boots an' our clothes boys are all in the pawn,\
-_To me rollickin' Randy Dandy O!_
+***To me rollickin' Randy Dandy O!***
 
 Heave a pawl, oh, heave away,\
-_Weigh, hey, roll and go!_\
+***Weigh, hey, roll and go!***\
 The anchor's on board an' the cable's all stored,\
-_To me rollickin' Randy Dandy O!_
+***To me rollickin' Randy Dandy O!***
 
 Man the stout caps'n and heave with a will,\
 For soon we'll be drivin' her 'way up the hill.

@@ -21,8 +21,8 @@ To live in that country it was my intent;\
 But drinking strong liquor like other damned fools,\
 I soon got transported back to Liverpool.
 
-_And it's row, row bullies row,_\
-_Them Liverpool judies has got us in tow._
+***And it's row, row bullies row,***\
+***Them Liverpool judies has got us in tow.***
 
 I joined the ‘Alaska’ lying out in the bay,\
 A-waiting a fair wind to get under way.\

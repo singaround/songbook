@@ -41,14 +41,14 @@ A crew with hearts so brave
 Going out to earn their daily bread
 Upon the restless wave
 
-_And it's three score and ten
+And it's three score and ten
 Boys and men were lost from Grimsby town
 From Yarmouth down to Scarborough
 Many hundreds more were drowned
 Our herring craft, our Trawlers
 Our fishing Smacks, as well
 They long to fight the bitter night
-And battle with the swell_
+And battle with the swell
 
 Methinks I see them yet again\
 As they leave this land behind\

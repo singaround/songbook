@@ -21,10 +21,10 @@ His hammock swang loose in the wind\
 But watch-worn weary, his cares slipped away\
 And sweet dreams rose into his mind
 
-_My sailor boy, I wish you sweet sleep_\
-_As you’re rocked by the waves so deep_\
-_My sailor boy come safely home_\
-_Come safely home to me_
+***My sailor boy, I wish you sweet sleep***\
+***As you’re rocked by the waves so deep***\
+***My sailor boy come safely home***\
+***Come safely home to me***
 
 He dreamt of his childhood home far away\
 His parents’ fond smiles of delight\

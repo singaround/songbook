@@ -12,7 +12,7 @@ tags:
 date: 2019-11-11T20:02:47.381Z
 description: >-
   Transcribed from a recording of Joe Latter, this song appears on some
-  broadsides as _The Fishes’ Lamentation_ and seems to have survived as a
+  broadsides as ***The Fishes’ Lamentation*** and seems to have survived as a
   sailor’s chantey or fisherman’s song. Whall (1910), Colcord (1938) and Hugill
   (1964) include it in their chantey books. It was also recorded from Bob
   Roberts on board his Thames barge, The Cambria and appears in the Newfoundland
@@ -22,16 +22,8 @@ As we were a fishing off Happisburgh Light,\
 Shooting and trawling and hauling all night.\
 It was…
 
-> Windy old weather, stormy old weather.
->
-> \
->
->
-> When the wind blows we all pull together
->
->
->
->
+> ***Windy old weather, stormy old weather.***\
+> ***When the wind blows we all pull together***
 
 We first saw the herring, the queen of the sea.\
 She says ‘you old skipper you’ll never catch me’\

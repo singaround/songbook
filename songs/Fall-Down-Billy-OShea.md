@@ -19,60 +19,59 @@ description: >-
   leads to his early demise. The cat referred to is the cat o' nine tails.
 ---
 We all got drunk in Dublin city\
-_Fall down me Billy_\
+***Fall down me Billy***\
 We all got drunk, sure more's the pity\
-_Fall down Billy O'Shea_
+***Fall down Billy O'Shea***
 
-> _Fall down, fall down, fall down me Billy_\
-> _We're bound away for Americay_\
-> _Fall down Billy O'Shea_
+> ***Fall down, fall down, fall down me Billy***\
+> ***We're bound away for Americay***\
+> ***Fall down Billy O'Shea***
 
 We lay ourselves down on Sir Rogerson's Quay\
-_Fall down me Billy_\
+***Fall down me Billy***\
 And when we woke we were out to sea\
-_Fall down Billy O'Shea_
+***Fall down Billy O'Shea***
 
-> _Fall down, fall down, fall down me Billy_
+> ***Fall down, fall down, fall down me Billy***
 
 We are not sailors captain dear\
-_Fall down me Billy_\
+***Fall down me Billy***\
 We come from the land and we won't work here\
-_Fall down Billy O'Shea_
+***Fall down Billy O'Shea***
 
-> _Fall down, fall down, fall down me Billy_
+> ***Fall down, fall down, fall down me Billy***
 
 Says the captain, "I've a cure for that"\
-_Fall down me Billy_\
+***Fall down me Billy***\
 "And here for a start is a dose of the cat"\
-_Fall down Billy O'Shea_
+***Fall down Billy O'Shea***
 
-> _Fall down, fall down, fall down me Billy_
+> ***Fall down, fall down, fall down me Billy***
 
 Well sent him up to the top-mast yard\
-_Fall down me Billy_\
+***Fall down me Billy***\
 And when he hit the deck, well he took it hard\
-_Fall down Billy O'Shea_
+***Fall down Billy O'Shea***
 
-> _Fall down, fall down, fall down me Billy_
+> ***Fall down, fall down, fall down me Billy***
 
 So we wrapped him in the Captain's sail\
-_Fall down me Billy_\
+***Fall down me Billy***\
 And lowered him gently o'er the rail\
-_Fall down Billy O'Shea_
+***Fall down Billy O'Shea***
 
-> _Fall down, fall down, fall down me Billy_
+> ***Fall down, fall down, fall down me Billy***
 
 Over the side and down he goes\
-_Fall down me Billy_\
+***Fall down me Billy***\
 Down to Davy Jones with a stitch through his nose\
-_Fall down Billy O'Shea_
+***Fall down Billy O'Shea***
 
-> _Fall down, fall down, fall down me Billy_
+> ***Fall down, fall down, fall down me Billy***
 
 Oh and as he went I heard him say\
-_Fall down me Billy_\
+***Fall down me Billy***\
 I thought we were bound for Americay\
-_Fall down Billy O'Shea_
+***Fall down Billy O'Shea***
 
-> _Fall down, fall down, fall down me Billy_
-
+> ***Fall down, fall down, fall down me Billy***

@@ -17,10 +17,10 @@ But I'll see her topsail flyin' when I come down off the way.
 
 Chorus:
 
-> _Rosie, get my Sunday shoes_,
-> _Gertie get my walkin' cane_;
-> _We'll take another walk to see_
-> _Old Alice sail again_.
+> ***Rosie, get my Sunday shoes,***\
+> ***Gertie get my walkin' cane.***\
+> ***We'll take another walk to see***\
+> ***Old Alice sail again.***
 
 Wish I had a nickel for the men I used to know
 Who could load three cords of lumber in half an hour or so.

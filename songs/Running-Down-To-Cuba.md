@@ -11,20 +11,20 @@ tags:
 date: 2019-03-07T08:05:12.000Z
 ---
 To Cuba's coast we're bound me boys\
-_Way, me boys, for Cuba_\
+***Way, me boys, for Cuba***\
 To Cuba's coast boys, don't you make a noise\
-_Running down to Cuba._
+***Running down to Cuba.***
 
-> _Way, me boys, for Cuba_
-> _Running down to Cuba_
+> ***Way, me boys, for Cuba***\
+> ***Running down to Cuba***
 
 The Captain he will trim the sails\
-_Way, me boys, for Cuba_\
+***Way, me boys, for Cuba***\
 Flinging the water out over the rails\
-_Running down to Cuba._
+***Running down to Cuba.***
 
-_Way, me boys, for Cuba_\
-_Running down to Cuba_
+***Way, me boys, for Cuba***\
+***Running down to Cuba***
 
 Oh my lord! how the wind do blow
 Running South from the ice and snow

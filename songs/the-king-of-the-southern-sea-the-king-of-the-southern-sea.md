@@ -36,13 +36,10 @@ And he scatters the spray in his boisterous play,
 
 As he dashes the King of the deep.
 
-> Oh, the rare old whale, 'mid storm and gale,
->
-> In his ocean home will be;
->
-> A giant in might, where might is right,
->
-> And king of the boundless sea.
+> ***Oh, the rare old whale, 'mid storm and gale,***\
+> ***In his ocean home will be;***\
+> ***A giant in might, where might is right,***\
+> ***And king of the boundless sea.***
 
 A wond'rous tale could the rare old whale
 
@@ -60,7 +57,7 @@ Shaking the tide from his glassy side,
 
 And sporting with ocean and wreck.
 
-> Then the rare old whale, &c.
+> ***Then the rare old whale, &c.***
 
 Then the whale shall be still dear to me,
 
@@ -78,4 +75,4 @@ Then we'll on land go hand in hand,
 
 To hall him the Ocean King,
 
-> Oh, the rare old whale, &c.
+> ***Oh, the rare old whale, &c.***

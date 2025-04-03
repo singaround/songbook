@@ -18,23 +18,23 @@ What shall we do with the Patriarchy?\
 Let’s do away with the whole malarky\
 Smash the Patriarchy!
 
-_Hooray and up she rises_\
-_Hooray and up she rises_\
-_Hooray and up she rises_\
-_Early in the morning_
+***Hooray and up she rises***\
+***Hooray and up she rises***\
+***Hooray and up she rises***\
+***Early in the morning***
 
 A fair day’s wage for a fair day’s work x3\
 Smash the Patriarchy!
 
-_Hooray and up she rises_\
-_Hooray and up she rises_\
-_Hooray and up she rises_\
-_Early in the morning_
+***Hooray and up she rises***\
+***Hooray and up she rises***\
+***Hooray and up she rises***\
+***Early in the morning***
 
 Girls just wanna have fundamental human rights x3\
 Smash the Patriarchy!
 
-_Hooray and up she rises..._
+***Hooray and up she rises...***
 
 End circumcision and FGM x3\
 Smash the Patriarchy!

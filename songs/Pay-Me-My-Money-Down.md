@@ -11,14 +11,14 @@ tags:
 date: 2019-03-07T08:05:12.000Z
 ---
 I thought I heard our captain say\
-_Pay me my money down_\
+***Pay me my money down***\
 Tomorrow is our sailing day\
-_Pay me my money down_
+***Pay me my money down***
 
-_Pay me, Oh pay me_\
-_Pay me my money down_\
-_Pay me or go to jail_\
-_Pay me my money down_
+***Pay me, Oh pay me***\
+***Pay me my money down***\
+***Pay me or go to jail***\
+***Pay me my money down***
 
 Soon as the boat was clear of the bar\
 He knocked me down with the end of a spar

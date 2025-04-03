@@ -14,44 +14,44 @@ description: >-
   expense.
 ---
 Cape Cod girls ain't got no combs\
-_Haul away, haul away_\
+***Haul away, haul away***\
 They comb their hair with codfish bones\
-_And we're bound away for Australia_
+***And we're bound away for Australia***
 
-> _So heave away, my bully, bully boys_\
-> _Haul away, haul away_\
-> _Heave away, why don't you make some noise_\
-> _And we're bound away for Australia_
+> ***So heave away, my bully, bully boys***\
+> ***Haul away, haul away***\
+> ***Heave away, why don't you make some noise***\
+> ***And we're bound away for Australia***
 
 Cape Cod kids ain't got no sleds\
-_Haul away, haul away_\
+***Haul away, haul away***\
 They slide down the hills on codfish heads\
-_And we're bound away for Australia_
+***And we're bound away for Australia***
 
-> _So heave away, my bully, bully boys_
+> ***So heave away, my bully, bully boys***
 
 Cape Cod men ain't got no ale\
-_Haul away, haul away_\
+***Haul away, haul away***\
 They fill their glasses with codfish tails\
-_And we're bound away for Australia_
+***And we're bound away for Australia***
 
-> _So heave away, my bully, bully boys_
+> ***So heave away, my bully, bully boys***
 
 Cape Cod folk ain't got no ills\
-_Haul away, haul away_\
+***Haul away, haul away***\
 Cape Cod doctors give 'em codfish pills\
-_And we're bound away for Australia_
+***And we're bound away for Australia***
 
-> _So heave away, my bully, bully boys_
+> ***So heave away, my bully, bully boys***
 
 Cape Cod mothers don't bake no pies\
-_Haul away, haul away_\
+***Haul away, haul away***\
 They feed their kids on codfish eyes\
-_And we're bound away for Australia_
+***And we're bound away for Australia***
 
-> _So heave away, my bully, bully boys_
+> ***So heave away, my bully, bully boys***
 
 Cape Cod cats ain't got no tails\
-_Haul away, haul away_\
+***Haul away, haul away***\
 They got blown off by the northeast gales
-_And we're bound away for Australia_
+***And we're bound away for Australia***
