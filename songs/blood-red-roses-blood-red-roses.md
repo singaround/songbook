@@ -23,8 +23,7 @@ It's 'round that cape we all must go,\
 Around all stiff through the frost and snow.\
 ***Go down, you blood red roses, go down!***
 
-> ***Oh, you pinks and posies...***\
-> ***Go down, you blood red roses, go down!***
+> ***Oh, you pinks and posies...***
 
 Our captain he has set us down,\
 ***Go down, you blood red roses, go down!***\
