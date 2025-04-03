@@ -22,7 +22,7 @@ Met him on the king's highway
 As he went for to be married
 Pressed he was and sent away
 
->Folleri-de-dom, de- daerai diddero
+> ***Folleri-de-dom, de- daerai diddero***
 Folleri-de-dom, domme daerai dae
 Folleri-de-dom, de- daerai diddero
 Folleri-de-dom, domme daerai dae
@@ -36,7 +36,7 @@ She amongst the rest did fight
 The wind blew off her silver buttons
 Her breasts were bared all snowy white
 
->Folleri-de-dom, de- daerai diddero
+> ***Folleri-de-dom, de- daerai diddero***
 Folleri-de-dom, domme daerai dae
 Folleri-de-dom, de- daerai diddero
 Folleri-de-dom, domme daerai dae
@@ -50,7 +50,7 @@ Early at the break of day.
 There you'll find young William Taylor
 Walking with his lady gay.
 
->Folleri-de-dom, de- daerai diddero
+> ***Folleri-de-dom, de- daerai diddero***
 Folleri-de-dom, domme daerai dae
 Folleri-de-dom, de- daerai diddero
 Folleri-de-dom, domme daerai dae

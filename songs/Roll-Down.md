@@ -11,18 +11,18 @@ tags:
 date: 2019-03-07T08:05:12.000Z
 ---
 Sweet ladies of Plymouth, we're saying goodbye\
-_Ro-o-o-oll down!_\
+***Ro-o-o-oll down!***\
 But we'll rock you and roll you again bye and bye\
-_Walk her round, me brave boys and roll down!_\
-_And we will ro-o-o-oll down!_\
-_Walk her round, me brave boys and roll down!_
+***Walk her round, me brave boys and roll down!***\
+***And we will ro-o-o-oll down!***\
+***Walk her round, me brave boys and roll down!***
 
 Now the anchor's aweigh and the sails are unfurled\
-_Ro-o-o-oll down!_\
+***Ro-o-o-oll down!***\
 And we're bound for to take her half-way round the world\
-_Walk her round, me brave boys and roll down!_\
-_And we will ro-o-o-oll down!_\
-_Walk her round, me brave boys and roll down!_
+***Walk her round, me brave boys and roll down!***\
+***And we will ro-o-o-oll down!***\
+***Walk her round, me brave boys and roll down!***
 
 In the wide Bay of Biscay the seas will run high\
 And the poor sickly transports they'll wish they could die

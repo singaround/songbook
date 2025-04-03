@@ -12,11 +12,11 @@ date: 2019-03-07T08:05:12.000Z
 ---
 Stormy's gone that good old man
 
-_Way, stormalong, John!_
+***Way, stormalong, John!***
 
 O, poor old Stormy's dead and gone,
 
-_Way hay, mister. Stormalong John!_
+***Way hay, mister. Stormalong John!***
 
 We dug his grave with a silver spade,\
 His shroud of the finest silk was made.

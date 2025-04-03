@@ -11,21 +11,17 @@ tags:
   - song
 date: 2019-03-11T19:53:57.972Z
 ---
-_And it's row me bully boys, we're in a hurry boys, we got a long way to go_
-_And we'll sing and we'll dance and bid farewell to France_ 
-_And it's row me bully boys row_ 
-
+> ***And it's row me bully boys, we're in a hurry boys, we got a long way to go***\
+> ***And we'll sing and we'll dance and bid farewell to France***\
+> ***And it's row me bully boys row***
 
 I'll sing you a song, it's a song of the sea 
-
-_Row me bully boys row_
+***Row me bully boys row***
 
 I'll sing you a song if you'll sing it with me 
+***And it's row me bully boys row***
 
-_And it's row me bully boys row_
-
-
-_And it's row me bully boys..._
+***And it's row me bully boys...***
 
 
 
@@ -34,8 +30,7 @@ While the first mate is helping the captain aboard
 He looks like a peacock with pistols and sword
 
 
-
-_And it's row me bully boys..._
+***And it's row me bully boys...***
 
 
 
@@ -44,8 +39,7 @@ The captain likes whiskey, the mate he likes rum
 We like em both but we can't get us none 
 
 
-
-_And it's row me bully boys..._
+***And it's row me bully boys...***
 
 
 
@@ -54,5 +48,4 @@ Well come now me lads it is time for to roam
 The old Blue Peter she's calling us home
 
 
-
-_And it's row me bully boys..._
+***And it's row me bully boys...***

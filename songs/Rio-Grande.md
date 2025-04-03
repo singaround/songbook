@@ -11,14 +11,14 @@ tags:
 date: 2019-03-07T08:05:12.000Z
 ---
 Our ship is a-sailing out over the Bar\
-_'way down Rio_\
+***'way down Rio***\
 We're pointing her bow to the Southern Star\
-_And we're bound for the Rio Grande_
+***And we're bound for the Rio Grande***
 
-_Then away, boys, away_\
-_'way down Rio_\
-_So fare thee well, my Bonny young girl_\
-_We're bound for the Rio Grande_
+***Then away, boys, away***\
+***'way down Rio***\
+***So fare thee well, my Bonny young girl***\
+***We're bound for the Rio Grande***
 
 Say was you ever down Rio Grande?\
 It's there that the river flows down golden sand!

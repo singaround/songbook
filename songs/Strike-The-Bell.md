@@ -19,14 +19,14 @@ He only knows himself\
 Oh, we wish that he would hurry up\
 And strike, strike the bell
 
-_Strike the bell, Second Mate_\
-_Let us go below_\
-_Look away to windward_\
-_You can see it's going to blow_\
-_Look at the glass_\
-_You can see that it is fell_\
-_We wish the you would hurry up_\
-_And strike, strike the bell_
+> ***Strike the bell, Second Mate***\
+> ***Let us go below***\
+> ***Look away to windward***\
+> ***You can see it's going to blow***\
+> ***Look at the glass***\
+> ***You can see that it is fell***\
+> ***We wish the you would hurry up***\
+> ***And strike, strike the bell***
 
 Down on the maindeck\
 Working at the pumps\

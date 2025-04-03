@@ -41,8 +41,8 @@ As widow and pirate she avenged her dead man
 With sails red as blood, aboard her black ships three
 Lioness of Bretagne, la belle dame sans merci
 
-_With sails red as blood, aboard her black ships three_
-_Lioness of Bretagne, la belle dame sans merci_
+***With sails red as blood, aboard her black ships three***\
+***Lioness of Bretagne, la belle dame sans merci***
 
 Seven centuries ago, in the hundred years’ war
 England and France fought for Brittany’s shores
@@ -59,8 +59,8 @@ So she took her young sons to see their father’s head
 Gazing at his blank eyes, Jeanne yearned for revenge
 And she vowed in that moment, her love to avenge
 
-_With sails red as blood, aboard her black ships three_
-_Lioness of Bretagne, la belle dame sans merci_
+***With sails red as blood, aboard her black ships three***\
+***Lioness of Bretagne, la belle dame sans merci***
 
 She-wolf of the Channel, Lioness of the main
 Jeanne slaughtered French sailors again and again
@@ -72,18 +72,18 @@ She escaped from the wreck, holding her two sons fast
 For five days she rowed, praying for England’s shore
 But her youngest, Guillaume, at last breathed no more
 
-_With sails red as blood, aboard her black ships three_
-_Lioness of Bretagne, la belle dame sans merci_
+***With sails red as blood, aboard her black ships three***\
+***Lioness of Bretagne, la belle dame sans merci***
 
 She cradled his body, adrift on the sea
 Swore she’d bring his sweet brother home to Brittany
 And Jeanne found her way home, and lived peacefully
 Lioness of Bretagne, la belle dame sans merci
 
-_Let me tell you, my friends, of a woman named Jeanne_
-_As widow and pirate she avenged her dead man_
-_With sails red as blood, aboard her black ships three_\
-_Lioness of Bretagne, la belle dame sans merci_
+***Let me tell you, my friends, of a woman named Jeanne***\
+***As widow and pirate she avenged her dead man***\
+***With sails red as blood, aboard her black ships three***\
+***Lioness of Bretagne, la belle dame sans merci***
 
 \---
 

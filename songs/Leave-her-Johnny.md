@@ -22,20 +22,20 @@ description: >-
   sailing down the river to approach the pier head the shanty singer would let
   rip with this song, finally airing months of pent up frustrations.  As such,
   every time this song was sung would have been different to match the specific
-  anger of the ship. The verses listed below are _not_ a command, and if you
+  anger of the ship. The verses listed below are ***not*** a command, and if you
   sang them all you'd be here a very long while. Rather, pick and choose your
   favourites. Or better still, write some yourself about whatever's grinding
   your gears - the patriarchy, the government, rival pubs, viola players etc.
 ---
 I thought I heard the Old Man say\
-_Leave her, Johnny, leave her_\
+***Leave her, Johnny, leave her***\
 You can go ashore and take your pay\
-_And it's time for us to leave her_\
+***And it's time for us to leave her***\
 \
-_Leave her, Johnny, leave her_\
-_Oh, leave her, Johnny, leave her_\
-_For the voyage was long and the winds did blow_\
-_And it's time for us to leave her_\
+***Leave her, Johnny, leave her***\
+***Oh, leave her, Johnny, leave her***\
+***For the voyage was long and the winds did blow***\
+***And it's time for us to leave her***\
 \
 Oh her stern was foul and the voyage was long\
 The winds was bad and the gales was strong

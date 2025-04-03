@@ -21,30 +21,30 @@ description: >-
   eventually culminating in her Family Allowances Act of 1945.
 ---
 Our anchor's aweigh and our sails are set,\
-_Bold Riley-oh, bold Riley,_\
+***Bold Riley-oh, bold Riley,***\
 And the folks we're leaving we'll never forget,\
-_Bold Riley-oh has gone away!_
+***Bold Riley-oh has gone away!***
 
->_Goodbye my sweetheart, goodbye my dear-o,_\
->_Bold Riley-oh, bold Riley,_\
->_Goodbye my darling, goodbye my dear-o,_\
->_Bold Riley-oh has gone away._
+> ***Goodbye my sweetheart, goodbye my dear-o,***\
+> ***Bold Riley-oh, bold Riley,***\
+> ***Goodbye my darling, goodbye my dear-o,***\
+> ***Bold Riley-oh has gone away.***
 
 Wake up Mary Ellen, don't look so glum,\
-_Bold Riley-oh, bold Riley,_\
+***Bold Riley-oh, bold Riley,***\
 On Whitestocking day, you'll be drinking rum\
-_Bold Riley-oh has gone away!_
+***Bold Riley-oh has gone away!***
 
->_Goodbye my sweetheart, goodbye my dear-o,_
+> ***Goodbye my sweetheart, goodbye my dear-o,***
 
 The rain it rains all day long,\
-_Bold Riley-oh, bold Riley,_\
+***Bold Riley-oh, bold Riley,***\
 And the Northern Gale, it blows so strong,\
-_Bold Riley-oh has gone away!_
+***Bold Riley-oh has gone away!***
 
->_Goodbye my sweetheart, goodbye my dear-o,_
+> ***Goodbye my sweetheart, goodbye my dear-o,***
 
 So we're outward bound for the Bengal Bay,\
-_Bold Riley-oh, bold Riley,_\
+***Bold Riley-oh, bold Riley,***\
 Bend your backs me boys, it's a hell of a way.\
-_Bold Riley-oh has gone away!_
+***Bold Riley-oh has gone away!***

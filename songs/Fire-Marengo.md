@@ -15,31 +15,31 @@ description: >-
   There's no consensus on what 'Marengo' means.
 ---
 Lift him up and carry him along\
-_Fire Marengo, fire away!_\
+***Fire Marengo, fire away!***\
 Stow him down where he belongs\
-_Fire Marengo, fire away!_
+***Fire Marengo, fire away!***
 
 Ease him in and let him lay\
-_Fire Marengo, fire away!_\
+***Fire Marengo, fire away!***\
 We'll screw him down and there he'll stay\
-_Fire Marengo, fire away!_
+***Fire Marengo, fire away!***
 
 Stow him down in the hold below\
-_Fire Marengo, fire away!_\
+***Fire Marengo, fire away!***\
 Screw him down and then we'll go\
-_Fire Marengo, fire away!_
+***Fire Marengo, fire away!***
 
 When I get back to London town\
-_Fire Marengo, fire away!_\
+***Fire Marengo, fire away!***\
 I'll pass my line to pretty Sally Brown\
-_Fire Marengo, fire away!_
+***Fire Marengo, fire away!***
 
 Screw the cotton, screw him down\
-_Fire Marengo, fire away!_\
+***Fire Marengo, fire away!***\
 Bound away from Hilo Town\
-_Fire Marengo, fire away!_
+***Fire Marengo, fire away!***
 
 Thought I heard the old man say\
-_Fire Marengo, fire away!_\
+***Fire Marengo, fire away!***\
 That's one last turn and then belay\
-_Fire Marengo, fire away!_
+***Fire Marengo, fire away!***

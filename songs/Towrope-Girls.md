@@ -15,10 +15,10 @@ Or Oregon timber in the fog and the rain\
 But we're loading nitrate at old iquique\
 And the girls have a got a hold of our tow rope today
 
-_Goodbye Serafina, Rosita and Luz,_\
-_The girls on the tow rope are steady and true,_\
-_Mothers and sisters and sweethearts and all,_\
-_It's haul away! All the way! Haul away haul!_
+***Goodbye Serafina, Rosita and Luz,***\
+***The girls on the tow rope are steady and true,***\
+***Mothers and sisters and sweethearts and all,***\
+***It's haul away! All the way! Haul away haul!***
 
 The last sack of nitrate is stowed down at last\
 The southern cross burns at the head of the mast\

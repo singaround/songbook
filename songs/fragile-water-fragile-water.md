@@ -22,20 +22,20 @@ Cold and slender as a secret river\
 And glamour folds within my hand\
 Like a salmon skin of beaten silver
 
->_My little fish slip off your skin_\
->_And leave it in the tide for gulls to plunder_\
->_And if you wish to walk or swim_\
->_Let there be nothing in the world to hinder_
+> ***My little fish slip off your skin***\
+> ***And leave it in the tide for gulls to plunder***\
+> ***And if you wish to walk or swim***\
+> ***Let there be nothing in the world to hinder***
 
 I cannot walk among your kin\
 For after water, land seems so much harder\
 But I will fall from wandering\
 To land on beaten sand and fragile water
 
->_My little fish slip off your skin_\
->_And leave it in the tide for gulls to plunder_\
->_And if you wish to walk or swim_\
->_Let there be nothing in the world to hinder_
+> ***My little fish slip off your skin***\
+> ***And leave it in the tide for gulls to plunder***\
+> ***And if you wish to walk or swim***\
+> ***Let there be nothing in the world to hinder***
 
 There are other gifts than silver\
 Like another word for lover\
@@ -52,15 +52,15 @@ But as the ocean courts the strand\
 So generations may understand\
 We are all beaten sand and fragile water
 
->_My little fish slip off your skin_\
->_And leave it in the tide for gulls to plunder_\
->_And if you wish to walk or swim_\
->_Let there be nothing in the world to hinder_
+> ***My little fish slip off your skin***\
+> ***And leave it in the tide for gulls to plunder***\
+> ***And if you wish to walk or swim***\
+> ***Let there be nothing in the world to hinder***
 >
->_My little fish slip off your skin_\
->_And leave it in the tide for gulls to plunder_\
->_And if you wish to walk or swim_\
->_Let there be nothing in the world to hinder_
+> ***My little fish slip off your skin***\
+> ***And leave it in the tide for gulls to plunder***\
+> ***And if you wish to walk or swim***\
+> ***Let there be nothing in the world to hinder***
 
 There are other gifts than silver\
 Like another word for lover\
@@ -71,4 +71,4 @@ There are other gifts for silver\
 Like another word for lover\
 If we only hold each other\
 We are beaten sand and fragile water\
-_We are beaten sand and fragile water_
+***We are beaten sand and fragile water***

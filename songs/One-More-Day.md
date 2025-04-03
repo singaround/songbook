@@ -12,9 +12,9 @@ date: 2019-03-07T08:05:12.000Z
 description: Another shanty that usually needs some judicious verse-trimming.
 ---
 Have you heard the news, my Johnny\
-_One more day!_\
+***One more day!***\
 We're homeward bound tomorrow\
-_Only one more day!_
+***Only one more day!***
 
 Don't you hear the old man growlin'\
 Don't you hear the mate a howlin'

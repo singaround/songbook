@@ -24,10 +24,10 @@ Through the storm she cleaved her way\
 Well it's sad to relate her terrible fate\
 Was just off Jervis bay
 
-> And I dream of you, I dream of sleep\
-> I dream of bein' warm\
-> But through the night I have to sail\
-> To brave this raging storm
+> ***And I dream of you, I dream of sleep***\
+> ***I dream of bein' warm***\
+> ***But through the night I have to sail***\
+> ***To brave this raging storm***
 
 While steering through the briny waves,\
 A propelling shaft gave way\
@@ -47,10 +47,10 @@ In spite of land or wave\
 They did all they could as sailors would\
 Those precious lives to save
 
-> And I dream of you, I dream of sleep\
-> I dream of bein' warm\
-> And pray the sea will leave me be\
-> To see another dawn
+> ***And I dream of you, I dream of sleep***\
+> ***I dream of bein' warm***\
+> ***And pray the sea will leave me be***\
+> ***To see another dawn***
 
 Now some in boats they tried to reach\
 That kind and friendly barque\
@@ -61,12 +61,12 @@ When the storm increased on strong\
 And the rest now sleep in the briny deep\
 Along with the Dandenong
 
-> And I dream of you, I dream of sleep\
-> I dream of comin' home\
-> But a mile of water buries me\
-> Beneath this ragin' foam
+> ***And I dream of you, I dream of sleep***\
+> ***I dream of comin' home***\
+> ***But a mile of water buries me***\
+> ***Beneath this ragin' foam***
 >
-> And I dream of you, I dream of sleep\
-> I dream of bein' warm\
-> But through the night I have to sail\
-> To brave this raging storm
+> ***And I dream of you, I dream of sleep***\
+> ***I dream of bein' warm***\
+> ***But through the night I have to sail***\
+> ***To brave this raging storm***

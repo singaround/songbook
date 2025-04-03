@@ -13,31 +13,31 @@ description: >-
   This is a funny rewrite of John The Slacker, written by Les Barker
 ---
 I heard the R2D2 say\
-_Ben Kenobi, Nobi Too-Rye-Ay_\
+***Ben Kenobi, Nobi Too-Rye-Ay***\
 Millenium Falcon's on its way\
-_Ben Kenobi, Nobi Too-Rye-Ay_
+***Ben Kenobi, Nobi Too-Rye-Ay***
 
-> _Too-Rye-Ay, Oh, Too-Rye-Ay_\
-> _Ben Kenobi, Nobi Too-Rye-Ay_
+> ***Too-Rye-Ay, Oh, Too-Rye-Ay***\
+> ***Ben Kenobi, Nobi Too-Rye-Ay***
 
 Who taught Luke about the Force?\
-_Ben Kenobi, Nobi Too-Rye-Ay_\
+***Ben Kenobi, Nobi Too-Rye-Ay***\
 Who's the Fountain, who's the Source?\
-_Ben Kenobi, Nobi Too-Rye-Ay_
+***Ben Kenobi, Nobi Too-Rye-Ay***
 
-> _(Chorus)_
+> ***(Chorus)***
 
 Who does Alec Guinness play?\
 Who's not in The Darling Buds Of May?
 
-> _(Chorus)_
+> ***(Chorus)***
 
 Who stands next to Harrison Ford?\
 Carrying a bloody great big sword?
 
-> _(Chorus)_
+> ***(Chorus)***
 
 What comes after Jedi Day?\
 Jedi Night, so the old men say
 
-> _(Chorus x 2)_
+> ***(Chorus x 2)***

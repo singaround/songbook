@@ -29,14 +29,14 @@ description: >-
 ---
 I thought I heard the old man say
 
-_John, the slacker, slacker, too lie ay_
+***John, the slacker, slacker, too lie ay***
 
 Today, today is a holiday
 
-_John, the slacker, slacker, too lie ay_
+***John, the slacker, slacker, too lie ay***
 
-> _Too lie ay, oh, to lie ay (hoo)_
-> _John, the slacker, slacker, too lie ay_
+> ***Too lie ay, oh, to lie ay (hoo)***\
+> ***John, the slacker, slacker, too lie ay***
 
 We'll work tomorrow but no work today\
 We'll work tomorrow but no work today

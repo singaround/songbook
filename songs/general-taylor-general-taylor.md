@@ -23,19 +23,19 @@ description: >-
   receives the ceremonial funeral traditionally given to Stormy.
 ---
 General Taylor's dead and gone\
-_Walk him along, John, carry him along_\
+***Walk him along, John, carry him along***\
 Oh, General Taylor's dead and gone\
-_Carry him to his burying ground_
+***Carry him to his burying ground***
 
-_To me way hey, you Stormy_\
-_Walk him along, John, carry him along_\
-_To me way hey, you Stormy_\
-_Carry him to his burying ground_
+***To me way hey, you Stormy***\
+***Walk him along, John, carry him along***\
+***To me way hey, you Stormy***\
+***Carry him to his burying ground***
 
 Oh I wish that I was old Stormy's son\
 I'd build him a ship o' ten thousand tons
 
-_To me way hey, you Stormy..._
+***To me way hey, you Stormy...***
 
 I'd load her down with ale and rum\
 And every shellback should have some

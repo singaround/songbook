@@ -17,9 +17,9 @@ description: >-
   celebrates a victory of two English shops over one of the Barbary pirates.
 ---
 There were two lofty ships from old England came\
-_Blow high, blow low and so sail we_\
+***Blow high, blow low and so sail we***\
 One was the Prince of Luther, the other Prince of Wales\
-_All a-cruisin' down the coast of High Barbary_ 
+***All a-cruisin' down the coast of High Barbary*** 
 
 Aloft there, aloft there our jolly bosun cried\
 Look ahead, look astern, look to weather an' a-lee\

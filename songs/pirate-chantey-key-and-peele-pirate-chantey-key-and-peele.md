@@ -26,10 +26,10 @@ So it was off with her we went\
 And we threw her in bed and rested her head\
 And we left, 'cause that's what gentlemen do.
 
-_A woman has a right to a drink or two_\
-_Without worrying about what you will do_\
-_We say "yo, ho!" but we don't say "ho"_\
-_'Cause "ho" is disrespectful, yo_
+***A woman has a right to a drink or two***\
+***Without worrying about what you will do***\
+***We say "yo, ho!" but we don't say "ho"***\
+***'Cause "ho" is disrespectful, yo***
 
 There once was a girl from Leeds\
 Who I heard was good on her knees\
@@ -40,10 +40,10 @@ And my mast began to swell\
 So I laid her down and raised her gown\
 And performed cunnilingus for an hour or so
 
-_Always take care of your lady fair_\
-_'Cause they deserve as much attention down there_\
-_We say "yo, ho!" but we don't say "ho"_\
-_'Cause "ho" is disrespectful, yo_
+***Always take care of your lady fair***\
+***'Cause they deserve as much attention down there***\
+***We say "yo, ho!" but we don't say "ho"***\
+***'Cause "ho" is disrespectful, yo***
 
 I once had a woman so fair\
 Whose womb contained my heir\
@@ -54,10 +54,10 @@ She was working her way through school\
 So I did support when she chose to abort\
 Because it's her body and therefore her choice
 
-_A woman has a right to a drink or two_\
-_Without worrying about what you will do_\
-_We say "yo, ho!" but we don't say "ho"_\
-_'Cause "ho" is disrespectful, yo_
+***A woman has a right to a drink or two***\
+***Without worrying about what you will do***\
+***We say "yo, ho!" but we don't say "ho"***\
+***'Cause "ho" is disrespectful, yo***
 
 No, we don't say "booty" 'less we're talking 'bout gold\
 We don't look at chests 'less it treasure holds\
@@ -75,7 +75,7 @@ Hand in her grave she lay\
 But the scariest part of the story from the start\
 Is I bet you assume the doctor was a man
 
-_Women are doctors too_\
-_And for a fraction of the dubloons_\
-_We say "yo, ho!" but we don't say "ho"_\
-_'Cause "ho" is disrespectful, yo_
+***Women are doctors too***\
+***And for a fraction of the dubloons***\
+***We say "yo, ho!" but we don't say "ho"***\
+***'Cause "ho" is disrespectful, yo***

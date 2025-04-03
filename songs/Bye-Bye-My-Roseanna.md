@@ -11,39 +11,39 @@ tags:
 date: 2019-03-07T08:05:12.000Z
 ---
 The boats are sailing round the bay,\
-_Bye-bye my Roseanna._\
+***Bye-bye my Roseanna.***\
 All loaded down with fishermen,\
-_I won't be home tomorrow._
+***I won't be home tomorrow.***
 
-> _Bye-bye, bye-bye, bye-bye, bye-bye_\
-> _Bye-bye, my Roseanna_\
-> _Bye-bye, bye-bye, bye-bye, bye-bye_\
-> _I won't be home tomorrow_
+> ***Bye-bye, bye-bye, bye-bye, bye-bye***\
+> ***Bye-bye, my Roseanna***\
+> ***Bye-bye, bye-bye, bye-bye, bye-bye***\
+> ***I won't be home tomorrow***
 
 A dollar a day is a fisherman's pay\
-_Bye-bye my Roseanna._\
+***Bye-bye my Roseanna.***\
 It's easy come, easy go away\
-_I won't be home tomorrow._
+***I won't be home tomorrow.***
 
-> _Bye-bye, bye-bye, bye-bye, bye-bye_
+> ***Bye-bye, bye-bye, bye-bye, bye-bye***
 
 We're leaving port at break of day\
-_Bye-bye my Roseanna._\
+***Bye-bye my Roseanna.***\
 We're sailing out across the bay\
-_I won't be home tomorrow._
+***I won't be home tomorrow.***
 
-> _Bye-bye, bye-bye, bye-bye, bye-bye_
+> ***Bye-bye, bye-bye, bye-bye, bye-bye***
 
 Around the horn we must go\
-_Bye-bye my Roseanna._\
+***Bye-bye my Roseanna.***\
 The gales are strong and the winds do blow\
-_I won't be home tomorrow._
+***I won't be home tomorrow.***
 
-> _Bye-bye, bye-bye, bye-bye, bye-bye_
+> ***Bye-bye, bye-bye, bye-bye, bye-bye***
 
 Roseanne, my Roseanne\
-_Bye-bye my Roseanna._\
+***Bye-bye my Roseanna.***\
 I'm going away but not to stay\
-_I won't be home tomorrow._
+***I won't be home tomorrow.***
 
-> _Bye-bye, bye-bye, bye-bye, bye-bye_
+> ***Bye-bye, bye-bye, bye-bye, bye-bye***

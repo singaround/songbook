@@ -22,12 +22,8 @@ He gave me a meal of American hash and he said it was Liverpool scouse,\
 He said, “There's a ship, she's wantin' hands, and on her you must sign,\
 Oh, the mate's a bastard, the bosun's worse, but she will suit you fine.”
 
-> So take off your dungaree jacket, and give yourselves a rest,
->
-> \
->
->
-> And we'll think on them cold nor'westers that we had at Paddy West's.
+> ***So take off your dungaree jacket, and give yourselves a rest,***\
+> ***And we'll think on them cold nor'westers that we had at Paddy West's.***
 
 And it's when the meal was over, boys, the wind began to blow.\
 Paddy sends me to the attic, the main-royal for to stow,\
@@ -51,9 +47,5 @@ And Bejesus but I'm an old sailor man since the day that I were born.
 
 Last chorus:
 
-> So put on yer dungaree jacket and walk up lookin' yer best,
->
-> \
->
->
-> And just tell 'em that you're an old sailor man that's come from Paddy West's.
+> ***So put on yer dungaree jacket and walk up lookin' yer best,***\
+> ***And just tell 'em that you're an old sailor man that's come from Paddy West's.***

@@ -23,34 +23,34 @@ Don't mind the rain or the rolling sea\
 The weary night never worries me\
 But the hardest time in a sailor's day\
 Is to watch the sun as it dies away\
-_And it's one more day on the Grey Funnel Line_
+***And it's one more day on the Grey Funnel Line***
 
 The finest ship that sails the sea\
 Is still a prison for the likes of me\
 But give me wings like Noah's dove\
 I'll fly up harbour to the girl I love\
-_And it's one more day on the Grey Funnel Line_
+***And it's one more day on the Grey Funnel Line***
 
 There was a time my heart was free\
 Like a floating spar on the open sea\
 But now the spar is washed ashore\
 It comes to rest at my real love's door\
-_It's one more day on the Grey Funnel Line_
+***It's one more day on the Grey Funnel Line***
 
 Every time I gaze behind the screws\
 Makes me long for old Peter's shoes\
 I'd walk right down that silver lane\
 And take my love in my arms again\
-_It's one more day on the Grey Funnel Line_
+***It's one more day on the Grey Funnel Line***
 
 Oh Lord if dreams were only real\
 I'd feel my hands on that wooden wheel\
 And with all my heart I'd turn her round\
 And tell the boys that we're homeward bound\
-_And it's one more day on the Grey Funnel Line_
+***And it's one more day on the Grey Funnel Line***
 
 I'll pass the time like some machine\
 Until the waters turn to green\
 Then I'll dance on down that walk ashore\
-_And sail the Grey Funnel Line no more_\
-_And sail the Grey Funnel Line no more_
+***And sail the Grey Funnel Line no more***\
+***And sail the Grey Funnel Line no more***

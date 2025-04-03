@@ -13,44 +13,44 @@ description: >-
 date: 2019-03-07T08:05:12.000Z
 ---
 Essequibo River is the king of rivers all\
-_Buddy ta-na-na, we are somebody, oh_\
+***Buddy ta-na-na, we are somebody, oh***\
 Essequibo River is the king of rivers all\
-_Buddy ta-na-na, we are somebody, oh_
+***Buddy ta-na-na, we are somebody, oh***
 
-> _Somebody, oh, Johnny, somebody, oh_\
-> _Buddy ta-na-na, we are somebody, oh_
+> ***Somebody, oh, Johnny, somebody, oh***\
+> ***Buddy ta-na-na, we are somebody, oh***
 
 Essequibo captain is the king of captains all\
-_Buddy ta-na-na, we are somebody, oh_\
+***Buddy ta-na-na, we are somebody, oh***\
 Essequibo captain is the king of captains all\
-_Buddy ta-na-na, we are somebody, oh_
+***Buddy ta-na-na, we are somebody, oh***
 
-> _Somebody, oh, Johnny, somebody, oh_
+> ***Somebody, oh, Johnny, somebody, oh***
 
 Essequibo sailor is the king of sailors all\
-_Buddy ta-na-na, we are somebody, oh_\
+***Buddy ta-na-na, we are somebody, oh***\
 Essequibo sailor is the king of sailors all\
-_Buddy ta-na-na, we are somebody, oh_
+***Buddy ta-na-na, we are somebody, oh***
 
-> _Somebody, oh, Johnny, somebody, oh_
+> ***Somebody, oh, Johnny, somebody, oh***
 
 Essequibo bosun is the king of bosuns all\
-_Buddy ta-na-na, we are somebody, oh_\
+***Buddy ta-na-na, we are somebody, oh***\
 Essequibo bosun is the king of bosuns all\
-_Buddy ta-na-na, we are somebody, oh_
+***Buddy ta-na-na, we are somebody, oh***
 
-> _Somebody, oh, Johnny, somebody, oh_
+> ***Somebody, oh, Johnny, somebody, oh***
 
 Essequibo whiskey is the king of whiskies all\
-_Buddy ta-na-na, we are somebody, oh_\
+***Buddy ta-na-na, we are somebody, oh***\
 Essequibo whiskey is the king of whiskies all\
-_Buddy ta-na-na, we are somebody, oh_
+***Buddy ta-na-na, we are somebody, oh***
 
-> _Somebody, oh, Johnny, somebody, oh_\
+> ***Somebody, oh, Johnny, somebody, oh***\
 
 Essequibo River is the king of rivers all\
-_Buddy ta-na-na, we are somebody, oh_\
+***Buddy ta-na-na, we are somebody, oh***\
 Essequibo River is the king of rivers all
-_Buddy ta-na-na, we are somebody, oh_
+***Buddy ta-na-na, we are somebody, oh***
 
-> _Somebody, oh, Johnny, somebody, oh_\
+> ***Somebody, oh, Johnny, somebody, oh***\

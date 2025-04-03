@@ -16,41 +16,41 @@ description: >-
   Liverpool branch of the line operated from 1852 until 1871.
 ---
 In the Black Ball line I served my time\
-_To me way-aye-aye, hurrah-oh_\
+***To me way-aye-aye, hurrah-oh***\
 And that's the line where you can shine\
-_Hurrah for the Black Ball Line_
+***Hurrah for the Black Ball Line***
 
 The Black Ball Ships are good and true\
-_To me way-aye-aye, hurrah-oh_\
+***To me way-aye-aye, hurrah-oh***\
 They are the ships for me and you\
-_Hurrah for the Black Ball Line_
+***Hurrah for the Black Ball Line***
 
 For once there was a Black Ball ship\
-_To me way-aye-aye, hurrah-oh_\
+***To me way-aye-aye, hurrah-oh***\
 That fourteen knots an hour could clip\
-_Hurrah for the Black Ball Line_
+***Hurrah for the Black Ball Line***
 
 They'll carry you along through frost and snow\
-_To me way-aye-aye, hurrah-oh_\
+***To me way-aye-aye, hurrah-oh***\
 And take you where the wind don't blow\
-_Hurrah for the Black Ball Line_
+***Hurrah for the Black Ball Line***
 
 You will surely find a rich gold mine\
-_To me way-aye-aye, hurrah-oh_\
+***To me way-aye-aye, hurrah-oh***\
 Just take a trip in the Black Ball Line\
-_Hurrah for the Black Ball Line_
+***Hurrah for the Black Ball Line***
 
 Just take a trip to Liverpool\
-_To me way-aye-aye, hurrah-oh_\
+***To me way-aye-aye, hurrah-oh***\
 To Liverpool, that Yankee school\
-_Hurrah for the Black Ball Line_
+***Hurrah for the Black Ball Line***
 
 The Yankee sailors you'll see there\
-_To me way-aye-aye, hurrah-oh_\
+***To me way-aye-aye, hurrah-oh***\
 With red-top boots and short-cut hair\
-_Hurrah for the Black Ball Line_
+***Hurrah for the Black Ball Line***
 
 At Liverpool docks we bid adieu\
-_To me way-aye-aye, hurrah-oh_\
+***To me way-aye-aye, hurrah-oh***\
 To friends and loves, but still sing true\
-_Hurrah for the Black Ball Line_
+***Hurrah for the Black Ball Line***

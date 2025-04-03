@@ -75,8 +75,8 @@ loup = flip-flop
 qued = could
 bairn = child
 
-An Aberdeen song, still current.  See Sheila Douglas, _The Sang's the
-Thing_. (Polygon, Edinburgh, 1992)  Sung by "The Shipping News" at the
+An Aberdeen song, still current.  See Sheila Douglas, ***The Sang's the
+Thing***. (Polygon, Edinburgh, 1992)  Sung by "The Shipping News" at the
 Mystic Sea Music Festival, June 1998. AJS
 AJS
 APR99
