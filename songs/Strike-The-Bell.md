@@ -37,6 +37,8 @@ They see a great swell\
 They're wishing that the Second Mate\
 Would **strike, strike the bell**
 
+> ***Strike the bell, Second Mate...***
+
 Aft at the wheel\
 Poor Anderson stands\
 Grasping the spokes\
@@ -45,6 +47,8 @@ Looking at the compass\
 The course is clear as hell\
 He's wishing that the Second Mate\
 Would **strike, strike the bell**
+
+> ***Strike the bell, Second Mate...***
 
 For'ad in the fo'c'sle head\
 Keeping sharp lookout\
@@ -55,6 +59,8 @@ And everything is well"\
 He's wishing that the Second Mate\
 Would **strike, strike the bell**
 
+> ***Strike the bell, Second Mate...***
+
 Aft the quarterdeck\
 The gallant Captain stands\
 Looking to windward\
@@ -63,3 +69,5 @@ What he is thinking of\
 We know very well\
 He's thinking more of shortening sail\
 Than **strike, strike the bell**
+
+> ***Strike the bell, Second Mate...***
