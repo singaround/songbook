@@ -8,6 +8,7 @@ chorusLine: 'And it''s row, row bullies row,'
 songLine: From Liverpool to Frisco a-roving I went
 tags:
   - song
+  - Liverpool
 date: 2019-04-04T21:20:00.729Z
 description: >-
   Another sad story of kidnapping-this time the sailor escapes Liverpool for San
