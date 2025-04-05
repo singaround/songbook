@@ -9,7 +9,8 @@ chorusLine: Keep hauling on
 songLine: We set sail like bold Phoenicians
 tags:
   - song
-  - female writer
+  - female_writer
+  - Nancy_Kerr
 date: 2025-04-03T08:05:12.000Z
 description: 
 ---
