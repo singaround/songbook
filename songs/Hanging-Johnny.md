@@ -21,44 +21,44 @@ description: >-
 They call me hanging Johnny,\
 **Away, boys, away!**\
 They say I hang for money!\
-**Away, boys, away!**
+***So hang, boys, hang down!***
 
 They say I hanged my mother,\
 **Away, boys, away!**\
 My sisters and my brothers\
-**Away, boys, away!**
+***So hang, boys, hang down!***
 
 They say I hanged my granny,\
 **Away, boys, away!**\
 I strung her up so canny\
-**Away, boys, away!**
+***So hang, boys, hang down!***
 
 They say I hung a copper,\
 **Away, boys, away!**\
 I gave him the long dropper\
-**Away, boys, away!**
+***So hang, boys, hang down!***
 
 I'd hang the mates and skippers,\
 **Away, boys, away!**\
 I'd hang 'em by their flippers\
-**Away, boys, away!**
+***So hang, boys, hang down!***
 
 A rope, a beam, a ladder,\
 **Away, boys, away!**\
 I'll hang ye all together\
-**Away, boys, away!**
+***So hang, boys, hang down!***
 
 Hang 'em from the yardarm,\
 **Away, boys, away!**\
 Hang the sea and buy a pigfarm\
-**Away, boys, away!**
+***So hang, boys, hang down!***
 
 They say I hang for money,\
 **Away, boys, away!**\
 I hang because it's funny\
-**Away, boys, away!**
+***So hang, boys, hang down!***
 
 They call me hanging Johnny,\
 **Away, boys, away!**\
 Ain't never hanged nobody\
-**Away, boys, away!**
+***So hang, boys, hang down!***
