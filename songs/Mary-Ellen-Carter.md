@@ -9,8 +9,7 @@ songLine: 'Make the Mary Ellen Carter rise again'
 tuneLink: ''
 tags:
   - song
-  - Mary Ellen Carter
-  - Stan Rogers
+  - Stan_Rogers
   - anthem
   - adversity
 date: 2023-13-04T18:06:27.563Z
