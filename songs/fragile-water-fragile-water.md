@@ -9,6 +9,9 @@ songLine: I am a man upon the land
 tuneLink: 'https://www.youtube.com/watch?v=zppM7KbBWLA'
 tags:
   - song
+  - Nancy_Kerr
+  - fish
+  - female_writer
 date: 2019-11-11T20:09:38.788Z
 description: >-
   Nancy Kerr generously gave us permission to reproduce lyrics of her original
