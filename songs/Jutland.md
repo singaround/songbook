@@ -7,7 +7,7 @@ tuneBy: © Les Sullivan
 songLine: Where are you goin’ my Billy-O?
 tags:
   - song
-  - war
+  - naval_warfare
   - WWI
   - lament
 date: 2019-03-07T08:05:12.000Z
@@ -65,3 +65,8 @@ But where is the "Black Prince"? Gone Now!\
 And where is the glory? Gone Now!\
 And six thousand sailors, Gone Now!\
 They have gone to the bottom at Jutland.
+
+
+<span style="color:blue">test *blue* text</span>.
+<code style="color : blue">text</code>
+<code style="color:blue">text</code>
