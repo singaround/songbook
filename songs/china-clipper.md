@@ -9,7 +9,8 @@ chorusLine:
 songLine: O fair she was to look on
 tags:
   - song
-  - female writer
+  - female_writer
+  - ship
 date: 2025-04-04T08:05:12.000Z
 description: 
 ---
