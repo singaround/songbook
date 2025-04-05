@@ -8,6 +8,9 @@ chorusLine: For it's cheer up my lads
 songLine: 'The Diamond is a ship, my lads'
 tags:
   - song
+  - ship
+  - whaling
+  - Scotland
 date: 2019-03-07T08:05:12.000Z
 description: >-
   By the 1820s the relativity milder northern waters were fished clean, and
