@@ -38,14 +38,14 @@ And she shyly took her bow\
 She said "I never made a speech in my sweet short life\
 And I ain't gonna make one now"
 
->***Row Ida row***
+>***Row Ida row...***
 
 All alone in a lighthouse\
 In a life no union bliss\
 The only bells that ring for Ida\
 Ring a sweet brave soul to rest
 
->***Row Ida row***
+>***Row Ida row...***
 
 Eighteen souls she rescued\
 Though she wasn't counting heads\
@@ -57,6 +57,6 @@ When they called her strong she answered\
 They see the lights that watch the harbour\
 But I see Ida's eyes
 
->***Row Ida row***
+>***Row Ida row...***
 
 
