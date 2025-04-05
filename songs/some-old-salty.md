@@ -5,11 +5,12 @@ title: Some Old Salty
 published: false
 wordsBy: Lal Waterson
 tuneBy: Lal Waterson
-chorusLine: 
-songLine: I'll sail and I'll sail and wherever I go
+chorusLine: Some old salty, how he used to rock me
+songLine: Salt fare, North Sea
 tags:
   - song
-  - female writer
+  - female_writer
+  - Northeast_England
 date: 2025-04-03T08:05:12.000Z
 description: 
 ---
