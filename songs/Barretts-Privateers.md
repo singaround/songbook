@@ -8,6 +8,7 @@ chorusLine: God damn them all!
 songLine: 'Oh, the year was 1778'
 tags:
   - song
+  - Stan_Rogers
 date: 2019-03-07T08:05:12.000Z
 
 description: >-
