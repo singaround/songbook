@@ -10,6 +10,8 @@ songLine: Oh the weary cutters, they’ve taken my laddie from me
 tags:
   - song
   - traditional
+  - impressment
+  - lament
 date: 2025-04-03T08:05:12.000Z
 description: 
 ---
