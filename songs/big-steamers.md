@@ -1,3 +1,4 @@
+---
 templateKey: song
 title: Big Steamers
 published: false
@@ -10,8 +11,8 @@ tags:
   - trade
 date: 2025-04-06T08:05:12.000Z
 description: 
-
-"Oh, where are you going to, all you Big Steamers,\
+---
+Oh, where are you going to, all you Big Steamers,\
 With England's own coal, up and down the salt seas?"\
 ***"We are going to fetch you your bread and your butter,\
 Your beef, pork, and mutton, eggs, apples, and cheese."***
