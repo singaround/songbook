@@ -1,4 +1,4 @@
----
+r---
 templateKey: song
 title: Away Santianna
 published: true
@@ -33,7 +33,7 @@ With a cask of rum on a drinkin' spree\
 
 When I was a young lass in my prime\
 ***Away Santianna***\
-I had them Irish lads two at a time\
+I had them sailor lads two at a time\
 ***All along the coast of Mexico***
 
 But I'd never leave the sea to settle down\
