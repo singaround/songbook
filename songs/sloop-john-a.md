@@ -39,7 +39,7 @@ We didn't meet him because\
 We didn't find it\
 And then we went home.
 
->***Where can the John A be? ..."***
+>***Where can the John A be? ...***
 
 The day was a non-event,\
 It seemed the A had went;\
@@ -49,4 +49,4 @@ I had my heart set on A;\
 We didn't find it,\
 And then we went home.
 
->***Where can the John A be? ..."***
+>***Where can the John A be? ...***
