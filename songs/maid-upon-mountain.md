@@ -10,13 +10,14 @@ tags:
   - song
   - supernatural
   - weather
+  - two_voices
 date: 2025-04-07T08:05:12.000Z
 description: Written as part of an 'Access Folk' workshop, 2025. This song takes its inspiration from witches selling knotted strings to sailors. The knots were said to contain the wind, and by untying a knot the sailor could control the weather.
 ---
 
-<span style="color:green">***Green: voice 1***</span>\
-<span style="color:blue">***Blue: voice 2***</span>\
-<span style="color:orange">***Orange: everyone***</span>
+<span style="color:green">Green: voice 1</span>\
+<span style="color:blue">Blue: voice 2</span>\
+<span style="color:orange">Orange: both</span>
 
 
 <span style="color:green">In my bag there is a knot\
@@ -28,8 +29,8 @@ Than any man alive can\
 Or unknot a hurricane –\
 Blow this old world away</span>
 
-><span style="color:orange">***Or unknot a hurricane\
-To blow this world away***</span>
+>***Or unknot a hurricane\
+To blow this world away***
 
 <span style="color:blue">What brings you to this sad place\
 O Maid upon the mountain?</span>\
@@ -40,8 +41,8 @@ And sell the winds to sailors\
 Gentle breeze or flowing gale\
 Or storm in the unwinding</span>
 
-><span style="color:orange">***Gentle breeze or flowing gale\
-To blow this world away***</span>
+>***Gentle breeze or flowing gale\
+To blow this world away***
 
 <span style="color:blue">I will carve an Irish flute\
 To take the breath of sailors\
@@ -52,8 +53,8 @@ of maids upon a mountain\
 Fill the lungs of sailor men\
 Who travel far from home</span>
 
-><span style="color:orange">>***Fill the lungs of sailor men\
-To blow this world away***</span>
+>***Fill the lungs of sailor men\
+To blow this world away***
 
 <span style="color:orange">We have always plied this trade\
 We maids upon the mountain\
@@ -64,5 +65,5 @@ Some sails fill when seas are still?</span>\
 <span style="color:orange">We weave knots of power\
 And we weave them with the wind</span>
 
-><span style="color:orange">***We weave knots of power\
-To blow this world away***</span>
+>***We weave knots of power\
+To blow this world away***
