@@ -1,14 +1,16 @@
-r---
+---
 templateKey: song
 title: Away Santianna
 published: true
-wordsBy: Pyrates Royale
+wordsBy: adapted from version by Pyrates Royale
 tuneBy: Traditional
 chorusLine: Away Santianna
 songLine: The Navy would never have a lass at sea
 tags:
   - song
   - rewrite
+  - piracy
+  - seafaring_women
 date: 2019-03-13T22:54:34.527Z
 ---
 The Navy would never have a lass at sea\
@@ -18,7 +20,7 @@ So I went in search of piracy\
 
 > ***So heave her up and away we'll go***\
 > ***Heave away Santianna***\
-> ***To Mexico where the warm winds blow***\
+> ***Heave her up and away we'll go***\
 > ***All along the coast of Mexico***
 
 And now we sail the Southern Seas\
