@@ -9,14 +9,12 @@ songLine: 'Make the Mary Ellen Carter rise again'
 tuneLink: ''
 tags:
   - song
-  - Mary Ellen Carter
-  - Stan Rogers
+  - Stan_Rogers
   - anthem
-  - adversity
+  - shipwreck
+  - ship
 date: 2023-13-04T18:06:27.563Z
 description: >-
-  Typically folk don't sing the chorus between the first & second verses (Stan Rogers included), but you're welcome to add it in if you feel like it.
-
   A song about a sunken ship, but also about hope and common humanity,
   and triumph over adversity.
 
@@ -55,31 +53,36 @@ Then the Mary Ellen Carter settled low\
 There were just us four aboard her when she finally was awash\
 We worked like hell to save her, all heedless of the cost\
 But the groan she made as she went down, it caused us to proclaim\
-That the Mary Ellen Carter'd rise again
+***That the Mary Ellen Carter'd rise again***
+
+> ***Rise again, rise again!\
+May her name not be lost to the knowledge of men\
+All those who loved her best and who were with her till the end\
+Will make the Mary Ellen Carter rise again!***
 
 Well, the comp'ny wrote her off, not a nickel would they spend\
-She gave 20 years of service, boys, and met a sorry end\
+She gave twenty years of service, boys, and met a sorry end\
 But insurance paid the loss to us, said "Let her rest below"\
 Then they laughed at us, said we had to go\
 But we talked of her all winter, sometimes days around the clock\
 She's worth a quarter million afloatin' at the dock\
 And with every jar that hit the bar we swore we would remain\
-And make the Mary Ellen Carter rise again
+***And make the Mary Ellen Carter rise again***
 
-> ***Rise again, rise again!***\
-> ***May her name not be lost to the knowledge of men***\
-> ***All those who loved her best and who were with her till the end***\
-> ***Will make the Mary Ellen Carter rise again!***
+> ***Rise again, rise again!\
+May her name not be lost to the knowledge of men\
+All those who loved her best and who were with her till the end\
+Will make the Mary Ellen Carter rise again!***
 
 All spring now we've been with her on a barge lent by a friend\
 Three dives a day in a hard hat suit and twice I've had the bends\
-Thank God it's only 60 feet and the currents here are slow\
+Thank God it's only sixty feet and the currents here are slow\
 Or I'd never have the strength to go below\
 So we patched her rents, stopped her vents\
 Dogged hatch and porthole down\
 Put cables to her fore and aft and girded her around\
 Tomorrow noon we'll hit the air and then take up the strain\
-And make the Mary Ellen Carter rise again
+***And make the Mary Ellen Carter rise again***
 
 > ***Rise again, rise again!***\
 > ***May her name not be lost to the knowledge of men***\
@@ -91,15 +94,16 @@ She'd saved our lives so many times fightin' through the gale\
 And the laughing, drunken rats who led her to a sorry grave\
 Well, they won't be laughing in another day\
 And to you, for whom adversity has dealt its mortal blow\
-We're smiling bastards lying to you everywhere you go\
+With smiling bastards lying to you everywhere you go\
 Turn to and put out all your strength of arm and heart and brain\
-And like the Mary Ellen Carter, rise again
+***And like the Mary Ellen Carter, rise again***
 
-> ***Rise again, rise again!***\
-> ***Though your heart it be broke and your life about to end***\
-> ***No matter what you lost, be it a home, a love, a friend***\
-> ***Like the Mary Ellen Carter, rise again!***\
-> ***Rise again, rise again!***\
-> ***Though your heart it be broke and your life about to end***\
-> ***No matter what you lost, be it a home, a love, a friend***\
-> ***Like the Mary Ellen Carter, rise again!***
+> ***Rise again, rise again!\
+Though your heart it be broke and your life about to end\
+> No matter what you lost, be it a home, a love, a friend\
+> Like the Mary Ellen Carter, rise again!***
+> 
+> ***Rise again, rise again!\
+Though your heart it be broke and your life about to end\
+No matter what you lost, be it a home, a love, a friend\
+Like the Mary Ellen Carter, rise again!***

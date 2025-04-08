@@ -7,6 +7,7 @@ tuneBy: Traditional
 songLine: 'Adieu, sweet lovely Nancy, ten thousand times adieu'
 tags:
   - song
+  - farewell
 date: 2019-04-06T20:40:04.739Z
 ---
 Adieu, sweet lovely Nancy, ten thousand times adieu,\

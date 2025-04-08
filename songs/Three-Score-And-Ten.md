@@ -9,6 +9,8 @@ songLine: Methinks I see a host of craft
 tags:
   - song
   - herring
+  - fishing
+  - Northeast_England
 date: 2019-03-07T08:05:12.000Z
 description: >-
   "Three Score and Ten" is a broadside ballad commemorating a tragic storm off
@@ -41,14 +43,14 @@ A crew with hearts so brave
 Going out to earn their daily bread
 Upon the restless wave
 
-And it's three score and ten
-Boys and men were lost from Grimsby town
-From Yarmouth down to Scarborough
-Many hundreds more were drowned
-Our herring craft, our Trawlers
-Our fishing Smacks, as well
-They long to fight the bitter night
-And battle with the swell
+>***And it's three score and ten\
+Boys and men were lost from Grimsby town\
+From Yarmouth down to Scarborough\
+Many hundreds more were drowned\
+Our herring craft, our trawlers\
+Our fishing smacks, as well\
+They long to fight the bitter night\
+And battle with the swell***
 
 Methinks I see them yet again\
 As they leave this land behind\

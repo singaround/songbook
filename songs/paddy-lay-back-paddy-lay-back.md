@@ -10,45 +10,49 @@ tags:
   - song
 date: 2019-03-14T21:28:31.196Z
 ---
-***Paddy lay back, Take in your slack***\
-***Take a turn around the capstan, heave a-pawl***\
-***About ship's station boys be handy***\
+
+'Twas a cold an' dreary mornin' in December **(December!)**\
+Well, all of me money it was spent **(spent! spent!)**\
+Where it went to, Lord, I barely can't remember **(remember!)**\
+So down to the shippin' office went **(went! went!)**
+
+>***Paddy lay back*** (Paddy lay back)\
+***Take in your slack*** (take in your slack)\
+***Take a turn around the capstan, heave a-pawl*** (heave a pawl)\
+***About ship's station boys be handy*** (be handy!)\
 ***For we're off to Valparaiso in the morn***
 
-That day there was a great demand for sailors\
-For the colonies, for Frisco, and for France\
-So I shipped aboard a Limey bark, 'The Hotspur'\
-And I got paralytic drunk on my advance
+That day there was a great demand for sailors **(for sailors!)**\
+For the colonies, for Frisco, and for France **(France! France!)**\
+So I shipped aboard a Limey bark, 'The Hotspur' **(The Hotspur!)**\
+And I got paralytic drunk on my advance **(vance! vance!)**
 
-***Paddy lay back, Take in your slack***\
-***Take a turn around the capstan, heave a-pawl***\
-***About ship's station boys be handy***\
-***For we're off to Valparaiso in the morn***
+>***Paddy lay back...***
 
-There were Dutchmen, Spaniards, and Russians\
-And jolly boys just across from France\
-Not a one of them could speak a word of English\
-But the answered to the name of 'Month's Advance'
+There were Dutchmen, Spaniards, and Russians **(Russians!)**\
+And jolly boys just across from France **(France! France!)**\
+Not a one of them could speak a word of English **(of English!)**\
+But the answered to the name of 'Month's Advance' **(vance! vance!)**
 
-***Paddy lay back, Take in your slack...***
+>***Paddy lay back...***
 
-Now some of the lads they had been drinkin'\
-And meself was heavy on the booze\
-So I sat upon my old sea-chest a -thinkin'\
-That I'd crawl into me bunk and have a snooze
+Now some of the lads they had been drinkin' **(drinkin'!)**\
+And meself was heavy on the booze  **(booze! booze!)**\
+So I sat upon my old sea-chest a -thinkin' **(a-thinkin!)**\
+That I'd crawl into me bunk and have a snooze **(snooze! snooze!)**
 
-***Paddy lay back, Take in your slack...***
+>***Paddy lay back...***
+>
+I woke up in the morning sick and sore **(sick and sore!)**\
+For I knew I was outward bound again **(gen! gen!)**\
+When I heard a voice bawling at the door **(the door!)**\
+Get up ye bastard and listen to your name  **(name, name)**
 
-I woke up in the morning sick and sore\
-For I knew I was outward bound again\
-When I heard a voice bawling at the door\
-Get up ye bastard and listen to your name
+>***Paddy lay back...***
 
-***Paddy lay back, Take in your slack...***
+Well I wish I was in the Jolly Sailor **(the sailor!)**\
+Along with Irish navvies drinkin' beer **(beer, beer!)**\
+When I thought what jolly lads were sailors **(were sailors!)**\
+And with me flipper I wiped away a tear **(tear, tear!)**
 
-Well I wish I was in the Jolly Sailor\
-Along with Irish navvies drinkin' beer\
-When I thought what jolly lads were sailors\
-And with me flipper I wiped away a tear
-
-***Paddy lay back, Take in your slack...***
+>***Paddy lay back...***

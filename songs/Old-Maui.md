@@ -9,7 +9,8 @@ songLine: It’s a damn tough life full of toil and strife
 tags:
   - song
   - whaling
-  - Maui
+  - Pacific
+  - Stan_Rogers
 date: 2019-03-07T08:05:12.000Z
 description: >-
   This is a song about the Kamchatka bowhead whale and Pacific sperm whale
@@ -32,7 +33,7 @@ With a good ship, taut and free
 And we don't give a damn when we drink our rum
 With the girls of old Maui
 
-***Rolling down to old Maui, me boys***\
+>***Rolling down to old Maui, me boys***\
 ***Rolling down to old Maui***\
 ***We're homeward bound from the Artic ground***\
 ***Rolling down to old Maui***
@@ -46,6 +47,8 @@ On the cold Kamchatka sea\
 But now we're bound from the Arctic ground\
 Rolling down to old Maui.
 
+>***Rolling down to old Maui...***
+
 Once more we sail with a northerly gale\
 Through the ice and wind and rain\
 Them coconut fronds, them tropical lands\
@@ -55,11 +58,15 @@ What care we for that sound?\
 A living gale is after us\
 Thank God we're homeward bound
 
+>***Rolling down to old Maui...***
+
 An ample share of toil and care\
 We whalemen undergo,\
 But when it’s over, what care we\
 How bitter the blast may blow?\
 We’re homeward bound\
-that joyful sound across the Arctic sea,\
+That joyful sound across the Arctic sea,\
 We’re homeward bound from the Arctic ground\
-rolling down to old Maui.
+Rolling down to old Maui.
+
+>***Rolling down to old Maui...***

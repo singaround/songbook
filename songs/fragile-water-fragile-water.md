@@ -9,6 +9,10 @@ songLine: I am a man upon the land
 tuneLink: 'https://www.youtube.com/watch?v=zppM7KbBWLA'
 tags:
   - song
+  - Nancy_Kerr
+  - fish
+  - female_writer
+  - sea_creatures
 date: 2019-11-11T20:09:38.788Z
 description: >-
   Nancy Kerr generously gave us permission to reproduce lyrics of her original
@@ -32,10 +36,10 @@ For after water, land seems so much harder\
 But I will fall from wandering\
 To land on beaten sand and fragile water
 
-> ***My little fish slip off your skin***\
-> ***And leave it in the tide for gulls to plunder***\
-> ***And if you wish to walk or swim***\
-> ***Let there be nothing in the world to hinder***
+> ***My little fish slip off your skin\
+And leave it in the tide for gulls to plunder\
+And if you wish to walk or swim\
+Let there be nothing in the world to hinder***
 
 There are other gifts than silver\
 Like another word for lover\
@@ -52,22 +56,22 @@ But as the ocean courts the strand\
 So generations may understand\
 We are all beaten sand and fragile water
 
-> ***My little fish slip off your skin***\
-> ***And leave it in the tide for gulls to plunder***\
-> ***And if you wish to walk or swim***\
-> ***Let there be nothing in the world to hinder***
+> ***My little fish slip off your skin\
+And leave it in the tide for gulls to plunder\
+And if you wish to walk or swim\
+Let there be nothing in the world to hinder***
 >
-> ***My little fish slip off your skin***\
-> ***And leave it in the tide for gulls to plunder***\
-> ***And if you wish to walk or swim***\
-> ***Let there be nothing in the world to hinder***
+> ***My little fish slip off your skin\
+And leave it in the tide for gulls to plunder\
+And if you wish to walk or swim\
+Let there be nothing in the world to hinder***
 
 There are other gifts than silver\
 Like another word for lover\
 If we only hold each other\
 We are beaten sand and fragile water
 
-There are other gifts for silver\
+There are other gifts than silver\
 Like another word for lover\
 If we only hold each other\
 We are beaten sand and fragile water\

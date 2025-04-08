@@ -9,46 +9,52 @@ tags:
   - Australia
 date: 2019-03-07T08:05:12.000Z
 ---
-In South Australia I was born
+In South Australia I was born\
+***(To me) heave away, haul away***\
+In South Australia round Cape Horn\
+***We're bound for South Australia***
 
-> ***(To me) heave away, haul away***
-
-In South Australia round Cape Horn
-
+> ***Haul away you rolling Kings***\
+> ***(To me) heave away, haul away***\
+> ***Haul away, you'll hear me sing***\
 > ***We're bound for South Australia***
 
-Haul away you rolling Kings
+As I walked out one morning fair\
+***(To me) heave away, haul away***\
+'Twas there I met miss Nancy Blair\
+***We're bound for South Australia***
 
-> ***(To me) heave away, haul away***
+> ***Haul away you rolling Kings...***
 
-Haul away, you'll hear me sing
+She shook me up and I shook her down\
+***(To me) heave away, haul away***\
+We shook around and round the town\
+***We're bound for South Australia***
 
-> ***We're bound for South Australia***
+> ***Haul away you rolling Kings...***
 
-As I walked out one morning fair
+We run all night and we run all day\
+***(To me) heave away, haul away***\
+We ran until I sailed away\
+***We're bound for South Australia***
 
-'Twas there I met miss Nancy Blair
+> ***Haul away you rolling Kings...***
 
-She shook me up and I shook her down
+There ain't but one thing grieves me mind\
+***(To me) heave away, haul away***\
+To leave Miss Nancy Blair behind\
+***We're bound for South Australia***
 
-We shook around and round the town
+> ***Haul away you rolling Kings...***
 
-We run all night and we run all day
+As we wallop 'round Cape Horn\
+***(To me) heave away, haul away***\
+You'll wish to god you'd never been born\
+***We're bound for South Australia***
 
-We ran until I sailed away
+> ***Haul away you rolling Kings...***
 
-There ain't but one thing grieves me mind
-
-To leave Miss Nancy Blair behind
-
-As we wallop 'round Cape Horn
-
-You'll wish to god you'd never been born
-
-In South Australia my native land
-
-Full of rocks and thieves and fleas and sand
-
-I wish I was on Australia's strand
-
-With a bottle of whiskey in my hand
+I wish I was on Australia's strand\
+***(To me) heave away, haul away***\
+With a bottle of whiskey in my hand\
+***We're bound for South Australia***

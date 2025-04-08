@@ -13,6 +13,8 @@ tags:
   - feminism
   - pirate
   - queen
+  - Nancy_Kerr
+  - female_writer
 date: 2019-03-13T22:06:27.563Z
 description: >-
   Nancy Kerr's lyrics draw loosely on the account of the 1593 meeting of Irish

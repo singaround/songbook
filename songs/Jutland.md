@@ -7,7 +7,7 @@ tuneBy: © Les Sullivan
 songLine: Where are you goin’ my Billy-O?
 tags:
   - song
-  - war
+  - naval_warfare
   - WWI
   - lament
 date: 2019-03-07T08:05:12.000Z
@@ -21,47 +21,47 @@ description: >-
   Mingulay](https://howlingtoad.webs.com/echoes-of-mingulay), and Les has kindly
   given us permission to reproduce the lyrics here.
 ---
-Where are you goin' my Billy-O?\
-Where are you goin' my Billy-O?\
-I'm joining a ship in Scapa Flow,\
-That's where I'm going my Nancy
+<span style="color:blue">Where are you goin' my Billy-O?</span>\
+<span style="color:blue">Where are you goin' my Billy-O?</span>\
+<span style="color:green">I'm joining a ship in Scapa Flow,</span>\
+<span style="color:green">That's where I'm going my Nancy</span>
 
-I'm joining "Queen Mary" Nancy-O\
-Joining "Queen Mary" Nancy-O\
-She's bristling with guns and ready to go\
-To sail to glory with Jellicoe
+<span style="color:green">I'm joining "Queen Mary" Nancy-O</span>\
+<span style="color:green">Joining "Queen Mary" Nancy-O</span>\
+<span style="color:green">She's bristling with guns and ready to go</span>\
+<span style="color:green">To sail to glory with Jellicoe</span>
 
-But where is "Queen Mary"? Gone Now!\
-And where is the glory? Gone Now!\
-And six thousand sailors, Gone Now!\
-They have gone to the bottom at Jutland.
+<span style="color:blue">But where is "Queen Mary"?</span> <span style="color:orange">Gone Now!</span>\
+<span style="color:blue">And where is the glory?</span> <span style="color:orange">Gone Now!</span>\
+<span style="color:blue">And six thousand sailors,</span> <span style="color:orange">Gone Now!</span>\
+<span style="color:orange">They have gone to the bottom at Jutland.</span>
 
-Where are you goin' my Rodney-O?\
-Where are you goin' my Rodney-O?\
-I'm joining a ship in Scapa Flow\
-That's where I'm going my Nancy
+<span style="color:blue">Where are you goin' my Rodney-O?</span>\
+<span style="color:blue">Where are you goin' my Rodney-O?</span>\
+<span style="color:green">I'm joining a ship in Scapa Flow,</span>\
+<span style="color:green">That's where I'm going my Nancy</span>
 
-I'm joining "Invincible" Nancy-O\
-Joining "Invincible" Nancy-O\
-She's bristling with guns and ready to go\
-To sail to glory with Jellicoe
+<span style="color:green">I'm joining "Invincible" Nancy-O</span>\
+<span style="color:green">Joining "Invincible" Nancy-O</span>\
+<span style="color:green">She's bristling with guns and ready to go</span>\
+<span style="color:green">To sail to glory with Jellicoe</span>
 
-But where is "Invincible"? Gone Now!\
-And where is the glory? Gone Now!\
-And six thousand sailors, Gone Now!\
-They have gone to the bottom at Jutland.
+<span style="color:blue">But where is "Invincible"?</span> <span style="color:orange">Gone Now!</span>\
+<span style="color:blue">And where is the glory?</span> <span style="color:orange">Gone Now!</span>\
+<span style="color:blue">And six thousand sailors,</span> <span style="color:orange">Gone Now!</span>\
+<span style="color:orange">They have gone to the bottom at Jutland.</span>
 
-Where are you goin' my Johnny-O?\
-Where are you goin' my Johnny-O?\
-I'm joining a ship in Scapa Flow\
-That's where I'm going my Nancy
+<span style="color:blue">Where are you goin' my Johnny-O?</span>\
+<span style="color:blue">Where are you goin' my Johnny-O?</span>\
+<span style="color:green">I'm joining a ship in Scapa Flow,</span>\
+<span style="color:green">That's where I'm going my Nancy</span>
 
-I'm joining the "Black Prince" Nancy-O\
-Joining the "Black Prince" Nancy-O\
-She's bristling with guns and ready to go\
-To sail to glory with Jellicoe
+<span style="color:green">I'm joining the "Black Prince" Nancy-O</span>\
+<span style="color:green">Joining the "Black Prince" Nancy-O</span>\
+<span style="color:green">She's bristling with guns and ready to go</span>\
+<span style="color:green">To sail to glory with Jellicoe</span>
 
-But where is the "Black Prince"? Gone Now!\
-And where is the glory? Gone Now!\
-And six thousand sailors, Gone Now!\
-They have gone to the bottom at Jutland.
+<span style="color:blue">But where is the "Black Prince"?</span> <span style="color:orange">Gone Now!</span>\
+<span style="color:blue">And where is the glory?</span> <span style="color:orange">Gone Now!</span>\
+<span style="color:blue">And six thousand sailors,</span> <span style="color:orange">Gone Now!</span>\
+<span style="color:orange">They have gone to the bottom at Jutland.</span>
