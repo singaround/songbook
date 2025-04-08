@@ -8,6 +8,8 @@ chorusLine: "Don’t haul on the rope, don’t climb up the mast"
 songLine: Well me father often told me when I was just a lad
 tags:
   - song
+  - Royal_Navy
+  - comedy 
 date: 2019-03-07T08:05:12.000Z
 ---
 Well me father often told me when I was just a lad\
@@ -25,17 +27,25 @@ It wasn't like this in his day when he was up aloft\
 We like our bunks and sleeping bags, but what's a hammock for?\
 Swinging from the deckhead, or lying on the floor?
 
+> ***Don't haul on the rope...***
+
 Well they gave us an engine that first went up and down\
 Then with more technology the engine went around\
 We know our steam and diesel but what's a mainyard for?\
 A stoker ain't a stoker with a shovel anymore.
+
+> ***Don't haul on the rope...***
 
 Well they gave us Aldiss lamp so we could do it right\
 They gave us a radio, we signaled day and night\
 We know our codes and cyphers but what's a semaphore?\
 A bunting-tosser doesn't toss the bunting anymore
 
+> ***Don't haul on the rope...***
+
 Two cans of beer a day and that's your bleeding lot\
 Now we get an extra one because they've stopped the tot\
 So we'll put on our civvie clothes and find a pub ashore\
 A sailor's still a sailor just like he was before
+
+> ***Don't haul on the rope...***
