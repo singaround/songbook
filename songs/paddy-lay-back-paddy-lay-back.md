@@ -16,7 +16,8 @@ Well, all of me money it was spent **(spent! spent!)**\
 Where it went to, Lord, I barely can't remember **(remember!)**\
 So down to the shippin' office went **(went! went!)**
 
->***Paddy lay back, Take in your slack*** (take in your slack)\
+>***Paddy lay back*** (Paddy lay back)\
+***Take in your slack*** (take in your slack)\
 ***Take a turn around the capstan, heave a-pawl*** (heave a pawl)\
 ***About ship's station boys be handy*** (be handy!)\
 ***For we're off to Valparaiso in the morn***
