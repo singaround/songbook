@@ -4,7 +4,7 @@ title: Paint my sails red (Docks Shanty)
 published: true
 wordsBy: © Carlo Ritchie
 tuneBy: © Carlo Ritchie
-chorusLine: 'So I'll paint my sails red, and I'll sail out to sea'
+chorusLine: 'So I''ll paint my sails red, and I''ll sail out to sea'
 songLine: 'Oh my name is De Clisson, no sailor am I'
 tags:
   - song
