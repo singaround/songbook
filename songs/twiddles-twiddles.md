@@ -11,7 +11,7 @@ tags:
   - feminism
   - female_writer
   - female_narrator
-  - Jane_Meneely
+  - Janie_Meneely
   - comedy
 date: 2019-03-13T22:46:22.211Z
 description: "[Janie Meneely](http://www.janiemeneely.com/) writes modern sea
