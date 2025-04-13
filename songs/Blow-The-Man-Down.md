@@ -31,42 +31,42 @@ I'm a deep water sailor just come from Hong Kong,\
 You give me some whiskey I'll sing you a song\
 ***Give me some time to blow the man down***
 
-> ***Blow the man down to me, blow the man down***
+> ***Blow the man down to me...***
 
 'Twas on a black baller I first served my time,\
 ***To me way, hey, blow the man down***\
 On a trim black ball liner I wasted me prime\
 ***Give me some time to blow the man down***
 
-> ***Blow the man down to me, blow the man down***
+> ***Blow the man down to me...***
 
 When a trim black ball liner's preparing for sea,\
 ***To me way, hey, blow the man down***\
 You'll split your sides laughing, such sights you would see\
 ***Give me some time to blow the man down***
 
-> ***Blow the man down to me, blow the man down***
+> ***Blow the man down to me...***
 
 Now when the big liner, she's clear of the land,\
 ***To me way, hey, blow the man down***\
 Our bosun he roars out the word of command\
 ***Give me some time to blow the man down***
 
-> ***Blow the man down to me, blow the man down***
+> ***Blow the man down to me...***
 
 "Come quickly, lay aft to the break of the poop,\
 ***To me way, hey, blow the man down***\
 Or I'll help you along with the toe of my boot"\
 ***Give me some time to blow the man down***
 
-> ***Blow the man down to me, blow the man down***
+> ***Blow the man down to me...***
 
 Pay attention to orders now, you one and all,\
 ***To me way, hey, blow the man down***\
 For see high above, there flies the Black Ball\
 ***Give me some time to blow the man down***
 
-> ***Blow the man down to me, blow the man down***
+> ***Blow the man down to me...***
 
 'Tis larboard and starboard on deck you will sprawl,\
 ***To me way, hey, blow the man down***\
