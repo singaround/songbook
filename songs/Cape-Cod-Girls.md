@@ -28,14 +28,14 @@ Cape Cod kids ain't got no sleds\
 They slide down the hills on codfish heads\
 ***And we're bound away for Australia***
 
-> ***So heave away, my bully, bully boys***
+> ***So heave away, my bully, bully boys...***
 
 Cape Cod men ain't got no ale\
 ***Haul away, haul away***\
 They fill their glasses with codfish tails\
 ***And we're bound away for Australia***
 
-> ***So heave away, my bully, bully boys***
+> ***So heave away, my bully, bully boys...***
 
 Cape Cod folk ain't got no ills\
 ***Haul away, haul away***\
@@ -49,7 +49,7 @@ Cape Cod mothers don't bake no pies\
 They feed their kids on codfish eyes\
 ***And we're bound away for Australia***
 
-> ***So heave away, my bully, bully boys***
+> ***So heave away, my bully, bully boys...***
 
 Cape Cod cats ain't got no tails\
 ***Haul away, haul away***\
