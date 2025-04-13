@@ -8,6 +8,9 @@ chorusLine: 'Away, haul away, we’ll haul away Joe'
 songLine: Louis was the king of France
 tags:
   - song
+  - LGBTQ+
+  - more_chorus_than_verse
+  - rewritten
 date: 2019-03-07T08:05:12.000Z
 description: >-
   We've got rid of the verses criticising the characteristics of various women!

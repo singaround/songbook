@@ -9,6 +9,10 @@ songLine: 'I''ll sing you a song, it''s a song of the sea '
 tuneLink: 'http://alandoyle.ca/bully-boys-a-modern-folk-song/'
 tags:
   - song
+  - appears_in_a_film
+  - appears_in_a_Russell_Crowe_film
+  - post-2000
+  - coming_home
 date: 2019-03-11T19:53:57.972Z
 ---
 > ***And it's row me bully boys, we're in a hurry boys,\

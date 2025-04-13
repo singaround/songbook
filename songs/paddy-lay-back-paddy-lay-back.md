@@ -8,6 +8,7 @@ chorusLine: 'Paddy lay back, take in your slack'
 songLine: That day there was a great demand for sailors
 tags:
   - song
+  - drinking
 date: 2019-03-14T21:28:31.196Z
 ---
 
@@ -27,32 +28,32 @@ For the colonies, for Frisco, and for France **(France! France!)**\
 So I shipped aboard a Limey bark, 'The Hotspur' **(The Hotspur!)**\
 And I got paralytic drunk on my advance **(vance! vance!)**
 
->Paddy lay back ***(Paddy lay back)***
+>Paddy lay back ***(Paddy lay back)***...
 
 There were Dutchmen, Spaniards, and Russians **(Russians!)**\
 And jolly boys just across from France **(France! France!)**\
 Not a one of them could speak a word of English **(of English!)**\
 But the answered to the name of 'Month's Advance' **(vance! vance!)**
 
->Paddy lay back ***(Paddy lay back)***
+>Paddy lay back ***(Paddy lay back)***...
 
 Now some of the lads they had been drinkin' **(drinkin'!)**\
 And meself was heavy on the booze  **(booze! booze!)**\
 So I sat upon my old sea-chest a -thinkin' **(a-thinkin!)**\
 That I'd crawl into me bunk and have a snooze **(snooze! snooze!)**
 
->Paddy lay back ***(Paddy lay back)***
+>Paddy lay back ***(Paddy lay back)***...
 
 I woke up in the morning sick and sore **(sick and sore!)**\
 For I knew I was outward bound again **(gen! gen!)**\
 When I heard a voice bawling at the door **(the door!)**\
 Get up ye bastard and listen to your name  **(name, name)**
 
->Paddy lay back ***(Paddy lay back)***\
+>Paddy lay back ***(Paddy lay back)***...
 
-Well I wish I was in the Jolly Sailor **(the sailor!)**\
+Well I wish I was in the Jolly Farmers **(the Farmers!)**\
 Along with Irish navvies drinkin' beer **(beer, beer!)**\
 When I thought what jolly lads were sailors **(were sailors!)**\
 And with me flipper I wiped away a tear **(tear, tear!)**
 
->Paddy lay back ***(Paddy lay back)***\
+>Paddy lay back ***(Paddy lay back)***...

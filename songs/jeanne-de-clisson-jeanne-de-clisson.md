@@ -10,10 +10,13 @@ songLine: >-
   aventures de Jeanne
 tags:
   - song
-  - Jeanne de Clisson
-  - pirate
+  - Jeanne_de_Clisson
+  - seafaring_women
+  - female_writer
+  - piracy
   - French
-  - Brittany
+  - non-english-language
+  - historic_events
 date: 2019-03-31T16:50:02.070Z
 description: >-
   Always on the look-out for songs about female seafarers, we found [this

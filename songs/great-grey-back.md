@@ -10,8 +10,9 @@ songLine: Your great grey back seems so peaceful in the ocean
 tags:
   - song
   - female_writer
-  - whaling
   - post-2000
+  - sea_creatures
+  - seafaring_women
 date: 2025-04-04T08:05:12.000Z
 description: 
 ---

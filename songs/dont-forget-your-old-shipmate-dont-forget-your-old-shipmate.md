@@ -8,7 +8,12 @@ chorusLine: Long we've tossed on the rolling main
 songLine: Safe and sound at home again
 tags:
   - song
-  - Jack
+  - appears_in_a_film
+  - appears_in_a_Russell_Crowe_film
+  - LGBTQ+
+  - coming_home
+  - Royal_Navy
+  - Assassains_Creed
 date: 2019-03-11T19:46:26.084Z
 ---
 Safe and sound at home again\

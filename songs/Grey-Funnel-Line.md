@@ -8,6 +8,9 @@ chorusLine: And it's one more day on the Grey Funnel Line
 songLine: Don't mind the rain or the rolling sea
 tags:
   - song
+  - Royal_Navy
+  - lament
+  - farewell
 date: 2019-03-07T08:05:12.000Z
 description: >-
   _Written by Cyril Tawney, this melancholy shanty reflects on his time in the
