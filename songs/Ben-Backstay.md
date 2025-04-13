@@ -63,7 +63,7 @@ He piped all hands aloft and said;\
 By drinking grog I lost my life,\
 So lest my fate you meet,\
 Why, never mix your liquors, lads,\
-***But always drink them neat***\
+But always drink them neat\
 ***But always drink them neat***\
 ***But always drink them neat."***
 
