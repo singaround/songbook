@@ -10,8 +10,10 @@ songLine: A noble whale ship and commander
 tags:
   - song
   - ship
-  - Australia
-  - Ireland
+  - Australian
+  - Irish
+  - rebellion
+  - historic_events
 date: 2025-04-04T08:05:12.000Z
 description: 
 ---
