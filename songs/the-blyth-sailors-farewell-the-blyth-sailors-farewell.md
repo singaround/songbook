@@ -30,18 +30,18 @@ Fighting the ocean so far far away\
 Seeking for cargo in many a strange shore\
 Then turn her around for Blyth Harbour once more
 
-> ***Then trusting our vessel to captain and mate***
+> ***Then trusting our vessel to captain and mate...***
 
 We're loaded with coal to Holland we're bound\
 Then away on down channel where trade can be found\
 Calling ports there from France through to Spain\
 With a westerly breeze turning homeward again
 
-> ***Then trusting our vessel to captain and mate***
+> ***Then trusting our vessel to captain and mate...***
 
 Then heave her home boys we are now homeward bound\
 With a valuable cargo no matter where found\
 With fair wind and weather we'll soon be ashore\
 Safe-anchored in bonnie Blyth Harbour once more
 
-> ***Then trusting our vessel to captain and mate***
+> ***Then trusting our vessel to captain and mate...***
