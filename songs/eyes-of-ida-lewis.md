@@ -10,10 +10,12 @@ songLine: I fell in love with Ida
 tags:
   - song
   - lifeboats
-  - true_story
+  - historic_events
   - post-2000
+  - seafaring_women
+  - feminist
 date: 2025-04-05T08:05:12.000Z
-description: A song about heroic American lighthouse-keeper Idawalley Zoradia Lewis (1842 – 1911).  Responding to criticism that it was un-ladylike for women to row boats, Lewis said that "None – but a donkey, would consider it 'un-feminine', to save lives."
+description: A song about heroic American lighthouse-keeper Idawalley Zoradia Lewis (1842 – 1911). Responding to criticism that it was un-ladylike for women to row boats, Lewis said that "None – but a donkey, would consider it 'un-feminine', to save lives."
 ---
 I fell in love with Ida\
 On the day I went to sea\
