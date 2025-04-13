@@ -8,6 +8,8 @@ chorusLine: 'Roll, Alabama, roll'
 songLine: When the Alabama's keel was laid
 tags:
   - song
+  - naval_warfare
+  - shipwreck
 date: 2019-03-07T08:05:12.000Z
 description: >-
   CSS Alabama was built in secrecy in 1862 by British shipbuilders John Laird
@@ -18,16 +20,15 @@ description: >-
   attacking Union merchant and naval ships. She was sunk in June 1864 by USS
   Kearsarge at the Battle of Cherbourg.
 ---
-When the Alabama's keel was laid
-
-> ***Roll, Alabama, roll***
-
-It was laid in the yards of Jonathan Laird
-
-> ***Oh roll, Alabama, roll***
+When the Alabama's keel was laid\
+***Roll, Alabama, roll***\
+It was laid in the yards of Jonathan Laird\
+***Oh roll, Alabama, roll***
 
 It was laid in the yards of Jonathan Laird\
-It was laid in the town of Birkenhead
+***Roll, Alabama, roll***\
+It was laid in the town of Birkenhead\
+***Oh roll, Alabama, roll***
 
 Down the Mersey way she sailed then\
 Liverpool fitted her with guns and men
