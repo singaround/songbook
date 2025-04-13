@@ -20,20 +20,13 @@ description: >-
   The song takes a dark turn in the third verse when awe at the whale's might
   turns to praise for his useful oil.
 ---
-Oh, the whale is free of the boundless sea,
-
-He lives for a thousand years;
-
-He sinks to rest on the billow's breast,
-
-Nor the roughest tempest tears.
-
-The howling blast as it hurries past,
-
-Is music to lull him to sleep ;
-
-And he scatters the spray in his boisterous play,
-
+Oh, the whale is free of the boundless sea,\
+He lives for a thousand years;\
+He sinks to rest on the billow's breast,\
+Nor the roughest tempest tears.\
+The howling blast as it hurries past,\
+Is music to lull him to sleep ;\
+And he scatters the spray in his boisterous play,\
 As he dashes the King of the deep.
 
 > ***Oh, the rare old whale, 'mid storm and gale,***\
@@ -41,38 +34,24 @@ As he dashes the King of the deep.
 > ***A giant in might, where might is right,***\
 > ***And king of the boundless sea.***
 
-A wond'rous tale could the rare old whale
-
-Of the mighty deep disclose,
-
-Of the skeleton forms, of by-gone storms,
-
-And of treasures which no one knows,
-
-He has seen the crew, when the tempest blew,
-
-Drop down from the slipp'ry deck,
-
-Shaking the tide from his glassy side,
-
+A wond'rous tale could the rare old whale\
+Of the mighty deep disclose,\
+Of the skeleton forms, of by-gone storms,\
+And of treasures which no one knows,\
+He has seen the crew, when the tempest blew,\
+Drop down from the slipp'ry deck,\
+Shaking the tide from his glassy side,\
 And sporting with ocean and wreck.
 
-> ***Then the rare old whale, &c.***
+> ***Then the rare old whale...***
 
-Then the whale shall be still dear to me,
-
-When the midnight lamp burns dim,
-
-For the student's book and his fav'rite nook
-
-Are illumin'd by the aid of him
-
-From none of his tribe could we e'er imbibe,
-
-So useful, so blessed a thing,
-
-Then we'll on land go hand in hand,
-
+Then the whale shall be still dear to me,\
+When the midnight lamp burns dim,\
+For the student's book and his fav'rite nook\
+Are illumin'd by the aid of him\
+From none of his tribe could we e'er imbibe,\
+So useful, so blessed a thing,\
+Then we'll on land go hand in hand,\
 To hall him the Ocean King,
 
-> ***Oh, the rare old whale, &c.***
+> ***Oh, the rare old whale...***
