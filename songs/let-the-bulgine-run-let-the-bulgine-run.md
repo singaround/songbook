@@ -19,7 +19,7 @@ description: >-
   oldest street.
 ---
 Oh, the smartest packet you can find,\
-Ah Hey! Ah Ho! Are you most done?\
+***Ah Hey! Ah Ho! Are you most done?***\
 Is the Old Wild Cat of the Swallowtail Line!\
 ***Clear away the track, and let the bulgine run!***
 
@@ -29,7 +29,7 @@ Is the Old Wild Cat of the Swallowtail Line!\
 > ***Clear away the track, and let the bulgine run!***
 
 Oh! the Old Wildcat of the Swallowtail Line,\
-Ah Hey! Ah Ho! Are you most done?\
+***Ah Hey! Ah Ho! Are you most done?***\
 She's never a day behind her time!\
 ***Clear away the track, and let the bulgine run!***
 
@@ -58,5 +58,4 @@ I'll stand ye whiskies all around.
 I'll stay with Liza on the shore\
 And it's back to sea I'll go no more.
 
-> ***Timme Hey, Rig-a-jig, and a jaunting run...***
 > ***Timme Hey, Rig-a-jig, and a jaunting run...***
