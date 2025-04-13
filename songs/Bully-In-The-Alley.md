@@ -25,39 +25,39 @@ Sally is the girl that I love dearly\
 Sally is the girl that I spliced nearly\
 ***Bully down in Shinbone Al***
 
-> ***So help me Bob, I'm bully in the alley***
+> ***So help me Bob, I'm bully in the alley...***
 
 I went to tell my Sally dear\
 ***Way, hey, bully in the alley***\
 I hoped that she might shed a tear\
 ***Bully down in Shinbone Al***
 
-> ***So help me Bob, I'm bully in the alley***
+> ***So help me Bob, I'm bully in the alley...***
 
 Sweet Sally only shook her head\
 ***Way, hey, bully in the alley***\
 She took my hand, took me to bed\
 ***Bully down in Shinbone Al***
 
-> ***So help me Bob, I'm bully in the alley***
+> ***So help me Bob, I'm bully in the alley...***
 
 We tossed and tumbled all night long-o\
 ***Way, hey, bully in the alley***\
 In the morning the cock did crow-o\
 ***Bully down in Shinbone Al***
 
-> ***So help me Bob, I'm bully in the alley***
+> ***So help me Bob, I'm bully in the alley...***
 
 I left my Sal, went a-sailing\
 ***Way, hey, bully in the alley***\
 Signed on a big ship, went a-whaling\
 ***Bully down in Shinbone Al***
 
-> ***So help me Bob, I'm bully in the alley***
+> ***So help me Bob, I'm bully in the alley...***
 
 If ever I get back, she says we'll marry\
 ***Way, hey, bully in the alley***\
 Have six kids and live in Shinbone Alley\
 ***Bully down in Shinbone Al***
 
-> ***So help me Bob, I'm bully in the alley***
+> ***So help me Bob, I'm bully in the alley...***
