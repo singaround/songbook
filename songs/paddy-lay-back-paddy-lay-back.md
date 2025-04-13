@@ -8,6 +8,7 @@ chorusLine: 'Paddy lay back, take in your slack'
 songLine: That day there was a great demand for sailors
 tags:
   - song
+  - drinking
 date: 2019-03-14T21:28:31.196Z
 ---
 
@@ -50,9 +51,9 @@ Get up ye bastard and listen to your name  **(name, name)**
 
 >Paddy lay back ***(Paddy lay back)***...
 
-Well I wish I was in the Jolly Sailor **(the sailor!)**\
+Well I wish I was in the Jolly Farmers **(the Farmers!)**\
 Along with Irish navvies drinkin' beer **(beer, beer!)**\
 When I thought what jolly lads were sailors **(were sailors!)**\
 And with me flipper I wiped away a tear **(tear, tear!)**
 
->Paddy lay back ***(Paddy lay back)***\
+>Paddy lay back ***(Paddy lay back)***...
