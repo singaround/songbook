@@ -8,6 +8,8 @@ chorusLine: 'My sailor boy, I wish you sweet sleep'
 songLine: 'In midnight sleep, the sailor boy lay'
 tags:
   - song
+  - female_writer
+  - female_narrator
 date: 2019-03-18T18:30:50.303Z
 description: >-
   A sentimental song sung by a mother to her sailor son. The words are based on
@@ -21,10 +23,10 @@ His hammock swang loose in the wind\
 But watch-worn weary, his cares slipped away\
 And sweet dreams rose into his mind
 
-***My sailor boy, I wish you sweet sleep***\
-***As you’re rocked by the waves so deep***\
-***My sailor boy come safely home***\
-***Come safely home to me***
+>***My sailor boy, I wish you sweet sleep\
+As you’re rocked by the waves so deep\
+My sailor boy come safely home\
+Come safely home to me***
 
 He dreamt of his childhood home far away\
 His parents’ fond smiles of delight\
