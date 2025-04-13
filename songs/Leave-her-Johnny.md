@@ -30,36 +30,47 @@ description: >-
 I thought I heard the Old Man say\
 ***Leave her, Johnny, leave her***\
 You can go ashore and take your pay\
-***And it's time for us to leave her***\
-\
-***Leave her, Johnny, leave her***\
+***And it's time for us to leave her***
+
+>***Leave her, Johnny, leave her***\
 ***Oh, leave her, Johnny, leave her***\
 ***For the voyage was long and the winds did blow***\
-***And it's time for us to leave her***\
-\
+***And it's time for us to leave her***
+
 Oh her stern was foul and the voyage was long\
-The winds was bad and the gales was strong
+***Leave her, Johnny, leave her***\
+The winds was bad and the gales was strong\
+***And it's time for us to leave her***
+
+>h***Leave her, Johnny...***
 
 Oh the times was hard and the wages low\
-And the grub was bad and the gales did blow
+***Leave her, Johnny, leave her***\
+And the grub was bad and the gales did blow\
+***And it's time for us to leave her***
 
-Oh the Captain swears and the mate does too,\
-If you were there then you'd swear too
+>***Leave her, Johnny...***
+
+Oh the Captain swears and the mate does too\
+***Leave her, Johnny, leave her***\
+If you were there then you'd swear too\
+***And it's time for us to leave her***
+
+>***Leave her, Johnny...***
 
 We swear by rote for want of more,\
-But now we're through and go to shore
+***Leave her, Johnny, leave her***\
+But now we're through and go to shore\
+***And it's time for us to leave her***
 
-Oh God I hate this fucking tub,\
-It's a rotten ship with rotten grub,
+***==== END ====***\
+[potential other verses listed below if you'd like to extend it] 
 
 It's pump or drown, the old man said,\
 Or else, by Christ, we'll all be dead.
 
 No more Cape Horn, no more stand by,\
 We'll pump 'er out and we'll leave 'er dry.
-
-Oh a dollar a day is Jack shite pay,\
-To pump all night and pump all day
 
 And the captain was bad but the mate was worse,\
 He could blow you down with a sigh and a curse
@@ -78,9 +89,6 @@ Will all night in and plenty of ale.
 
 She's poverty-stricken and parish-rigged,\
 And the bloomin' crowd is fever-stricked.
-
-Oh how I hate Theresa May,\
-When she's booted out I'll sing 'hurray'
 
 Oh the rats are gone and we the crew,\
 It's damned high time we left 'er too.

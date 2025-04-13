@@ -8,6 +8,7 @@ songLine: As my mother’s only daughter
 tags:
   - song
   - female_writer
+  - Janie_Meneely
 date: 2019-03-13T22:37:57.857Z
 description: "[Janie Meneely](http://www.janiemeneely.com/) writes modern sea
   songs celebrating the maritime history, characters, and traditions of the

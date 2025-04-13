@@ -10,16 +10,15 @@ tags:
   - song
 date: 2019-03-07T08:05:12.000Z
 ---
-Stormy's gone that good old man
-
-***Way, stormalong, John!***
-
-O, poor old Stormy's dead and gone,
-
+Stormy's gone that good old man\
+***Way, stormalong, John!***\
+O, poor old Stormy's dead and gone,\
 ***Way hay, mister. Stormalong John!***
 
 We dug his grave with a silver spade,\
-His shroud of the finest silk was made.
+***Way, stormalong, John!***\
+His shroud of the finest silk was made.\
+***Way hay, mister. Stormalong John!***
 
 We lowered him with a silver chain,\
 Our eyes all dim with more than rain.

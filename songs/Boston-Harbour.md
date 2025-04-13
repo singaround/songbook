@@ -23,25 +23,25 @@ It's look aloft, and it's look alow\
 And it's look alow and look aloft\
 And it's "coil up your ropes, boys, fore and aft".
 
-> ***With a big bow wow, tow row row***
+> ***With a big bow wow, tow row row...***
 
 Then down to his cabin he quickly crawls\
 And to his poor old steward bawls\
 "Fix me a drink that will make me cough\
 For it's better weather here than it is on top."
 
-> ***With a big bow wow, tow row row***
+> ***With a big bow wow, tow row row...***
 
 Now we poor sailors are a-standing on the deck\
 Blasted rain all a-falling down our neck\
 Not a drop of grog could he to us afford\
 But he damns our eyes at every other word.
 
-> ***With a big bow wow, tow row row***
+> ***With a big bow wow, tow row row...***
 
 Now there's one thing that we have to crave\
 That the captain meets with a watery grave\
 We'll throw him down into some dark hole\
 Where the sharks'll have his body and the Devil have his soul.
 
-> ***With a big bow wow, tow row row***
+> ***With a big bow wow, tow row row...***

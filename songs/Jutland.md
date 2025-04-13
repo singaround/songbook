@@ -8,18 +8,18 @@ songLine: Where are you goin’ my Billy-O?
 tags:
   - song
   - naval_warfare
-  - WWI
   - lament
+  - Royal_Navy
+  - two_voices
+  - colour_coded
 date: 2019-03-07T08:05:12.000Z
 description: >-
-  This modern shanty by [Les Sullivan](https://howlingtoad.webs.com/) explores
+  This modern shanty by Les Sullivan explores
   the fate of various ships which fought in the Battle of Jutland in 1916, the
   largest fleet action of the First World War, which led to huge loss of life on
   both the British and German sides. Queen Mary, Invincible, and Black Prince
   were three of the British battleships which were lost. This song can be found
-  on the album [Echoes of
-  Mingulay](https://howlingtoad.webs.com/echoes-of-mingulay), and Les has kindly
-  given us permission to reproduce the lyrics here.
+  on the album, and Les has kindly given us permission to reproduce the lyrics here.
 ---
 <span style="color:blue">Where are you goin' my Billy-O?</span>\
 <span style="color:blue">Where are you goin' my Billy-O?</span>\

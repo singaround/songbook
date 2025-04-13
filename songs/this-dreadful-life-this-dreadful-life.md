@@ -14,8 +14,6 @@ description: "Note from Yasha: I expect this one to be a bit contentious because
   of the heathen whiskey verse, but I am happy to have a conversation about it
   when we meet. One to iterate on."
 ---
-<!--StartFragment-->
-
 When I was just a young man\
 I left my family\
 Set out upon the ragin’ main,\
@@ -26,10 +24,10 @@ I found I needed more,\
 I signed on board a packet ship,\
 Bound for some distant shore.
 
-cho:*I have sailed across the ocean,*\
-*I have rolled upon the sea,*\
-*And this dreadful life I’m livin’*\
-*Is just the life for me*.
+>***I have sailed across the ocean,\
+I have rolled upon the sea,\
+And this dreadful life I’m livin’\
+Is just the life for me.***
 
 I went down to a native bar,\
 When we pulled into shore,\
@@ -41,7 +39,7 @@ Lay a girl I didn’t know,\
 Which proves that heathen whiskey\
 Can lay a sailor low.
 
-cho:
+>***I have sailed across the ocean...***
 
 It’s haulin line and ropes, me boys,\
 And pushin’ capstan ’round;\
@@ -53,7 +51,7 @@ To send us all below,\
 And end the pain of every day,\
 A sailor’s come to know.
 
-cho:
+>***I have sailed across the ocean...***
 
 When we sailed into Bank Street\
 At the old New London port\
@@ -65,7 +63,7 @@ The people there were happy\
 Hoping friends and their relations\
 Would not go to sea again.
 
-cho:
+>***I have sailed across the ocean...***
 
 When the mighty ocean tells me\
 With a piece of broken deck\
@@ -77,11 +75,7 @@ To the friends I used to know,\
 And hoist a jar to every man\
 Who has the urge to go.
 
-last cho: 2x
-
-*I have sailed across the ocean,*\
-*I have rolled upon the sea,*\
-*And this dreadful life I used to live*\
-*Is not the life for me.*
-
-<!--EndFragment-->
+>***I have sailed across the ocean,\
+I have rolled upon the sea,\
+And this dreadful life I used to live\
+Is not the life for me.***

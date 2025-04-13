@@ -9,12 +9,13 @@ songLine: I thought I heard the old man say
 tags:
   - song
   - problematic
+  - rewritten
 date: 2019-03-07T08:05:12.000Z
 description: >-
-  We love this song and it is an absolute favourite on all our nights!
+  We love this song! We originally learnt it as "John Kanaka".
 
 
-  But...'kanaka' is a word from the Hawai'ian for man, which came to be used in
+  But... 'kanaka' is a word from the Hawai'ian for man, which came to be used in
   English to describe workers from the Pacific Islands who were employed by
   their colonisers. Sadly, in Australia it is a charged and hateful racist term,
   where descendants of kanakas are recognised to be even more disadvantaged than
@@ -27,19 +28,20 @@ description: >-
   recent workshop, replacing 'John Kanaka' with 'John, the slacker', so we've
   adopted that
 ---
-I thought I heard the old man say
-
+I thought I heard the old man say\
+***John, the slacker, slacker, too lie ay***\
+Today, today is a holiday\
 ***John, the slacker, slacker, too lie ay***
 
-Today, today is a holiday
-
-***John, the slacker, slacker, too lie ay***
-
-> ***Too lie ay, oh, to lie ay (hoo)***\
-> ***John, the slacker, slacker, too lie ay***
+> ***Too lie ay, oh, to lie ay\
+John, the slacker, slacker, too lie ay***
 
 We'll work tomorrow but no work today\
-We'll work tomorrow but no work today
+***John, the slacker, slacker, too lie ay***\
+We'll work tomorrow but no work today\
+***John, the slacker, slacker, too lie ay***
+
+> ***Too lie ay, oh, to lie ay...***
 
 We're bound away for 'Frisco Bay\
 We're bound away at the break of day

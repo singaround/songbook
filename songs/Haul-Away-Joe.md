@@ -16,46 +16,61 @@ description: >-
   he doesn't want to kiss the girls after all...
 ---
 Louis was the king of France\
-Before the revolut-i-on
-
-***Away, haul away, we'll haul away Joe***
-
+Before the revolut-i-on\
+***Away, haul away, we'll haul away Joe***\
 But then he got his head chopped off\
-Which spoiled his constitut-i-on
-
+Which spoiled his constitut-i-on\
 ***Away, haul away, we'll haul away Joe***
 
 > ***(To me) way, haul away***\
-> ***(To me) way, haul away***\
 > ***We'll haul away together***\
 > ***(To me) way, haul away***\
-> ***We'll haul away together***\
-> ***Away, haul away, we'll haul away Joe***\
+> ***We'll haul away Joe***\
 > ***(To me) way, haul away***\
 > ***We'll haul for better weather***\
 > ***Away, haul away, we'll haul away Joe***
 
 Saint Patrick was a gentleman\
 He came from decent people\
+***Away, haul away, we'll haul away Joe***\
 He built a church in Dublin Town\
-And on it put a steeple
+And on it put a steeple\
+***Away, haul away, we'll haul away Joe***
+
+> ***(To me) way, haul away...***
 
 Now when I was a little boy\
 And so me mother told me\
+***Away, haul away, we'll haul away Joe***\
 That if I didn't kiss the girls\
-Me lips would all grow mouldy
+Me lips would all grow mouldy\
+***Away, haul away, we'll haul away Joe***
 
+> ***(To me) way, haul away...***
+> 
 \*\*\*\*Well now I only kiss the boys\
 It's them I like to hold me\
+***Away, haul away, we'll haul away Joe***\
 I can't say I miss the girls\
-And me lips did not go mouldy\*\**
+And me lips did not go mouldy\
+***Away, haul away, we'll haul away Joe*** \*\*\*
 
+> ***(To me) way, haul away...***
+> 
 The cook is in the galley boys\
 Making duff so handy\
+***Away, haul away, we'll haul away Joe***\
 The captain's in his cabin lads\
-Drinking wine and brandy
+Drinking wine and brandy\
+***Away, haul away, we'll haul away Joe***
+
+> ***(To me) way, haul away...***
 
 Way haul away\
 We'll haul away the bowline\
+***Away, haul away, we'll haul away Joe***\
 Way, haul away\
-The packet is a-rollin'
+The packet is a-rollin'\
+***Away, haul away, we'll haul away Joe***
+
+> ***(To me) way, haul away...***

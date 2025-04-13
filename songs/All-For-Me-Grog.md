@@ -9,8 +9,7 @@ songLine: Where are my boots, my nogging, nogging boots
 tags:
   - song
 date: 2019-03-07T08:05:12.000Z
-description: We've changed the chorus so that we're spending the money **with**
-  the lassies and not **on** the lassies.
+description: In our version we make it clear that we're spending the money **with** the lassies and not **on** the lassies.
 ---
 > ***And it's all for me grog, me jolly, jolly grog***\
 > ***All for my beer and tobacco***\
