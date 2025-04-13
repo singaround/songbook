@@ -8,6 +8,9 @@ chorusLine: 'And she pulled away o’er the rolling seas, over the waters blue'
 songLine: '''Twas on the Longstone Lighthouse there dwelt an English maid'
 tags:
   - song
+  - seafaring_women
+  - lifeboats
+  - historic_event
 date: 2019-04-04T22:46:40.260Z
 description: >-
   A
@@ -42,7 +45,11 @@ Between them and the lighthouse the seas like mountains rolled.\
 Said Grace: "Come help me, father. We'll launch the boat," said she.\
 "Tis madness," said her father, "to face that raging sea."
 
+***And she pulled away o'er the rolling seas...***
+
 They rode the angry billows and reached the rock at length;\
 They saved the shipwrecked sailors: in heaven alone their strength.\
 Go tell the wide world over what English pluck can do,\
 And sing of brave Grace Darling who nobly saved the crew.
+
+***And she pulled away o'er the rolling seas...***
