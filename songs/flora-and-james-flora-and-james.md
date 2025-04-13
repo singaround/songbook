@@ -8,6 +8,10 @@ chorusLine: Up aloft when the stormy winds blow
 songLine: 'Come all you true lovers attend for a while to a tale I am going to unfold! '
 tags:
   - song
+  - ballad
+  - female_writer
+  - romantic_love
+  - seafaring_women
 date: 2019-03-13T23:01:49.517Z
 description: >-
   Folk Weekend Oxford legend Cat Kelly
