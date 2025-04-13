@@ -9,7 +9,7 @@ chorusLine:
 songLine: In the wild October night-time
 tags:
   - song
-  - naval-warfare
+  - naval_warfare
   - Royal_Navy
   - women_on_the_shore
   - originally_a_poem
