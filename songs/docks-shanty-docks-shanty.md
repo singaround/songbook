@@ -4,13 +4,15 @@ title: Paint my sails red (Docks Shanty)
 published: true
 wordsBy: © Carlo Ritchie
 tuneBy: © Carlo Ritchie
-chorusLine: 'So I''ll paint my sails red, and I''ll sail out to sea'
+chorusLine: 'So I'll paint my sails red, and I'll sail out to sea'
 songLine: 'Oh my name is De Clisson, no sailor am I'
 tags:
   - song
-  - Jeanne de Clisson
-  - feminism
-  - medieval
+  - Jeanne_de_Clisson
+  - feminist
+  - historic_events
+  - female_narrator
+  - seafaring_women
 date: 2019-03-13T22:43:12.838Z
 description: >-
   Carlo Ritchie, comedian and founder of the Redfern Shanty Club in Sydney,
