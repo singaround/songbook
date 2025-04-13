@@ -8,6 +8,8 @@ chorusLine: 'Leave her, Johnny, leave her'
 songLine: I thought I heard the Old Man say
 tags:
   - song
+  - coming_home
+  - farewell
 date: 2019-03-07T08:05:12.000Z
 description: >-
   This shanty could be used at the pumps or the capstan, but had a more famous
@@ -42,7 +44,7 @@ Oh her stern was foul and the voyage was long\
 The winds was bad and the gales was strong\
 ***And it's time for us to leave her***
 
->h***Leave her, Johnny...***
+>***Leave her, Johnny...***
 
 Oh the times was hard and the wages low\
 ***Leave her, Johnny, leave her***\
@@ -63,8 +65,8 @@ We swear by rote for want of more,\
 But now we're through and go to shore\
 ***And it's time for us to leave her***
 
-***==== END ====***\
-[potential other verses listed below if you'd like to extend it] 
+**==== END ====**\
+**[some potential other verses listed below if you'd like to extend it]**
 
 It's pump or drown, the old man said,\
 Or else, by Christ, we'll all be dead.
