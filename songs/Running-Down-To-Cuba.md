@@ -6,9 +6,8 @@ chorusLine: 'Way, me boys, for Cuba'
 songLine: To Cuba’s coast we’re bound me boys
 tags:
   - song
-
 date: 2019-03-07T08:05:12.000Z
----]
+---
 To Cuba's coast we're bound me boys\
 ***Way, me boys, for Cuba***\
 To Cuba's coast boys, don't you make a noise\
