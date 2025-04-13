@@ -8,6 +8,11 @@ chorusLine: 'Lowlands, lowlands away my John'
 songLine: 'I dreamed a dream the other night'
 tags:
   - song
+  - female_narrator
+  - women_on_the_shore
+  - romantic_love
+  - supernatural
+  - lament
 date: 2019-03-07T08:05:12.000Z
 description: >-
   Here are two versions of lowlands. Version one has a female lover, version two
@@ -17,16 +22,15 @@ description: >-
 ---
 (Version 1)
 
-I dreamed a dream the other night
-
-> ***Lowlands, lowlands away my John***
-
-I dreamed a dream the other night
-
-> ***Lowlands away***
+I dreamed a dream the other night\
+***Lowlands, lowlands away my John***\
+I dreamed a dream the other night\
+***Lowlands away***
 
 I dreamed my love came in my sleep\
-Her cheeks were wet, her eyes did weep
+***Lowlands, lowlands away my John***\
+Her cheeks were wet, her eyes did weep\
+***Lowlands away***
 
 She came to me at my bedside\
 All dressed in white like some fair bride
@@ -40,18 +44,20 @@ No sound she made, no word she said\
 Then awoke to hear the cry\
 "All hands on deck, oh, watch ahoy!"
 
+****THIS IS THE END OF THE FIRST VERSION****
+
+
 (version 2)
 
-I dreamed a dream the other night
-
-> ***Lowlands, lowlands away my John***
-
-I dreamed a dream the other night
-
-> ***Lowlands away***
+I dreamed a dream the other night\
+***Lowlands, lowlands away my John***\
+I dreamed a dream the other night\
+***Lowlands away***
 
 I dreamed I saw my own true love\
-He stood so still, he did not move
+***Lowlands, lowlands away my John***\
+He stood so still, he did not move\
+***Lowlands away***
 
 So dank his hair, so dim his eye\
 I knew he'd come to say goodbye
