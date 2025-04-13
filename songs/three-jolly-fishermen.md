@@ -10,30 +10,42 @@ tuneLink: ''
 tags:
   - song
   - traditional
+  - fishing
   - herring
+  - more_chorus_than_verse
 date: 2023-13-04T19:06:27.563Z
 description: >-
   Based on a street cry of Newhaven fishwives.
 ---
 We are three jolly fishermen,\
-_We are three jolly fishermen,_\
-_We are three jolly fishermen,_\
-_While the merry, merry bells do ring._
+***We are three jolly fishermen,\
+We are three jolly fishermen,\
+While the merry, merry bells do ring.***
 
-> _Make haste, make haste, You be too late,_\
-> _One fish, my dear, I cannot wait,_\
-> _For me fine fry of herring, me bonny silver herring,_\
-> _Mind how you sell them while the merry, merry bells do ring._
+> ***Make haste, make haste, You be too late,\
+One fish, my dear, I cannot wait,\
+For me fine fry of herring\
+My bonny silver herring,\
+Mind how you sell them\
+While the merry, merry bells do ring.***
 
-We cast our nets unto the rocks.\
-_We cast our nets unto the rocks,..._
+We cast our nets unto the rocks\
+***We cast our nets unto the rocks\
+We cast our nets unto the rocks\
+While the merry, merry bells do ring.***
 
-> _Make haste, make haste, You be too late,..._
+> ***Make haste, make haste, you be too late...***
 
-We’ve white an’ speckled bellied uns...
+We’ve white an’ speckled bellied uns\
+***We’ve white an’ speckled bellied uns\
+We’ve white an’ speckled bellied uns\
+While the merry, merry bells do ring.***
 
-> _Make haste, make haste, You be too late,..._
+> ***Make haste, make haste, you be too late...***
 
-We sell them three for fourpence...
+We sell them three for fourpence\
+***We sell them three for fourpence\
+We sell them three for fourpence\
+While the merry, merry bells do ring.***
 
-> _Make haste, make haste, You be too late,..._
+> ***Make haste, make haste, you be too late...***
