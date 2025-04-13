@@ -8,6 +8,10 @@ chorusLine: 'Fall down, fall down, fall down me Billy'
 songLine: We all got drunk in Dublin city
 tags:
   - song
+  - impressment
+  - drinking
+  - more_chorus_than_verse
+  - Irish
 date: 2019-03-07T08:05:12.000Z
 description: >-
   This shanty tells the common story of being pressed. Between 1664 and 1814,
