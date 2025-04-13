@@ -27,7 +27,7 @@ General Taylor's dead and gone\
 Oh, General Taylor's dead and gone\
 ***Carry him to his burying ground***
 
-***To me way hey, you Stormy***\
+>***To me way hey, you Stormy***\
 ***Walk him along, John, carry him along***\
 ***To me way hey, you Stormy***\
 ***Carry him to his burying ground***
@@ -35,16 +35,24 @@ Oh, General Taylor's dead and gone\
 Oh I wish that I was old Stormy's son\
 I'd build him a ship o' ten thousand tons
 
-***To me way hey, you Stormy...***
+>***To me way hey, you Stormy...***
 
 I'd load her down with ale and rum\
 And every shellback should have some
 
+>***To me way hey, you Stormy...***
+
 Oh we dug his grave with a silver spade\
 His shroud of the softest silk were made
+
+>***To me way hey, you Stormy...***
 
 We lowered him down on a golden chain\
 At every link we shouted his name
 
+>***To me way hey, you Stormy...***
+
 Oh, General Taylor fought in the fray\
 And General Taylor gained the day
+
+>***To me way hey, you Stormy...***
