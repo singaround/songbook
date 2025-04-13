@@ -8,6 +8,8 @@ chorusLine: Go down, you blood red roses, go down!
 songLine: Our boots and clothes is all in pawn
 tags:
   - song
+  - more_chorus_than_verse
+  - appears_in_a_film
 date: 2019-03-14T19:43:26.974Z
 ---
 Our boots and clothes is all in pawn,\
