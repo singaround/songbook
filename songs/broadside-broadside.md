@@ -9,12 +9,16 @@ songLine: 'Keep your land you gentry of England, France and Spain'
 tuneLink: ''
 tags:
   - song
-  - Grace O'Malley
+  - Grace_OMalley
   - feminism
-  - pirate
+  - piracy
   - queen
   - Nancy_Kerr
   - female_writer
+  - rebellion
+  - seafaring_women
+  - irish
+  - historic_events
 date: 2019-03-13T22:06:27.563Z
 description: >-
   Nancy Kerr's lyrics draw loosely on the account of the 1593 meeting of Irish
