@@ -47,7 +47,7 @@ Though you be left behind\
 For the rose will grow on Greenland's ice\
 Before we change our mind
 
-> ***For it's cheer up my lads***
+> ***For it's cheer up my lads...***
 
 Here's a health to the Resolution\
 Likewise the Eliza Swan\
@@ -59,4 +59,4 @@ The jackets of the blue\
 When we get back to Peterhead\
 We'll have full pockets too
 
-> ***For it's cheer up my lads***
+> ***For it's cheer up my lads...***
