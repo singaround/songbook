@@ -9,6 +9,7 @@ songLine: Pour retrouver ma douce amie
 tags:
   - song
   - whaling
+  - non-english-language
   - French
 date: 2019-11-11T19:46:27.670Z
 description: >-
