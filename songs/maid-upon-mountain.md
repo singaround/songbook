@@ -11,6 +11,7 @@ tags:
   - supernatural
   - weather
   - two_voices
+  - technicolour
 date: 2025-04-07T08:05:12.000Z
 description: Written as part of an 'Access Folk' workshop, 2025. This song takes its inspiration from witches selling knotted strings to sailors. The knots were said to contain the wind, and by untying a knot the sailor could control the weather.
 ---
