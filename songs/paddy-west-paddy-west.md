@@ -9,11 +9,11 @@ songLine: 'As I went walkin'' down London Road, I come to Paddy West''s house'
 tags:
   - song
   - comedy
-  - Liverpool
+  - Northwest_England
   - 
 date: 2019-11-11T19:55:10.576Z
 description: >-
-  The most notorious was Paddy West, a Liverpool Irishman, was a notorious
+  Paddy West, a Liverpool Irishman, was a notorious 19th Century
   boarding house master who trained up new sailors by having them step across an
   old rope and walk around a cow's horn so that he could claim that they had
   “crossed the line and rounded the horn.” Paddy's “able seamen” were soon
