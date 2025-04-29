@@ -15,7 +15,7 @@ description: >-
   Maghrebi 'barbary pirates' who operated out of the ports of Salé, Rabat,
   Algiers, Tunis, and Tripoli, seizing merchant ships in the Mediterranean and
   Eastern North Atlantic, and taking slaves in coastal raids. This song
-  celebrates a victory of two English shops over one of the Barbary pirates.
+  celebrates a victory of two English ships over one of the Barbary pirates.
 ---
 There were two lofty ships from old England came\
 ***Blow high, blow low and so sail we***\
