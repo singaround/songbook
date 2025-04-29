@@ -17,7 +17,7 @@ description: Written as part of an 'Access Folk' workshop, 2025. This song takes
 
 <span style="color:green">Green: voice 1</span>\
 <span style="color:blue">Blue: voice 2</span>\
-<span style="color:orange">Orange: both</span>
+<span style="color:purple">Purple: both</span>
 
 
 <span style="color:green">In my bag there is a knot\
@@ -56,13 +56,13 @@ Who travel far from home</span>
 >***Fill the lungs of sailor men\
 To blow this world away***
 
-<span style="color:orange">We have always plied this trade\
+<span style="color:purple">We have always plied this trade\
 We maids upon the mountain\
 We have always tied these knots\
 To hold the winter gales</span>
 <span style="color:green">Have you ever wondered why\
 Some sails fill when seas are still?</span>\
-<span style="color:orange">We weave knots of power\
+<span style="color:purple">We weave knots of power\
 And we weave them with the wind</span>
 
 >***We weave knots of power\
