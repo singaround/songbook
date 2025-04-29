@@ -36,7 +36,7 @@ For he's been drowned, we greatly fear\
 On yon green island, as we passed it by\
 There we lost sight of your sailing boy"
 
-Well, she rung her hands and she tore her hair\
+Well, she wrung her hands and she tore her hair\
 She was like a young girl in great despair\
 And her little boat against a rock did run\
 "How can I live now my sweet William's gone?"

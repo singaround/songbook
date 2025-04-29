@@ -11,7 +11,7 @@ tags:
   - lament
   - Royal_Navy
   - two_voices
-  - colour_coded
+  - technicolour
 date: 2019-03-07T08:05:12.000Z
 description: >-
   This modern shanty by Les Sullivan explores
@@ -31,10 +31,10 @@ description: >-
 <span style="color:green">She's bristling with guns and ready to go</span>\
 <span style="color:green">To sail to glory with Jellicoe</span>
 
-<span style="color:blue">But where is "Queen Mary"?</span> <span style="color:orange">Gone Now!</span>\
-<span style="color:blue">And where is the glory?</span> <span style="color:orange">Gone Now!</span>\
-<span style="color:blue">And six thousand sailors,</span> <span style="color:orange">Gone Now!</span>\
-<span style="color:orange">They have gone to the bottom at Jutland.</span>
+<span style="color:blue">But where is "Queen Mary"?</span> <span style="color:purple">Gone Now!</span>\
+<span style="color:blue">And where is the glory?</span> <span style="color:purple">Gone Now!</span>\
+<span style="color:blue">And six thousand sailors,</span> <span style="color:purple">Gone Now!</span>\
+<span style="color:purple">They have gone to the bottom at Jutland.</span>
 
 <span style="color:blue">Where are you goin' my Rodney-O?</span>\
 <span style="color:blue">Where are you goin' my Rodney-O?</span>\
@@ -46,10 +46,10 @@ description: >-
 <span style="color:green">She's bristling with guns and ready to go</span>\
 <span style="color:green">To sail to glory with Jellicoe</span>
 
-<span style="color:blue">But where is "Invincible"?</span> <span style="color:orange">Gone Now!</span>\
-<span style="color:blue">And where is the glory?</span> <span style="color:orange">Gone Now!</span>\
-<span style="color:blue">And six thousand sailors,</span> <span style="color:orange">Gone Now!</span>\
-<span style="color:orange">They have gone to the bottom at Jutland.</span>
+<span style="color:blue">But where is "Invincible"?</span> <span style="color:purple">Gone Now!</span>\
+<span style="color:blue">And where is the glory?</span> <span style="color:purple">Gone Now!</span>\
+<span style="color:blue">And six thousand sailors,</span> <span style="color:purple">Gone Now!</span>\
+<span style="color:purple">They have gone to the bottom at Jutland.</span>
 
 <span style="color:blue">Where are you goin' my Johnny-O?</span>\
 <span style="color:blue">Where are you goin' my Johnny-O?</span>\
@@ -61,7 +61,7 @@ description: >-
 <span style="color:green">She's bristling with guns and ready to go</span>\
 <span style="color:green">To sail to glory with Jellicoe</span>
 
-<span style="color:blue">But where is the "Black Prince"?</span> <span style="color:orange">Gone Now!</span>\
-<span style="color:blue">And where is the glory?</span> <span style="color:orange">Gone Now!</span>\
-<span style="color:blue">And six thousand sailors,</span> <span style="color:orange">Gone Now!</span>\
-<span style="color:orange">They have gone to the bottom at Jutland.</span>
+<span style="color:blue">But where is the "Black Prince"?</span> <span style="color:purple">Gone Now!</span>\
+<span style="color:blue">And where is the glory?</span> <span style="color:purple">Gone Now!</span>\
+<span style="color:blue">And six thousand sailors,</span> <span style="color:purple">Gone Now!</span>\
+<span style="color:purple">They have gone to the bottom at Jutland.</span>

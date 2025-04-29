@@ -10,10 +10,10 @@ tags:
   - song
   - appears_in_a_film
   - appears_in_a_Russell_Crowe_film
-  - LGBTQ+
+  - LGBTQ_plus
   - coming_home
   - Royal_Navy
-  - Assassains_Creed
+  - Assassins_Creed
 date: 2019-03-11T19:46:26.084Z
 ---
 Safe and sound at home again\

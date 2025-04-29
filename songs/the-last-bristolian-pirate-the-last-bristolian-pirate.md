@@ -3,17 +3,17 @@ templateKey: song
 title: The Last Bristolian Pirate
 published: true
 wordsBy: © The Longest Johns
-tuneBy: © The Longest Johns
+tuneBy: © The Arrogant Worms
 chorusLine: And it's a heave! ho! hi! ho! Comin' down the plains
 songLine: 'I used to be a farmer, and I made a living fine'
 tuneLink: 'https://www.youtube.com/watch?v=w-Gztkp7uP8'
 tags:
   - song
-  - Bristol
+  - parody
+  - comedy
   - rivers
   - barge
-  - pirate
-  - River Severn
+  - piracy
 date: 2019-03-11T19:33:35.570Z
 description: >-
   [The Longest Johns](https://thelongestjohns.bandcamp.com/music) are a
@@ -22,7 +22,7 @@ description: >-
   rewrite of 'The Last Saskatchewan Pirate' by Canadian comedy-music group The
   Arrogant Worms. It appears as a bonus track on the physical release of their
   2013 CD [Bones in the
-  Ocean](https://thelongestjohns.bandcamp.com/album/bones-in-the-ocean).
+  Ocean]([https://thelongestjohns.bandcamp.com/album/bones-in-the-ocean](https://shop.thelongestjohns.com/products/bones-in-the-ocean-cd-ljo)).
 ---
 I used to be a farmer, and I made a living fine,\
 I had a little stretch of land along the western line\
