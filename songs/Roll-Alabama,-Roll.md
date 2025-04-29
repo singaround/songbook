@@ -10,6 +10,7 @@ tags:
   - song
   - naval_warfare
   - shipwreck
+  - Northwest England
 date: 2019-03-07T08:05:12.000Z
 description: >-
   CSS Alabama was built in secrecy in 1862 by British shipbuilders John Laird
@@ -40,7 +41,7 @@ To Cherbourg harbour she sailed one day\
 To collect her share of the prize money
 
 And many a sailor saw his doom\
-When the Yankee Kearsage hove into view
+When the Yankee Kearsarge hove into view
 
 A shot from the forward pivot that day\
 Took the Alabama's gear away
