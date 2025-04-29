@@ -10,7 +10,7 @@ tags:
   - slavery
   - west_indies
   - Nancy_Kerr
-  - female_writer
+  - non-male_writer
 date: 2019-03-31T16:16:29.604Z
 description: >-
   In 1562, [John
@@ -24,7 +24,7 @@ description: >-
 
 
   Nancy Kerr wrote this song as part of the 2014 project, [The Elizabethan
-  Session](https://www.folkbytheoak.com/elizabethan-session/), supported by the
+  Session]([https://www.folkbytheoak.com/tes/), supported by the
   English Folk Dance and Song Society and Folk by the Oak. It imagines the grief
   and rage of a woman grieving for the captured father of her children. Nancy
   has kindly given us permission to reproduce the lyrics here.
