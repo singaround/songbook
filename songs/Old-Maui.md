@@ -28,7 +28,7 @@ It's a damn tough life full of toil and strife
 We whalermen undergo
 And we don't give a damn when the day is done
 How hard the winds did blow\
-'cause we're homeward bound from the Artic ground
+'cause we're homeward bound from the Arctic ground
 With a good ship, taut and free
 And we don't give a damn when we drink our rum
 With the girls of old Maui
@@ -58,7 +58,10 @@ What care we for that sound?\
 A living gale is after us\
 Thank God we're homeward bound
 
->***Rolling down to old Maui...***
+>***Rolling down to old Maui, me boys***\
+***Rolling down to old Maui***\
+***We're homeward bound from the Artic ground***\
+***Rolling down to old Maui***
 
 An ample share of toil and care\
 We whalemen undergo,\
