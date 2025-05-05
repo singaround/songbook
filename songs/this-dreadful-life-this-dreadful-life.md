@@ -10,9 +10,7 @@ songLine: When I was just a young man
 tags:
   - song
 date: 2020-06-15T11:54:25.531Z
-description: "Note from Yasha: I expect this one to be a bit contentious because
-  of the heathen whiskey verse, but I am happy to have a conversation about it
-  when we meet. One to iterate on."
+description: 
 ---
 When I was just a young man\
 I left my family\
@@ -28,18 +26,6 @@ Bound for some distant shore.
 I have rolled upon the sea,\
 And this dreadful life I’m livin’\
 Is just the life for me.***
-
-I went down to a native bar,\
-When we pulled into shore,\
-Got drinkin’ ale and whiskey,\
-‘Til I was good and poor.
-
-When I awoke, beside me,\
-Lay a girl I didn’t know,\
-Which proves that heathen whiskey\
-Can lay a sailor low.
-
->***I have sailed across the ocean...***
 
 It’s haulin line and ropes, me boys,\
 And pushin’ capstan ’round;\
@@ -63,7 +49,10 @@ The people there were happy\
 Hoping friends and their relations\
 Would not go to sea again.
 
->***I have sailed across the ocean...***
+>***I have sailed across the ocean,\
+I have rolled upon the sea,\
+And this dreadful life I’m livin’\
+Is just the life for me.***
 
 When the mighty ocean tells me\
 With a piece of broken deck\
@@ -72,7 +61,7 @@ As livin’ through a wreck
 
 So I am goin’ home, me boys,\
 To the friends I used to know,\
-And hoist a jar to every man\
+And hoist a jar to everyone\
 Who has the urge to go.
 
 >***I have sailed across the ocean,\
