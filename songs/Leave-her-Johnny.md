@@ -36,7 +36,7 @@ You can go ashore and take your pay\
 
 >***Leave her, Johnny, leave her***\
 ***Oh, leave her, Johnny, leave her***\
-***For the voyage was long and the winds did blow***\
+***For the voyage is done and the winds don't blow***\
 ***And it's time for us to leave her***
 
 Oh her stern was foul and the voyage was long\
