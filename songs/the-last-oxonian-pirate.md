@@ -1,12 +1,12 @@
 ---
 templateKey: song
-title: The Last Bristolian Pirate
+title: The Last Oxonian Pirate
 published: true
 wordsBy: © Libbi Wittenburg
 tuneBy: © The Arrogant Worms
-chorusLine: And it's a heave! ho! hi! ho! Comin' down the plains
-songLine: 'I used to be a farmer, and I made a living fine'
-tuneLink: 'https://www.youtube.com/watch?v=w-Gztkp7uP8'
+chorusLine: And it's a heave! ho! hi! ho! Cycling round the Plain
+songLine: 'I used to be a tutor, and I made a living fine'
+tuneLink: 
 tags:
   - song
   - parody
