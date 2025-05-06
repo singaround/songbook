@@ -17,6 +17,6 @@ tags:
   - piracy
 date: 2019-03-11T19:33:35.570Z
 description: >-
-  In the 1990s, Canadian comedy-music group 'The Arrogant Worms' wrote a song called "The Last Saskatchewan Pirate". It is based on the absurd idea of a pirate crew forming in Saskatchewan, a landlocked province in Western Canada. The joke in the song was a crew of pirates who existed nowhere near the sea.<p>In the 2010s, Bristol-based folk band "[The Longest Johns](https://thelongestjohns.bandcamp.com/music)" rewrote it. Possibly entirely missing the point, they chose to set the song in Bristol, a port city famous for pirates. It didn't quite work for us.<p>So now one of the Auntie Shanty crew has re-written it *again*, reclaiming it for a landlocked part of the world.
+  In the 1990s, Canadian comedy-music group 'The Arrogant Worms' wrote a song called "The Last Saskatchewan Pirate". It is based on the absurd idea of a pirate crew forming in Saskatchewan, a landlocked province in Western Canada. The joke in the song was a crew of pirates who existed nowhere near the sea. In the 2010s, Bristol-based folk band "[The Longest Johns](https://thelongestjohns.bandcamp.com/music)" rewrote it. Possibly entirely missing the point, they chose to set the song in Bristol, a port city famous for pirates. It didn't quite work for us. So now one of the Auntie Shanty crew has re-written it *again*, reclaiming it for a landlocked part of the world.
 ---
 I u
