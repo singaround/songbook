@@ -13,7 +13,6 @@ tags:
   - rewrite
   - comedy
   - rivers
-  - barge
   - piracy
 date: 2019-03-11T19:33:35.570Z
 description: >-
@@ -35,10 +34,10 @@ But I’ve got too much pride to just move back in with my mum.\
 So I thought, who gives a damn if all the jobs are gone?\
 I'll be a pirate on the TOWPATH from Folly Bridge to Donnington!
 
->**And it’s a heave! ho! hi! ho! Cyclin’ round The Plain\
+>***And it’s a heave! ho! hi! ho! Cyclin’ round The Plain\
 Stealin’ from the caravan that's in the other lane\
 It’s a ho! hey! hi! hey! Houseboats batten down\
-When you see the Jolly Roger flying proud through Oxford town**
+When you see the Jolly Roger flying proud through Oxford town***
 
 Well, you’d think the local boaters would know that I’m at large\
 But just the other day I found an unprotected barge\
@@ -50,10 +49,10 @@ Townies cross in so much fear their stomachs are a’quiver\
 Cause they know that Doctor Jack is hidin’ in the bay\
 I’ll jump the bridge and knock them cold and you know I'll make them pay!
 
->**And it’s a heave! ho! hi! ho! Cyclin’ round The Plain\
+>***And it’s a heave! ho! hi! ho! Cyclin’ round The Plain\
 Stealin’ from the caravan that's in the other lane\
 It’s a ho! hey! hi! hey! Houseboats batten down\
-When you see the Jolly Roger flying proud through Oxford town**
+When you see the Jolly Roger flying proud through Oxford town***
 
 Well, Officer Bobby chased me, he was always at my throat\
 But he called it theft and burglary cause I didn’t own a boat\
@@ -65,10 +64,10 @@ I never pay my income tax; screw the VAT **(SCREW IT!!)**\
 Pedalling down by Cowley Road, the scourge of Oxford East\
 If you wanna get to Tesco boys, you gotta get by me!
 
->**And it’s a heave! ho! hi! ho! Cyclin’ round The Plain\
+>***And it’s a heave! ho! hi! ho! Cyclin’ round The Plain\
 Stealin’ from the caravan that's in the other lane\
 It’s a ho! hey! hi! hey! Houseboats batten down\
-When you see the Jolly Roger flying proud through Oxford town**
+When you see the Jolly Roger flying proud through Oxford town***
 
 Well, the pirate life’s appealing but you don't just find it here,\
 I hear that down in Cambridge there’s a band of buccaneers\
@@ -80,7 +79,7 @@ My pirate days are over once the river starts to flood\
 I’ll be back after Hilary but for now I'll just sit tight\
 I guess I'll have to do my pirating through breach of copyright!
 
->**And it’s a heave! ho! hi! ho! Cyclin’ round The Plain\
+>***And it’s a heave! ho! hi! ho! Cyclin’ round The Plain\
 Stealin’ from the caravan that's in the other lane\
 It’s a ho! hey! hi! hey! Houseboats batten down\
-When you see the Jolly Roger flying proud through Oxford town**
+When you see the Jolly Roger flying proud through Oxford town***
