@@ -51,8 +51,8 @@ I wish I was...
 
 > ***Pretty work, brave boys...***
 
-> I wish I was aboard a man, aboard a Man O'War\
-***Sam's gone away, aboard a Man O'War***\
-I wish I was...
+> 🔷I wish I was aboard a man, aboard a Man O'War\
+🔷***Sam's gone away, aboard a Man O'War***\
+🔷I wish I was...
 
 > ***Pretty work, brave boys...***
