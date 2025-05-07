@@ -22,6 +22,9 @@ I'll make it into a loaf of bread.\
 I'll make it into a loaf of bread\
 ***And all sorts of things***
 
+***Herring's head, loaves of bread,\
+And all sort of things***
+
 >***The herring is the king of the sea...***
 
 Now what'll I do with me herring's eyes?\
@@ -30,7 +33,7 @@ I'll make 'em into puddings and pies\
 ***And all sorts of things***
 
 ***Herring's eyes, puddings and pies,\
-Herring's heads, loaves of bread\
+Herring's head, loaves of bread\
 And all sorts of things.***
 
 >***The herring is the king of the sea...***
@@ -42,7 +45,7 @@ I’ll make 'em into needles and pins\
 
 ***Herring's fins, needles and pins,\
 Herring's eyes, puddings and pies,\
-Herring's heads, loaves of bread\
+Herring's head, loaves of bread\
 And all sorts of things.***
 
 >***The herring is the king of the sea...***
@@ -60,8 +63,9 @@ Herring's fins, needles and pins, [etc]***
 Now what'll I do with me herring's gills?\
 I’ll make 'em into window sills,\
 I’ll make 'em into window sills\
-***And all sorts of things.\
-Herring's gills, window sills,\
+***And all sorts of things.***
+
+***Herring's gills, window sills,\
 Herring's back, a laddie called Jack [etc]***
 
 >***The herring is the king of the sea...***
