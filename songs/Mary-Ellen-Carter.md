@@ -16,7 +16,7 @@ tags:
 date: 2023-13-04T18:06:27.563Z
 description: >-
   A song about a sunken ship, but also about hope and common humanity,
-  and triumph over adversity.
+  and triumph over adversity. Note that the chorus changes after the final verse.
 
 
   This song has literally saved lives. On February 12, 1983 the ship Marine Electric
@@ -94,14 +94,14 @@ She'd saved our lives so many times fightin' through the gale\
 And the laughing, drunken rats who led her to a sorry grave\
 Well, they won't be laughing in another day\
 And to you, for whom adversity has dealt its mortal blow\
-With smiling bastards lying to you everywhere you go\
+***With smiling bastards lying to you everywhere you go***\
 Turn to and put out all your strength of arm and heart and brain\
 ***And like the Mary Ellen Carter, rise again***
 
 > ***Rise again, rise again!\
 Though your heart it be broke and your life about to end\
-> No matter what you lost, be it a home, a love, a friend\
-> Like the Mary Ellen Carter, rise again!***
+No matter what you lost, be it a home, a love, a friend\
+Like the Mary Ellen Carter, rise again!***
 > 
 > ***Rise again, rise again!\
 Though your heart it be broke and your life about to end\
