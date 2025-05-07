@@ -5,7 +5,7 @@ title: The Humane Society
 published: false
 wordsBy: Dillon Bustin
 tuneBy: Dillon Bustin
-chorusLine: 'Tis true
+chorusLine: Tis true
 songLine: Come, listen to the news
 tags:
   - song
@@ -13,7 +13,6 @@ tags:
 date: 2025-04-03T08:05:12.000Z
 description: 
 ---
-
 Come, listen to the news\
 Of the City of Columbus and her pleasure cruise\
 To Florida from Boston sailed\
