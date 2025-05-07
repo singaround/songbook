@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Round the Bay of Mexico
-published: false
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: Round the Bay of Mexico
@@ -9,7 +9,7 @@ songLine: Been to sea for a month or more
 tags:
   - song
 date: 2025-04-04T08:05:12.000Z
-description: Note - This is based on the Harry Belafonte version, with some cuts. Could potentially use an earlier or more 'work song' version.
+description: Note - This is based on the Harry Belafonte version, with some cuts. Could potentially be replaced with a more 'work song' version.
 ---
 >***Round the Bay of Mexico\
 Way up Suzianna\

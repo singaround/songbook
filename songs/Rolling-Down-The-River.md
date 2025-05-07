@@ -44,7 +44,10 @@ When first I saw a TEU\
 I wondered where they stowed the crew\
 ***To go rolling down the river!***
 
->***Rolling up! rolling down...***
+>***Rolling up! rolling down!\
+We’ll all get drunk in Tilbury town,\
+Twenty-four hours we’ll turn around\
+And go rolling down the river***
 
 Now we’re the boys to sail ’em through
 ***Rolling up, rolling down!***\

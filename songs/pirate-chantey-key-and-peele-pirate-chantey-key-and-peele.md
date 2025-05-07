@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title: Pirate Chantey (Key and Peele)
+title: Pirate Chantey
 published: true
 wordsBy: 'Keegan-Michael Key, Jordan Peele'
 tuneBy: 'Keegan-Michael Key, Jordan Peele'

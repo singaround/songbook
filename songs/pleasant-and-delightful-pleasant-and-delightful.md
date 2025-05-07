@@ -13,7 +13,7 @@ tags:
 date: 2019-03-14T20:56:41.851Z
 description: >-
   'A lovely farewell ballad, with obvious links to ''Adieu, sweet lovely Nancy.'''
-   Please note that lines with a diamond symbol (🔷) are additions by the Auntie Shanty crew - so you might not be expecting them if you're used to singing the 'traditional' version. Feel free to omit them if you wish.
+   Please note that verses with a diamond symbol (🔷) are additions by the Auntie Shanty crew - so you might not be expecting them if you're used to singing the 'traditional' version. Feel free to omit them if you wish.
 ---
 It was pleasant and delightful on a midsummer's morn\
 And the green fields and the meadows were all covered in corn;\
@@ -44,15 +44,15 @@ And if ever I return again, I will make you my bride,\
 ***I will make you my bride.”***
 
 🔷Nancy when she saw this says “But he’s the man for me”\
-🔷So she’s taken off her long boots and walked into the sea,\
-🔷And the starfish they were singing, the underwater orchestra did play,\
-🔷And the sharks they played melodeons at the entrance to the bay,\
-🔷***And the sharks they played melodeons (3x)***\
-🔷***at the entrance to the bay.***
+So she’s taken off her long boots and walked into the sea,\
+And the starfish they were singing, the underwater orchestra did play,\
+And the sharks they played melodeons at the entrance to the bay,\
+***And the sharks they played melodeons (3x)***\
+***at the entrance to the bay.***
 
 🔷Now Billy when he saw this says “There’s the girl for me”\
-🔷So he’s taken off his long boots and jumped into the sea,\
-🔷But he hadn’t washed his tootsies for many is the long day,\
-🔷And his socks smelled so malodorous that she swam the other way,\
-🔷***And his socks smelled so malodorous (3x)***\
-🔷***that she swam the other way.***
+So he’s taken off his long boots and jumped into the sea,\
+But he hadn’t washed his tootsies for many is the long day,\
+And his socks smelled so malodorous that she swam the other way,\
+***And his socks smelled so malodorous (3x)***\
+***that she swam the other way.***
