@@ -11,7 +11,9 @@ tags:
   - ballad
   - farewell
 date: 2019-03-14T20:56:41.851Z
-description: 'A lovely farewell ballad, with obvious links to ''Adieu, sweet lovely Nancy.'''
+description: >-
+  'A lovely farewell ballad, with obvious links to ''Adieu, sweet lovely Nancy.'''
+   Please note that lines with a diamond symbol (🔷) are additions by the Auntie Shanty crew - so you might not be expecting them if you're used to singing the 'traditional' version. Feel free to omit them if you wish.
 ---
 It was pleasant and delightful on a midsummer's morn\
 And the green fields and the meadows were all covered in corn;\
