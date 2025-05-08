@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title: Last Shanty
+title: The Last Shanty
 published: true
 wordsBy: Tom Lewis
 tuneBy: Tom Lewis
