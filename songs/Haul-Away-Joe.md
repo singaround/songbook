@@ -53,10 +53,10 @@ Me lips would all grow mouldy\
 > 
 🔷Well now I only kiss the boys\
 🔷It's them I like to hold me\
-🔷***Away, haul away, we'll haul away Joe***\
+***Away, haul away, we'll haul away Joe***\
 🔷I can't say I miss the girls\
 🔷And me lips did not go mouldy\
-🔷***Away, haul away, we'll haul away Joe*** \*\*\*
+***Away, haul away, we'll haul away Joe***
 
 > ***(To me) way, haul away...***
 > 
