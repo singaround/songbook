@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title: Wellerman ■
+title: Wellerman ↝
 
 published: true
 wordsBy: Traditional
