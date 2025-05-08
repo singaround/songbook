@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title: What Shall We Do With The Drunken Sailor? □
+title: What Shall We Do With The Drunken Sailor? ●
 published: true
 chorusLine: What shall we do with the drunken sailor?
 songLine: What shall we do with the drunken sailor>
