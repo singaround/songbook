@@ -3,7 +3,7 @@ templateKey: song
 title: Home, Boys, Home
 
 published: true
-wordsBy: Traditional, with extra verse and edits by Roary Skaista
+wordsBy: Traditional / Roary Skaista
 tuneBy: Traditional
 chorusLine: Well, who wouldn't be a sailor lad a-sailing on the main?
 songLine: And it's home, boys, home!
