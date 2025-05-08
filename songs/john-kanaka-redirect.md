@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title: John Kanaka ●
+title: John Kanaka ♲
 
 published: true
 wordsBy: 
