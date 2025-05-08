@@ -99,11 +99,11 @@ Turn to and put out all your strength of arm and heart and brain\
 ***And like the Mary Ellen Carter, rise again***
 
 > ***Rise again, rise again!\
-Though your heart it be broke and your life about to end\
-No matter what you lost, be it a home, a love, a friend\
-Like the Mary Ellen Carter, rise again!***
+<span style="color:blue">Though your heart it be broke and your life about to end</span>\
+<span style="color:blue">No matter what you've lost, be it a home, a love, a friend</span>\
+<span style="color:blue">Like the Mary Ellen Carter, rise again!</span>\***
 > 
 > ***Rise again, rise again!\
-Though your heart it be broke and your life about to end\
-No matter what you lost, be it a home, a love, a friend\
-Like the Mary Ellen Carter, rise again!***
+<span style="color:blue">Though your heart it be broke and your life about to end</span>\
+<span style="color:blue">No matter what you've lost, be it a home, a love, a friend</span>\
+<span style="color:blue">Like the Mary Ellen Carter, rise again!</span>\***
