@@ -13,7 +13,7 @@ tags:
   - rewritten
   - LGBTQ_plus
 date: 2025-04-03T08:05:12.000Z
-description: A traditional song, with edits and an additonal verse by [Roary Skaista](https://roary.uk/)
+description: A traditional song, with edits and an additional verse by [Roary Skaista](https://roary.uk/)
 ---
 
 Oh who wouldn't be a sailor lad a-sailing on the main\
