@@ -18,7 +18,7 @@ description: A traditional song, with edits and an additional verse by [Roary Sk
 
 Oh who wouldn't be a sailor lad a-sailing on the main\
 To gain the good will of his captain is to blame\
-For he went ashore one evening for to be\
+For he went ashore, one evening for to be\
 And that was the beginning of the whole calamity
 
 >***And it's home, boys, home!\
@@ -30,7 +30,7 @@ Are all a-blooming freely in the north country***
 Now I asked her for a handkerchief to tie around me head\
 And likewise for a candle for to light me up to bed\
 She tended to me needs just as I like a maid to do\
-So then I says to her, “Why don't you jump in with me too?”
+So then I says to her, "Why don't you jump in with me too?"
 
 >***And it's home, boys, home!...***
 
@@ -43,8 +43,8 @@ Until she wished the short night had been seven years long
 
 Well early next morning the sailor lad arose\
 And into Mary's apron poured a pocket full of gold\
-Saying,” Take this my dear for the mischief I have done\
-For tonight I fear I've left you with a daughter or a son”
+Saying, "Take this my dear for the mischief I have done\
+For tonight I fear I've left you with a daughter or a son"
 
 >***And it's home, boys, home!\
 Home I'd like to be\
