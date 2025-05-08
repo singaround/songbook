@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title: Roll The Old Chariot Along (Nelson's Blood)
+title: Roll The Old Chariot Along
 published: true
 wordsBy: Traditional
 tuneBy: Traditional
