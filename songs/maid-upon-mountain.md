@@ -13,7 +13,7 @@ tags:
   - two_voices
   - technicolour
 date: 2025-04-07T08:05:12.000Z
-description: Written as part of an 'Access Folk' workshop, 2025. This song takes its inspiration from witches selling knotted strings to sailors. The knots were said to contain the wind, and by untying a knot the sailor could control the weather.
+description: Written as part of an '[Access Folk](https://accessfolk.sites.sheffield.ac.uk/home)' workshop run by [Roary Skaista](https://roary.uk) in February 2025. This song takes its inspiration from the practice of [witches selling knotted strings to sailors](https://museumofwitchcraftandmagic.co.uk/object/knotted-rope/). The knots were said to contain the wind, and by untying a knot the sailor could control the weather.
 ---
 
 <span style="color:green">Green: voice 1</span>\
