@@ -13,7 +13,7 @@ tags:
   - rewritten
   - LGBTQ_plus
 date: 2025-04-03T08:05:12.000Z
-description: A traditional song, with edits and an additional verse by [Roary Skaista](https://roary.uk/)
+description: This traditional song comes from two earlier traditional songs put together - *Rosemary Lane* and *The Oak and The Ash*.  Our version has been edited and added to by [Roary Skaista](https://roary.uk/)
 ---
 
 Oh who wouldn't be a sailor lad a-sailing on the main\
