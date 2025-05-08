@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title:  Roll the Old Chariot Along↝
+title:  Roll the Old Chariot Along ↝
 published: true
 wordsBy: 
 tuneBy: 
