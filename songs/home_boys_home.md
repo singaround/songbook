@@ -10,6 +10,8 @@ songLine: And it's home, boys, home!
 tags:
   - song
   - coming_home
+  - rewritten
+  - LGBTQ_plus
 date: 2025-04-03T08:05:12.000Z
 description: A traditional song, with edits and an additonal verse by [Roary Skaista](https://roary.uk/)
 ---
@@ -69,4 +71,8 @@ Never let a sailor lad an inch above your knee\
 For I trusted one and he beguiled me\
 But since I’ve got this song as proof he’s paying paternity!
 
->***And it's home, boys, home!...***
+>***And it's home, boys, home!\
+Home I'd like to be\
+Home for a while in me own country\
+Where the oak and the ash and the bonny rowan tree\
+Are all a-blooming freely in the north country***
