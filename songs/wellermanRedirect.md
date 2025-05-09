@@ -2,7 +2,7 @@
 templateKey: song
 title: Wellerman ↝
 
-published: true
+published: false
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: Soon may the Wellerman come
