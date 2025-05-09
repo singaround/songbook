@@ -2,7 +2,7 @@
 templateKey: song
 title: John Kanaka ♲
 
-published: true
+published: false
 wordsBy: 
 tuneBy: 
 chorusLine: 
