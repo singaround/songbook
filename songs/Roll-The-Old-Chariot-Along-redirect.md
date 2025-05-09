@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title:  Roll the Old Chariot Along ↝
-published: true
+published: false
 wordsBy: 
 tuneBy: 
 chorusLine: 
