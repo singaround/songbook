@@ -14,6 +14,8 @@ tags:
   - technicolour
 date: 2025-04-07T08:05:12.000Z
 description: Written as part of an '[Access Folk](https://accessfolk.sites.sheffield.ac.uk/home)' workshop run by [Roary Skaista](https://roary.uk) in February 2025. This song takes its inspiration from the practice of [witches selling knotted strings to sailors](https://museumofwitchcraftandmagic.co.uk/object/knotted-rope/). The knots were said to contain the wind, and by untying a knot the sailor could control the weather.
+
+    <sub>Maid Upon the Mountain © 2025 by Jack Pritchard & Roary Skaista is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/</sub>
 ---
 
 <span style="color:green">Green: voice 1</span>\
