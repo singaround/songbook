@@ -2,7 +2,7 @@
 templateKey: song
 title: Maid Upon the Mountain
 published: true
-wordsBy: © 2025 by Jack Pritchard & Roary Skaista is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+wordsBy: © Roary Skaista and Jack Pritchard (under BY-NC-SA 4.0)
 tuneBy: © Roary Skaista and Jack Pritchard
 chorusLine: To blow this world away
 songLine: In my bag there is a knot
@@ -14,8 +14,7 @@ tags:
   - technicolour
 date: 2025-04-07T08:05:12.000Z
 description: Written as part of an '[Access Folk](https://accessfolk.sites.sheffield.ac.uk/home)' workshop run by [Roary Skaista](https://roary.uk) in February 2025. This song takes its inspiration from the practice of [witches selling knotted strings to sailors](https://museumofwitchcraftandmagic.co.uk/object/knotted-rope/). The knots were said to contain the wind, and by untying a knot the sailor could control the weather.
-      
-    <small>Maid Upon the Mountain © 2025 by Jack Pritchard & Roary Skaista is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/</small>
+
 ---
 
 <span style="color:green">Green: voice 1</span>\
@@ -70,3 +69,9 @@ And we weave them with the wind</span>
 
 >***We weave knots of power\
 To blow this world away***
+
+---
+
+<small>*Maid Upon the Mountain* © 2025 by Roary Skaista and Jack Pritchard is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)</small>
+
+
