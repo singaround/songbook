@@ -2,7 +2,7 @@
 templateKey: song
 title: Maid Upon the Mountain
 published: true
-wordsBy: © Roary Skaista and Jack Pritchard
+wordsBy: © 2025 by Jack Pritchard & Roary Skaista is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 tuneBy: © Roary Skaista and Jack Pritchard
 chorusLine: To blow this world away
 songLine: In my bag there is a knot
