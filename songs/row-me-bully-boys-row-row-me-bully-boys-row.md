@@ -14,7 +14,7 @@ tags:
   - post-2000
   - coming_home
 date: 2019-03-11T19:53:57.972Z
-description: The original version of this song was written by [Alan Doyle](https://alandoyle.ca/) for the film [_Robin Hood (2010)_](https://en.wikipedia.org/wiki/Robin_Hood_(2010_film)) . It then took on a life of its own - read more about it in this [blog post by Alan Doyle](https://alandoyle.ca/bully-boys-a-modern-folk-song/).
+description: The [original version](https://alandoyle.ca/lyrics-bully-boys/) of this song was written by [Alan Doyle](https://alandoyle.ca/) for the film [_Robin Hood (2010)_](https://en.wikipedia.org/wiki/Robin_Hood_(2010_film)) . The song then took on a life of its own - read more about it in this [blog post by Alan Doyle](https://alandoyle.ca/bully-boys-a-modern-folk-song/).
 ---
 > ***And it's row me bully boys, we're in a hurry boys,\
 We've got a long way to go\
