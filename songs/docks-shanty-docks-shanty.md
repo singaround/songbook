@@ -7,12 +7,12 @@ tuneBy: © Carlo Ritchie
 chorusLine: 'So I''ll paint my sails red, and I''ll sail out to sea'
 songLine: 'Oh my name is De Clisson, no sailor am I'
 tags:
-  - song
-  - Jeanne_de_Clisson
-  - feminist
-  - historic_events
-  - female_narrator
+  - non-male_narrator
   - seafaring_women
+  - Jeanne_de_Clisson
+  - historic_events
+  - piracy
+  - France
 date: 2019-03-13T22:43:12.838Z
 description: >-
   Carlo Ritchie, comedian and founder of the Redfern Shanty Club in Sydney,
