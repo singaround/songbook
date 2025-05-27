@@ -7,10 +7,11 @@ tuneBy: Traditional
 chorusLine: 'And she pulled away o’er the rolling seas, over the waters blue'
 songLine: '''Twas on the Longstone Lighthouse there dwelt an English maid'
 tags:
-  - song
   - seafaring_women
+  - feminist
+  - ballad
   - lifeboats
-  - historic_event
+  - historic_events
 date: 2019-04-04T22:46:40.260Z
 description: >-
   A
