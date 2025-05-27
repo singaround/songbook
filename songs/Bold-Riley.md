@@ -7,7 +7,9 @@ tuneBy: Traditional
 chorusLine: 'Goodbye my sweetheart, goodbye my darling'
 songLine: Our anchor's aweigh and our sails are set
 tags:
-  - song
+  - women_on_the_shore
+  - more_chorus_than_verse
+  - farewell
 date: 2019-03-07T08:05:12.000Z
 description: >-
   In 19th-century Liverpool, it was fashionable for wealthier women to wear
