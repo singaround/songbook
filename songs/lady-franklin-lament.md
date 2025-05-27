@@ -9,7 +9,10 @@ chorusLine: In Baffin Bay where the whalefishes blow
 songLine: It was homeward bound one night on the deep
 tags:
   - song
+  - non-male_narrator
+  - lament
   - Northwest_Passage
+  - minor_key
 date: 2025-04-05T08:05:12.000Z
 description: 
 ---
