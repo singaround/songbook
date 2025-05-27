@@ -8,8 +8,8 @@ chorusLine: 'John the slacker, slacker (was kanaka)'
 songLine: I thought I heard the old man say
 tags:
   - song
-  - problematic
   - rewritten
+  - more_chorus_than_verse
 date: 2019-03-07T08:05:12.000Z
 description: >-
   We love this song! We originally learnt it as "John Kanaka".
@@ -24,7 +24,7 @@ description: >-
 
 
   We're not sure what to do with this one - we liked what the [London Sea Shanty
-  Collective ](https://londonseashantycollective.com/) had done with it at a
+  Collective](https://londonseashantycollective.com/) had done with it at a
   recent workshop, replacing 'John Kanaka' with 'John, the slacker', so we've
   adopted that
 ---
