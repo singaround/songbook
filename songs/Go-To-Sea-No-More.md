@@ -8,10 +8,13 @@ chorusLine: 'No more, no more, I’ll go to sea no more'
 songLine: 'When first I landed in Liverpool, I went upon a spree'
 tags:
   - song
+  - women_on_the_shore
+  - whaling
+  - farewell
+  - Northwest_England
 date: 2019-03-07T08:05:12.000Z
 description: >-
-  This is a sad forebitter about a sailor cheated by a dishonest prostitute and
-  boarding house master and condemned to return to sea.
+  This is a sad forebitter about a sailor who unhappily returns to sea.
 ---
 When first I landed in Liverpool, I went upon a spree\
 While money lasts I spent it fast, got drunk as drunk could be\
