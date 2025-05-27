@@ -7,10 +7,9 @@ tuneBy: Traditional
 chorusLine: 'To me way hey, you Stormy'
 songLine: General Taylor's dead and gone
 tags:
-  - song
-  - Zachary Taylor
-  - Stormy
-  - funeral
+  - more_chorus_than_verse
+  - lament
+  - minor_key
 date: 2019-03-13T21:14:24.077Z
 description: >-
   Also known as 'Walk Me Along Johnny' or 'Walk Him Along John', this shanty
@@ -50,7 +49,10 @@ His shroud of the softest silk were made
 We lowered him down on a golden chain\
 At every link we shouted his name
 
->***To me way hey, you Stormy...***
+>***To me way hey, you Stormy***\
+***Walk him along, John, carry him along***\
+***To me way hey, you Stormy***\
+***Carry him to his burying ground***
 
 Oh, General Taylor fought in the fray\
 And General Taylor gained the day
