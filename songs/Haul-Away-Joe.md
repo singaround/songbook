@@ -7,10 +7,11 @@ tuneBy: Traditional
 chorusLine: 'Away, haul away, we’ll haul away Joe'
 songLine: Louis was the king of France
 tags:
-  - song
-  - LGBTQ+
-  - more_chorus_than_verse
+  - LGBTQ_plus
   - rewritten
+  - more_chorus_than_verse
+  - appears_in_a_film
+  - appears_in_Fishermans_Friends
 date: 2019-03-07T08:05:12.000Z
 description: >-
   We've got rid of the verses criticising the characteristics of various women!
@@ -25,13 +26,13 @@ But then he got his head chopped off\
 Which spoiled his constitut-i-on\
 ***Away, haul away, we'll haul away Joe***
 
-> ***(To me) way, haul away***\
-> ***We'll haul away together***\
-> ***(To me) way, haul away***\
-> ***We'll haul away Joe***\
-> ***(To me) way, haul away***\
-> ***We'll haul for better weather***\
-> ***Away, haul away, we'll haul away Joe***
+> ***(To me) way, haul away\
+We'll haul away together\
+(To me) way, haul away\
+We'll haul away Joe\
+(To me) way, haul away\
+We'll haul for better weather\
+Away, haul away, we'll haul away Joe***
 
 Saint Patrick was a gentleman\
 He came from decent people\
@@ -58,8 +59,14 @@ Me lips would all grow mouldy\
 🔷And me lips did not go mouldy\
 ***Away, haul away, we'll haul away Joe***
 
-> ***(To me) way, haul away...***
-> 
+> ***(To me) way, haul away\
+We'll haul away together\
+(To me) way, haul away\
+We'll haul away Joe\
+(To me) way, haul away\
+We'll haul for better weather\
+Away, haul away, we'll haul away Joe***
+
 The cook is in the galley boys\
 Making duff so handy\
 ***Away, haul away, we'll haul away Joe***\
