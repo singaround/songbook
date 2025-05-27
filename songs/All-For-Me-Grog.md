@@ -5,11 +5,14 @@ published: true
 wordsBy: traditional
 tuneBy: traditional
 chorusLine: And it's all for me grog, me jolly, jolly grog
-songLine: Where are my boots, my nogging, nogging boots
+songLine: Where are my boots, my nogging, nogging boots?
 tags:
-  - song
+-  two_voices
+-  more_chorus_than_verse
+-  Assassins_Creed
+-  drinking
 date: 2019-03-07T08:05:12.000Z
-description: In our version we make it clear that we're spending the money **with** the lassies and not **on** the lassies.
+description: In this version we make it clear that we're spending the money **with** the lassies and not **on** the lassies.
 ---
 > ***And it's all for me grog, me jolly, jolly grog***\
 > ***All for my beer and tobacco***\
@@ -17,7 +20,7 @@ description: In our version we make it clear that we're spending the money **wit
 > ***With the lassies drinking gin***\
 > ***Far across the Western Ocean I must wander***
 
-Where are my boots, my nogging, nogging boots\
+Where are my boots, my nogging, nogging boots?\
 ***All gone for beer and tobacco***\
 Well the soles they are worn out\
 And the heels are kicked about\
@@ -25,7 +28,7 @@ And the toes are looking out for better weather
 
 > ***And it's all for me grog, me jolly, jolly grog...***
 
-Where is my shirt, my nogging, nogging shirt\
+Where is my shirt, my nogging, nogging shirt?\
 ***All gone for beer and tobacco***\
 Well the sleeves they got worn out\
 And the collar's turned about\
@@ -33,7 +36,7 @@ And the tail is looking out for better weather
 
 > ***And it's all for me grog, me jolly, jolly grog...***
 
-Where is my bed, my nogging, nogging bed\
+Where is my bed, my nogging, nogging bed?\
 ***All gone for beer and tobacco***\
 Well the sheets they got all worn\
 And the mattress got all torn\
