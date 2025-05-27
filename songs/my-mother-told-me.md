@@ -2,14 +2,15 @@
 templateKey: song
 title: My Mother Told Me
 
-published: false
+published: true
 wordsBy: Egill Skallagrímsson
 tuneBy: 
 chorusLine: My mother told me
 songLine: My mother told me
 tags:
-  - song
-  - viking
+  - piracy
+  - naval_warfare
+  - originally_a_poem
 date: 2025-04-05T08:05:12.000Z
 description: This is a very short song, usually sung through a few times
 ---
