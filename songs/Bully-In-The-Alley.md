@@ -7,7 +7,10 @@ tuneBy: Traditional
 chorusLine: 'So help me Bob, I’m bully in the alley'
 songLine: Sally is the girl that I love dearly
 tags:
-  - song
+  - African_or_African-American_origin
+  - more_chorus_than_verse
+  - Assassins_Creed
+  - drinking
 date: 2019-03-07T08:05:12.000Z
 description: >-
   The general consensus is that 'bully' means 'drunk' and 'spliced' means
