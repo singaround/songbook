@@ -8,7 +8,9 @@ chorusLine: We are going to fetch you your bread and your butter
 songLine: Oh, where are you going to, all you Big Steamers?
 tags:
   - song
-  - trade
+  - two_voices
+  - maritime_trade
+  - originally_a_poem
 date: 2025-04-06T08:05:12.000Z
 description: 
 ---
