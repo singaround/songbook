@@ -7,6 +7,8 @@ tuneBy: Traditional
 songLine: Cape Cod girls ain't got no combs
 tags:
   - song
+  - more_chorus_than_verse
+  - Australia
 date: 2019-03-07T08:05:12.000Z
 description: >-
   This was likely used as a long haul or halyard shanty. The named town could be substituted for the name of another
@@ -18,10 +20,10 @@ Cape Cod girls ain't got no combs\
 They comb their hair with codfish bones\
 ***And we're bound away for Australia***
 
-> ***So heave away, my bully, bully boys***\
-> ***Haul away, haul away***\
-> ***Heave away, why don't you make some noise***\
-> ***And we're bound away for Australia***
+> ***So heave away, my bully, bully boys\
+Haul away, haul away\
+Heave away, why don't you make some noise\
+And we're bound away for Australia***
 
 Cape Cod kids ain't got no sleds\
 ***Haul away, haul away***\
@@ -35,21 +37,24 @@ Cape Cod men ain't got no ale\
 They fill their glasses with codfish tails\
 ***And we're bound away for Australia***
 
-> ***So heave away, my bully, bully boys...***
+> ***So heave away, my bully, bully boys***
 
 Cape Cod folk ain't got no ills\
 ***Haul away, haul away***\
 Cape Cod doctors give 'em codfish pills\
 ***And we're bound away for Australia***
 
-> ***So heave away, my bully, bully boys***
+> ***So heave away, my bully, bully boys\
+Haul away, haul away\
+Heave away, why don't you make some noise\
+And we're bound away for Australia***
 
 Cape Cod mothers don't bake no pies\
 ***Haul away, haul away***\
 They feed their kids on codfish eyes\
 ***And we're bound away for Australia***
 
-> ***So heave away, my bully, bully boys...***
+> ***So heave away, my bully, bully boys***
 
 Cape Cod cats ain't got no tails\
 ***Haul away, haul away***\
