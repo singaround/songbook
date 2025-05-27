@@ -10,6 +10,7 @@ tags:
   - song
   - sea_creatures
   - shipwreck
+  - supernatural
 date: 2019-03-07T08:05:12.000Z
 ---
 It was a Friday morn when we set sail\
