@@ -8,9 +8,9 @@ chorusLine: Blow, boys, blow
 songLine: O shipmates as you lay sleeping
 tags:
 - song
-- female_writer
+- non-male_writer
+- supernatural
 - Cecily_Fox_Smith
-- ghosts
 date: 2025-04-05T08:05:12.000Z
 description: Be aware of the sixth line in each verse (it's _not_ 'Blow boys blow') and the additional line in the final verse.
 ---
