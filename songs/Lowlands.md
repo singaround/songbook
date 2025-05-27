@@ -7,11 +7,12 @@ tuneBy: Traditional
 chorusLine: 'Lowlands, lowlands away my John'
 songLine: 'I dreamed a dream the other night'
 tags:
-  - song
-  - female_narrator
+  - non-male_narrator
   - women_on_the_shore
+  - Assassins_Creed
   - romantic_love
   - supernatural
+  - minor_key
   - lament
 date: 2019-03-07T08:05:12.000Z
 description: >-
