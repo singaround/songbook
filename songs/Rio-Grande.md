@@ -8,6 +8,7 @@ chorusLine: '''way down Rio'
 songLine: Our ship is a-sailing out over the Bar
 tags:
   - song
+  - farewell
 date: 2019-03-07T08:05:12.000Z
 ---
 Our ship is a-sailing out over the Bar\
@@ -38,6 +39,12 @@ We've a bully good ship & a bully good crew,\
 ***'way down Rio***\
 A bully good mate and a good skipper too\
 ***And we're bound for the Rio Grande***
+
+>***Then away, boys, away\
+'way down Rio\
+So fare thee well, my bonny young girl\
+We're bound for the Rio Grande***
+
 
 >***Then away, boys, away...***
 
