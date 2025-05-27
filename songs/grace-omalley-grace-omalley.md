@@ -6,15 +6,14 @@ wordsBy: 'Cathy Ryan, John Doyle'
 tuneBy: 'Cathie Ryan, John Doyle'
 songLine: Now in sailor’s clothes Granuaile did go
 tags:
-  - song
-  - Grace_OMalley
-  - piracy
-  - ballad
+  - non-male_writer
   - seafaring_women
-  - female_writer
+  - feminist
+  - Grace_OMalley
   - historic_events
-  - irish
+  - piracy
   - rebellion
+  - Ireland
 date: 2019-03-13T22:35:27.039Z
 description: >-
   A song about Grace O'Malley (Gráinne Ní Mháille in Irish, often anglicised to
