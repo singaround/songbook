@@ -12,6 +12,9 @@ tags:
   - Royal_Navy
   - two_voices
   - technicolour
+  - historic_events
+  - shipwreck
+  - minor_key
 date: 2019-03-07T08:05:12.000Z
 description: >-
   This modern shanty by Les Sullivan explores
