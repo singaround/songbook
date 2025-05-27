@@ -6,8 +6,10 @@ wordsBy: Traditional
 tuneBy: Traditional
 songLine: Come listen awhile and you soon shall hear
 tags:
-  - song
-  - smuggler
+  - seafaring_women
+  - feminist
+  - piracy
+  - ballad
 date: 2019-03-13T22:28:39.596Z
 description: >-
   Many copies of this popular broadside
