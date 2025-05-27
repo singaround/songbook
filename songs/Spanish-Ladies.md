@@ -7,8 +7,11 @@ tuneBy: Traditional
 chorusLine: We’ll rant and we’ll roar like true British sailors
 songLine: Farewell and adieu to you Spanish ladies
 tags:
-  - song
-  - spanish
+  - women_on_the_shore
+  - appears_in_a_film
+  - appears_in_a_Russell_Crowe_film
+  - Assassins_Creed
+  - coming_home
 date: 2019-03-07T08:05:12.000Z
 ---
 Farewell and adieu to you Spanish ladies\
