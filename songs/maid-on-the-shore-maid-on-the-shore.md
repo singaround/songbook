@@ -7,6 +7,9 @@ tuneBy: Traditional
 songLine: There was a fair maid and she lived all alone
 tags:
   - song
+  - women_on_the_shore
+  - feminist
+  - supernatural
 date: 2019-03-14T20:37:13.055Z
 description: >-
   Also known as ***The Mermaid***, this ballad hints that the cunning maid on the
