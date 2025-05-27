@@ -9,6 +9,8 @@ chorusLine:
 songLine: Here's the tender coming, pressing all the men
 tags:
   - song
+  - non-male_narrator
+  - women_on_the_shore
   - impressment
   - Northeast_England
 date: 2025-04-03T08:05:12.000Z
