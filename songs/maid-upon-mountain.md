@@ -8,10 +8,12 @@ chorusLine: To blow this world away
 songLine: In my bag there is a knot
 tags:
   - song
-  - supernatural
-  - weather
-  - two_voices
+  - non-male_narrator
+  - women_on_the_shore
   - technicolour
+  - two_voices
+  - post-2000
+  - supernatural
 date: 2025-04-07T08:05:12.000Z
 description: Written as part of an '[Access Folk](https://accessfolk.sites.sheffield.ac.uk/home)' workshop run by [Roary Skaista](https://roary.uk) in February 2025. This song takes its inspiration from the practice of [witches selling knotted strings to sailors](https://museumofwitchcraftandmagic.co.uk/object/knotted-rope/). The knots were said to contain the wind, and by untying a knot the sailor could control the weather.
 
