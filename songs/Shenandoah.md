@@ -8,7 +8,9 @@ chorusLine: 'Oh Shenandoah, I long to see you'
 tags:
   - song
   - rivers
+  - minor_key
   - more_chorus_than_verse
+  - lament
 date: 2019-03-07T08:05:12.000Z
 description: >-
   This song appears to have originated with Canadian and American fur traders
