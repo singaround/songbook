@@ -8,11 +8,11 @@ chorusLine: 'Rise again'
 songLine: 'Make the Mary Ellen Carter rise again'
 tuneLink: ''
 tags:
-  - song
-  - Stan_Rogers
-  - anthem
-  - shipwreck
   - ship
+  - hope
+  - perseverance
+  - Stan_Rogers
+  = shipwreck
 date: 2023-13-04T18:06:27.563Z
 description: >-
   A song about a sunken ship, but also about hope and common humanity,
