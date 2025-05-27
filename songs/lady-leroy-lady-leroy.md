@@ -8,6 +8,9 @@ songLine: As I was a-walking one morning in June
 tuneLink: 'https://www.youtube.com/watch?v=y4TtBcoaoNQ'
 tags:
   - song
+  - seafaring_women
+  - feminist
+  - Ireland
 date: 2019-04-04T22:56:43.525Z
 description: >-
   There are various versions of this song, with slightly different narratives.
