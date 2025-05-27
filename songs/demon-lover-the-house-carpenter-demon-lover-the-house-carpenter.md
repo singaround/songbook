@@ -7,6 +7,8 @@ tuneBy: Traditional
 songLine: 'Well met, well met, my own true love, well met, well met," cried he'
 tags:
   - song
+  - two_voices
+  - supernatural
 date: 2019-04-05T07:38:53.322Z
 description: >-
   This was a very popular ballad written by London-based ballad writer Laurence
