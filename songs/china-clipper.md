@@ -8,9 +8,11 @@ tuneBy: Peter Bellamy
 chorusLine: 
 songLine: O fair she was to look on
 tags:
-  - song
-  - female_writer
+  - non-male_writer
   - ship
+  - maritime_trade
+  - lament
+  - originally_a_poem
 date: 2025-04-04T08:05:12.000Z
 description: 
 ---
