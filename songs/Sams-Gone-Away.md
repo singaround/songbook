@@ -8,7 +8,8 @@ date: 2019-03-07T08:05:12.000Z
 tags:
   - song
   - more_chorus_than_verse
-
+  - African_or_African-American_origin
+description: 
 ---
 I wish I was a cabin boy, aboard a Man O'War\
 ***Sam's gone away, aboard a Man O'War***\
