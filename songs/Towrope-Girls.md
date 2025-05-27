@@ -7,7 +7,12 @@ tuneBy: Traditional
 chorusLine: 'Goodbye Serafina, Rosita and Luz'
 songLine: Some’s loading at 'frisco with cargoes of grain
 tags:
-  - song
+  - non-male_writer
+  - women_on_the_shore
+  - coming_home
+  - romantic_love
+  - maritime_trade
+  - originally_a_poem
   - Cecily_Fox_Smith
 date: 2019-03-07T08:05:12.000Z
 ---
