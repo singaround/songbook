@@ -7,10 +7,11 @@ tuneBy: Jack Forbes
 chorusLine: Rolling up! rolling down!
 songLine: I once was a rigger and I worked like hell
 tags:
-  - song
-  - trade
-  - drinking
   - more_chorus_than_verse
+  - maritime_trade
+  - modern_seafaring
+  - drinking
+  - rivers
 description:
 date: 2019-03-07T08:05:12.000Z
 ---
