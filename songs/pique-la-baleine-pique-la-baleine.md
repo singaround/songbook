@@ -8,9 +8,9 @@ chorusLine: Pique la Baleine
 songLine: Pour retrouver ma douce amie
 tags:
   - song
-  - whaling
   - non-english-language
-  - French
+  - whaling
+  - France
 date: 2019-11-11T19:46:27.670Z
 description: >-
   A French South Seas Sperm Whale Fishery song, this might be the most romantic
