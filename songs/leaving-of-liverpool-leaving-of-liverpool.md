@@ -7,9 +7,9 @@ tuneBy: Traditional
 chorusLine: 'So fare thee well, my own true love'
 songLine: Farewell to you my own true love
 tags:
-  - song
+  - romantic_love
   - farewell
-  - Liverpool
+  - Northwest_England
 date: 2019-03-11T19:42:04.351Z
 ---
 Farewell to you my own true love\
