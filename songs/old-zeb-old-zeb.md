@@ -6,8 +6,7 @@ wordsBy: >-
   Larry Kaplan, crediting Bob Walser, Indian Neck, 1984 (who got it from Bruce
   Thompson)
 tags:
-  - song
-  - ship
+  - no_tags
 date: 2019-11-11T20:02:45.914Z
 description: "The song concerns Capt. Zebulon Tilton, who skippered the\r\nschooner Alice B. Wentworth out of Vinyard Haven. He retired at\r\nage 83; Rosie and Gertie were his daughters. The song appears on\r\n\"Cap'n Hawkins' Choice\" ( Winter Haven Records).\r"
 ---
