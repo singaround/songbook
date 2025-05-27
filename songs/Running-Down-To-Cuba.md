@@ -6,6 +6,7 @@ chorusLine: 'Way, me boys, for Cuba'
 songLine: To Cuba’s coast we’re bound me boys
 tags:
   - song
+  - Assassins_Creed
 date: 2019-03-07T08:05:12.000Z
 ---
 To Cuba's coast we're bound me boys\
@@ -14,7 +15,7 @@ To Cuba's coast boys, don't you make a noise\
 ***Running down to Cuba.***
 
 > ***Way, me boys, for Cuba\
-> Running down to Cuba***
+Running down to Cuba***
 
 The Captain he will trim the sails\
 ***Way, me boys, for Cuba***\
