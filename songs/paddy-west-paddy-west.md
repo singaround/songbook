@@ -10,7 +10,7 @@ tags:
   - song
   - comedy
   - Northwest_England
-  - 
+  - Ireland
 date: 2019-11-11T19:55:10.576Z
 description: >-
   Paddy West, a Liverpool Irishman, was a notorious 19th Century
