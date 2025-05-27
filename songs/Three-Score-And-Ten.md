@@ -7,10 +7,12 @@ tuneBy: Traditional
 chorusLine: And it’s three score and ten
 songLine: Methinks I see a host of craft
 tags:
-  - song
-  - herring
   - fishing
+  - historic_events
+  - shipwreck
   - Northeast_England
+  - minor_key
+  - lament
 date: 2019-03-07T08:05:12.000Z
 description: >-
   "Three Score and Ten" is a broadside ballad commemorating a tragic storm off
