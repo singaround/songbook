@@ -9,6 +9,7 @@ songLine: 'Oh, the smartest packet you can find,'
 tags:
   - song
   - more_chorus_than_verse
+  - coming_home
 date: 2019-03-15T20:22:05.061Z
 description: >-
   In the 1840s, New York saw the emergence of a new urban youth culture among
@@ -43,7 +44,10 @@ Them Bowery gals we'll waltz around.
 When we've stowed our freight at the West Street Pier,\
 It's home to Liverpool then we'll steer.
 
-> ***Timme Hey, Rig-a-jig, and a jaunting run...***
+> ***Timme Hey, Rig-a-jig, and a jaunting run!***\
+> ***Ah Hey! Ah Ho! Are you most done?***\
+> ***With Liza Lee all on my knee,***\
+> ***Clear away the track, and let the bulgine run!***
 
 When I come home from across the sea,\
 Eliza said she'll marry me.
