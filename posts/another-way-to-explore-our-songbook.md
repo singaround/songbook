@@ -27,9 +27,9 @@ Some of the most joyful songs are about [coming home](/tags/coming_home) and [dr
 
 The songbook contains songs by lots of people – and among our favourite writers and performers are [Nancy Kerr](/tags/nancy_kerr/), [Janie Meneely](/tags/Jane_Meneely/), [Cicely Fox Smith](/tags/Cicely_Fox_Smith) and [Stan Rogers](/tags/Stan_Rogers/). We’ve also got a load of lyrics which were originally published as poetry and set to music later.
 
-Some tell stories about [real historic events](/tags/historic_events/). And we’ve got songs which [acknowledge the modern nautical world](tags/modern_seafaring/) – that is, those that reflect that we’re (mostly) not travelling about in sailing ships any more.
+Some tell stories about [real historic events](/tags/historic_events/). And we’ve got songs which [acknowledge the modern nautical world](/tags/modern_seafaring/) – that is, those that reflect that we’re (mostly) not travelling about in sailing ships any more.
 
-Songs originate from around the globe, and we’ve got songs tagged with France, Ireland, Scotland and Australia. These are either ‘from’ that place, or have a link to it. We’ve also got songs about seeking the Northwest Passage, and songs from or about the Northeast of England and the Northwest of England.
+Songs originate from around the globe, and we’ve got songs tagged with [France](/tags/France/), [Ireland](/tags/Ireland/), [Scotland ](/tags/Scotland/)and [Australia](/tags/Australia/). These are either ‘from’ that place, or have a link to it. We’ve also got songs about seeking the [Northwest Passage](/tags/northwest_passage/), and songs from or about the [Northeast of England](/tags/northeast_england/) and the [Northwest of England](/tags/northwest_england/).
 
 We’ve got shanties that appeared in the “Assassin’s Creed” computer game (although the Auntie Shanty versions are slightly different). We’ve also got songs which appeared in popular films, songs from the Fisherman’s Friends movies, and (because it’s an excellent bit of trivia) we’ve got sea songs that appear in Russell Crowe films.
 
