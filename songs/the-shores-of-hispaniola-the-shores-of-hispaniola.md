@@ -7,10 +7,10 @@ tuneBy: © Nancy Kerr
 songLine: They came in the night and their ships were as black as the ocean
 tags:
   - song
-  - slavery
-  - west_indies
-  - Nancy_Kerr
   - non-male_writer
+  - feminist
+  - post-2000
+  - Nancy_Kerr
 date: 2019-03-31T16:16:29.604Z
 description: >-
   In 1562, [John
