@@ -4,8 +4,9 @@ date: 2025-05-28T07:19:33.012Z
 summary: Looking for a song on a particular subject? – click a link
 tags:
   - blog
+  - tags
 ---
-### W﻿ORK IN PROGRESS
+#### Looking for a song on a particular subject? – click a link
 
 We’ve got loads of songs about **[seafaring women](/tags/seafaring_women/)**, both real and fictional. Women who have inspired more than one song include **[Grace O’Malley](/tags/grace_omalley/)** and **[Jeanne de Clisson](/tags/jeanne_de_clisson/)**.
 
@@ -31,9 +32,7 @@ Some tell stories about **[real historic events](/tags/historic_events/)**. And 
 
 Songs originate from around the globe, and we’ve got songs tagged with **[France](/tags/France/)**, **[Ireland](/tags/Ireland/)**, **[Scotland ](/tags/Scotland/)**and **[Australia](/tags/Australia/)**. These are either ‘from’ that place, or have a link to it. We’ve also got songs about seeking the **[Northwest Passage](/tags/northwest_passage/)**, and songs from or about the **[Northeast of England](/tags/northeast_england/)** and the **[Northwest of England](/tags/northwest_england/)**.
 
-We’ve got shanties that **[are heard in the “Assassin’s Creed” computer game](/tags/assassins_creed/)** (although the Auntie Shanty versions are slightly different). We’ve also got songs which** [appeared in popular films](/tags/appears_in_a_film/)**, songs **[from the Fisherman’s Friends movies](/tags/appears_in_fishermans_friends/)**, and (because it’s an excellent bit of trivia) we’ve got **[sea songs that appear in Russell Crowe films](/tags/appears_in_a_russell_crowe_film/)**.
-
-We’ve also got **[songs which appeared in popular films](/tags/appears_in_a_film/)**, songs **[from the Fisherman’s Friends movies](/tags/appears_in_fishermans_friends/)**, and (because it’s an excellent bit of trivia) we’ve got **[sea songs that appear in Russell Crowe films](/tags/appears_in_a_russell_crowe_film/)**
+We’ve got shanties that **[are heard in the “Assassin’s Creed” computer game](/tags/assassins_creed/)** (although the Auntie Shanty versions are slightly different). We’ve also got **[songs which appeared in popular films](/tags/appears_in_a_film/)**, songs **[from the Fisherman’s Friends movies](/tags/appears_in_fishermans_friends/)**, and (because it’s an excellent bit of trivia) we’ve got **[sea songs that appear in Russell Crowe films](/tags/appears_in_a_russell_crowe_film/).**
 
 We’ve got songs **[for multiple ‘voices’](/tags/two_voices/)** – these can be led solo, but we think they work best with different people (or groups) singing the different parts. Some of these have **[fancy colours](/tags/technicolour)** in the songbook version.
 
