@@ -9,10 +9,9 @@ songLine: 'My bonny silver herring'
 tuneLink: ''
 tags:
   - song
-  - traditional
-  - fishing
-  - herring
   - more_chorus_than_verse
+  - herring
+  - fishing
 date: 2023-13-04T19:06:27.563Z
 description: >-
   Based on a street cry of Newhaven fishwives.
