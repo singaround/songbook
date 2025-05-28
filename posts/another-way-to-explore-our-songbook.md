@@ -3,7 +3,7 @@ title: "### Another way to explore our songbook"
 date: 2025-05-28T07:19:33.012Z
 summary: "##### Looking for a song on a particular subject? – click a link"
 tags:
-  - post
+  - blog
 ---
 ### W﻿ORK IN PROGRESS
 
