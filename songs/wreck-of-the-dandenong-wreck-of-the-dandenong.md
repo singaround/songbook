@@ -7,8 +7,10 @@ tuneBy: traditional
 chorusLine: 'And I dream of you, I dream of sleep'
 songLine: Oh wild and furious blew the blast
 tags:
-  - song
+  - shipwreck
   - Australia
+  - minor_key
+  - lament
 date: 2019-11-11T19:28:10.904Z
 description: >-
   The passenger steamer Dandenong was shipwrecked off the coast of Jervis Bay in
@@ -22,12 +24,12 @@ To Newcastle port was bound\
 She had eighty three poor souls on board\
 Through the storm she cleaved her way\
 Well it's sad to relate her terrible fate\
-Was just off Jervis bay
+Was just off Jervis Bay
 
-> ***And I dream of you, I dream of sleep***\
-> ***I dream of bein' warm***\
-> ***But through the night I have to sail***\
-> ***To brave this raging storm***
+> ***And I dream of you, I dream of sleep\
+I dream of bein' warm\
+But through the night I have to sail\
+To brave this raging storm***
 
 While steering through the briny waves,\
 A propelling shaft gave way\
@@ -36,8 +38,8 @@ Which filled us with dismay\
 All hands on board did all they could\
 'Till at length all hope was gone\
 And they hoisted a signal of distress\
-On board of the Dandenong\
-\
+On board of the Dandenong
+
 It was not long until a barque\
 Of a brisk and lively crew\
 Came bearing down and the Captain cried,\
