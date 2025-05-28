@@ -8,9 +8,10 @@ tuneBy:  Ewan MacColl
 chorusLine: As we hunt the bonny shoals of herring
 songLine: Oh, it was a fine and a pleasant day
 tags:
-  - song
-  - fishing
+  - ballad
   - herring
+  - fishing
+  - Northeast_England
 date: 2025-04-04T08:05:12.000Z
 description: 
 ---
