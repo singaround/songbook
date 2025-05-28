@@ -8,6 +8,8 @@ chorusLine: Round the Bay of Mexico
 songLine: Been to sea for a month or more
 tags:
   - song
+  - more_chorus_than_verse
+  - Assassins_Creed
 date: 2025-04-04T08:05:12.000Z
 description: Note - This is based on the Harry Belafonte version, with some cuts. Could potentially be replaced with a more 'work song' version.
 ---
@@ -35,7 +37,10 @@ I can see it all before my eye\
 A big café and a bottle full o' rye\
 ***Round the Bay of Mexico***
 
->***Round the Bay of Mexico...***
+>***Round the Bay of Mexico\
+Way up Suzianna\
+Mexico is the place that I belong in\
+Round the Bay of Mexico***
 
 Some beans and rice to soothe my taste\
 ***Way up Suzianna***\
