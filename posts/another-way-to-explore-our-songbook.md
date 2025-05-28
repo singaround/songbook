@@ -1,6 +1,6 @@
 ---
 title: "### Another way to explore our songbook"
-date: 2025-05-28T07:00:40.159Z
+date: 2025-08-06T07:16:30.522Z
 summary: "##### Looking for a song on a particular subject? – click a link"
 tags:
   - post
@@ -15,7 +15,7 @@ We’ve got songs that we consider to be overtly [feminist](/tags/feminist/) in 
 
 You can view songs based on what the people are doing at sea – songs about [fishing](/tags/fishing/), [whaling](/tags/whaling/), [saving lives](/tags/lifeboats/), [trading and transport](/tags/maritime_trade/), and of course, [rebellion](/tags/rebellion/) and [piracy](/tags/piracy/) (Yarrrrr!). 
 
-We’ve got songs about naval warfare, the Royal Navy, and songs about being press-ganged into the navy (or trying to avoid it). 
+We’ve got songs about [naval warfare](/tags/naval_warfare), the [Royal Navy](/tags/Royal__Navy), and songs about [being press-ganged](/tags/impressment) into the navy (or trying to avoid it). 
 
 There are songs with [loads of joining-in bits](/tags/more_chorus_than_verse) (choruses and/or repeated lines). The opposite of these are the [ballads](/tags/ballad) – songs which tell a story, and (generally) have very little for an audience to join in with. 
 
@@ -23,11 +23,11 @@ There are [comedy songs](/tags/comedy) (your definition of ‘comedy’ may vary
 
 For a less human-centric viewpoint, we’ve got songs on [ocean creatures](/tags/sea_creatures), which includes [whales](/tags/whales), fish, albatrosses and mermaids. And songs which include [ghosts and supernatural phenomena](/tags/supernatural/) in various forms. We’ve also got songs [about the ships themselves](/tags/ship/).
 
-Some of the most joyful songs are about coming home and drinking. On the sadder end of the spectrum we’ve got songs about saying goodbye, either to the land or to the sea. There are some minor-key songs and laments, alongside uplifting songs about hope and perseverance in the face of adversity.
+Some of the most joyful songs are about [coming home](/tags/coming_home) and [drinking](/tags/drinking). On the sadder end of the spectrum we’ve got songs about [saying goodbye](/tags/farewell), either to the land or to the sea. There are some [minor-key songs](/tags/minor_key) and [laments](/tags/lament), alongside uplifting songs about [hope](/tags/hope) and [perseverance in the face of adversity](/tags/perseverence).
 
-The songbook contains songs by lots of people – and among our favourite writers and performers are [Nancy Kerr](/tags/nancy_kerr/), Janie Meneely, Cicely Fox Smith and Stan Rogers. We’ve also got a load of lyrics which were originally published as poetry and set to music later.
+The songbook contains songs by lots of people – and among our favourite writers and performers are [Nancy Kerr](/tags/nancy_kerr/), [Janie Meneely](/tags/Jane_Meneely/), [Cicely Fox Smith](/tags/Cicely_Fox_Smith) and [Stan Rogers](/tags/Stan_Rogers/). We’ve also got a load of lyrics which were originally published as poetry and set to music later.
 
-Some tell stories about real historic events. And we’ve got songs which acknowledge the modern nautical world – that is, those that reflect that we’re (mostly) not travelling about in sailing ships any more.
+Some tell stories about [real historic events](/tags/historic_events/). And we’ve got songs which [acknowledge the modern nautical world](tags/modern_seafaring/) – that is, those that reflect that we’re (mostly) not travelling about in sailing ships any more.
 
 Songs originate from around the globe, and we’ve got songs tagged with France, Ireland, Scotland and Australia. These are either ‘from’ that place, or have a link to it. We’ve also got songs about seeking the Northwest Passage, and songs from or about the Northeast of England and the Northwest of England.
 
