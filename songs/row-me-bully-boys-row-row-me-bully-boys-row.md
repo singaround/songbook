@@ -8,10 +8,10 @@ chorusLine: And it's row me bully boys...
 songLine: 'I''ll sing you a song, it''s a song of the sea '
 tuneLink: 'http://alandoyle.ca/bully-boys-a-modern-folk-song/'
 tags:
-  - song
+  - post-2000
   - appears_in_a_film
   - appears_in_a_Russell_Crowe_film
-  - post-2000
+  - France
   - coming_home
 date: 2019-03-11T19:53:57.972Z
 description: The [original version](https://alandoyle.ca/lyrics-bully-boys/) of this song was written by [Alan Doyle](https://alandoyle.ca/) for the film [_Robin Hood (2010)_](https://en.wikipedia.org/wiki/Robin_Hood_(2010_film)) . The song then took on a life of its own - read more about it in this [blog post by Alan Doyle](https://alandoyle.ca/bully-boys-a-modern-folk-song/).
