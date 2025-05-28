@@ -10,7 +10,7 @@ This is an alphabetical list of the tags that we've used to categorise the songs
 
 ### The Tags
 
-**[African_or_African-American_origin](/tags/African_or_African-American_origin)** - this tag is used for songs which are recorded as having have African or African American origins by any source. Much of the shanty form owes its origin to the work songs of enslaved people: many songs without this tag were influenced by these traditions.
+**[African_or_African-American_origin](/tags/African_or_African-American_origin)** - this tag is used for songs which are recorded by any source as having have African or African American origins. Note that the shanty form owes its origin to the work songs of enslaved people: many songs without this tag were influenced by these traditions.
 
 **[appears_in_a_film](/tags/appears_in_a_film)** - a song that appears in a movie.
 
