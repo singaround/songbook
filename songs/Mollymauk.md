@@ -11,7 +11,6 @@ tags:
   - sea_creatures
   - supernatural
   - minor key
-  - post-2000
 date: 2019-03-07T08:05:12.000Z
 description: >-
   Mollymauk is another name for the albatross and one superstition was that the
