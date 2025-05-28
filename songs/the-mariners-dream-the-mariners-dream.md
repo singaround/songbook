@@ -8,8 +8,11 @@ chorusLine: 'My sailor boy, I wish you sweet sleep'
 songLine: 'In midnight sleep, the sailor boy lay'
 tags:
   - song
-  - female_writer
-  - female_narrator
+  - ballad
+  - non-male_writer
+  - non-male_narrator
+  - women_on_the_shore
+  - shipwreck
 date: 2019-03-18T18:30:50.303Z
 description: >-
   A sentimental song sung by a mother to her sailor son. The words are based on
@@ -42,6 +45,11 @@ But what’s this flame that blinds his eye?\
 And what is this thunder that deafens his ear?\
 Is it lightning painting bright hell on the sky?\
 Or the roar of the cannon that all sailors fear?
+
+>***My sailor boy, I wish you sweet sleep\
+As you’re rocked by the waves so deep\
+My sailor boy come safely home\
+Come safely home to me***
 
 He leaps from his hammock, he flies to the deck\
 Bells toll as he hears the watch crier\
