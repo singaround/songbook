@@ -7,7 +7,7 @@ tuneBy: Traditional
 chorusLine: 'Singing chip cho, cherry cho'
 songLine: Ben Backstay was a boatswain
 tags:
-  - song
+  - drinking
 date: 2019-03-07T08:05:12.000Z
 ---
 Ben Backstay was a boatswain,\

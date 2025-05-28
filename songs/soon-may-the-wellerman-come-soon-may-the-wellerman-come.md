@@ -10,6 +10,8 @@ tags:
   - song
   - whaling
   - coming_home
+  - appears_in_a_film
+  - appears_in_Fishermans_Friends
 date: 2019-03-11T19:50:58.245Z
 description: >-
   This is a New Zealand shore whaler's song, made by those who went to live on
@@ -50,7 +52,10 @@ The Captain's mind was not of greed, \
 But he belonged to the whaleman's creed; \
 She took the ship in tow. 
 
->***Soon may the Wellerman come...***
+>***Soon may the Wellerman come\
+>And bring us sugar and tea and rum,\
+One day, when the tonguin' is done,\
+We'll take our leave and go.***
 
 For forty days, or even more, \
 The line went slack, then tight once more. \

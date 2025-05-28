@@ -9,14 +9,14 @@ songLine: >-
   Let me tell you, my friends, of a woman named Jeanne / Ecoutez braves gens les
   aventures de Jeanne
 tags:
-  - song
-  - Jeanne_de_Clisson
+  - non-male_writer
   - seafaring_women
-  - female_writer
-  - piracy
-  - French
+  - feminist
   - non-english-language
+  - Jeanne_de_Clisson
   - historic_events
+  - piracy
+  - France
 date: 2019-03-31T16:50:02.070Z
 description: >-
   Always on the look-out for songs about female seafarers, we found [this

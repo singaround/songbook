@@ -9,6 +9,9 @@ chorusLine: Cos if there’s rope or cord or string
 songLine: On the transatlantic routes, when you’re lacing up your boots
 tags:
   - song
+  - more_chorus_than_verse
+  - post-2000
+  - comedy
 date: 2025-04-04T08:05:12.000Z
 description: 
 ---

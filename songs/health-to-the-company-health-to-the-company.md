@@ -8,6 +8,9 @@ chorusLine: Here's a health to the company
 songLine: Kind friends and companions come join me in rhyme
 tags:
   - song
+  - Assassins_Creed
+  - drinking
+  - farewell
 date: 2020-01-20T19:24:04.249Z
 description: >-
   A traditional song of farewell and emigration. Some singers enjoy the long

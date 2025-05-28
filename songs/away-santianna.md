@@ -7,10 +7,12 @@ tuneBy: Traditional
 chorusLine: Away Santianna
 songLine: The Navy would never have a lass at sea
 tags:
-  - song
-  - rewrite
-  - piracy
   - seafaring_women
+  - rewritten
+  - more_chorus_than_verse
+  - appears_in_a_film
+  - appears_in_Fishermans_Friends
+  - piracy
 date: 2019-03-13T22:54:34.527Z
 description: A rewrite with verses based on the Pyrates Royale version, and the chorus edited to match how most people sing it at Auntie Shanty.
 ---

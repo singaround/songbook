@@ -9,7 +9,9 @@ chorusLine: Some old salty, how he used to rock me
 songLine: Salt fare, North Sea
 tags:
   - song
-  - female_writer
+  - non-male_writer
+  - non-male_narrator
+  - women_on_the_shore
   - Northeast_England
 date: 2025-04-03T08:05:12.000Z
 description: 

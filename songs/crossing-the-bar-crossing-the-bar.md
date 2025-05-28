@@ -7,8 +7,12 @@ tuneBy: Rani Arbo
 chorusLine: When I put out to sea
 songLine: Sunset and evening star
 tags:
-  - song
+  - hope
+  - farewell
+  - minor_key
+  - originally_a_poem
 date: 2019-03-11T19:38:12.765Z
+description:
 ---
 Sunset and evening star,\
 And one clear call for me!\
@@ -28,7 +32,7 @@ Turns again home.
 > ***Turns again home,***\
 > ***Turns again home,***\
 > ***When that which drew from out the boundless deep***\
-> ***Turns again home.***
+> ***Turns again home***
 
 Twilight and evening bell,\
 And after that the dark!\
@@ -38,7 +42,7 @@ When I embark.
 > ***When I embark,***\
 > ***When I embark,***\
 > ***And may there be no sadness of farewell***\
-> ***When I embark.***
+> ***When I embark***
 
 For though from out our bourne of time and place\
 The flood may bear me far,\

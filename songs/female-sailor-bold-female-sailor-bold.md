@@ -8,6 +8,9 @@ songLine: 'Come, all ye good people, and listen to my song'
 tuneLink: ''
 tags:
   - song
+  - seafaring_women
+  - feminist
+  - ballad
 date: 2019-03-13T22:13:12.233Z
 description: >-
   Another popular broadside ballad on the theme of the disguised female sailor.

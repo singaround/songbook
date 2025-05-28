@@ -7,6 +7,11 @@ tuneBy: Traditional
 songLine: 'Young Susan was a blooming maid, so valiant, true and bold'
 tags:
   - song
+  - seafaring_women
+  - ballad
+  - LGBTQ_plus
+  - naval_warfare
+  - romantic_love
 date: 2019-03-07T08:05:12.000Z
 description: >-
   Collected in Frank Kidson’s Traditional Tunes, this song (yet another on the

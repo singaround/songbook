@@ -7,6 +7,9 @@ tuneBy: Traditional
 songLine: '''Tis of a lusty female, and you must understand'
 tags:
   - song
+  - seafaring_women
+  - LGBTQ_plus
+  - ballad
 date: 2019-04-04T22:39:26.477Z
 description: >-
   Another traditional ballad about a woman disguised as a cabin boy. It's

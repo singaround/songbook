@@ -13,7 +13,7 @@ tags:
   - parody
 date: 2025-03-31T18:51:00.000Z
 description: >-
-  This is a funny rewrite of 'John Kanaka', written by Les Barker
+  This is an adaptation of 'John Kanaka', written by Les Barker. Another one based on the same song is [John The Slacker](https://www.auntieshanty.org/songs/john-the-slacker-slacker/).
 ---
 I heard the R2D2 say\
 ***Ben Kenobi, Nobi Too-Rye-Ay***\

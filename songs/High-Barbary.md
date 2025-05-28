@@ -9,6 +9,9 @@ songLine: There were two lofty ships from old England came
 tags:
   - song
   - piracy
+  - appears_in_a_film
+  - appears_in_Fishermans_Friends
+  - historic_events
 date: 2019-03-07T08:05:12.000Z
 description: >-
   High Barbary refers to the Rif coast of North Africa, home to Ottoman and

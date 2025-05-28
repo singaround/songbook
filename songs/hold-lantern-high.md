@@ -9,8 +9,11 @@ chorusLine: Hold the lantern high lad
 songLine: Cullercoats Sands are cold and bare
 tags:
   - song
+  - non-male_narrator
+  - women_on_the_shore
   - fishing
-  - NortheastEngland
+  - coming_home
+  - Northeast_England
 date: 2025-04-04T08:05:12.000Z
 description: 
 ---

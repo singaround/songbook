@@ -5,7 +5,11 @@ published: false
 wordsBy: Traditional
 tags:
   - song
+  - ballad
+  - whaling
+  - lament
 date: 2019-11-11T19:51:57.601Z
+description:
 ---
 If I had the wings of a gull, my boys,
 I would spread 'em and fly home.

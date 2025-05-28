@@ -8,16 +8,25 @@ chorusLine: One more day!
 songLine: 'Have you heard the news, my Johnny'
 tags:
   - song
+  - more_chorus_than_verse
+  - coming_home
 date: 2019-03-07T08:05:12.000Z
 description: Another shanty that usually needs some judicious verse-trimming.
 ---
 Have you heard the news, my Johnny\
 ***One more day!***\
 We're homeward bound tomorrow\
-***Only one more day!***
+***One more day!***
+
+>***Only one more day, Johnny,\
+One more day\
+O, rock and roll me over\
+One more day***
 
 Don't you hear the old man growlin'\
-Don't you hear the mate a howlin'
+***One more day!***\
+Don't you hear the mate a howlin'\
+***One more day!***
 
 Don't you hear the old man callin'\
 Don't you hear the pilot bawlin'
@@ -46,5 +55,7 @@ O, an' leave her where she lies, Johnny
 No more gales or heavy weather\
 Only one more day together
 
-Only one more day, my Johnny,\
-O, rock and roll me over.
+>***Only one more day, my Johnny,\
+One more day\
+O, rock and roll me over\
+One more day***

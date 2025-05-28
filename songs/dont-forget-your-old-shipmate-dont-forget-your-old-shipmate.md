@@ -7,13 +7,13 @@ tuneBy: Jim Mageean
 chorusLine: Long we've tossed on the rolling main
 songLine: Safe and sound at home again
 tags:
-  - song
+  - LGBTQ_plus
   - appears_in_a_film
   - appears_in_a_Russell_Crowe_film
-  - LGBTQ_plus
+  - Assassins_Creed
   - coming_home
   - Royal_Navy
-  - Assassins_Creed
+  - farewell
 date: 2019-03-11T19:46:26.084Z
 ---
 Safe and sound at home again\

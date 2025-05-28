@@ -7,9 +7,9 @@ tuneBy: Traditional
 chorusLine: 'Bye-bye, bye-bye, bye-bye, bye-bye'
 songLine: The boats are sailing round the bay
 tags:
-  - song
-  - farewell
   - women_on_the_shore
+  - more_chorus_than_verse
+  - farewell
 date: 2019-03-07T08:05:12.000Z
 ---
 The boats are sailing round the bay,\

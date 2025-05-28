@@ -8,6 +8,8 @@ chorusLine: 'Pay me, Oh pay me'
 songLine: I thought I heard our captain say
 tags:
   - song
+  - African_or_African-American_origin
+  - more_chorus_than_verse
 date: 2019-03-07T08:05:12.000Z
 ---
 I thought I heard our captain say\

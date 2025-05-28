@@ -8,9 +8,9 @@ chorusLine: Oh, we're loaded down with bales so high
 songLine: Once there was a barge lad
 tuneLink: 'https://open.spotify.com/album/3iXPqxL9KwTQcefOhBcsc4'
 tags:
-  - song
-  - barge
-  - river
+  - ballad
+  - maritime_trade
+  - rivers
 date: 2019-03-11T19:24:41.091Z
 description: >-
   [The Longest Johns](https://thelongestjohns.bandcamp.com/music) are a

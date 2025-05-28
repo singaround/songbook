@@ -7,20 +7,17 @@ tuneBy: Traditional
 chorusLine: 'Fall down, fall down, fall down me Billy'
 songLine: We all got drunk in Dublin city
 tags:
-  - song
+  - more_chorus_than_verse
   - impressment
   - drinking
-  - more_chorus_than_verse
-  - Irish
+  - Ireland
 date: 2019-03-07T08:05:12.000Z
 description: >-
   This shanty tells the common story of being pressed. Between 1664 and 1814,
   impressment was used to fill the crews of British navy ships. Any man between
   18 and 55 with sailing ability could be pressed into service by the Navy
   Impressment Service, known as 'The Press Gang'. The punishment for refusing
-  was hanging. Having attempted to plead that they are non-sailors, the captain
-  whips Billy O'Shea up the rigging, where his lack of topsman ability soon
-  leads to his early demise. The cat referred to is the cat o' nine tails.
+  was hanging.
 ---
 We all got drunk in Dublin city\
 ***Fall down me Billy***\

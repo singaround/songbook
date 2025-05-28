@@ -8,7 +8,13 @@ chorusLine: She'll steal the pennies off your eyes
 songLine: We think she stole Black Caesar's rig
 tags:
   - song
-  - Anne Bonny
+  - non-male_writer
+  - non-male_narrator
+  - seafaring_women
+  - ballad
+  - historic_events
+  - piracy
+  - Janie_Meneely
 date: 2019-03-13T21:56:14.010Z
 description: "[Janie Meneely](http://www.janiemeneely.com/) writes modern sea
   songs celebrating the maritime history, characters, and traditions of the

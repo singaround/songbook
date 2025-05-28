@@ -7,9 +7,10 @@ tuneBy: Traditional
 chorusLine: For it's cheer up my lads
 songLine: 'The Diamond is a ship, my lads'
 tags:
-  - song
-  - ship
   - whaling
+  - appears_in_a_film
+  - appears_in_Fishermans_Friends
+  - ship
   - Scotland
 date: 2019-03-07T08:05:12.000Z
 description: >-
@@ -32,10 +33,10 @@ To sail the ocean wide\
 Where the sun it never sets, my lads\
 Nor darkness dims the sky
 
-> ***For it's cheer up my lads***\
-> ***Let your hearts never fail***\
-> ***For the bonnie ship the Diamond***\
-> ***Goes a-hunting for the whale***
+> ***For it's cheer up my lads\
+Let your hearts never fail\
+For the bonnie ship the Diamond\
+Goes a-hunting for the whale***
 
 Along the quay at Peterhead\
 The lasses stand around\

@@ -7,8 +7,11 @@ tuneBy: Traditional
 chorusLine: We’ll rant and we’ll roar like true British sailors
 songLine: Farewell and adieu to you Spanish ladies
 tags:
-  - song
-  - spanish
+  - women_on_the_shore
+  - appears_in_a_film
+  - appears_in_a_Russell_Crowe_film
+  - Assassins_Creed
+  - coming_home
 date: 2019-03-07T08:05:12.000Z
 ---
 Farewell and adieu to you Spanish ladies\
@@ -40,7 +43,10 @@ All in the downs that night for to lie\
 Let go your shank-painters, let go your cat-stoppers,\
 Haul up your clew garnets, let tacks and sheets fly
 
-> ***We'll rant and we'll roar...***
+> ***We'll rant and we'll roar like true British sailors\
+We'll rant and we'll roar all on the salt seas\
+Until we strike soundings in the channel of Old England\
+From Ushant to Scilly is thirty-five leagues***
 
 Now let every one toss off a full bumper\
 And let every one drink off a full glass\

@@ -7,7 +7,11 @@ tuneBy: Traditional
 chorusLine: 'Alive alive-o, alive alive-o, Crying cockles and mussels alive alive-o'
 songLine: In Dublin’s fair city
 tags:
-  - song
+  - women_on_the_shore
+  - feminist
+  - rewritten
+  - romantic_love
+  - Ireland
 date: 2019-03-13T23:00:34.183Z
 description: >-
   Nothing wrong with the original but it seems sad that Molly suddenly dies, so

@@ -9,9 +9,12 @@ chorusLine: Oh the weary cutters, they’ve taken my laddie from me
 songLine: Oh the weary cutters, they’ve taken my laddie from me
 tags:
   - song
-  - traditional
+  - non-male_narrator
+  - women_on_the_shore
+  - more_chorus_than_verse
   - impressment
   - lament
+  - minor_key
 date: 2025-04-03T08:05:12.000Z
 description: 
 ---

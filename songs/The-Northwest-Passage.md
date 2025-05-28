@@ -10,7 +10,6 @@ tags:
   - song
   - Stan_Rogers
   - Northwest_Passage
-  - Franklin
 date: 2019-03-07T08:05:12.000Z
 ---
 Westward from the Davis Strait 'tis there 'twas said to lie\

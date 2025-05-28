@@ -14,6 +14,9 @@ tags:
   - women_on_the_shore
   - originally_a_poem
   - historic_events
+  - non-male_narrator
+  - lament
+  - minor_key
 date: 2025-04-04T08:05:12.000Z
 description: 
 ---

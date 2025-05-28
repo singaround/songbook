@@ -8,17 +8,17 @@ chorusLine: 'Broadside to broadside, two captains collide'
 songLine: 'Keep your land you gentry of England, France and Spain'
 tuneLink: ''
 tags:
-  - song
-  - Grace_OMalley
-  - feminism
-  - piracy
-  - queen
-  - Nancy_Kerr
-  - female_writer
-  - rebellion
+  - non-male_writer
   - seafaring_women
-  - irish
+  - feminist
+  - post-2000
+  - Grace_OMalley
   - historic_events
+  - piracy
+  - rebellion
+  - Nancy_Kerr
+  - Cecily_Fox_Smith
+  - Ireland
 date: 2019-03-13T22:06:27.563Z
 description: >-
   Nancy Kerr's lyrics draw loosely on the account of the 1593 meeting of Irish

@@ -8,7 +8,6 @@ chorusLine: 'Buddy ta-na-na, we are somebody, oh'
 songLine: Essequibo River is the king of rivers all
 tags:
   - song
-  - South_America
   - more_chorus_than_verse
   - rivers
 description: >- 
@@ -44,7 +43,10 @@ Essequibo bosun is the king of bosuns all\
 Essequibo bosun is the king of bosuns all\
 ***Buddy ta-na-na, we are somebody, oh***
 
-> ***Somebody, oh, Johnny, somebody, oh...***
+> ***Somebody, oh, Johnny, somebody, oh\
+Buddy ta-na-na, we are somebody, oh\
+Somebody, oh, Johnny, somebody, oh\
+Buddy ta-na-na, we are somebody, oh***
 
 Essequibo whiskey is the king of whiskies all\
 ***Buddy ta-na-na, we are somebody, oh***\

@@ -7,7 +7,10 @@ tuneBy: Traditional
 songLine: In eighteen hundred and forty-six
 tags:
   - song
+  - whaling
+  - shipwreck
 date: 2019-03-07T08:05:12.000Z
+description: 
 ---
 In eighteen hundred and forty-six\
 And of March the eighteenth day,\

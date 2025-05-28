@@ -7,8 +7,11 @@ tuneBy: traditional
 chorusLine: 'And I dream of you, I dream of sleep'
 songLine: Oh wild and furious blew the blast
 tags:
-  - song
+  - shipwreck
   - Australia
+  - minor_key
+  - lament
+  - technicolour
 date: 2019-11-11T19:28:10.904Z
 description: >-
   The passenger steamer Dandenong was shipwrecked off the coast of Jervis Bay in
@@ -22,12 +25,12 @@ To Newcastle port was bound\
 She had eighty three poor souls on board\
 Through the storm she cleaved her way\
 Well it's sad to relate her terrible fate\
-Was just off Jervis bay
+Was just off Jervis Bay
 
-> ***And I dream of you, I dream of sleep***\
-> ***I dream of bein' warm***\
-> ***But through the night I have to sail***\
-> ***To brave this raging storm***
+> ***And I dream of you, I dream of sleep\
+I dream of bein' warm\
+But through the night I have to sail\
+To brave this raging storm***
 
 While steering through the briny waves,\
 A propelling shaft gave way\
@@ -36,8 +39,8 @@ Which filled us with dismay\
 All hands on board did all they could\
 'Till at length all hope was gone\
 And they hoisted a signal of distress\
-On board of the Dandenong\
-\
+On board of the Dandenong
+
 It was not long until a barque\
 Of a brisk and lively crew\
 Came bearing down and the Captain cried,\
@@ -47,10 +50,10 @@ In spite of land or wave\
 They did all they could as sailors would\
 Those precious lives to save
 
-> ***And I dream of you, I dream of sleep***\
-> ***I dream of bein' warm***\
-> ***And pray the sea will leave me be***\
-> ***To see another dawn***
+> ***And I dream of you, I dream of sleep\
+I dream of bein' warm\
+<span style="color:blue">And pray the sea will leave me be</span>\
+<span style="color:blue">To see another dawn</span>***
 
 Now some in boats they tried to reach\
 That kind and friendly barque\
@@ -61,12 +64,12 @@ When the storm increased on strong\
 And the rest now sleep in the briny deep\
 Along with the Dandenong
 
-> ***And I dream of you, I dream of sleep***\
-> ***I dream of comin' home***\
-> ***But a mile of water buries me***\
-> ***Beneath this ragin' foam***
+> ***And I dream of you, I dream of sleep\
+<span style="color:blue">I dream of comin' home</span>\
+<span style="color:blue">But a mile of water buries me</span>\
+<span style="color:blue">Beneath this ragin' foam</span>***
 >
-> ***And I dream of you, I dream of sleep***\
-> ***I dream of bein' warm***\
-> ***But through the night I have to sail***\
-> ***To brave this raging storm***
+> ***And I dream of you, I dream of sleep\
+<span style="color:blue">I dream of bein' warm</span>\
+<span style="color:blue">But through the night I have to sail</span>\
+<span style="color:blue">To brave this raging storm</span>***

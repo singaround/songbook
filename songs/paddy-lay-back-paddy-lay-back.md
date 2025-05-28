@@ -9,6 +9,7 @@ songLine: That day there was a great demand for sailors
 tags:
   - song
   - drinking
+  - more_chorus_than_verse
 date: 2019-03-14T21:28:31.196Z
 ---
 

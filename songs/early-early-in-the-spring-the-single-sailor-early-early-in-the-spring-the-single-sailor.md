@@ -7,6 +7,7 @@ tuneBy: Traditional
 songLine: 'It was early, early all in a spring'
 tags:
   - song
+  - ballad
 date: 2019-04-06T19:23:47.880Z
 description: A ballad telling of a sailor's sweetheart who marries a rich man.
 ---

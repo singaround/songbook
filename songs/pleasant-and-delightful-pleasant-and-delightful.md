@@ -10,6 +10,9 @@ tags:
   - song
   - ballad
   - farewell
+  - women_on_the_shore
+  - rewritten
+  - comedy
 date: 2019-03-14T20:56:41.851Z
 description: >-
   'A lovely farewell ballad, with obvious links to ''Adieu, sweet lovely Nancy.'''

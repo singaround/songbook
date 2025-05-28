@@ -7,8 +7,9 @@ tuneBy: Stan Rogers
 chorusLine: God damn them all!
 songLine: 'Oh, the year was 1778'
 tags:
-  - song
-  - Stan_Rogers
+-  more_chorus_than_verse
+-  piracy
+-  Stan_Rogers
 date: 2019-03-07T08:05:12.000Z
 
 description: >-
@@ -22,7 +23,7 @@ To the scummiest vessel I've ever seen
 > ***God damn them all! I was told***\
 > ***We'd cruise the seas for American gold***\
 > ***We'd fire no guns, shed no tears***\
-> ***But I'm a broken man on a Halifax pier***\
+> ***Now I'm a broken man on a Halifax pier***\
 > ***The last of Barrett's Privateers***
 
 Oh, Elcid Barrett cried the town\

@@ -9,7 +9,7 @@ songLine: It’s a damn tough life full of toil and strife
 tags:
   - song
   - whaling
-  - Pacific
+  - coming_home
   - Stan_Rogers
 date: 2019-03-07T08:05:12.000Z
 description: >-

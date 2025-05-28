@@ -7,9 +7,12 @@ tuneBy: Traditional
 chorusLine: 'Leave her, Johnny, leave her'
 songLine: I thought I heard the Old Man say
 tags:
-  - song
   - coming_home
+  - African_or_African-American_origin
+  - more_chorus_than_verse
+  - Assassins_Creed
   - farewell
+  - minor_key
 date: 2019-03-07T08:05:12.000Z
 description: >-
   This shanty could be used at the pumps or the capstan, but had a more famous

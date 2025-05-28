@@ -7,8 +7,11 @@ tuneBy: Traditional
 chorusLine: 'Blow the man down to me, blow the man down'
 songLine: Come all you young fellows that follow the sea
 tags:
-  - song
-  - more_chorus_than_verse
+-  African_or_African-American_origin
+-  more_chorus_than_verse
+-  appears_in_a_film
+-  appears_in_Fishermans_Friends
+-  Northwest_England
 date: 2019-03-07T08:05:12.000Z
 description: >-
   The Black Ball Line was the name of two fleets of transatlantic packet ships,

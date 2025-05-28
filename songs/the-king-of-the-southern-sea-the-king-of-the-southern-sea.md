@@ -5,9 +5,10 @@ published: true
 chorusLine: Oh the rare old whale
 songLine: Oh the whale is free of the boundless sea
 tags:
-  - song
-  - whale
+  - sea_creatures
+  - whales
   - whaling
+  - Scotland
 date: 2019-10-20T20:33:18.645Z
 description: >-
   Recorded in the 1839 [Sailor's
@@ -29,10 +30,10 @@ Is music to lull him to sleep ;\
 And he scatters the spray in his boisterous play,\
 As he dashes the King of the deep.
 
-> ***Oh, the rare old whale, 'mid storm and gale,***\
-> ***In his ocean home will be;***\
-> ***A giant in might, where might is right,***\
-> ***And king of the boundless sea.***
+> ***Oh, the rare old whale, 'mid storm and gale,\
+In his ocean home will be;\
+A giant in might, where might is right,\
+And king of the boundless sea.***
 
 A wond'rous tale could the rare old whale\
 Of the mighty deep disclose,\

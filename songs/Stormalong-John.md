@@ -7,7 +7,7 @@ tuneBy: Traditional
 chorusLine: 'Way, stormalong, John!'
 songLine: Stormy’s gone that good old man
 tags:
-  - song
+  - no_tags
 date: 2019-03-07T08:05:12.000Z
 ---
 Stormy's gone that good old man\

@@ -2,16 +2,18 @@
 templateKey: song
 title: Come All Ye Fisher Lassies
 
-published: false
+published: true
 wordsBy: Ewan MacColl, Charles Parker and Peggy Seeger
 tuneBy: Ewan MacColl, Charles Parker and Peggy Seeger
 chorusLine: 
 songLine: Come all you fisher lassies, it’s come awa with me
 tags:
-  - song
-  - Scottish
+  - women_on_the_shore
   - herring
   - fishing
+  - Scotland
+  - non-male_writer
+  - non-male_narrator
 date: 2025-04-04T08:05:12.000Z
 description: 
 ---

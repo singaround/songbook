@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title: 'Row, bullies, row (Liverpool judies)'
+title: 'Liverpool Judies / Row, bullies, row'
 published: true
 wordsBy: Traditional
 tuneBy: Traditional
@@ -8,7 +8,7 @@ chorusLine: 'And it''s row, row bullies row,'
 songLine: From Liverpool to Frisco a-roving I went
 tags:
   - song
-  - Liverpool
+  - Northwest_England
 date: 2019-04-04T21:20:00.729Z
 description: >-
   Another sad story of kidnapping-this time the sailor escapes Liverpool for San
@@ -22,8 +22,8 @@ To live in that country it was my intent;\
 But drinking strong liquor like other damned fools,\
 I soon got transported back to Liverpool.
 
-***And it's row, row bullies row,***\
-***Them Liverpool judies has got us in tow.***
+***And it's row, row bullies row,\
+Them Liverpool judies has got us in tow.***
 
 I joined the ‘Alaska’ lying out in the bay,\
 A-waiting a fair wind to get under way.\

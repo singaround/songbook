@@ -7,6 +7,8 @@ tuneBy: Traditional
 songLine: 'A sailor’s life, it is a merry life'
 tags:
   - song
+  - seafaring_women
+  - lament
 date: 2019-04-06T19:57:12.821Z
 description: >-
   Many variants exist, set to different tunes.

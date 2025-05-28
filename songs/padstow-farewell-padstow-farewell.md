@@ -8,6 +8,8 @@ songLine: It's time to go now
 tags:
   - song
   - farewell
+  - Assassins_Creed
+  - minor_key
 date: 2019-11-11T19:40:53.015Z
 ---
 It’s time to go now\

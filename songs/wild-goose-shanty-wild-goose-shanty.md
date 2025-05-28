@@ -8,6 +8,8 @@ chorusLine: Ranzo you'll rue the day
 songLine: Did you ever see the wild goose sailing on the ocean
 tags:
   - song
+  - more_chorus_than_verse
+
 date: 2019-03-14T21:05:57.570Z
 description: ''
 ---
@@ -17,9 +19,9 @@ They're just like them pretty girls when they get the notion\
 ***Ranzo my boys oh Ranzo Ray***
 
 >***Ranzo you'll rue the day\
->As the wild goose sails away
+As the wild goose sails away\
 Ranzo you'll rue the day\
->As the wild goose sails away***
+As the wild goose sails away***
 
 As I was walking one evening by the river\
 ***Ranzo my boys oh Ranzo Ray***\

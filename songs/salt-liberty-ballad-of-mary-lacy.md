@@ -7,14 +7,14 @@ tuneBy: Rosie Sharkey
 chorusLine: But I longed for the sea
 songLine: I grew up as a girl in the fields of Kent
 tags:
-  - song
-  - gender
-  - shipwright
-  - true_story
-  - LGBTQ+
-  - female_writer
-  - female_narrator
+  - ballad
   - seafaring_women
+  - non-male_writer
+  - non-male_narrator
+  - seafaring_women
+  - historic_events
+  - Royal_Navy
+  - LGBTQ_plus
 date: 2019-03-02T23:16:44.616Z
 description: >-
   Based on the account from "The Female Shipwright, or Life and Extraordinary

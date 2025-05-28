@@ -2,12 +2,14 @@
 templateKey: song
 title: Wayward Wife
 published: true
-wordsBy: (c) Janie Meneely
-tuneBy: (c) Janie Meneely
+wordsBy: © Janie Meneely
+tuneBy: © Janie Meneely
 songLine: As my mother’s only daughter
 tags:
-  - song
-  - female_writer
+  - non-male_writer
+  - non-male_narrator
+  - women_on_the_shore
+  - ballad
   - Janie_Meneely
 date: 2019-03-13T22:37:57.857Z
 description: "[Janie Meneely](http://www.janiemeneely.com/) writes modern sea

@@ -8,6 +8,10 @@ songLine: 'Adieu, sweet lovely Nancy, ten thousand times adieu'
 tags:
   - song
   - farewell
+  - women_on_the_shore
+  - ballad
+  - romantic_love
+  - minor_key
 date: 2019-04-06T20:40:04.739Z
 ---
 Adieu, sweet lovely Nancy, ten thousand times adieu,\

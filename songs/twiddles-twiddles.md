@@ -7,12 +7,12 @@ tuneBy: © Janie Meneely
 chorusLine: And it's twiddly-i dee-i dee-i, twiddly-i dee-ay
 songLine: When the boats all get to sailing and the men are off and gone
 tags:
-  - song
-  - feminism
-  - female_writer
-  - female_narrator
-  - Janie_Meneely
+  - non-male_writer
+  - non-male_narrator
+  - women_on_the_shore
+  - feminist
   - comedy
+  - Janie_Meneely
 date: 2019-03-13T22:46:22.211Z
 description: "[Janie Meneely](http://www.janiemeneely.com/) writes modern sea
   songs celebrating the maritime history, characters, and traditions of the

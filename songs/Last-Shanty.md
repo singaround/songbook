@@ -7,9 +7,11 @@ tuneBy: Tom Lewis
 chorusLine: "Don’t haul on the rope, don’t climb up the mast"
 songLine: Well me father often told me when I was just a lad
 tags:
-  - song
+  - comedy
+  - appears_in_a_film
+  - appears_in_Fishermans_Friends
   - Royal_Navy
-  - comedy 
+  - modern_seafaring
 date: 2019-03-07T08:05:12.000Z
 ---
 Well me father often told me when I was just a lad\

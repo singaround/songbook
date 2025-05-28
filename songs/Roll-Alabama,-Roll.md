@@ -7,7 +7,8 @@ tuneBy: Traditional
 chorusLine: 'Roll, Alabama, roll'
 songLine: When the Alabama's keel was laid
 tags:
-  - song
+  - ship
+  - historic_events
   - naval_warfare
   - shipwreck
   - Northwest_England

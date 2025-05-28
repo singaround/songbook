@@ -4,6 +4,10 @@ title: The Fisherman's Wife
 published: true
 tags:
   - song
+  - women_on_the_shore
+  - non-english-language
+  - fishing
+  - Scotland
 date: 2019-04-28T12:40:44.903Z
 ---
 Fa wid be a fisherman's wife

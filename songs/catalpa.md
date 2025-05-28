@@ -8,12 +8,11 @@ tuneBy:  (arranged by Lunatraktors)
 chorusLine: So come all you screws, warders and jailers
 songLine: A noble whale ship and commander
 tags:
-  - song
   - ship
-  - Australian
-  - Irish
-  - rebellion
   - historic_events
+  - rebellion
+  - Ireland
+  - Australia
 date: 2025-04-04T08:05:12.000Z
 description: 
 ---
