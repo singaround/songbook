@@ -8,6 +8,8 @@ chorusLine: Roll down!
 songLine: 'Sweet ladies of Plymouth, we’re saying goodbye'
 tags:
   - song
+  - more_chorus_than_verse
+  - Australia
 date: 2019-03-07T08:05:12.000Z
 description: >-
   There are lots of verses in this one, so feel free to amend and edit-down if you're leading the song.
