@@ -26,7 +26,7 @@ For a less human-centric viewpoint, we’ve got songs on **[ocean creatures](/ta
 
 Some of the most joyful songs are about **[coming home](/tags/coming_home)** and **[drinking](/tags/drinking)**. On the sadder end of the spectrum we’ve got songs about **[saying goodbye](/tags/farewell)**, either to the land or to the sea. There are some **[minor-key songs](/tags/minor_key)** and **[laments](/tags/lament)**, alongside uplifting songs about **[hope](/tags/hope)** and **[perseverance in the face of adversity](/tags/perseverance)**.
 
-The songbook contains songs by lots of people – and among our favourite writers and performers are **[Nancy Kerr](/tags/nancy_kerr/)**, **[Janie Meneely](/tags/Jane_Meneely/)**, **[Cicely Fox Smith](/tags/Cicely_Fox_Smith)** and **[Stan Rogers](/tags/Stan_Rogers/)**. We’ve also got a load of lyrics which were **[originally published as poetry](/tags/originally_a_poem/)** and set to music later.
+The songbook contains songs by lots of people – and among our favourite writers and performers are **[Nancy Kerr](/tags/nancy_kerr/)**, **[Janie Meneely](/tags/Janie_Meneely/)**, **[Cicely Fox Smith](/tags/Cicely_Fox_Smith)** and **[Stan Rogers](/tags/Stan_Rogers/)**. We’ve also got a load of lyrics which were **[originally published as poetry](/tags/originally_a_poem/)** and set to music later.
 
 Some tell stories about **[real historic events](/tags/historic_events/)**. And we’ve got songs which **[acknowledge the modern nautical world](/tags/modern_seafaring/)** – that is, those that reflect that we’re (mostly) not travelling about in sailing ships any more.
 
