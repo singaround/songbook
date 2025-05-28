@@ -15,6 +15,7 @@ tags:
   - rivers
   - piracy
   - post-2000
+  - Southern_England 
 date: 2019-03-11T19:33:35.570Z
 description: >-
   In the 1990s, Canadian comedy-music group [The Arrogant Worms](https://www.arrogantworms.com/) wrote a song called "The Last Saskatchewan Pirate". It is based on the absurd notion of a pirate crew forming in Saskatchewan, a landlocked province in Western Canada. The joke in the song was a crew of pirates who existed nowhere near the sea.

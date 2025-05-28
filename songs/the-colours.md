@@ -11,6 +11,8 @@ tags:
   - song
   - rebellion
   - Royal_Navy
+  - Southern_England
+  - hope
 date: 2025-04-05T08:05:12.000Z
 description: Much-overlooked 1980s punk-folk song about the Nore Mutiny of 1797. Performed by "The Men They Couldn't Hang" on their 1988 album "Waiting for Bonaparte"
 ---

@@ -17,6 +17,7 @@ tags:
   - non-male_narrator
   - lament
   - minor_key
+  - Southern_England 
 date: 2025-04-04T08:05:12.000Z
 description: 
 ---
@@ -38,7 +39,7 @@ Had done,\
 Had done,\
 For us at Trafalgar***
 
-"Pull hard, and make the nothe,\
+"Pull hard, and make the Nothe,\
 Or down we go!" one says, says he.\
 We pulled; and bedtime brought the storm;\
 But snug at home slept we.\
