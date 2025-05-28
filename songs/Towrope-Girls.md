@@ -13,7 +13,7 @@ tags:
   - romantic_love
   - maritime_trade
   - originally_a_poem
-  - Cecily_Fox_Smith
+  - Cicely_Fox_Smith
 date: 2019-03-07T08:05:12.000Z
 ---
 Some's loading at 'frisco with cargoes of grain\
