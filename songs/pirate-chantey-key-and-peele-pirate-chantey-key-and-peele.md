@@ -9,8 +9,9 @@ songLine: I once met a lass so fine
 tags:
   - song
   - feminist
+  - post-2000
   - comedy
-  - pirate
+  - piracy
 date: 2019-03-13T21:39:20.290Z
 description: >-
   In a [2015 sketch](http://criticalmediaproject.org/key-peele-pirate-chantey/)
