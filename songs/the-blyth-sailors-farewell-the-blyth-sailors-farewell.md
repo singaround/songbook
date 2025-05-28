@@ -9,6 +9,8 @@ songLine: Farewell my dear comrades, A pleasant adieu
 tuneLink: https://music.youtube.com/watch?v=c2xNRSFOw3c
 tags:
   - song
+  - farewell
+  - Northeast_England
 date: 2024-04-29T08:44:33.711Z
 description: T﻿he lyrics were written by James Anderson (1825-1899), and first
   published in 1898. We first heard the version by Johnny Handle and Benny Graham
