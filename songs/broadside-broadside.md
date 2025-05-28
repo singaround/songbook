@@ -17,7 +17,7 @@ tags:
   - piracy
   - rebellion
   - Nancy_Kerr
-  - Cecily_Fox_Smith
+  - Cicely_Fox_Smith
   - Ireland
 date: 2019-03-13T22:06:27.563Z
 description: >-
