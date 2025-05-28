@@ -5,8 +5,10 @@ published: true
 songLine: If I had the wings of a gull my boy
 tags:
   - song
-  - whaling
   - whale
+  - ballad
+  - whaling
+  - lament
 date: 2019-10-20T21:54:41.356Z
 description: >-
   This is a mash up of two versions of a traditional song about the 1845-50
@@ -32,8 +34,8 @@ As the cry of: “There she blows!”\
 “All hands on deck now, for God's sake,\
 Move briskly if you can.”\
 And he stumbles on deck, so dizzy and sick;\
-For his life he don't give a damn.\
-\
+For his life he don't give a damn.
+
 High overhead the great flukes spread,\
 As the mate gives the whale the iron\
 And soon all his blood in a purple flood,\
