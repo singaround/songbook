@@ -16,7 +16,7 @@ We’ve got songs that we consider to be overtly **[feminist](/tags/feminist/)**
 
 You can view songs based on what the people are doing at sea – songs about **[fishing](/tags/fishing/)**, **[whaling](/tags/whaling/)**, **[saving lives](/tags/lifeboats/)**, **[trading and transport](/tags/maritime_trade/)**, and of course, **[rebellion](/tags/rebellion/)** and **[piracy](/tags/piracy/)** (Yarrrrr!). 
 
-We’ve got songs about **[naval warfare](/tags/naval_warfare)**, the **[Royal Navy](/tags/Royal__Navy)**, and songs about **[being press-ganged](/tags/impressment)** into the navy (or trying to avoid it). 
+We’ve got songs about **[naval warfare](/tags/naval_warfare)**, the **[Royal Navy](/tags/Royal_Navy)**, and songs about **[being press-ganged](/tags/impressment)** into the navy (or trying to avoid it). 
 
 There are songs with **[loads of joining-in bits](/tags/more_chorus_than_verse)** (choruses and/or repeated lines). The opposite of these are the **[ballads](/tags/ballad)** – songs which tell a story, and (generally) have very little for other people to join in with.
 
