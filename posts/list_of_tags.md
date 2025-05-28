@@ -1,16 +1,16 @@
 ---
-title: Another way to explore our songbook
+title: Tags we use in the songbook
 date: 2025-05-28T07:19:33.012Z
-summary: Alphabetical list of tags
+summary: Tags we've used in the songbook, and what they mean
 tags:
   - blog
   - tags
 ---
-This is an alphabetical list of the tags that we've used to categorise the songs. If you're looking to browse through the themes, [this page](/posts/another-way-to-explore-our-songbook/) might be more helpful.
+This is a list of the tags that we've used to categorise the songs in the songbook. If you're looking to browse through the themes, [this page](/posts/another-way-to-explore-our-songbook/) might be more helpful.
 
-####The Tags
+### The Tags
 
-**[African_or_African-American_origin](/tags/African_or_African-American_origin)** - songs which are recorded as having have African or African American origins. Much of the shanty form owes its origin to the work songs of enslaved people, so many songs without this tag were influenced by these traditions.
+**[African_or_African-American_origin](/tags/African_or_African-American_origin)** - this tag is used for songs which are recorded as having have African or African American origins by any source. Much of the shanty form owes its origin to the work songs of enslaved people, so many songs without this tag were influenced by these traditions.
 
 **[appears_in_a_film](/tags/appears_in_a_film)** - a song that appears in a movie.
 
@@ -22,7 +22,7 @@ This is an alphabetical list of the tags that we've used to categorise the songs
 
 **[Australia](/tags/Australia)** - songs from Australia, about Australian places, or about Australian people
 
-**[ballad](/tags/ballad)** - songs which are ballads - generally songs telling a story, with not much 'joining in' opportunity. If leading a ballad in a session it is useful to be familiar with the song, and "tell the story", through your singing rather than just "singing the right words".
+**[ballad](/tags/ballad)** - songs which are ballads - generally songs telling a story, with not much 'joining in' opportunity. If leading a ballad in a session it is useful to be familiar with the song, and "tell the story", through your performance rather than just "singing the right words".
 
 **[Cicely_Fox_Smith](/tags/Cicely_Fox_Smith)** - songs written by or otherwise associated with Cicely Fox Smith
 
