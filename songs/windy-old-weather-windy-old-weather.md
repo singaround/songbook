@@ -9,6 +9,8 @@ songLine: As we were a fishing off Happisburgh Light
 tags:
   - song
   - herring
+  - fishing
+  - sea_creatures
 date: 2019-11-11T20:02:47.381Z
 description: >-
   Transcribed from a recording of Joe Latter, this song appears on some
@@ -22,8 +24,8 @@ As we were a fishing off Happisburgh Light,\
 Shooting and trawling and hauling all night.\
 It was…
 
-> ***Windy old weather, stormy old weather.***\
-> ***When the wind blows we all pull together***
+> ***Windy old weather, stormy old weather.
+When the wind blows we all pull together***
 
 We first saw the herring, the queen of the sea.\
 She says ‘you old skipper you’ll never catch me’\
