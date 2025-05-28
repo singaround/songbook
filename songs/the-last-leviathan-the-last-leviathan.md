@@ -10,7 +10,9 @@ tags:
   - song
   - sea_creatures
   - lament
-
+  - whaling
+  - minor_key
+  - whales
 date: 2019-11-11T19:42:45.837Z
 ---
 >***My soul has been torn from me and I am bleeding\
