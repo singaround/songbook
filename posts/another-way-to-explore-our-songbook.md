@@ -24,7 +24,7 @@ There are **[comedy songs](/tags/comedy)** (your definition of ‘comedy’ may 
 
 For a less human-centric viewpoint, we’ve got songs on **[ocean creatures](/tags/sea_creatures)**, which include **[whales](/tags/whales)**, fish, albatrosses and mermaids. And songs which include **[ghosts and supernatural phenomena](/tags/supernatural/)** in various forms. We’ve also got songs **[about the ships themselves](/tags/ship/)**.
 
-Some of the most joyful songs are about **[coming home](/tags/coming_home)** and **[drinking](/tags/drinking)**. On the sadder end of the spectrum we’ve got songs about **[saying goodbye](/tags/farewell)**, either to the land or to the sea. There are some **[minor-key songs](/tags/minor_key)** and **[laments](/tags/lament)**, alongside uplifting songs about **[hope](/tags/hope)** and **[perseverance in the face of adversity](/tags/perseverence)**.
+Some of the most joyful songs are about **[coming home](/tags/coming_home)** and **[drinking](/tags/drinking)**. On the sadder end of the spectrum we’ve got songs about **[saying goodbye](/tags/farewell)**, either to the land or to the sea. There are some **[minor-key songs](/tags/minor_key)** and **[laments](/tags/lament)**, alongside uplifting songs about **[hope](/tags/hope)** and **[perseverance in the face of adversity](/tags/perseverance)**.
 
 The songbook contains songs by lots of people – and among our favourite writers and performers are **[Nancy Kerr](/tags/nancy_kerr/)**, **[Janie Meneely](/tags/Jane_Meneely/)**, **[Cicely Fox Smith](/tags/Cicely_Fox_Smith)** and **[Stan Rogers](/tags/Stan_Rogers/)**. We’ve also got a load of lyrics which were **[originally published as poetry](/tags/originally_a_poem/)** and set to music later.
 
