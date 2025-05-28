@@ -6,7 +6,7 @@ tags:
   - blog
   - tags
 ---
-This is an alphabetical list of the tags that we've used to categorise the songs. If you're looking to find song, [this page](/posts/another-way-to-explore-our-songbook/) might be more helpful.
+This is an alphabetical list of the tags that we've used to categorise the songs. If you're looking to browse through the themes, [this page](/posts/another-way-to-explore-our-songbook/) might be more helpful.
 
 ####The Tags
 
