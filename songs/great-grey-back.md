@@ -9,14 +9,14 @@ chorusLine: oo-oo-oo on the James Clark Ross
 songLine: Your great grey back seems so peaceful in the ocean
 tags:
   - song
-  - female_writer
+  - non-male_writer
   - post-2000
   - sea_creatures
+  - whales
   - seafaring_women
 date: 2025-04-04T08:05:12.000Z
 description: 
 ---
-
 
 Your great grey back seems so peaceful in the ocean\
 ***oo-oo-oo on the James Clark Ross***\
