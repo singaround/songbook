@@ -36,6 +36,6 @@ We’ve got shanties that **[are heard in the “Assassin’s Creed” computer 
 
 We’ve got songs **[for multiple ‘voices’](/tags/two_voices/)** – these can be led solo, but we think they work best with different people (or groups) singing the different parts. Some of these have **[fancy colours](/tags/technicolour)** in the songbook version.
 
-A few miscellaneous categories – we’ve got songs mentioning **[rivers](/tags/rivers)**, songs **[about shipwrecks](/tags/shipwreck/)** , songs **[written since 2000](/tags/post-2000/)** and **[songs in languages other than English](/tags/non-english-language/)**.
+A few miscellaneous categories – we’ve got songs mentioning **[rivers](/tags/rivers)**, songs **[about shipwrecks](/tags/shipwreck/)**, songs **[written since 2000](/tags/post-2000/)** and **[songs in languages other than English](/tags/non-english-language/)**.
 
 And last-but-not-least, for the Auntie Shanty sessions in which “herring half-hour” happens, we’ve got the perennial favourite **[songs about herring](/tags/herring/)**.
