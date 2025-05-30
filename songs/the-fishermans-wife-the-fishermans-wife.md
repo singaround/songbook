@@ -9,7 +9,7 @@ tags:
   - fishing
   - Scotland
 date: 2019-04-28T12:40:44.903Z
-Description: A song from Aberdeen, in Scots. Translations of words and phrases are provided at the bottom of the page.
+description: A song from Aberdeen, in the Scots language. Translations of words and phrases are provided at the bottom of the page.
 ---
 Fa wid be a fisherman's wife\
 Tae work wi' a tub an a scrubber an' a knife\
@@ -18,7 +18,7 @@ An' awa tae the mussels in the mornin.
 
 >***Here we come scoorin in,\
 Three reefs tae the foresail in.\
-There's nae a dry stick tae pit on wer back,\
+There's nae a dry stitch tae pit on wer back,\
 But still we're aa teetotllers.***
 
 Noo, fa'll gie's a hand tae rin a ripper lead\
@@ -51,7 +51,7 @@ For she never kens the minute when her hairt'll loup wi fear.\
 For he's awa tae the sea an he's aa that she has dear\
 She qued be a widow wi his bairn in the mornin.
 
-####Scots Words and Phrases
+#### Scots Words and Phrases
 
 Fa wid = Who would\
 deid oot fire = died out (gone out) fire\
