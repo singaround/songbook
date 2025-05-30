@@ -9,6 +9,7 @@ songLine: Our ship is a-sailing out over the Bar
 tags:
   - song
   - farewell
+  - more_chorus_than_verse
 date: 2019-03-07T08:05:12.000Z
 ---
 Our ship is a-sailing out over the Bar\
@@ -45,7 +46,6 @@ A bully good mate and a good skipper too\
 So fare thee well, my bonny young girl\
 We're bound for the Rio Grande***
 
-
 >***Then away, boys, away...***
 
 Cheer up, Mary Ellen, and don't look so glum,\
@@ -61,4 +61,3 @@ There's a bonny young lass there to love you so well\
 ***And we're bound for the Rio Grande***
 
 >***Then away, boys, away...***
-
