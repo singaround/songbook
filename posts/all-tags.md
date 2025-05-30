@@ -24,6 +24,8 @@ This is an alphabetical list of the tags that we've used to categorise the songs
 
 **[ballad](/tags/ballad)** - songs which are ballads - generally songs telling a story, with not much 'joining in' opportunity. If leading a ballad in a session it is useful to be familiar with the song, and "tell the story" through your performance rather than just "singing the right words".
 
+**[child-friendly](/tags/child-friendly)** - songs derived from nursery rhymes, playground chants or lullabies.
+
 **[Cicely_Fox_Smith](/tags/Cicely_Fox_Smith)** - songs written by or otherwise associated with [🌍Cicely Fox Smith](https://en.wikipedia.org/wiki/C._Fox_Smith)
 
 **[comedy](/tags/comedy)** - songs which are intended to make the audience laugh. It's difficult to define this one. Ideally the whole song should be intended to be comedic - a song with just one 'joke' somewhere in it doesn't get this tag.
@@ -119,6 +121,8 @@ This is an alphabetical list of the tags that we've used to categorise the songs
 **[ship](/tags/ship)** - the title of the song is the name of a boat or ship, or the song is focused primarily on a ship itself
 
 **[shipwreck](/tags/shipwreck)** - songs in which a ship is sinking, sunk or is otherwise seriously damaged.
+
+**[short_song](/tags/short_song)** - very short songs, which may be sung through a few times or used as a round. Our working assumiption that that songs with 16 lines or fewer will get this tag.
 
 **[Southern_England](/tags/Southern_England)** - Songs originating from or otherwise related to southern England. This includes any part of the English coastline that is not included in the "Northeast England" or "Northwest England" tags.
 
