@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title: A Sailor went to Sea
+title: A Sailor went to Sea Sea Sea
 
 published: false
 wordsBy: Anonymous
@@ -9,7 +9,7 @@ chorusLine:
 songLine: A sailor went to sea, sea, sea,
 tags:
   - short_song
-  - child-friendly
+  - childhood
 date: 2025-04-03T08:05:12.000Z
 description: 
 ---
