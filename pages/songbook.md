@@ -8,7 +8,7 @@ date: 2019-03-02
 permalink: /songs/index.html
 ---
 
-*The songs here are listed by title. There is also an [index of songs sorted by chorus](/index-chorus), or and [index of songs sorted by first line](/index-firstline/)*
+*The songs here are listed by title. There is also an [index of songs sorted by chorus](/index-chorus), an [index of songs sorted by first line](/index-firstline/), and an [index by theme](/posts/another-way-to-explore-our-songbook/).*
 
 If you're looking for a song that isn't here, please check our list of [alternative titles and songs that are intentionally not in the songbook](https://www.auntieshanty.org/tags/redirect/)
 
