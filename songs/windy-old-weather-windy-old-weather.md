@@ -11,6 +11,7 @@ tags:
   - herring
   - fishing
   - sea_creatures
+  - Northeast_England
 date: 2019-11-11T20:02:47.381Z
 description: >-
   Transcribed from a recording of Joe Latter, this song appears on some
