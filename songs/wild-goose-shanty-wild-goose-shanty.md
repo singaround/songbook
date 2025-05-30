@@ -9,7 +9,8 @@ songLine: Did you ever see the wild goose sailing on the ocean
 tags:
   - song
   - more_chorus_than_verse
-
+  - minor_key
+  - lament
 date: 2019-03-14T21:05:57.570Z
 description: ''
 ---
