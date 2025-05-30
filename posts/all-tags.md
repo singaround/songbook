@@ -1,5 +1,5 @@
 ---
-title: Alphaetical list of tags
+title: Alphabetical list of tags
 date: 2025-05-28T07:19:33.012Z
 summary: All the tags we use in the songbook
 tags:
