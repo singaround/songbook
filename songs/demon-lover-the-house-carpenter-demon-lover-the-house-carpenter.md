@@ -9,6 +9,7 @@ tags:
   - song
   - two_voices
   - supernatural
+  - ballad
 date: 2019-04-05T07:38:53.322Z
 description: >-
   This was a very popular ballad written by London-based ballad writer Laurence
