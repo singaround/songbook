@@ -47,6 +47,6 @@ Her spars did melt, her sails they drifted\
 ***Blow, boys, bully boys, blow!***\
 And all that I saw was a white mist flying,\
 All that I heard, the grey gulls crying,\
-And the tide's sob and the wind's sighing\
-And one far call out of dreams replying\
+<span style="color:blue">And the tide's sob and the wind's sighing</span>\
+<span style="color:blue">And one far call out of dreams replying</span>\
 ***Blow, boys, bully boys, blow!***
