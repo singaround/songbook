@@ -8,6 +8,8 @@ chorusLine: 'Singing chip cho, cherry cho'
 songLine: Ben Backstay was a boatswain
 tags:
   - drinking
+  - sea_creatures
+  - supernatural
 date: 2019-03-07T08:05:12.000Z
 ---
 Ben Backstay was a boatswain,\
@@ -50,8 +52,8 @@ We heaved Ben out some tackling,\
 Of saving him in hopes;\
 But the shark he bit his head off,\
 So he couldn't see the ropes\
-***So he couldn't see the ropes***\
-***So he couldn't see the ropes.***
+***He could not see the ropes***\
+***He could not see the ropes.***
 
 > ***Singing chip cho, cherry cho...***
 
