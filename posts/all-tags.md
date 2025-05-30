@@ -12,21 +12,21 @@ This is an alphabetical list of the tags that we've used to categorise the songs
 
 **[African_or_African-American_origin](/tags/African_or_African-American_origin)** - this tag is used for songs which are recorded by any source as having African or African American origins. Note that the shanty form owes its origin to the work songs of enslaved people - many songs without this tag were influenced by these traditions.
 
-**[appears_in_a_film](/tags/appears_in_a_film)** - a song that appears in a movie.
+**[appears_in_a_film](/tags/appears_in_a_film)** - this tag is used for songs that appear in movies.
 
 **[appears_in_a_Russell_Crowe_film](/tags/appears_in_a_Russell_Crowe_film)** - subset of "appears in a film". A song that has appeared in a film that also features the actor Russell Crowe.
 
-**[appears_in_Fishermans_Friends](/tags/appears_in_Fishermans_Friends)** - subset of "appears in a film". A song that appears in any of the [🌍Fisherman's Friends](https://en.wikipedia.org/wiki/Fisherman%27s_Friends_(film)) movies.
+**[appears_in_Fishermans_Friends](/tags/appears_in_Fishermans_Friends)** - subset of "appears in a film". A song that appears in any of the [🌐Fisherman's Friends](https://en.wikipedia.org/wiki/Fisherman%27s_Friends_(film)) movies.
 
-**[Assassins_Creed](/tags/Assassins_Creed)** - songs that are heard in the [🌍Assassin's Creed](https://en.wikipedia.org/wiki/Assassin%27s_Creed_IV:_Black_Flag) video game series.
+**[Assassins_Creed](/tags/Assassins_Creed)** - songs that are heard in the [🌐Assassin's Creed](https://en.wikipedia.org/wiki/Assassin%27s_Creed_IV:_Black_Flag) video game series.
 
 **[Australia](/tags/Australia)** - songs from Australia, about Australian places, or about Australian people
 
 **[ballad](/tags/ballad)** - songs which are ballads - generally songs telling a story, with not much 'joining in' opportunity. If leading a ballad in a session it is useful to be familiar with the song, and "tell the story" through your performance rather than just "singing the right words".
 
-**[child-friendly](/tags/child-friendly)** - songs derived from nursery rhymes, playground chants or lullabies.
+**[childhood](/tags/childhood)** - songs derived from nursery rhymes, playground chants or lullabies.
 
-**[Cicely_Fox_Smith](/tags/Cicely_Fox_Smith)** - songs written by or otherwise associated with [🌍Cicely Fox Smith](https://en.wikipedia.org/wiki/C._Fox_Smith)
+**[Cicely_Fox_Smith](/tags/Cicely_Fox_Smith)** - songs written by or otherwise associated with [🌐Cicely Fox Smith](https://en.wikipedia.org/wiki/C._Fox_Smith)
 
 **[comedy](/tags/comedy)** - songs which are intended to make the audience laugh. It's difficult to define this one. Ideally the whole song should be intended to be comedic - a song with just one 'joke' somewhere in it doesn't get this tag.
 
@@ -42,7 +42,7 @@ This is an alphabetical list of the tags that we've used to categorise the songs
 
 **[France](/tags/France)** - songs from France, about French places, or about French people
 
-**[Grace_OMalley](/tags/Grace_OMalley)** - songs about the Irish queen [🌍Gráinne O'Malley](https://en.wikipedia.org/wiki/Grace_O%27Malley). These may also be tagged with 'Ireland' and 'piracy'.
+**[Grace_OMalley](/tags/Grace_OMalley)** - songs about the Irish queen [🌐Gráinne O'Malley](https://en.wikipedia.org/wiki/Grace_O%27Malley). These may also be tagged with 'Ireland' and 'piracy'.
 
 **[herring](/tags/herring)** - any song that's about herring
 
@@ -50,13 +50,13 @@ This is an alphabetical list of the tags that we've used to categorise the songs
 
 **[hope](/tags/hope)** - songs about hope, or that leave us feeling hopeful in some way
 
-**[impressment](/tags/impressment)** - songs about being [🌍press ganged](https://en.wikipedia.org/wiki/Impressment) into the navy (or trying to avoid it)
+**[impressment](/tags/impressment)** - songs about being [🌐press ganged](https://en.wikipedia.org/wiki/Impressment) into the navy (or trying to avoid it)
 
 **[Ireland](/tags/Ireland)** - songs from Ireland, about Irish places, or about Irish people
 
 **[Janie_Meneely](/tags/Janie_Meneely)** - songs written by or otherwise associated with Janie Meneely
 
-**[Jeanne_de_Clisson](/tags/Jeanne_de_Clisson)** - songs about the French privateer [🌍Jeanne de Clisson](https://en.wikipedia.org/wiki/Jeanne_de_Clisson)
+**[Jeanne_de_Clisson](/tags/Jeanne_de_Clisson)** - songs about the French privateer [🌐Jeanne de Clisson](https://en.wikipedia.org/wiki/Jeanne_de_Clisson)
 
 **[lament](/tags/lament)** - songs of grief and sorrow
 
@@ -72,11 +72,11 @@ This is an alphabetical list of the tags that we've used to categorise the songs
 
 **[more_chorus_than_verse](/tags/more_chorus_than_verse)** - a song with more "join in" lines than solo lines. In general, these are the easiest to lead well. This is one of the most-used tags, so we can be discerning about using it – if it doubt, do not include this tag
 
-**[Nancy_Kerr](/tags/Nancy_Kerr)** - songs written by or otherwise associated with [🌍Nancy Kerr](https://en.wikipedia.org/wiki/Nancy_Kerr)
+**[Nancy_Kerr](/tags/Nancy_Kerr)** - songs written by or otherwise associated with [🌐Nancy Kerr](https://en.wikipedia.org/wiki/Nancy_Kerr)
 
 **[naval_warfare](/tags/naval_warfare)** - songs about warfare at sea
 
-**[no_tags](/tags/no_tags)** - songs which defy description and don't fit into any of the other categories. If a song has the 'no_tags' tag, it should have _only_ this tag. ([🌍Russell's Paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox))
+**[no_tags](/tags/no_tags)** - songs which defy description and don't fit into any of the other categories. If a song has the 'no_tags' tag, it should have _only_ this tag. ([🌐Russell's Paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox))
 
 **[non-english-language](/tags/non-english-language)** - songs which are all or part in a language that is not English
 
@@ -88,7 +88,7 @@ This is an alphabetical list of the tags that we've used to categorise the songs
 
 **[Northwest_England](/tags/Northwest_England)** - Songs originating from or otherwise related to England's north-western coast, including Liverpool and Merseyside. We understand this coastline to run from the northern end of the England/Wales border to the western end of the England/Scotland border  
 
-**[Northwest_Passage](/tags/Northwest_Passage)** - songs about the [🌍Northwest Passage](https://en.wikipedia.org/wiki/Northwest_Passage), and/or attempts to find and pass through it.
+**[Northwest_Passage](/tags/Northwest_Passage)** - songs about the [🌐Northwest Passage](https://en.wikipedia.org/wiki/Northwest_Passage), and/or attempts to find and pass through it.
 
 **[originally_a_poem](/tags/originally_a_poem)** - songs to which the words were originally published as poetry, and set to music later
 
@@ -110,7 +110,7 @@ This is an alphabetical list of the tags that we've used to categorise the songs
 
 **[romantic_love](/tags/romantic_love)** - songs which focus on happy romantic love between people. This does not include more abstract 'love' - like love for a ship, love for a place, or love for rum.
 
-**[Royal_Navy](/tags/Royal_Navy)** - songs about the [🌍Royal Navy](https://en.wikipedia.org/wiki/Royal_Navy). These may also get the 'naval warfare' tag, but not always.
+**[Royal_Navy](/tags/Royal_Navy)** - songs about the [🌐Royal Navy](https://en.wikipedia.org/wiki/Royal_Navy). These may also get the 'naval warfare' tag, but not always.
 
 **[Scotland](/tags/Scotland)** - songs from Scotland, about Scottish places, or about Scottish people
 
@@ -126,11 +126,11 @@ This is an alphabetical list of the tags that we've used to categorise the songs
 
 **[Southern_England](/tags/Southern_England)** - Songs originating from or otherwise related to southern England. This includes any part of the English coastline that is not included in the "Northeast England" or "Northwest England" tags.
 
-**[Stan_Rogers](/tags/Stan_Rogers)** - songs written by or otherwise associated with [🌍Stan Rogers](https://en.wikipedia.org/wiki/Stan_Rogers)
+**[Stan_Rogers](/tags/Stan_Rogers)** - songs written by or otherwise associated with [🌐Stan Rogers](https://en.wikipedia.org/wiki/Stan_Rogers)
 
 **[supernatural](/tags/supernatural)** - contains ghosts, mermaids, spirits, witches or any sort of supernatural occurrence.
 
-**[technicolour](/tags/technicolour)** - songs that appear on our website in with colour-coding for different parts. Many of these will have the 'two_voices' tag too.
+**[technicolour](/tags/technicolour)** - songs that appear on our website in with colour-coding for different parts. Many of these will also have the 'two_voices' tag.
 
 **[two_voices](/tags/two_voices)** - songs which have two or more distinct 'characters' within them, which work well when 'led' by more than one person. Where our songbook version indicates this with coloured text, see also the 'technicolour' tag.
 
