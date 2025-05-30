@@ -9,8 +9,10 @@ chorusLine: Keep hauling on
 songLine: We set sail like bold Phoenicians
 tags:
   - song
-  - female_writer
+  - non-male_writer
   - Nancy_Kerr
+  - hope
+  - perseverance
 date: 2025-04-03T08:05:12.000Z
 description: 
 ---
@@ -41,7 +43,10 @@ Rides a shadow in the water\
 Eye as black as any cinder\
 Bidding life adieu adieu
 
->***Keep hauling on...***
+>***Keep hauling on\
+Mighty the jaws of morning\
+War has made the billows roar\
+As we keep hauling on***
 
 Still our souls are on that water\
 Like white gulls caught by the weather\
