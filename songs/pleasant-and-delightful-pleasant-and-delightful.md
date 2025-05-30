@@ -2,7 +2,7 @@
 templateKey: song
 title: Pleasant and Delightful
 published: true
-wordsBy: Traditional (+ Auntie Shanty additions)
+wordsBy: Traditional (Roud 660), with Auntie Shanty additions
 tuneBy: Traditional
 chorusLine: And the larks they sang melodious
 songLine: It was pleasant and delightful on a midsummer’s morn
@@ -13,6 +13,7 @@ tags:
   - women_on_the_shore
   - rewritten
   - comedy
+  - romantic_love
 date: 2019-03-14T20:56:41.851Z
 description: >-
   'A lovely farewell ballad, with obvious links to ''Adieu, sweet lovely Nancy.'''
