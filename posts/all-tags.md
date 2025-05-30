@@ -100,11 +100,13 @@ This is an alphabetical list of the tags that we've used to categorise the songs
 
 **[rebellion](/tags/rebellion)** - songs about mutiny and rebellion against authority
 
+**[redirect](/tags/redirect)** - pages with this tag aren't songs. The pages are 'signposts' towards other pages. Items that appear here with a ↝ sysmbol mean that the song appears under a different name. Items with a ♲ symbol mean the song is intentionally not included, but we've suggested an alternative. 
+
 **[rewritten](/tags/rewritten)** - songs which have been significantly rewritten (more than just changing pronouns or chopping out dodgy verses). Note that this is distinct from 'parody'.
 
 **[rivers](/tags/rivers)** - any song which includes a river
 
-**[romantic_love](/tags/romantic_love)** - songs which focus on romantic love between two people. This does not include more abstract 'love' - like love for a ship, love for a place, or love for rum.
+**[romantic_love](/tags/romantic_love)** - songs which focus on happy romantic love between people. This does not include more abstract 'love' - like love for a ship, love for a place, or love for rum.
 
 **[Royal_Navy](/tags/Royal_Navy)** - songs about the [🌍Royal Navy](https://en.wikipedia.org/wiki/Royal_Navy). These may also get the 'naval warfare' tag, but not always.
 
