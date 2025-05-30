@@ -14,7 +14,7 @@ tags:
   - Southern_England
   - childhood
 date: 2025-04-06T08:05:12.000Z
-description: "Big Steamers" is a poem by Rudyard Kipling first published in 1911 in  C. R. L. Fletcher's "A School History of England". There are various musical settings of the words, our favourite is the one by Peter Bellamy.
+description: Big Steamers is a poem by Rudyard Kipling first published in 1911 in  C. R. L. Fletcher's 'A School History of England'. There are various musical settings of the words, our favourite is the one by Peter Bellamy.
 ---
 Oh, where are you going to, all you Big Steamers,\
 With England's own coal, up and down the salt seas?"\
