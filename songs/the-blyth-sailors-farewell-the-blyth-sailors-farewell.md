@@ -11,6 +11,8 @@ tags:
   - song
   - farewell
   - Northeast_England
+  - hope
+  - coming_home
 date: 2024-04-29T08:44:33.711Z
 description: T﻿he lyrics were written by James Anderson (1825-1899), and first
   published in 1898. We first heard the version by Johnny Handle and Benny Graham
@@ -22,10 +24,10 @@ From bonnie Blyth Harbour leaving friends old and new\
 To parents and wives and sweethearts a-dear\
 Let us join in one chorus with hearty good cheer
 
-> ***Then trusting our vessel to captain and mate***\
-> ***For health and for fortune we're subject to fate***\
-> ***But we'll dare even death on the wide-ranging main***\
-> ***And return to Blyth Harbour again and again***
+> ***Then trusting our vessel to captain and mate\
+For health and for fortune we're subject to fate\
+But we'll dare even death on the wide-ranging main\
+And return to Blyth Harbour again and again***
 
 They'll leave home contented quite Blyth-some and gay\
 Fighting the ocean so far far away\
