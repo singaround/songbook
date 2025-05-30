@@ -8,11 +8,11 @@ tuneBy: Eliza Carthy
 chorusLine: oo-oo-oo on the James Clark Ross
 songLine: Your great grey back seems so peaceful in the ocean
 tags:
-  - song
-  - female_writer
+  - non-male_writer
   - post-2000
   - sea_creatures
   - seafaring_women
+  - whales
 date: 2025-04-04T08:05:12.000Z
 description: 
 ---
@@ -30,7 +30,7 @@ When we reached Ascension we were dancing with the penguins\
 ***look, there she blows with a hurry hurry-o\
 On the James Clark Ross***
 
-If I had my life again I'd be what Claire Waluda is\
+If I had my life again I'd be what [Claire Waluda](https://www.bas.ac.uk/profile/clwa/) is\
 ***oo-oo-oo on the James Clark Ross***\
 I'd quit the cosy pad-and-pen and be a penguin scientist\
 ***look, there she blows with a hurry hurry-o\
