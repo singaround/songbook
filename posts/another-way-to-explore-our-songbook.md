@@ -36,6 +36,8 @@ We’ve got shanties that **[are heard in the “Assassin’s Creed” computer 
 
 We’ve got songs **[for multiple ‘voices’](/tags/two_voices/)** – these can be led solo, but we think they work best with different people (or groups) singing the different parts. Some of these have **[fancy colours](/tags/technicolour)** in the songbook version.
 
-A few miscellaneous categories – we’ve got songs about **[love](/tags/romantic_love)**, **[rivers](/tags/rivers)**, **[shipwrecks](/tags/shipwreck/)** and **[The Northwest Passage](/tags/northwest_passage/)**. There are also [very short_songs](/tags/short_song), songs **[written since 2000](/tags/post-2000/)** and **[songs in languages other than English](/tags/non-english-language/)**.
+A few miscellaneous categories – we’ve got songs about **[love](/tags/romantic_love)**, **[rivers](/tags/rivers)**, **[shipwrecks](/tags/shipwreck/)** and **[The Northwest Passage](/tags/northwest_passage/)**. There are also **[very short songs](/tags/short_song)**, **[childrens songs](/tags/child-friendly)**, songs **[written since 2000](/tags/post-2000/)** and **[songs in languages other than English](/tags/non-english-language/)**.
 
 And last-but-not-least, for the Auntie Shanty sessions in which “herring half-hour” happens, we’ve got the perennial favourite **[songs about herring](/tags/herring/)**.
+
+#### A full list of all the tags is [here](/posts/alphabetical-list-of-tags/)
