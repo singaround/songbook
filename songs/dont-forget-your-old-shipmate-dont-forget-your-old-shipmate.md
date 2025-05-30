@@ -21,10 +21,10 @@ Let the waters roar, Jack\
 Safe and sound at home again\
 Let the waters roar, Jack
 
-> ***Long we've tossed on the rolling main***\
-> ***Now we're safe ashore, Jack***\
-> ***Don't forget your old shipmate***\
-> ***Fal dee ral dee ral dee rye eye doe!***
+> ***Long we've tossed on the rolling main\
+Now we're safe ashore, Jack\
+Don't forget your old shipmate\
+Fal dee ral dee ral dee rye eye doe!***
 
 Since we sailed from Plymouth Sound\
 Four years gone, or nigh, Jack\
@@ -45,7 +45,10 @@ toil nor danger fearing,\
 Tugging out the flapping sail\
 to the weather bearing
 
-> ***Long we've tossed on the rolling main...***
+> ***Long we've tossed on the rolling main\
+Now we're safe ashore, Jack\
+Don't forget your old shipmate\
+Fal dee ral dee ral dee rye eye doe!***
 
 When the middle watch was on\
 And the time went slow, boy\
