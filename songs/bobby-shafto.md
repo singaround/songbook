@@ -10,7 +10,7 @@ songLine: Bobby Shafto's gone to sea
 tags:
   - short_song
   - romantic_love
-  - child-friendly
+  - childhood
 date: 2025-04-03T08:05:12.000Z
 description: 
 ---
