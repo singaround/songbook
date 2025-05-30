@@ -122,7 +122,7 @@ This is an alphabetical list of the tags that we've used to categorise the songs
 
 **[shipwreck](/tags/shipwreck)** - songs in which a ship is sinking, sunk or is otherwise seriously damaged.
 
-**[short_song](/tags/short_song)** - very short songs, which may be sung through a few times or used as a round. Our working assumiption that that songs with 16 lines or fewer will get this tag.
+**[short_song](/tags/short_song)** - very short songs, which may be sung through a few times or used as a round. Our working assumption is that songs with 16 lines or fewer will get this tag.
 
 **[Southern_England](/tags/Southern_England)** - Songs originating from or otherwise related to southern England. This includes any part of the English coastline that is not included in the "Northeast England" or "Northwest England" tags.
 
