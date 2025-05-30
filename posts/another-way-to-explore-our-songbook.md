@@ -10,7 +10,7 @@ tags:
 
 We’ve got loads of songs about **[seafaring women](/tags/seafaring_women/)**, both real and fictional. Women who have inspired more than one song include **[Grace O’Malley](/tags/grace_omalley/)** and **[Jeanne de Clisson](/tags/jeanne_de_clisson/)**.
 
-We’ve got songs written by **[women, non-binary people and others who are not men](/tags/non-male_writer/)**, songs **[narrated by non-male characters](/tags/non-male_narrator/)**, and songs including **[women who don’t go to sea](/tags/women_on_the_shore/)**.
+We’ve got songs **[written by women, non-binary people and others who are not men](/tags/non-male_writer/)**, songs **[narrated by non-male characters](/tags/non-male_narrator/)**, and songs including **[women who don’t go to sea](/tags/women_on_the_shore/)**.
 
 We’ve got songs that we consider to be overtly **[feminist](/tags/feminist/)** in their outlook, and those that we consider to have **[LGBTQ+ themes](/tags/lgbtq_plus/)**. We’ve also got songs with **[African or African-American origins](/tags/african_or_african-american_origin/)**.
 
@@ -30,12 +30,12 @@ The songbook contains songs by lots of people – and among our favourite writer
 
 Some tell stories about **[real historic events](/tags/historic_events/)**. And we’ve got songs which **[acknowledge the modern nautical world](/tags/modern_seafaring/)** – that is, those that reflect that we’re (mostly) not travelling about in sailing ships any more.
 
-Songs originate from around the globe, and we’ve got songs tagged with **[France](/tags/France/)**, **[Ireland](/tags/Ireland/)**, **[Scotland](/tags/Scotland/)** and **[Australia](/tags/Australia/)**. These are either ‘from’ that place, or have a link to it. We’ve also got songs about seeking the **[Northwest Passage](/tags/northwest_passage/)**. From closer to home, we've got songs from or about the **[Northeast](/tags/northeast_england/)**, the **[Northwest](/tags/northwest_england/)** and the **[South](/tags/southern_england/)** of England.
+Songs originate from around the globe, and we’ve got songs tagged with **[France](/tags/France/)**, **[Ireland](/tags/Ireland/)**, **[Scotland](/tags/Scotland/)** and **[Australia](/tags/Australia/)**. These are either ‘from’ that place, 'about' that place, or have some other link to it. From closer to home, we've got songs from or about the **[Northeast](/tags/northeast_england/)**, the **[Northwest](/tags/northwest_england/)** and the **[South](/tags/southern_england/)** of England.
 
 We’ve got shanties that **[are heard in the “Assassin’s Creed” computer game](/tags/assassins_creed/)** (although the Auntie Shanty versions are slightly different). We’ve also got **[songs which appeared in popular films](/tags/appears_in_a_film/)**, songs **[from the Fisherman’s Friends movies](/tags/appears_in_fishermans_friends/)**, and (because it’s an excellent bit of trivia) we’ve got **[sea songs that appear in Russell Crowe films](/tags/appears_in_a_russell_crowe_film/).**
 
 We’ve got songs **[for multiple ‘voices’](/tags/two_voices/)** – these can be led solo, but we think they work best with different people (or groups) singing the different parts. Some of these have **[fancy colours](/tags/technicolour)** in the songbook version.
 
-A few miscellaneous categories – we’ve got songs mentioning **[rivers](/tags/rivers)**, songs **[about shipwrecks](/tags/shipwreck/)**, songs **[written since 2000](/tags/post-2000/)** and **[songs in languages other than English](/tags/non-english-language/)**.
+A few miscellaneous categories – we’ve got songs about **[love](/tags/romantic_love)**, **[rivers](/tags/rivers)**, **[shipwrecks](/tags/shipwreck/)** and **[The Northwest Passage](/tags/northwest_passage/)**. There are also songs **[written since 2000](/tags/post-2000/)** and **[songs in languages other than English](/tags/non-english-language/)**.
 
 And last-but-not-least, for the Auntie Shanty sessions in which “herring half-hour” happens, we’ve got the perennial favourite **[songs about herring](/tags/herring/)**.
