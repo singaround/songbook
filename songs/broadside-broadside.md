@@ -63,9 +63,9 @@ You’d be better on the sea like brave O’Malley\
 And when that gallant vessel goes a rolling on the wave\
 Be sure you’re on the deck not in the galley
 
-> ***Broadside to broadside, two captains collide***\
-> ***Queen of the spheres and queen of the tide***\
-> ***Regalia and rebellion go sailing side by side***\
-> ***Haul away, sister,***\
-> ***Haul away, sister,***\
-> ***Haul away, sister, haul away***
+> ***Broadside to broadside, two captains collide\
+Queen of the spheres and queen of the tide\
+<span style="color:blue">Regalia and rebellion go sailing side by side</span>\
+<span style="color:blue">Haul away, sister,</span>\
+<span style="color:blue">Haul away, sister,</span>\
+<span style="color:blue">Haul away, sister, haul away</span>***
