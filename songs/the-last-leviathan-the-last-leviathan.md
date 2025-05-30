@@ -35,4 +35,7 @@ The big feller is now gone there's no use lamenting\
 What race is next in line all for the slaughter?\
 The elephant or the seal or your sons and daughters?
 
->***My soul has been torn from me...***
+>***My soul has been torn from me and I am bleeding\
+My heart it has been rent and I am crying\
+For the beauty around me pales and I am screaming\
+I am the last of the Great Whales and I am dying.***
