@@ -31,7 +31,7 @@ A﻿nd the skipper's down after hanging out extra lines.
 
 > **Y﻿ea ho, little fishes, don't cry...**
 
-L﻿Ittle fish when she's caught she fights like a whale,\
+L﻿ittle fish when she's caught she fights like a whale,\
 A﻿nd she thrashes the water with her mighty tail.
 
 > **Y﻿ea ho, little fishes, don't cry...**
