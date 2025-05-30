@@ -12,6 +12,7 @@ tags:
   - fishing
   - sea_creatures
   - herring
+  - appears_in_a_film
 date: 2025-05-26T12:08:51.308Z
 description: This song was sung by Spencer Tracy in the 1937 film of Rudyard
   Kipling's book "Captains Courageous", which is where many singers first heard
