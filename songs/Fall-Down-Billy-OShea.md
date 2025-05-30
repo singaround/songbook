@@ -24,9 +24,9 @@ We all got drunk in Dublin city\
 We all got drunk, sure more's the pity\
 ***Fall down Billy O'Shea***
 
-> ***Fall down, fall down, fall down me Billy***\
-> ***We're bound away for Americay***\
-> ***Fall down Billy O'Shea***
+> ***Fall down, fall down, fall down me Billy\
+We're bound away for Americay\
+Fall down Billy O'Shea***
 
 We lay ourselves down on Sir Rogerson's Quay\
 ***Fall down me Billy***\
@@ -47,7 +47,9 @@ Says the captain, "I've a cure for that"\
 "And here for a start is a dose of the cat"\
 ***Fall down Billy O'Shea***
 
-> ***Fall down, fall down...***
+> ***Fall down, fall down, fall down me Billy\
+We're bound away for Americay\
+Fall down Billy O'Shea***
 
 Well sent him up to the top-mast yard\
 ***Fall down me Billy***\
