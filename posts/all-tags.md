@@ -102,7 +102,7 @@ This is an alphabetical list of the tags that we've used to categorise the songs
 
 **[rebellion](/tags/rebellion)** - songs about mutiny and rebellion against authority
 
-**[redirect](/tags/redirect)** - pages with this tag aren't songs. The pages are 'signposts' towards other pages. Items that appear here with a ↝ sysmbol mean that the song appears under a different name. Items with a ♲ symbol mean the song is intentionally not included, but we've suggested an alternative. 
+**[redirect](/tags/redirect)** - pages with this tag aren't songs. The pages are 'signposts' towards other pages. Items that appear here with a ↝ symbol mean that the song appears under a different name. Items with a ♲ symbol mean the song is intentionally not included but we've suggested an alternative. 
 
 **[rewritten](/tags/rewritten)** - songs which have been significantly rewritten (more than just changing pronouns or chopping out dodgy verses). Note that this is distinct from 'parody'.
 
