@@ -4,8 +4,8 @@ title: Rise No More
 published: false
 wordsBy: Nancy Kerr
 tuneBy: Nancy Kerr
-chorusLine: 
-songLine: I'll sail and I'll sail and wherever I go
+chorusLine: Rise no more, oh rise no more
+songLine: What mired Jonah’s creature
 tags:
   - song
   - non-male_writer
