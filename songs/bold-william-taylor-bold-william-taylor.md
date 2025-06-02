@@ -7,6 +7,8 @@ tuneBy: Traditional
 songLine: Billy Taylor, youthful lover
 tags:
   - song
+  - ballad
+  - impressment
 date: 2019-03-13T22:23:27.020Z
 ---
 Billy Taylor, youthful lover,\
