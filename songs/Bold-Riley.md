@@ -12,6 +12,7 @@ tags:
   - non-male_narrator
   - farewell
   - romantic_love
+  - song
 date: 2019-03-07T08:05:12.000Z
 description: >-
   In 19th-century Liverpool, it was fashionable for wealthier women to wear
