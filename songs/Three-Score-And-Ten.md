@@ -13,6 +13,7 @@ tags:
   - Northeast_England
   - minor_key
   - lament
+  - song
 date: 2019-03-07T08:05:12.000Z
 description: >-
   "Three Score and Ten" is a broadside ballad commemorating a tragic storm off
