@@ -12,6 +12,7 @@ tags:
   - maritime_trade
   - rivers
   - Southern_England
+  - song
 date: 2019-03-11T19:24:41.091Z
 description: >-
   [The Longest Johns](https://thelongestjohns.bandcamp.com/music) are a
