@@ -7,6 +7,7 @@ tuneBy: Tom Lewis
 chorusLine: "Don’t haul on the rope, don’t climb up the mast"
 songLine: Well me father often told me when I was just a lad
 tags:
+  - song
   - comedy
   - appears_in_a_film
   - appears_in_Fishermans_Friends
@@ -19,10 +20,10 @@ A sailor's life was very hard, the food was always bad\
 But now I've joined the navy, I'm aboard a man-o-war\
 And now I've found a sailor ain't a sailor any more
 
-> ***Don't haul on the rope, don't climb up the mast***\
-> ***If you see a sailing ship it might be your last***\
-> ***Just get your civies ready for another run ashore***\
-> ***A sailor ain't a sailor, ain't a sailor anymore***
+> ***Don't haul on the rope, don't climb up the mast\
+If you see a sailing ship it might be your last\
+Just get your civies ready for another run ashore\
+A sailor ain't a sailor, ain't a sailor anymore***
 
 Well the killock of our mess he says we've had it soft\
 It wasn't like this in his day when he was up aloft\
@@ -36,7 +37,10 @@ Then with more technology the engine went around\
 We know our steam and diesel but what's a mainyard for?\
 A stoker ain't a stoker with a shovel anymore.
 
-> ***Don't haul on the rope...***
+> ***Don't haul on the rope, don't climb up the mast\
+If you see a sailing ship it might be your last\
+Just get your civies ready for another run ashore\
+A sailor ain't a sailor, ain't a sailor anymore***
 
 Well they gave us Aldiss lamp so we could do it right\
 They gave us a radio, we signaled day and night\
