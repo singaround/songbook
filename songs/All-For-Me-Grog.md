@@ -7,6 +7,7 @@ tuneBy: traditional
 chorusLine: And it's all for me grog, me jolly, jolly grog
 songLine: Where are my boots, my nogging, nogging boots?
 tags:
+-  song
 -  two_voices
 -  more_chorus_than_verse
 -  Assassins_Creed
