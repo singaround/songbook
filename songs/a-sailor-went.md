@@ -10,6 +10,7 @@ songLine: A sailor went to sea, sea, sea,
 tags:
   - short_song
   - childhood
+  - song
 date: 2025-04-03T08:05:12.000Z
 description: 
 ---

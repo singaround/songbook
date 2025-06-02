@@ -12,6 +12,7 @@ tags:
   - naval_warfare
   - originally_a_poem
   - short_song
+  - song
 date: 2025-04-05T08:05:12.000Z
 description: This is a very short song, usually sung through a few times
 ---

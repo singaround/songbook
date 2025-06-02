@@ -8,6 +8,7 @@ tuneBy: Kevin Brown of the Ancient Mariners Chanteymen
 chorusLine: I have sailed across the ocean
 songLine: When I was just a young man
 tags:
+  - song
   - no_tags
 date: 2020-06-15T11:54:25.531Z
 description: 

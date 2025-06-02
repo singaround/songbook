@@ -7,6 +7,7 @@ tuneBy: Traditional
 chorusLine: 'Strike the bell, Second Mate'
 songLine: Aft on the Poopdeck
 tags:
+  - song
   - no_tags
 date: 2019-03-07T08:05:12.000Z
 ---

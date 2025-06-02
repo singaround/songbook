@@ -8,6 +8,7 @@ chorusLine: 'With a big bow wow, tow row row'
 songLine: From Boston harbour we set sail
 tags:
   - song
+  - no_tags
 date: 2019-03-07T08:05:12.000Z
 ---
 From Boston harbour we set sail\

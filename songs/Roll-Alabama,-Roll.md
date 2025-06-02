@@ -12,6 +12,7 @@ tags:
   - naval_warfare
   - shipwreck
   - Northwest_England
+  - song
 date: 2019-03-07T08:05:12.000Z
 description: >-
   CSS Alabama was built in secrecy in 1862 by British shipbuilders John Laird

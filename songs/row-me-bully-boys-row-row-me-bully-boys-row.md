@@ -13,6 +13,7 @@ tags:
   - appears_in_a_Russell_Crowe_film
   - France
   - coming_home
+  - song
 date: 2019-03-11T19:53:57.972Z
 description: The [original version](https://alandoyle.ca/lyrics-bully-boys/) of this song was written by [Alan Doyle](https://alandoyle.ca/) for the film [_Robin Hood (2010)_](https://en.wikipedia.org/wiki/Robin_Hood_(2010_film)) . The song then took on a life of its own - read more about it in this [blog post by Alan Doyle](https://alandoyle.ca/bully-boys-a-modern-folk-song/).
 ---
@@ -33,7 +34,10 @@ While the first mate is helping the captain aboard\
 He looks like a peacock with pistols and sword\
 ***And it's row me bully boys row***
 
->***And it's row me bully boys...***
+> ***And it's row me bully boys, we're in a hurry boys,\
+We've got a long way to go\
+And we'll sing and we'll dance and bid farewell to France\
+And it's row me bully boys row***
 
 The captain likes whiskey, the mate he likes rum\
 ***Row me bully boys row***\

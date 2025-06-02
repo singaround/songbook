@@ -12,6 +12,7 @@ tags:
   - minor_key
   - lament
   - technicolour
+  - song
 date: 2019-11-11T19:28:10.904Z
 description: >-
   The passenger steamer Dandenong was shipwrecked off the coast of Jervis Bay in

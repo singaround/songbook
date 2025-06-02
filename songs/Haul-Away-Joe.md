@@ -7,6 +7,7 @@ tuneBy: Traditional
 chorusLine: 'Away, haul away, we’ll haul away Joe'
 songLine: Louis was the king of France
 tags:
+  - song
   - LGBTQ_plus
   - rewritten
   - more_chorus_than_verse

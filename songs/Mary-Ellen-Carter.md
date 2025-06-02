@@ -8,6 +8,7 @@ chorusLine: 'Rise again'
 songLine: 'Make the Mary Ellen Carter rise again'
 tuneLink: ''
 tags:
+  - song
   - ship
   - hope
   - perseverance

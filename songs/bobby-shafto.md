@@ -8,6 +8,7 @@ tuneBy: Traditional
 chorusLine: 
 songLine: Bobby Shafto's gone to sea
 tags:
+  - song
   - short_song
   - romantic_love
   - childhood

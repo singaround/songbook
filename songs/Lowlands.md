@@ -7,6 +7,7 @@ tuneBy: Traditional
 chorusLine: 'Lowlands, lowlands away my John'
 songLine: 'I dreamed a dream the other night'
 tags:
+  - song
   - non-male_narrator
   - women_on_the_shore
   - Assassins_Creed
@@ -21,7 +22,7 @@ description: >-
   line will add an extra few words: Lowlands, sweet lowlands away. If you plan
   to sing this version, just make sure we're clued in before you kick off.
 ---
-(Version 1)
+### Version 1
 
 I dreamed a dream the other night\
 ***Lowlands, lowlands away my John***\
@@ -45,10 +46,10 @@ No sound she made, no word she said\
 Then awoke to hear the cry\
 "All hands on deck, oh, watch ahoy!"
 
-****THIS IS THE END OF THE FIRST VERSION****
+## ****THIS IS THE END OF THE FIRST VERSION****
 
 
-(version 2)
+### (version 2)
 
 I dreamed a dream the other night\
 ***Lowlands, lowlands away my John***\
@@ -74,3 +75,5 @@ No other man will find me fair
 
 I dreamed a dream the other night\
 I dreamed a dream the other night
+
+## ****THIS IS THE END OF THE SECOND VERSION****

@@ -12,6 +12,7 @@ tags:
   - ballad
   - lifeboats
   - historic_events
+  - song
 date: 2019-04-04T22:46:40.260Z
 description: >-
   A

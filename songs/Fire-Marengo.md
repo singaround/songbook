@@ -8,6 +8,7 @@ chorusLine: 'Fire Marengo, fire away!'
 songLine: Lift him up and carry him along
 tags:
   - song
+  - no_tags
 date: 2019-03-07T08:05:12.000Z
 description: >-
   Screwing cotton was one of the hardest tasks aboard ship: using jackscrews to

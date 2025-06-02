@@ -12,6 +12,7 @@ tags:
   - feminist
   - romantic_love
   - ballad
+  - song
 date: 2019-03-13T23:01:49.517Z
 description: >-
   Folk Weekend Oxford legend Cat Kelly

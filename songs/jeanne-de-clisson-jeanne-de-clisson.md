@@ -17,6 +17,7 @@ tags:
   - historic_events
   - piracy
   - France
+  - song
 date: 2019-03-31T16:50:02.070Z
 description: >-
   Always on the look-out for songs about female seafarers, we found [this

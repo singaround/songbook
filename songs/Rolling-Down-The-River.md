@@ -13,6 +13,7 @@ tags:
   - drinking
   - rivers
   - Southern_England
+  - song
 description:
 date: 2019-03-07T08:05:12.000Z
 ---
@@ -39,19 +40,19 @@ Now the cargo comes in TEUs\
 That’s a twenty-foot box, boys, full of booze\
 ***To go rolling down the river!***
 
->***Rolling up! rolling down...***
+>***Rolling up! rolling down!\
+We’ll all get drunk in Tilbury town,\
+Twenty-four hours we’ll turn around\
+And go rolling down the river***
 
 When first I saw a TEU\
 ***Rolling up, rolling down!***\
 I wondered where they stowed the crew\
 ***To go rolling down the river!***
 
->***Rolling up! rolling down!\
-We’ll all get drunk in Tilbury town,\
-Twenty-four hours we’ll turn around\
-And go rolling down the river***
+>***Rolling up! rolling down...***
 
-Now we’re the boys to sail ’em through
+Now we’re the boys to sail ’em through\
 ***Rolling up, rolling down!***\
 To hell with the channel and the TEUs!\
 ***We'll go rolling down the river!***

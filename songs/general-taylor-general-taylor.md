@@ -10,6 +10,7 @@ tags:
   - more_chorus_than_verse
   - lament
   - minor_key
+  - song
 date: 2019-03-13T21:14:24.077Z
 description: >-
   Also known as 'Walk Me Along Johnny' or 'Walk Him Along John', this shanty

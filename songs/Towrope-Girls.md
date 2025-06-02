@@ -14,6 +14,7 @@ tags:
   - maritime_trade
   - originally_a_poem
   - Cicely_Fox_Smith
+  - song
 date: 2019-03-07T08:05:12.000Z
 ---
 Some's loading at 'frisco with cargoes of grain\

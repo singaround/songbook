@@ -14,6 +14,7 @@ tags:
   - sea_creatures
   - hope
   - Nancy_Kerr
+  - song
 date: 2019-11-11T20:09:38.788Z
 description: >-
   Nancy Kerr generously gave us permission to reproduce lyrics of her original

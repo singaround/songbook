@@ -13,7 +13,7 @@ tags:
   - post-2000
   - comedy
 date: 2025-04-04T08:05:12.000Z
-description: 
+description: A shanty to sing while doing small tasks that don't quite deserve a proper shanty
 ---
 On the transatlantic routes\
 When you’re lacing up your boots\
@@ -53,7 +53,9 @@ As I sight the coast of Dorset\
 While I’m lacing up my corset\
 ***I shout the shanty loud and haul away***
 
->***Cos if there’s rope...***
+>***Cos if there’s rope or cord or string\
+You’ll be sure to hear us sing\
+Shout the shanty loud and haul away***
 
 When a winter storm is guaranteed\
 When you unspool an extension lead\

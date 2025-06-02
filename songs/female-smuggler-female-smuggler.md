@@ -6,6 +6,7 @@ wordsBy: Traditional
 tuneBy: Traditional
 songLine: Come listen awhile and you soon shall hear
 tags:
+  - song
   - seafaring_women
   - feminist
   - piracy
