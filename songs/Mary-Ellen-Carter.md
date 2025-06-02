@@ -107,4 +107,4 @@ Turn to and put out all your strength of arm and heart and brain\
 >***Rise again, rise again!\
 <span style="color:green">Though your heart it be broke and your life about to end</span>\
 <span style="color:green">No matter what you've lost, be it a home, a love, a friend</span>\
-<span style="color:green">Like the Mary Ellen Carter, rise again!</span>\***
+<span style="color:green">Like the Mary Ellen Carter, rise again!</span>***
