@@ -10,6 +10,10 @@ songLine: All clouds the sky
 tags:
   - song
   - fishing
+  - lament
+  - minor_key
+  - farewell
+  - Northeast_England
 date: 2025-04-03T08:05:12.000Z
 description: 
 ---
