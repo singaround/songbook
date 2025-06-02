@@ -14,6 +14,7 @@ tags:
   - piracy
   - rebellion
   - Ireland
+  - song
 date: 2019-03-13T22:35:27.039Z
 description: >-
   A song about Grace O'Malley (Gráinne Ní Mháille in Irish, often anglicised to
@@ -26,8 +27,8 @@ Now in sailor's clothes Granuaile did go\
 A bold sea captain from top to toe\
 Her clans and children were the greatest care of \
 Grace O'Malley\
-of Grace O'Malley who never did despair\
-\
+of Grace O'Malley who never did despair
+
 Her trade was maintenanced by land and sea\
 200 loyal men were her army\
 No other captain was so skilled or brave as \
