@@ -35,7 +35,10 @@ Heave away, bullies, ye parish-rigged bums,\
 Take yer hands from yer pockets and don't suck yer thumbs\
 ***To me rollickin' Randy Dandy O!***
 
->***Heave a pawl, oh, heave away...***
+>***Heave a pawl, oh, heave away,\
+Weigh, hey, roll and go!\
+The anchor's on board an' the cable's all stored,\
+To me rollickin' Randy Dandy O!***
 
 We're outward bound for Vallipo bay,\
 ***Weigh, hey, roll an' go!***\
