@@ -13,6 +13,7 @@ tags:
   - romantic_love
   - Ireland
   - song
+  - LGBTQ_plus
 date: 2019-03-13T23:00:34.183Z
 description: >-
   Nothing wrong with the original but it seems sad that Molly suddenly dies, so
