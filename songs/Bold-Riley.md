@@ -10,6 +10,7 @@ tags:
   - women_on_the_shore
   - more_chorus_than_verse
   - farewell
+  - non-male_narrator
   - romantic_love
   - song
 date: 2019-03-07T08:05:12.000Z
@@ -23,6 +24,9 @@ description: >-
   feminist social campaigner and MP Eleanor Rathbone to demand a fairer system
   of providing for sailors’ and soldiers' dependants during the First World War,
   eventually culminating in her Family Allowances Act of 1945.
+
+
+  Our reading of the 'traditional' version of this song is that the verses are narrated by 'Bold Riley' (a man, who is sailing away). The choruses and other 'join in' parts are the voice of his (female) sweetheart. However, this is open to interpretation.
 ---
 Our anchor's aweigh and our sails are set,\
 ***Bold Riley-oh, bold Riley,***\
@@ -46,7 +50,10 @@ The rain it rains all day long,\
 And the Northern Gale, it blows so strong,\
 ***Bold Riley-oh has gone away!***
 
-> ***Goodbye my sweetheart, goodbye my dear-o...***
+> ***Goodbye my sweetheart, goodbye my dear-o,\
+Bold Riley-oh, bold Riley,\
+Goodbye my darling, goodbye my dear-o,\
+Bold Riley-oh has gone away.***
 
 So we're outward bound for the Bengal Bay,\
 ***Bold Riley-oh, bold Riley,***\
