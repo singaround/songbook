@@ -1,47 +1,37 @@
 ---
 templateKey: song
 title: Shallow Brown  
-wordsBy:
-tuneBy:
-chorusLine:
-songLine:
+published: false
+wordsBy: Traditional
+tuneBy: Traditional
+chorusLine: Shallow, Oh Shallow Brown
+songLine: Oh I’m going to leave her
 tags:
  - song
+ - more_chorus_than_verse
+ - African_or_African-American_origin
+ - farewell
 description:
 date: 2019-03-07T08:05:12.000Z
 ---
-Oh I'm going to leave her
+Oh I’m going to leave her\
+***Shallow, Oh Shallow Brown***\
+Oh I’m going to leave her\
+***Shallow, Oh Shallow Brown***
 
-Shallow, oh Shallow Brown
+I have put my clothes in order\
+***Shallow, Oh Shallow Brown***\
+For our packet leaves tomorrow\
+***Shallow, Oh Shallow Brown***
 
-Oh I'm going to leave her
+Gonna ship on board a whaler\
+Ship on board a whaler
 
-Shallow, oh Shallow Brown
+Bound away to St. George’s\
+Bound away to St. George’s
 
-Ship on board a Whaler
-
-I'm gonna ship on board a Whaler
-
-Bound away to St. George's
-
-Bound away to St. George's
-
-Love you well Julianna
-
+Love you well Julianna\
 I love you well Julianna
 
-Master's going to sell me
-
-Master's going to sell me
-
-Sell me to a Yankee
-
-He's gonna sell me to a Yankee
-
-Sell me for a dollar
-
-A great big Spanish dollar
-
-Gonna cross them distant mountains
-
-I'm gonna find them crystal fountains
+Gonna cross them distant mountains\
+I’m gonna find them crystal fountains
