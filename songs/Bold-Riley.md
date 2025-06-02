@@ -9,7 +9,6 @@ songLine: Our anchor's aweigh and our sails are set
 tags:
   - women_on_the_shore
   - more_chorus_than_verse
-  - non-male_narrator
   - farewell
   - romantic_love
   - song
