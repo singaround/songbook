@@ -99,12 +99,12 @@ And to you, for whom adversity has dealt its mortal blow\
 Turn to and put out all your strength of arm and heart and brain\
 ***And like the Mary Ellen Carter, rise again***
 
-> ***Rise again, rise again!\
-<span style="color:blue">Though your heart it be broke and your life about to end</span>\
-<span style="color:blue">No matter what you've lost, be it a home, a love, a friend</span>\
-<span style="color:blue">Like the Mary Ellen Carter, rise again!</span>\***
-> 
-> ***Rise again, rise again!\
-<span style="color:blue">Though your heart it be broke and your life about to end</span>\
-<span style="color:blue">No matter what you've lost, be it a home, a love, a friend</span>\
-<span style="color:blue">Like the Mary Ellen Carter, rise again!</span>\***
+>***Rise again, rise again!\
+<span style="color:green">Though your heart it be broke and your life about to end</span>\
+<span style="color:green">No matter what you've lost, be it a home, a love, a friend</span>\
+<span style="color:green">Like the Mary Ellen Carter, rise again!</span>***
+
+>***Rise again, rise again!\
+<span style="color:green">Though your heart it be broke and your life about to end</span>\
+<span style="color:green">No matter what you've lost, be it a home, a love, a friend</span>\
+<span style="color:green">Like the Mary Ellen Carter, rise again!</span>\***
