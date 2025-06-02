@@ -12,6 +12,7 @@ tags:
   - appears_in_Fishermans_Friends
   - ship
   - Scotland
+  - song
 date: 2019-03-07T08:05:12.000Z
 description: >-
   By the 1820s the relativity milder northern waters were fished clean, and
