@@ -10,6 +10,7 @@ songLine: On a fine summer's morning as we lay at the quay
 tags:
   - song
   - shipwreck
+  - ballad
   - minor_key
 date: 2025-04-03T08:05:12.000Z
 description:
@@ -41,7 +42,7 @@ And I wondered if ever we would reach our home port\
 Or if we'd all be lost in the storm
 
 >***I for honour and for praise\
-Sailed the sea throughout the days\
+Sailed the sea throughout me days\
 In cold ground I'll never lay\
 I'd rather die on the ocean\
 Rather die on the ocean***
@@ -57,7 +58,7 @@ And I knew that the might of the sea had finished me\
 And I wished that I'd drowned in the storm
 
 >***I for honour and for praise\
-Sailed the sea throughout the days\
+Sailed the sea throughout me days\
 In cold ground I'll never lay\
 I'd rather die on the ocean\
 Rather die on the ocean***
@@ -68,7 +69,7 @@ In search of the garlands of honour and praise\
 And I wish that I'd drowned in the storm
 
 >***I for honour and for praise\
-Sailed the sea throughout the days\
+Sailed the sea throughout me days\
 In cold ground I'll never lay\
 I'd rather die on the ocean\
 Rather die on the ocean***
