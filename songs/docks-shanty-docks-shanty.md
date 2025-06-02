@@ -7,6 +7,7 @@ tuneBy: © Carlo Ritchie
 chorusLine: 'So I''ll paint my sails red, and I''ll sail out to sea'
 songLine: 'Oh my name is De Clisson, no sailor am I'
 tags:
+  - song
   - non-male_narrator
   - seafaring_women
   - Jeanne_de_Clisson
