@@ -15,7 +15,8 @@ tags:
   - historic_events
   - Royal_Navy
   - LGBTQ_plus
-  - Southern_England 
+  - Southern_England
+  - song
 date: 2019-03-02T23:16:44.616Z
 description: >-
   Based on the account from "The Female Shipwright, or Life and Extraordinary
