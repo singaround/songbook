@@ -16,9 +16,9 @@ description: >-
   These words were found in the log book of The Three Brothers, a whaling ship
   from Nantucket working in the North Atlantic in 1846.
 ---
-Dark clouds are on the summer sky,
-There's thunder in the wind.
-Row on, row on and homeward hie,
+Dark clouds are on the summer sky,\
+There's thunder in the wind.\
+Row on, row on and homeward hie,\
 Nae give one look behind.
 
 > ***Row on, row on, another day\
@@ -26,23 +26,26 @@ May shine with brighter light.\
 Ply, ply the oars and haul away,\
 There's dawn beyond the night.***
 
-Bear where thou goest these words of love,
-Say all that words can say.
-Changeless affection strength may prove,
+Bear where thou goest these words of love,\
+Say all that words can say.\
+Changeless affection strength may prove,\
 But speed upon the way.
 
 > ***Row on, row on...***
 
-Like yonder river would I glide
-To where my love would be,
-My barque would soon outsail the tide
+Like yonder river would I glide\
+To where my love would be,\
+My barque would soon outsail the tide\
 That flows towards the sea.
 
-> ***Row on, row on...***
+> ***Row on, row on, another day\
+May shine with brighter light.\
+Ply, ply the oars and haul away,\
+There's dawn beyond the night.***
 
-Row on, row on, God speed the way,
-Thou canst not tarry here.
-Clouds gather round the closing day,
+Row on, row on, God speed the way,\
+Thou canst not tarry here.\
+Clouds gather round the closing day,\
 Tomorrow may be clear.
 
 > ***Row on, row on...***
