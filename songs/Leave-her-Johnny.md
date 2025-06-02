@@ -13,6 +13,7 @@ tags:
   - Assassins_Creed
   - farewell
   - minor_key
+  - song
 date: 2019-03-07T08:05:12.000Z
 description: >-
   This shanty could be used at the pumps or the capstan, but had a more famous
