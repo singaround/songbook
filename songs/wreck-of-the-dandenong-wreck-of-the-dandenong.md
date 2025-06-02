@@ -53,8 +53,8 @@ Those precious lives to save
 
 > ***And I dream of you, I dream of sleep\
 I dream of bein' warm\
-<span style="color:blue">And pray the sea will leave me be</span>\
-<span style="color:blue">To see another dawn</span>***
+<span style="color:green">And pray the sea will leave me be</span>\
+<span style="color:green">To see another dawn</span>***
 
 Now some in boats they tried to reach\
 That kind and friendly barque\
@@ -66,11 +66,11 @@ And the rest now sleep in the briny deep\
 Along with the Dandenong
 
 > ***And I dream of you, I dream of sleep\
-<span style="color:blue">I dream of comin' home</span>\
-<span style="color:blue">But a mile of water buries me</span>\
-<span style="color:blue">Beneath this ragin' foam</span>***
+<span style="color:green">I dream of comin' home</span>\
+<span style="color:green">But a mile of water buries me</span>\
+<span style="color:green">Beneath this ragin' foam</span>***
 >
 > ***And I dream of you, I dream of sleep\
-<span style="color:blue">I dream of bein' warm</span>\
-<span style="color:blue">But through the night I have to sail</span>\
-<span style="color:blue">To brave this raging storm</span>***
+<span style="color:green">I dream of bein' warm</span>\
+<span style="color:green">But through the night I have to sail</span>\
+<span style="color:green">To brave this raging storm</span>***
