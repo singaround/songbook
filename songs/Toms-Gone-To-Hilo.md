@@ -8,6 +8,7 @@ chorusLine: 'Away down Hilo, Tom’s gone to Hilo'
 songLine: 'Tommy’s gone, and I’ll Go too'
 date: 2019-03-07T08:05:12.000Z
 tags:
+  - song
   - non-male_narrator
   - women_on_the_shore
   - lament
