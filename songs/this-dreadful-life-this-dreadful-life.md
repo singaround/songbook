@@ -67,5 +67,5 @@ Who has the urge to go.
 
 >***I have sailed across the ocean,\
 I have rolled upon the sea,\
-<span style="color:blue">And this dreadful life I used to live\
+<span style="color:green">And this dreadful life I used to live\
 Is not the life for me.</span>***
