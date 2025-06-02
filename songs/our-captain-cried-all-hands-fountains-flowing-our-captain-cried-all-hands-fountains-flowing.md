@@ -5,6 +5,7 @@ published: true
 songLine: Our captain cried all hands we sail tomorrow
 tuneLink: 'https://www.youtube.com/watch?v=2as0Ab6pBJ4'
 tags:
+  - song
   - women_on_the_shore
   - ballad
   - farewell
