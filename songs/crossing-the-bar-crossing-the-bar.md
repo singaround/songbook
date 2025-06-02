@@ -11,6 +11,7 @@ tags:
   - farewell
   - minor_key
   - originally_a_poem
+  - song
 date: 2019-03-11T19:38:12.765Z
 description:
 ---
