@@ -13,18 +13,19 @@ tags:
   - appears_in_a_film
   - appears_in_Fishermans_Friends
   - piracy
+  - song
 date: 2019-03-13T22:54:34.527Z
-description: A rewrite with verses based on the Pyrates Royale version, and the chorus edited to match how most people sing it at Auntie Shanty.
+description: A version with verses based on the Pyrates Royale version, with a slightly different chorus.
 ---
 The Navy would never have a lass at sea\
 ***Away Santianna***\
 So I went in search of piracy\
 ***All along the coast of Mexico***
 
-> ***So heave her up and away we'll go***\
-> ***Away Santianna***\
-> ***Heave her up and away we'll go***\
-> ***All along the coast of Mexico***
+> ***So heave her up and away we'll go\
+Away Santianna\
+Heave her up and away we'll go\
+All along the coast of Mexico***
 
 And now we sail the Southern Seas\
 ***Away Santianna***\
@@ -45,7 +46,10 @@ When I was a young lass in my prime\
 I had them sailor lads two at a time\
 ***All along the coast of Mexico***
 
-> ***So heave her up and away we'll go...***
+> ***So heave her up and away we'll go\
+Away Santianna\
+Heave her up and away we'll go\
+All along the coast of Mexico***
 
 But I'd never leave the sea to settle down\
 ***Away Santianna***\
