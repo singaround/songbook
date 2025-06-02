@@ -13,6 +13,7 @@ tags:
   - feminist
   - comedy
   - Janie_Meneely
+  - song
 date: 2019-03-13T22:46:22.211Z
 description: "[Janie Meneely](http://www.janiemeneely.com/) writes modern sea
   songs celebrating the maritime history, characters, and traditions of the
