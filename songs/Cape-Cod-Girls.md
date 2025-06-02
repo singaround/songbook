@@ -9,6 +9,7 @@ tags:
   - song
   - more_chorus_than_verse
   - Australia
+  - song
 date: 2019-03-07T08:05:12.000Z
 description: >-
   This was likely used as a long haul or halyard shanty. The named town could be substituted for the name of another
