@@ -16,9 +16,11 @@ tags:
   - historic_events
   - piracy
   - rebellion
+  - naval_warfare
   - Nancy_Kerr
   - Cicely_Fox_Smith
   - Ireland
+  - song
 date: 2019-03-13T22:06:27.563Z
 description: >-
   Nancy Kerr's lyrics draw loosely on the account of the 1593 meeting of Irish
@@ -39,10 +41,10 @@ For there’s nothing like dominion of the water\
 From the rocky coast of Kerry to the bloody Spanish Main\
 It’s the best thing you can ever teach your daughter
 
-> ***Broadside to broadside, two captains collide***\
-> ***Queen of the spheres and queen of the tide***\
-> ***Regalia and rebellion go sailing side by side***\
-> ***Haul away, sister, haul away***
+> ***Broadside to broadside, two captains collide\
+Queen of the spheres and queen of the tide\
+Regalia and rebellion go sailing side by side\
+Haul away, sister, haul away***
 
 Plunder men for treasure, and never heed their blows\
 For there’s nothing given freely to a woman\
