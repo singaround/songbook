@@ -10,6 +10,7 @@ tags:
   - women_on_the_shore
   - more_chorus_than_verse
   - farewell
+  - song
 date: 2019-03-07T08:05:12.000Z
 ---
 The boats are sailing round the bay,\
