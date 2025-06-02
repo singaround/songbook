@@ -5,6 +5,7 @@ published: true
 chorusLine: Oh the rare old whale
 songLine: Oh the whale is free of the boundless sea
 tags:
+  - song
   - sea_creatures
   - whales
   - whaling
