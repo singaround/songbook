@@ -10,6 +10,7 @@ tags:
   - romantic_love
   - farewell
   - Northwest_England
+  - song
 date: 2019-03-11T19:42:04.351Z
 ---
 Farewell to you my own true love\
@@ -27,17 +28,17 @@ River Mersey, fare thee well \
 I am bound for California \
 A place I know right well 
 
->***So fare thee well, my own true love\
-When I return, united we will be\
-It's not the leaving of Liverpool that grieves me\
-But my darling when I think of thee***
+>***So fare thee well...***
 
 I'm bound for California \
 By the way of stormy Cape Horn \
 And I promise to write you a letter, love \
 When I am homeward bound 
 
->***So fare thee well...***
+>***So fare thee well, my own true love\
+When I return, united we will be\
+It's not the leaving of Liverpool that grieves me\
+But my darling when I think of thee***
 
 I have signed on a Yankee clipper ship \
 Davy Crockett is her name \
@@ -51,7 +52,10 @@ And I think I know him well \
 If a man's a seaman, he can get along \
 If not, then he's sure in Hell 
 
->***So fare thee well...***
+>***So fare thee well, my own true love\
+When I return, united we will be\
+It's not the leaving of Liverpool that grieves me\
+But my darling when I think of thee***
 
 Farewell to lower Frederick Street \
 Ensign Terrace and Park Lane \
