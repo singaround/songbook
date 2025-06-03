@@ -9,6 +9,7 @@ tags:
   - song
   - more_chorus_than_verse
   - African_or_African-American_origin
+  - LGBTQ_plus
 description: 
 ---
 I wish I was a cabin boy, aboard a Man O'War\
