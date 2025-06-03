@@ -49,7 +49,7 @@ description: >-
 
 Oh, she went down last October in a pouring, driving rain\
 The skipper, he'd been drinking, and the mate, he felt no pain\
-How close to Three Mile Rock, and she was dealt her mortal blow\
+Too close to Three Mile Rock, and she was dealt her mortal blow\
 Then the Mary Ellen Carter settled low\
 There were just us four aboard her when she finally was awash\
 We worked like hell to save her, all heedless of the cost\
@@ -62,7 +62,7 @@ All those who loved her best and who were with her till the end\
 Will make the Mary Ellen Carter rise again!***
 
 Well, the comp'ny wrote her off, not a nickel would they spend\
-She gave twenty years of service, boys, and met a sorry end\
+She gave twenty years of service, boys, then met a sorry end\
 But insurance paid the loss to us, said "Let her rest below"\
 Then they laughed at us, said we had to go\
 But we talked of her all winter, sometimes days around the clock\
