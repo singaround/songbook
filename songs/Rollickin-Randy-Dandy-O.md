@@ -10,6 +10,7 @@ tags:
   - song
   - more_chorus_than_verse
   - Assassins_Creed
+  - farewell
 description:
 date: 2019-03-07T08:05:12.000Z
 ---
@@ -35,10 +36,7 @@ Heave away, bullies, ye parish-rigged bums,\
 Take yer hands from yer pockets and don't suck yer thumbs\
 ***To me rollickin' Randy Dandy O!***
 
->***Heave a pawl, oh, heave away,\
-Weigh, hey, roll and go!\
-The anchor's on board an' the cable's all stored,\
-To me rollickin' Randy Dandy O!***
+>***Heave a pawl, oh, heave away...***
 
 We're outward bound for Vallipo bay,\
 ***Weigh, hey, roll an' go!***\
