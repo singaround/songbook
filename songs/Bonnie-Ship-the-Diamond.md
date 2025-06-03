@@ -61,4 +61,9 @@ The jackets of the blue\
 When we get back to Peterhead\
 We'll have full pockets too
 
+> ***For it's cheer up my lads\
+Let your hearts never fail\
+For the bonnie ship the Diamond\
+Goes a-hunting for the whale***
+
 > ***For it's cheer up my lads...***
