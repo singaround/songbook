@@ -8,7 +8,7 @@ songLine: What shall we do with the Patriarchy?
 tags:
   - song
   - more_chorus_than_verse
-  - feminism
+  - feminist
   - rewritten
 date: 2019-03-13T22:59:25.352Z
 description: >-
