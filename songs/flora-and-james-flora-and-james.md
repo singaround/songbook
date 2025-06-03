@@ -56,7 +56,7 @@ Unto some foreign shore where the loud cannons roar\
 To be with you when stormy winds blow.” \
 ***To be with you when stormy winds blow\
 Unto some foreign shore\
-where the loud cannons roar\
+Where the loud cannons roar\
 To be with you when stormy winds blow.”*** 
 
 Two sailors they shipped out, these lovers so true\
