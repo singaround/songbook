@@ -5,23 +5,23 @@ summary: List of the dates of forthcoming sessions
 tags:
   - blog
 ---
-The Auntie Shanty session is at the [Jolly Farmers pub](https://www.jollyfarmers-oxford.co.uk) in central Oxford (OX1 1LD), on the **first Monday** of every month. We're often in the garden or the downstairs room - ask at the bar if you can't find us.
+The Auntie Shanty session is at the [Jolly Farmers](https://www.jollyfarmers-oxford.co.uk) pub in central Oxford (OX1 1LD).
 
-### Dates of next sessions
+### Dates
 <sup>(list last updated 3rd June 2025)</sup>
 
-**Monday 30th June 2025** - a special "songbook session" - not singing, but working through the songbook discussing and amending lyrics. All welcome, but it may not be the best introduction if you're not been to Auntie Shanty before. From 6pm.
+**Monday 30th June 2025** - a special "songbook session" - not singing, but working through the songbook discussing and amending lyrics. All welcome, but it may not be the best introduction if you've not been to Auntie Shanty before. From 6pm.
 
-**Monday 7th July 2025** - Auntie Shanty Session. Arrive from 6pm, singing from 6:30. All welcome.
+**Monday 7th July 2025** - Auntie Shanty Session. Arrive from 6pm, singing from 6:30. 
 
-**Monday 4th August 2025**- Auntie Shanty Session. Arrive from 6pm, singing from 6:30. All welcome.
+**Monday 4th August 2025**- Auntie Shanty Session. Arrive from 6pm, singing from 6:30. 
 
-**Monday 1st September 2025**- Auntie Shanty Session. Arrive from 6pm, singing from 6:30. All welcome.
+**Monday 1st September 2025**- Auntie Shanty Session. Arrive from 6pm, singing from 6:30.
 
-**Monday 29th September 2025**- a special "songbook session" - not singing, but working through the songbook discussing and amending lyrics. All welcome, but it may not be the best introduction if you're not been to Auntie Shanty before. From 6pm.
+**Monday 29th September 2025**- a special "songbook session" - not singing, but working through the songbook discussing and amending lyrics. All welcome, but it may not be the best introduction if you've not been to Auntie Shanty before. From 6pm.
 
-**Monday 6th October 2025**- Auntie Shanty Session. Arrive from 6pm, singing from 6:30. All welcome.
+**Monday 6th October 2025**- Auntie Shanty Session. Arrive from 6pm, singing from 6:30.
 
-**Monday 3rd November 2025**- Auntie Shanty Session. Arrive from 6pm, singing from 6:30. All welcome.
+**Monday 3rd November 2025**- Auntie Shanty Session. Arrive from 6pm, singing from 6:30.
 
-**Monday 1st December**- Auntie Shanty Session. Arrive from 6pm, singing from 6:30. All welcome.
+**Monday 1st December**- Auntie Shanty Session. Arrive from 6pm, singing from 6:30.
