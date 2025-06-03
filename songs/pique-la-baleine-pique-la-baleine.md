@@ -15,7 +15,9 @@ tags:
 date: 2019-11-11T19:46:27.670Z
 description: >-
   A French South Seas Sperm Whale Fishery song, this might be the most romantic
-  whaling shanty out there...
+  whaling shanty out there.
+
+  An English-language translation is provided at the bottom of the page
 ---
 Pour retrouver ma douce amie\
 ***Oh mes boués, ouh là ouh là là.***\
