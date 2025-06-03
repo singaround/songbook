@@ -17,10 +17,10 @@ In South Australia I was born\
 In South Australia round Cape Horn\
 ***We're bound for South Australia***
 
-> ***Haul away you rolling Kings***\
-> ***(To me) heave away, haul away***\
-> ***Haul away, you'll hear me sing***\
-> ***We're bound for South Australia***
+> ***Haul away you rolling Kings\
+(To me) heave away, haul away\
+Haul away, you'll hear me sing\
+We're bound for South Australia***
 
 As I walked out one morning fair\
 ***(To me) heave away, haul away***\
@@ -41,7 +41,10 @@ We run all night and we run all day\
 We ran until I sailed away\
 ***We're bound for South Australia***
 
-> ***Haul away you rolling Kings...***
+> ***Haul away you rolling Kings\
+(To me) heave away, haul away\
+Haul away, you'll hear me sing\
+We're bound for South Australia***
 
 There ain't but one thing grieves me mind\
 ***(To me) heave away, haul away***\
