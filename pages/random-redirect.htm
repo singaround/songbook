@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jump to a random Auntie Shanty song!</title>
+    <script>
+      // Generate a random number
+const randomNumber = Math.floor(Math.random() * 120); // Define maximum song in range - this is the hardcoded number of songs in book, so will need updating when songs change. If not updated, then the high-number songs will never be picked by the random number.
+
+// Build the URL with the random number
+const url = `http://auntieshanty.org/n/${randomNumber}`
+
+// Redirect the user to the generated URL
+window.location.href = url;
+    </script>
+</head>
+<body>
+    <p>Redirecting...</p>
+</body>
