@@ -15,11 +15,11 @@ tags:
 date: 2019-03-07T08:05:12.000Z
 description: In this version we make it clear that we're spending the money **with** the lassies and not **on** the lassies.
 ---
-> ***And it's all for me grog, me jolly, jolly grog***\
-> ***All for my beer and tobacco***\
-> ***Well, I spent all my tin***\
-> ***With the lassies drinking gin***\
-> ***Far across the Western Ocean I must wander***
+> ***And it's all for me grog, me jolly, jolly grog\
+All for my beer and tobacco\
+Well, I spent all my tin\
+With the lassies drinking gin\
+Far across the Western Ocean I must wander***
 
 Where are my boots, my nogging, nogging boots?\
 ***All gone for beer and tobacco***\
@@ -35,7 +35,11 @@ Well the sleeves they got worn out\
 And the collar's turned about\
 And the tail is looking out for better weather
 
-> ***And it's all for me grog, me jolly, jolly grog...***
+> ***And it's all for me grog, me jolly, jolly grog\
+All for my beer and tobacco\
+Well, I spent all my tin\
+With the lassies drinking gin\
+Far across the Western Ocean I must wander***
 
 Where is my bed, my nogging, nogging bed?\
 ***All gone for beer and tobacco***\
