@@ -44,7 +44,7 @@ And left them nervous wrecks\
 The Brits were apprehensive\
 For fear she'd come in view\
 The pirate queen would pick them clean\
-Before they'd quite hove to\
+Before they'd quite hove to
 
 > ***She'll steal the pennies off your eyes...***
 
