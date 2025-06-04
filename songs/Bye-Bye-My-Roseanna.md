@@ -49,4 +49,7 @@ Roseanne, my Roseanne\
 I'm going away but not to stay\
 ***I won't be home tomorrow.***
 
-> ***Bye-bye, bye-bye, bye-bye, bye-bye***
+> ***Bye-bye, bye-bye, bye-bye, bye-bye\
+Bye-bye, my Roseanna\
+Bye-bye, bye-bye, bye-bye, bye-bye\
+I won't be home tomorrow***
