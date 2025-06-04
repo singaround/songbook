@@ -17,4 +17,4 @@ It was set up in 2015 by Hannah Jakes as an intersectional, feminist session - w
 
 There's a lot more information over at the [FAQ](about)
 
-<sup>[FAQs](about) - [dates](/posts/dates-of-next-sessions/) - [songbook](songbook) - [random song](/pages/randomsong.html)</sup>
+<sup>[FAQs](about) - [dates](/posts/dates-of-next-sessions/) - [songbook](songs) - [random song](/pages/randomsong.html)</sup>
