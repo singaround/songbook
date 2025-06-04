@@ -53,7 +53,7 @@ Then pirate queens may share the seas in common
 
 > ***Broadside to broadside, two captains collide...***
 
-Blades are bared for battle, these queens of half the world\
+🔷Blades are bared for battle, these queens of half the world\
 And cannons primed and ready with their thunder\
 They know just what they fight for when the flag o’ war’s unfurled\
 It’s freedom they’ll be seizing with their plunder
