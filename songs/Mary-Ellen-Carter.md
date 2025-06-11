@@ -34,7 +34,7 @@ description: >-
   Ellen Carter".
 
 
-  As Cusick tells in One Warm Line, a documentary about Rogers, he started to sing it
+  As Cusick tells in [One Warm Line](https://www.youtube.com/watch?v=-h9A2RAfv9M), a documentary about Rogers, he started to sing it
   and soon was alternately shouting out "Rise again, rise again" and holding his breath
   as the seas washed over him. At seven o'clock that morning a Coast Guard helicopter
   spotted him and pulled him to safety. Only three men of the thirty-four who had been
