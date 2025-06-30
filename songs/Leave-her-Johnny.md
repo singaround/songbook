@@ -16,19 +16,8 @@ tags:
   - song
 date: 2019-03-07T08:05:12.000Z
 description: >-
-  This shanty could be used at the pumps or the capstan, but had a more famous
-  function as the last song of the voyage. Shantysingers had protected status on
-  the ship compared to other sailors. Although they were a non ranking sailor,
-  they made the ship far more efficient and were the main source of
-  entertainment for the long months of sailing. They were in sufficiently short
-  supply and sufficiently important that they could criticise the ship without
-  being punished. Throughout the voyages, their fellow sailors would share their
-  objections to any aspect of the journey - the destination, the food, the
-  captain and other officers. Once the ship was warping in through the locks or
-  sailing down the river to approach the pier head the shanty singer would let
-  rip with this song, finally airing months of pent up frustrations.  As such,
-  every time this song was sung would have been different to match the specific
-  anger of the ship. The verses listed below are ***not*** a command, and if you
+  This shanty had a famous function as the last song of the voyage. Once the ship was warping in through the locks or sailing down the river to approach the pier   head the shanty singer would let rip with this song, finally airing months of pent up frustrations.  As such, every time this song was sung would have been different to match the specific anger of the ship.   
+  The verses listed below are ***not*** a command, and if you
   sang them all you'd be here a very long while. Rather, pick and choose your
   favourites. Or better still, write some yourself about whatever's grinding
   your gears - the patriarchy, the government, rival pubs, viola players etc.
@@ -69,11 +58,22 @@ We swear by rote for want of more,\
 But now we're through and go to shore\
 ***And it's time for us to leave her***
 
-**==== END ====**\
-**[some potential other verses listed below if you'd like to extend it]**
+>***Leave her, Johnny...***
 
 It's pump or drown, the old man said,\
-Or else, by Christ, we'll all be dead.
+***Leave her, Johnny, leave her***\
+Or else, by Christ, we'll all be dead\
+***And it's time for us to leave her***
+
+>***Leave her, Johnny...***
+
+And now it's time to say goodbye\
+***Leave her, Johnny, leave her***\
+For the old pierhead's a-drawing nigh\
+***And it's time for us to leave her***
+
+**==== SUGGESTED END ====**\
+**[some potential other verses listed below if you'd like to extend it]**
 
 No more Cape Horn, no more stand by,\
 We'll pump 'er out and we'll leave 'er dry.
@@ -98,6 +98,3 @@ And the bloomin' crowd is fever-stricked.
 
 Oh the rats are gone and we the crew,\
 It's damned high time we left 'er too.
-
-And now it's time to say goodbye\
-For the old pierhead's a-drawing nigh
