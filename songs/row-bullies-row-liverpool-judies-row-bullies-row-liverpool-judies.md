@@ -35,7 +35,7 @@ They'd had too much liquor and they wished they were dead.
 Then up stepped the mate in a hell of a stew,\
 Looking for work for the sailors to do.\
 “It's foretops'l halyards!” he loudly do roar,\
-“And lay aloft Paddy you son of an whore!”
+“And lay aloft Paddy you son of an oar!”
 
 ***And it's row, row bullies row...***
 
