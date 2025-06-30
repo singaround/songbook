@@ -18,7 +18,7 @@ date: 2019-11-11T19:42:45.837Z
 >***My soul has been torn from me and I am bleeding\
 My heart it has been rent and I am crying\
 For the beauty around me pales and I am screaming\
-I am the last of the Great Whales and I am dying.***
+I am the last of the great whales and I am dying.***
 
 Last night I heard the cry of my last companion\
 The roar of the harpoon gun, then I was alone\
@@ -38,4 +38,4 @@ The elephant or the seal or your sons and daughters?
 >***My soul has been torn from me and I am bleeding\
 My heart it has been rent and I am crying\
 For the beauty around me pales and I am screaming\
-I am the last of the Great Whales and I am dying.***
+I am the last of the great whales and I am dying.***
