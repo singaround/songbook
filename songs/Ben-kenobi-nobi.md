@@ -31,16 +31,22 @@ Who's the Fountain, who's the Source?\
 > ***Too-Rye-Ay, Oh, Too-Rye-Ay...***
 
 Who does Alec Guinness play?\
-Who's not in The Darling Buds Of May?
+***Ben Kenobi, Nobi Too-Rye-Ay***\
+Who's not in The Darling Buds Of May?\
+***Ben Kenobi, Nobi Too-Rye-Ay***
 
 > ***Too-Rye-Ay, Oh, Too-Rye-Ay...***
 
 Who stands next to Harrison Ford?\
-Carrying a bloody great big sword?
+***Ben Kenobi, Nobi Too-Rye-Ay***\
+Carrying a bloody great big sword?\
+***Ben Kenobi, Nobi Too-Rye-Ay***
 
 > ***Too-Rye-Ay, Oh, Too-Rye-Ay...***
 
 What comes after Jedi Day?\
-Jedi Night, so the old men say
+***Ben Kenobi, Nobi Too-Rye-Ay***\
+Jedi Night, so the old men say\
+***Ben Kenobi, Nobi Too-Rye-Ay***
 
 > ***Too-Rye-Ay, Oh, Too-Rye-Ay...***
