@@ -24,6 +24,10 @@ description: >-
   were three of the British battleships which were lost. This song can be found
   on the album, and Les has kindly given us permission to reproduce the lyrics here.
 ---
+<span style="color:blue">Green: voice 1</span>\
+<span style="color:green">Blue: voice 2</span>\
+<span style="color:purple">Purple: both</span>
+
 <span style="color:blue">Where are you goin' my Billy-O?</span>\
 <span style="color:blue">Where are you goin' my Billy-O?</span>\
 <span style="color:green">I'm joining a ship in Scapa Flow,</span>\
