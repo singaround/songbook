@@ -44,7 +44,7 @@ Take in your slack ***(take in your slack)***\
 
 Now some of the lads they had been drinkin' **(drinkin'!)**\
 And meself was heavy on the booze  **(booze! booze!)**\
-So I sat upon my old sea-chest a -thinkin' **(a-thinkin!)**\
+So I sat upon my old sea-chest a-thinkin' **(a-thinkin!)**\
 That I'd crawl into me bunk and have a snooze **(snooze! snooze!)**
 
 >Paddy lay back ***(Paddy lay back)***...
