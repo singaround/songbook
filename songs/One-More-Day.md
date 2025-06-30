@@ -45,7 +45,7 @@ Only one more day a-cursin'
 Heave and sight the anchor, Johnny\
 For we're close 'board the port, Johnny
 
-**===SUGGESTED END===**
+**===SUGGESTED END===**\
 **potential extra verses included below**
 
 Put on your long-tail blue, Johnny\
