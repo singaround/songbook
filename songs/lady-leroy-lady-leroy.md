@@ -51,7 +51,7 @@ He hailed her and found she was the Lady Leroy
 He's bade them return to old Ireland once more\
 Or broadside and broadside upon them would pour\
 These brave Irish heroes have made this reply\
-"We will never surrender, We'll conquer or die"
+"We will never surrender. We'll conquer or die"
 
 So it's broadside and broadside each other did pour\
 And louder and louder the cannons did roar\
