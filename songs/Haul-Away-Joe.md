@@ -27,11 +27,11 @@ But then he got his head chopped off\
 Which spoiled his constitut-i-on\
 ***Away, haul away, we'll haul away Joe***
 
-> ***(To me) way, haul away\
+> ***Way, haul away\
 We'll haul away together\
-(To me) way, haul away\
+Way, haul away\
 We'll haul away Joe\
-(To me) way, haul away\
+Way, haul away\
 We'll haul for better weather\
 Away, haul away, we'll haul away Joe***
 
@@ -42,7 +42,7 @@ He built a church in Dublin Town\
 And on it put a steeple\
 ***Away, haul away, we'll haul away Joe***
 
-> ***(To me) way, haul away...***
+> ***Way, haul away...***
 
 Now when I was a little boy\
 And so me mother told me\
@@ -51,7 +51,7 @@ That if I didn't kiss the girls\
 Me lips would all grow mouldy\
 ***Away, haul away, we'll haul away Joe***
 
-> ***(To me) way, haul away...***
+> ***Way, haul away...***
 > 
 🔷Well now I only kiss the boys\
 🔷It's them I like to hold me\
@@ -60,11 +60,11 @@ Me lips would all grow mouldy\
 🔷And me lips did not go mouldy\
 ***Away, haul away, we'll haul away Joe***
 
-> ***(To me) way, haul away\
+> ***Way, haul away\
 We'll haul away together\
-(To me) way, haul away\
+Way, haul away\
 We'll haul away Joe\
-(To me) way, haul away\
+Way, haul away\
 We'll haul for better weather\
 Away, haul away, we'll haul away Joe***
 
@@ -75,7 +75,7 @@ The captain's in his cabin lads\
 Drinking wine and brandy\
 ***Away, haul away, we'll haul away Joe***
 
-> ***(To me) way, haul away...***
+> ***Way, haul away...***
 
 Way haul away\
 We'll haul away the bowline\
@@ -84,4 +84,4 @@ Way, haul away\
 The packet is a-rollin'\
 ***Away, haul away, we'll haul away Joe***
 
-> ***(To me) way, haul away...***
+> ***Way, haul away...***
