@@ -16,7 +16,8 @@ tags:
   - song
 date: 2019-03-07T08:05:12.000Z
 description: >-
-  This shanty had a famous function as the last song of the voyage. Once the ship was warping in through the locks or sailing down the river to approach the pier   head the shanty singer would let rip with this song, finally airing months of pent up frustrations.  As such, every time this song was sung would have been different to match the specific anger of the ship.\
+  This shanty had a famous function as the last song of the voyage. Once the ship was warping in through the locks or sailing down the river to approach the pier   head the shanty singer would let rip with this song, finally airing months of pent up frustrations.  As such, every time this song was sung would have been different to match the specific anger of the ship.
+
   The verses listed below are ***not*** a command, and if you
   sang them all you'd be here a very long while. Rather, pick and choose your
   favourites. Or better still, write some yourself about whatever's grinding
