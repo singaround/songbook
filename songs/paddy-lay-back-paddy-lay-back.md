@@ -36,7 +36,11 @@ And jolly boys just across from France **(France! France!)**\
 Not a one of them could speak a word of English **(of English!)**\
 But the answered to the name of 'Month's Advance' **(vance! vance!)**
 
->Paddy lay back ***(Paddy lay back)***...
+>Paddy lay back ***(Paddy lay back)***\
+Take in your slack ***(take in your slack)***\
+***Take a turn around the capstan, heave a-pawl*** (heave a-pawl!)\
+***About ship's station boys be handy*** (be handy!)\
+***For we're off to Valparaiso round the Horn***
 
 Now some of the lads they had been drinkin' **(drinkin'!)**\
 And meself was heavy on the booze  **(booze! booze!)**\
@@ -46,13 +50,17 @@ That I'd crawl into me bunk and have a snooze **(snooze! snooze!)**
 >Paddy lay back ***(Paddy lay back)***...
 
 I woke up in the morning sick and sore **(sick and sore!)**\
-For I knew I was outward bound again **(gen! gen!)**\
+For I knew I was outward bound again **('gain! 'gain!)**\
 When I heard a voice bawling at the door **(the door!)**\
 Get up ye bastard and listen to your name  **(name, name)**
 
->Paddy lay back ***(Paddy lay back)***...
+>Paddy lay back ***(Paddy lay back)***\
+Take in your slack ***(take in your slack)***\
+***Take a turn around the capstan, heave a-pawl*** (heave a-pawl!)\
+***About ship's station boys be handy*** (be handy!)\
+***For we're off to Valparaiso round the Horn***
 
-Well I wish I was in the Jolly Farmers **(the Farmers!)**\
+🔹Well I wish I was in the Jolly Farmers **(the Farmers!)**\
 Along with Irish navvies drinkin' beer **(beer, beer!)**\
 When I thought what jolly lads were sailors **(were sailors!)**\
 And with me flipper I wiped away a tear **(tear, tear!)**
