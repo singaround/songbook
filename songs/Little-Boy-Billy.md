@@ -34,7 +34,7 @@ Said Gorging Jack to Guzzling Jimmy,
 “We’ve naught to eat – let’s eat Billee.”
 
 “O Little Boy Billee, we’re going to kill and eat yur.
-“So undo the top button of your chemise.”
+“So undo the top button of your chemie.”
 
 “O may I say my cataclysm,
 “That my dear mother taught to me?”
