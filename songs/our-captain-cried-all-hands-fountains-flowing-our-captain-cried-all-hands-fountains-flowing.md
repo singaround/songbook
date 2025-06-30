@@ -19,7 +19,7 @@ description: >-
   women in future.
 ---
 Our captain cried all hands we sail tomorrow,\
-Leaving us poor girls behind in grief and sorrow.\
+Leaving our girls behind in grief and sorrow.\
 “Dry off your briny tears and cease your weeping,\
 It's happy we shall be at our next meeting.”
 
@@ -32,7 +32,7 @@ When you could stay at home, free from all dangers?”
 I am your only child, I have no brother.\
 So it's vain to weep for me for I am going\
 To where there's lasting joy and fountains flowing.”\
-\
+
 “When I had gold in store you did invite me,\
 But now I'm low and poor, you mean to slight me."\
 She fell down on the floor like one was dying;\
