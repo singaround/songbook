@@ -19,40 +19,40 @@ Sing fol-the-rol-diddle-ol-day***
 
 Now what'll I do with the herring’s head?\
 I'll make it into a loaf of bread.\
-I'll make it into a loaf of bread\
+***I'll make it into a loaf of bread***\
 ***And all sorts of things***
 
-***Herring's head, loaves of bread,\
+***Herring's head, a loaf of bread,\
 And all sort of things***
 
 >***The herring is the king of the sea...***
 
-Now what'll I do with me herring's eyes?\
+Now what'll I do with the herring's eyes?\
 I'll make 'em into puddings and pies,\
-I'll make 'em into puddings and pies\
+***I'll make 'em into puddings and pies***\
 ***And all sorts of things***
 
 ***Herring's eyes, puddings and pies,\
-Herring's head, loaves of bread\
+Herring's head, a loaf of bread\
 And all sorts of things.***
 
 >***The herring is the king of the sea...***
 
-Now what'll I do with me herring's fins?\
+Now what'll I do with the herring's fins?\
 I’ll make 'em into needles and pins,\
-I’ll make 'em into needles and pins\
+***I’ll make 'em into needles and pins***\
 ***And all sorts of things.***
 
 ***Herring's fins, needles and pins,\
 Herring's eyes, puddings and pies,\
-Herring's head, loaves of bread\
+Herring's head, a loaf of bread\
 And all sorts of things.***
 
 >***The herring is the king of the sea...***
 
-Now what'll I do with me herring's back?\
+Now what'll I do with the herring's back?\
 I’ll make it into a laddie called Jack,\
-I’ll make it into a laddie called Jack\
+***I’ll make it into a laddie called Jack***\
 ***And all sorts of things.***
 
 ***Herring's back, a laddie called Jack,\
@@ -60,9 +60,9 @@ Herring's fins, needles and pins, [etc]***
 
 >***The herring is the king of the sea...***
 
-Now what'll I do with me herring's gills?\
+Now what'll I do with the herring's gills?\
 I’ll make 'em into window sills,\
-I’ll make 'em into window sills\
+***I’ll make 'em into window sills***\
 ***And all sorts of things.***
 
 ***Herring's gills, window sills,\
@@ -70,9 +70,9 @@ Herring's back, a laddie called Jack [etc]***
 
 >***The herring is the king of the sea...***
 
-Now what'll I do with me herring's tail?\
+Now what'll I do with the herring's tail?\
 I’ll make it into a barrel of ale,\
-I’ll make it into a barrel of ale\
+***I’ll make it into a barrel of ale***\
 ***And all sorts of things.***
 
 ***Herring's tail, a barrel of ale,\
