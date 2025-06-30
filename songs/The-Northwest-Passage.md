@@ -34,7 +34,10 @@ I think upon Mackenzie, David Thompson and the rest\
 Who cracked the mountain ramparts and did show a path for me\
 To race the roaring Fraser to the sea.
 
-> ***Ah, for just one time...***
+> ***Ah, for just one time I would take the Northwest Passage\
+To find the hand of Franklin reaching for the Beaufort sea;\
+Tracing one warm line through a land so wide and savage\
+And make a Northwest Passage to the sea.***
 
 How then am I so different from the first men through this way?\
 Like them, I left a settled life, I threw it all away.\
