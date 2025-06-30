@@ -30,7 +30,7 @@ I dreamed my love came standing by\
 Came standing close by my bedside\
 ***Lowlands away***
 
-"He's drowning in the lowland sea\
+He's drowning in the lowland sea\
 ***Lowlands, lowlands away my John***\
 And never more coming home to me\
 ***Lowlands away***
