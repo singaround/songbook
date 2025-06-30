@@ -30,7 +30,7 @@ For we may or might never all meet here again
 Here's a health to the wee lass that I love so well\
 For style and for beauty there's none can excel\
 There's a smile on her countenance as she sits upon my knee\
-There is no man in this wide world as happy as me
+There is noone in this wide world as happy as me
 
 > ***So here's a health to the company and one to my lass...***
 
