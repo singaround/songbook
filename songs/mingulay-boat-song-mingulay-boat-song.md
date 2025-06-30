@@ -16,7 +16,7 @@ date: 2019-03-14T20:47:06.251Z
 ---
 > ***Hill-yo-ho, boys! Let her go, boys!***\
 > ***Bring her head round, into the weather.***\
-> ***Hill-yo-ho, boys! Let her go, boys,***\
+> ***Hill-yo-ho, boys! Let her go, boys!***\
 > ***Sailing homeward to Mingulay.***
 
 What care we though, white the Minch is?\
@@ -26,15 +26,15 @@ Heading homeward to Mingulay.
 
 > ***Hill-yo-ho, boys!...***
 
-Wives are waiting at the pier head,\
-looking seaward from the heather;\
+Partners waiting at the pier head,\
+Looking seaward from the heather;\
 They'll return though, when the sun sets\
-They'll return to Mingulay.
+They'll return home to Mingulay.
 
 > ***Hill-yo-ho, boys!...***
 
 Ships return now, heavy laden,\
-Mothers holding bairns a-crying.\
+Parents holding bairns a-crying.\
 Let her go boys, and we'll anchor\
 'Ere the sun sets on Mingulay.
 
