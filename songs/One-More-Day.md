@@ -28,6 +28,8 @@ Don't you hear the old man growlin'\
 Don't you hear the mate a howlin'\
 ***One more day!***
 
+>***Only one more day...***
+
 Don't you hear the old man callin'\
 Don't you hear the pilot bawlin'
 
@@ -43,8 +45,16 @@ Only one more day a-cursin'
 Heave and sight the anchor, Johnny\
 For we're close 'board the port, Johnny
 
+**===SUGGESTED END===**
+**potential extra verses included below**
+
 Put on your long-tail blue, Johnny\
 For your payday's nearly due.
+
+>***Only one more day, my Johnny,\
+One more day\
+O, rock and roll me over\
+One more day***
 
 We're homeward bound today, Johnny\
 We'll leave her without sorrow, Johnny
@@ -55,7 +65,4 @@ O, an' leave her where she lies, Johnny
 No more gales or heavy weather\
 Only one more day together
 
->***Only one more day, my Johnny,\
-One more day\
-O, rock and roll me over\
-One more day***
+
