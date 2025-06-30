@@ -32,8 +32,7 @@ Look ahead, look astern, look to weather an' a-lee\
 
 There's naught upon the stern, sir, there's naught upon our lee\
 ***Blow high, blow low and so sail we***\
-But there's a lofty ship to wind'ard, an' she's sailin' fast and
-free\
+But there's a lofty ship to wind'ard, an' she's sailin' fast and free\
 ***All a-cruisin' down the coast of High Barbary*** 
 
 Oh hail her, oh hail her, our gallant captain cried\
