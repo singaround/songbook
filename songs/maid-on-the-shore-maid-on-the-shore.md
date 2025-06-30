@@ -38,7 +38,7 @@ Farewell to all sorrow and care-o\
 “It's just what I've been waiting for-o\
 For I've grown so weary of my maidenhead\
 As I walked all alone on the shore, shore, shore\
-As I walked all alone on the shore.”
+***As I walked all alone on the shore.”***
 
 "I'll sing you a song", this fair maid did cry\
 This captain was weeping for joy-o\
