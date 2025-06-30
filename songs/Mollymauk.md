@@ -33,12 +33,12 @@ Ride the wind and go, Mollymauk\
 Down upon the southern ocean sailing\
 Down below Cape Horn***
 
-See the Mollymauk floatin' on her wide white wings\
+See the mollymauk floatin' on her wide white wings\
 And Lord, what a lonely song she sings\
 ***Down upon the southern ocean sailing***\
 ***Down below Cape Horn***\
 And she's got no compass and she's got no gear\
-And there's none can tell you how the Mollymauks steer\
+And there's none can tell you how the mollymauks steer\
 ***Down upon the southern ocean sailing***\
 ***Down below Cape Horn***
 
