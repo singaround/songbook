@@ -7,10 +7,10 @@ tags:
   - song
   - modern_seafaring
 date: 2019-11-11T20:02:45.914Z
-description: The song concerns Capt. Zebulon Tilton, who skippered the schooner Alice B. Wentworth out of Vineyard Haven. He retired at age 83; Rosie and Gertie were his daughters. The song appears on "Cap'n Hawkins' Choice" ( Winter Haven Records).
+description: The song concerns Capt. Zebulon Tilton, who skippered the schooner Alice B. Wentworth out of Vineyard Haven. He retired at age 83; Rosie and Gertie were his daughters. The song appears on "Cap'n Hawkins' Choice" (Winter Haven Records).
 ---
 I'm not tired of the wind, I'm not weary of the sea,\
-But she's prob'ly had a bellyfull of a damned old coot like me.\
+But she's prob'ly had a bellyful of a damned old coot like me.\
 I'm bound a-shore, she's gone for better days,\
 But I'll see her topsail flyin' when I come down off the way.
 
@@ -31,7 +31,10 @@ I've never seen no steamer make much good out of a gale.\
 You can go and pay your taxes on the rationed gas you get;\
 But at least to me, the wind is free, and they haven't run out yet.
 
-> ***Rosie, get my Sunday shoes...***
+> ***Rosie, get my Sunday shoes,\
+Gertie get my walkin' cane.\
+We'll take another walk to see\
+Old Alice sail again.***
 
 If I ever get back to her, you know I'd treat her just the same:\
 Drive her when I want to, I'd sail in freezing rain.\
