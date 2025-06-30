@@ -35,7 +35,7 @@ With the girls of old Maui
 
 >***Rolling down to old Maui, me boys***\
 ***Rolling down to old Maui***\
-***We're homeward bound from the Artic ground***\
+***We're homeward bound from the Arctic ground***\
 ***Rolling down to old Maui***
 
 Once more we sail with a northerly gale\
@@ -60,7 +60,7 @@ Thank God we're homeward bound
 
 >***Rolling down to old Maui, me boys***\
 ***Rolling down to old Maui***\
-***We're homeward bound from the Artic ground***\
+***We're homeward bound from the Arctic ground***\
 ***Rolling down to old Maui***
 
 An ample share of toil and care\
