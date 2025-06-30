@@ -26,7 +26,7 @@ description: >-
   We're not sure what to do with this one - we liked what the [London Sea Shanty
   Collective](https://londonseashantycollective.com/) had done with it at a
   recent workshop, replacing 'John Kanaka' with 'John, the slacker', so we've
-  adopted that
+  adopted that. We've also got a 'space shanty' version [here](https://www.auntieshanty.org/songs/ben-kenobi-nobi/) 
 ---
 I thought I heard the old man say\
 ***John, the slacker, slacker, too lie ay***\
