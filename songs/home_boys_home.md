@@ -61,7 +61,7 @@ And send him up the rigging like his daddy used to do
 
 🔷And if the child’s non-binary then what are we to do?\
 Should we send them out to nurse or give them the jacket blue?\
-Well to hell with all the stereotypes and fuck the gender roles!\
+Well to hell with all the stereotypes and *sod* the gender roles!\
 They’ll never listen anyway, for kids don’t do as they’re told!
 
 >***And it's home, boys, home!...***
