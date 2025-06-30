@@ -30,20 +30,28 @@ A-waiting a fair wind to get under way.\
 Her crew was all weary, so sick in the head,\
 They'd had too much liquor and they wished they were dead.
 
+***And it's row, row bullies row...***
+
 Then up stepped the mate in a hell of a stew,\
 Looking for work for the sailors to do.\
 “It's foretops'l halyards!” he loudly do roar,\
 “And lay aloft Paddy you son of an whore!”
+
+***And it's row, row bullies row...***
 
 One night off Cape Horn I shall never forget,\
 And oftimes I sighs when I thinks of it yet;\
 She were making twelve knots wi' her main skys'l set\
 And diving bows under with the whole of us wet.
 
+***And it's row, row bullies row...***
+
 We was hauling and pumping the whole bloody way,\
 By Jesus on that trip we sure earned our pay,\
 The mate was a cow-son, the bosun was worse,\
 With brass knuckles they added some weight to a curse.
+
+***And it's row, row bullies row...***
 
 Here's a health to Captain Samuels wherever he be,\
 A friend to a sailor on land or on sea,\
