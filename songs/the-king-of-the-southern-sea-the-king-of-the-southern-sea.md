@@ -27,7 +27,7 @@ He lives for a thousand years;\
 He sinks to rest on the billow's breast,\
 Nor the roughest tempest tears.\
 The howling blast as it hurries past,\
-Is music to lull him to sleep ;\
+Is music to lull him to sleep;\
 And he scatters the spray in his boisterous play,\
 As he dashes the King of the deep.
 
@@ -54,6 +54,6 @@ Are illumin'd by the aid of him\
 From none of his tribe could we e'er imbibe,\
 So useful, so blessed a thing,\
 Then we'll on land go hand in hand,\
-To hall him the Ocean King,
+To hall him the Ocean King.
 
 > ***Oh, the rare old whale...***
