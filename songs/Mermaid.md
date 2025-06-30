@@ -43,7 +43,11 @@ And a well-spoken man was he\
 "I have me a wife in Salem by the sea\
 And tonight she a widow will be"
 
-> ***Oh the ocean waves do roll...***
+> ***Oh the ocean waves do roll\
+And the stormy winds do blow\
+And we poor sailors are skipping at the top\
+While the landlubbers lie down below, below, below\
+While the landlubbers lie down below***
 
 Up spoke the cook of our gallant ship\
 And a greasy old butcher was he\
@@ -64,7 +68,11 @@ In his hand a lead and line\
 For to sound the seas so wide and so deep\
 No hard rock or sand could he find
 
-> ***Oh the ocean waves do roll...***
+> ***Oh the ocean waves do roll\
+And the stormy winds do blow\
+And we poor sailors are skipping at the top\
+While the landlubbers lie down below, below, below\
+While the landlubbers lie down below***
 
 Then three times around spun our gallant ship\
 And three times around spun she\
