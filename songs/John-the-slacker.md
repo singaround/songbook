@@ -46,11 +46,19 @@ We'll work tomorrow but no work today\
 We're bound away for 'Frisco Bay\
 We're bound away at the break of day
 
+> ***Too lie ay, oh, to lie ay...***
+
 We're bound away 'round Cape Horn\
 We wish to Christ we'd never been born
+
+> ***Too lie ay, oh, to lie ay...***
 
 Oh haul, oh haul, oh haul away\
 Oh haul away and make your pay
 
+> ***Too lie ay, oh, to lie ay...***
+
 And we are Liverpool born and bred\
 We're strong in the arm but we're thick in the head
+
+> ***Too lie ay, oh, to lie ay...***
