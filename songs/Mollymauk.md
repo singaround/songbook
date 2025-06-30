@@ -53,7 +53,10 @@ She's bound evermore for to wheel and roam\
 ***Down upon the southern ocean sailing***\
 ***Down below Cape Horn***
 
->***Won't you ride the wind...***
+>***Won't you ride the wind and go, white seabird\
+Ride the wind and go, Mollymauk\
+Down upon the southern ocean sailing\
+Down below Cape Horn***
 
 When I gets too weary for to sail no more\
 Let my bones sink better far away from shore\
