@@ -53,7 +53,7 @@ All along the coast of Mexico***
 
 But I'd never leave the sea to settle down\
 ***Away Santianna***\
-When I can have a man in every town\
+When I can have a lover in every town\
 ***All along the coast of Mexico***
 
 > ***So heave her up and away we'll go...***
