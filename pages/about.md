@@ -117,4 +117,4 @@ Join the Auntie Shanty Oxford facebook group, have a look at the website at [www
 
 # Where & when is the next session?
 
-Auntie Shanty Sessions are usually on the first Monday of every month, at the [Jolly Farmers, Oxford](https://www.jollyfarmers-oxford.co.uk/). Dates of forthcoming sessions are [listed here](/posts/dates-of-next-sessions/)
+Auntie Shanty Sessions are usually on the first Monday of every month, at the [Jolly Farmers, Oxford](https://www.jollyfarmers-oxford.co.uk/). Dates of forthcoming sessions are [listed here](https://www.auntieshanty.org/posts/dates-of-next-sessions/)
