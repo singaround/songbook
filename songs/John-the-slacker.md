@@ -29,37 +29,37 @@ description: >-
   adopted that. We've also got a 'space shanty' version [here](https://www.auntieshanty.org/songs/ben-kenobi-nobi/) 
 ---
 I thought I heard the old man say\
-***John, the slacker, slacker, too lie ay***\
+***John, the slacker, slacker, too rye ay***\
 Today, today is a holiday\
-***John, the slacker, slacker, too lie ay***
+***John, the slacker, slacker, too rye ay***
 
 > ***Too lie ay, oh, to lie ay\
-John, the slacker, slacker, too lie ay***
+John, the slacker, slacker, too rye ay***
 
 We'll work tomorrow but no work today\
-***John, the slacker, slacker, too lie ay***\
+***John, the slacker, slacker, too rye ay***\
 We'll work tomorrow but no work today\
-***John, the slacker, slacker, too lie ay***
+***John, the slacker, slacker, too rye ay***
 
-> ***Too lie ay, oh, to lie ay...***
+> ***Too rye ay, oh, to rye ay...***
 
 We're bound away for 'Frisco Bay\
-***John, the slacker, slacker, too lie ay***\
+***John, the slacker, slacker, too rye ay***\
 We're bound away at the break of day\
-***John, the slacker, slacker, too lie ay***
+***John, the slacker, slacker, too rye ay***
 
-> ***Too lie ay, oh, to lie ay...***
+> ***Too rye ay, oh, to lie ay...***
 
 We're bound away 'round Cape Horn\
-***John, the slacker, slacker, too lie ay***\
+***John, the slacker, slacker, too rye ay***\
 We wish to Christ we'd never been born\
-***John, the slacker, slacker, too lie ay***
+***John, the slacker, slacker, too rye ay***
 
-> ***Too lie ay, oh, to lie ay...***
+> ***Too rye ay, oh, to rye ay...***
 
 Oh haul, oh haul, oh haul away\
-***John, the slacker, slacker, too lie ay***\
+***John, the slacker, slacker, too rye ay***\
 Oh haul away and make your pay\
-***John, the slacker, slacker, too lie ay***
+***John, the slacker, slacker, too rye ay***
 
-> ***Too lie ay, oh, to lie ay...***
+> ***Too rye ay, oh, too rye ay...***
