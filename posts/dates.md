@@ -10,8 +10,6 @@ The Auntie Shanty session is at the [Jolly Farmers](https://www.jollyfarmers-oxf
 ### Dates
 <sup>(last updated: 8th July 2025)</sup> 
 
-**Monday 4th August 2025** - Auntie Shanty Session. Arrive from 6pm, singing from 6:30. 
-
 **Monday 1st September 2025** - Auntie Shanty Session. Arrive from 6pm, singing from 6:30.
 
 **Monday 29th September 2025** - a special "songbook session" - not singing, but working through the songbook discussing and amending lyrics. All welcome, but it may not be the best introduction if you've not been to Auntie Shanty before. From 6pm.
