@@ -10,6 +10,7 @@ tags:
 -  non-male_writer
 -  LGBTQ_plus
 -  post-2000
+-  seafaring_women
 date: 2019-03-07T08:05:12.000Z
 description: >-
   In October 2023, the folk trio [Tarren](https://tarrenmusic.com/) spent a week at [Cecil Sharp House](https://www.efdss.org/cecil-sharp-house) in London researching traditional songs and creating new music celebrating gender non-conformity in folk music. The result of their residency was this song, ‘Neither Maid nor Man’.
