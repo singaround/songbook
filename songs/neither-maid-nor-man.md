@@ -19,10 +19,10 @@ description: >-
   In [this article](https://tradfolk.co/music/songs/gender-variance-folk-song-neither-maid-nor-man/) on the excellent [TradFolk](https://tradfolk.co/) website, Danny Pedler of Tarren explains the background to the song.
 
 
-  *Folk music is a living tradition; it lives through reinterpretations and additions. Our song ‘Neither Maid nor Man’ aims to introduce stories of gender non-conformity into the folk canon. The first three verses are slightly rewritten versions of ‘The Female Cabin Boy’ and ‘William Taylor’ to reflect our research into the ‘warrior woman’ song type. We then introduce a story of our own [Alex Garden](https://www.alexgardenmusic.co.uk/) coming out as non-binary in the 21st century.*
+  *"Folk music is a living tradition; it lives through reinterpretations and additions. Our song ‘Neither Maid nor Man’ aims to introduce stories of gender non-conformity into the folk canon. The first three verses are slightly rewritten versions of ‘The Female Cabin Boy’ and ‘William Taylor’ to reflect our research into the ‘warrior woman’ song type. We then introduce a story of our own [Alex Garden](https://www.alexgardenmusic.co.uk/) coming out as non-binary in the 21st century."*
 
 
-  *Folk music is an exciting place to be right now. The music has found a chord with a younger audience who are bringing LGBTQIA+ issues to the fore. There is amazing work from trans and queer artists making folk a more welcoming place, a place where there is space to be neither maid nor man.*
+  He added: *"Folk music is an exciting place to be right now. The music has found a chord with a younger audience who are bringing LGBTQIA+ issues to the fore. There is amazing work from trans and queer artists making folk a more welcoming place, a place where there is space to be neither maid nor man."*
 
 
   Lyrics added with kind permission of Tarren, September 2025
@@ -48,7 +48,11 @@ She dressed herself in man’s array, she cut her flowing hair\
 And showed the world all over that a soldier can be fair.\
 A soldier can be fair.
 
->***Neither man nor maid...***
+>***Neither man nor maid am I,\
+I’m neither maid nor man,\
+To weave or drum, to sail or fight,\
+I’ll prove to you I can,\
+I’ll show you who I am.***
 
 Thirdly of a pretty lad who would not beat the drum,\
 Adorned himself in garments gay, to London he did come.\
