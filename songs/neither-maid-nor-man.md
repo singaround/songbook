@@ -11,10 +11,20 @@ tags:
 -  LGBTQ_plus
 -  post-2000
 date: 2019-03-07T08:05:12.000Z
-description:    In October 2023, the folk trio Tarren spent a week at Cecil Sharp House in London researching traditional songs and creating new music celebrating gender non-conformity in folk music. The result of their residency was the song, ‘Neither Maid nor Man’.
-In an article on the TradFolk website, Danny Pedler from Tarren explains the background to the song.
-"Folk music is a living tradition; it lives through reinterpretations and additions. Our song ‘Neither Maid nor Man’ aims to introduce stories of gender non-conformity into the folk canon. The first three verses are slightly rewritten versions of ‘The Female Cabin Boy’ and ‘William Taylor’ to reflect our research into the ‘warrior woman’ song type. We then introduce a story of our own Alex Garden coming out as non-binary in the 21st century."
-Lyrics added with kind permission of Tarren, September 2025
+description: >-
+  In October 2023, the folk trio [Tarren](https://tarrenmusic.com/) spent a week at [Cecil Sharp House](https://www.efdss.org/cecil-sharp-house) in London researching traditional songs and creating new music celebrating gender non-conformity in folk music. The result of their residency was this song, ‘Neither Maid nor Man’.
+
+  
+  In [this article](https://tradfolk.co/music/songs/gender-variance-folk-song-neither-maid-nor-man/) on the excellent [TradFolk](https://tradfolk.co/) website, Danny Pedler of Tarren explains the background to the song.
+
+
+  *Folk music is a living tradition; it lives through reinterpretations and additions. Our song ‘Neither Maid nor Man’ aims to introduce stories of gender non-conformity into the folk canon. The first three verses are slightly rewritten versions of ‘The Female Cabin Boy’ and ‘William Taylor’ to reflect our research into the ‘warrior woman’ song type. We then introduce a story of our own [Alex Garden](https://www.alexgardenmusic.co.uk/) coming out as non-binary in the 21st century.*
+
+
+  *Folk music is an exciting place to be right now. The music has found a chord with a younger audience who are bringing LGBTQIA+ issues to the fore. There is amazing work from trans and queer artists making folk a more welcoming place, a place where there is space to be neither maid nor man.*
+
+
+  Lyrics added with kind permission of Tarren, September 2025
 ---
 
 >***Neither man nor maid am I,\
