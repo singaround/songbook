@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: 'Roll Alabama, Roll'
-published: true
+published: false
 wordsBy: Frank Townsend
 tuneBy: Traditional
 chorusLine: 'Roll, Alabama, roll'
@@ -15,6 +15,9 @@ tags:
   - song
 date: 2019-03-07T08:05:12.000Z
 description: >-
+  We've chosen to de-publish this because we weren't comfortable celebrating
+  a Confederate ship.
+  
   CSS Alabama was built in secrecy in 1862 by British shipbuilders John Laird
   Sons and Company at their shipyards at Birkenhead. Under British neutrality
   law during the American Civil War, it was possible to build a ship designed as
