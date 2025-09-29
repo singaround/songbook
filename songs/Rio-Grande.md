@@ -46,7 +46,10 @@ A bully good mate and a good skipper too\
 So fare thee well, my bonny young girl\
 We're bound for the Rio Grande***
 
->***Then away, boys, away...***
+>***Then away, boys, away\
+'way down Rio\
+So fare thee well, my bonny young girl\
+We're bound for the Rio Grande***
 
 Cheer up, Mary Ellen, and don't look so glum,\
 ***'way down Rio***\
