@@ -12,7 +12,7 @@ tags:
   - non-male_narrator
   - lament
   - Northwest_Passage
-  - minor_key
+  - melancholy
 date: 2025-04-05T08:05:12.000Z
 description: 
 ---
