@@ -2,6 +2,8 @@
 templateKey: song
 title: South Australia
 published: true
+wordsBy: Traditional
+tuneBy: Traditional
 chorusLine: 'Heave away, haul away'
 songLine: In South Australia I was born
 tags:
@@ -36,7 +38,7 @@ We shook around and round the town\
 
 > ***Haul away you rolling Kings...***
 
-We run all night and we run all day\
+We ran all night and we ran all day\
 ***(To me) heave away, haul away***\
 We ran until I sailed away\
 ***We're bound for South Australia***
