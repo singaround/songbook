@@ -2,7 +2,7 @@
 templateKey: song
 title: Shiny-O
 
-published: false
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: Way-ay-ay-ay, shiny-o
