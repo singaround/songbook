@@ -26,10 +26,10 @@ Hooray and up she rises\
 Hooray and up she rises\
 Smash the Patriarchy!***
 
->***Hooray and up she rises...***
-
 No human being is illegal x3\
 Smash the Patriarchy!
+
+>***Hooray and up she rises...***
 
 Fight for change, and fight for freedom x3\
 Smash the Patriarchy!
