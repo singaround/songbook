@@ -22,7 +22,7 @@ Oh Shenandoah, I long to see you\
 ***Away, I'm bound away***\
 ***Across The wide Missouri.***
 
-Oh Shenandoah, I love your Daughter,\
+Oh Shenandoah, I love your daughter,\
 ***Away you rolling river.***\
 For her I'd cross your roaming waters,\
 ***Away, I'm bound away***\
@@ -35,7 +35,13 @@ For her I'd cross your roaming waters,\
 ***Across The wide Missouri.***
 
 Oh Shenandoah, I long to hear you,\
-Oh Shenandoah, I long to hear you,
+***Away you rolling river.***\
+Oh Shenandoah, I long to hear you,\
+***Away, I'm bound away***\
+***Across The wide Missouri.***
 
 Oh Shenandoah, I long to hear you,\
-Oh Shenandoah, just to be near you,
+***Away you rolling river.***\
+Oh Shenandoah, just to be near you,\
+***Away, I'm bound away***\
+***Across The wide Missouri.***
