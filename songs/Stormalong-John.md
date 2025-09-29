@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Stormalong John
-published: true
+published: false
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: 'Way, stormalong, John!'
