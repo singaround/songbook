@@ -12,23 +12,26 @@ tags:
   - seafaring_women
   - LGBTQ_plus
 date: 2019-03-18T13:03:34.900Z
+description: >-
+  This traditional song was one of the inspirations for
+  [Neither Maid Nor Man](./neither-maid-nor-man.md), which is also in our songbook.
 ---
 When I was a fair maid about seventeen\
-I enlisted in the Navy for to serve the queen\
-I enlisted in the Navy a sailor for to stand\
+I enlisted in the navy for to serve the queen\
+I enlisted in the navy a sailor for to stand\
 For to hear the cannons rattling and the music so grand\
 ***The music so grand, the music so grand***\
 ***For to hear the cannons rattling and the music so grand***
 
 The officer that enlisted me was a fine and handsome man\
-He said You'll make a sailor so come along my lad\
+He said "You'll make a sailor so come along my lad"\
 My waist being tall and slender my fingers long and thin\
 And the minute that they learned me I soon exceeded them\
 ***I soon exceeded them, I soon exceeded them***\
 ***Oh the minute that they learned me I soon exceeded them***
 
 Well they sent me to my bunk and they sent me to my bed\
-To lies with the sailors I never was afraid\
+To lie with the sailors I never was afraid\
 But taking off my bluecoat it often made me smile\
 For to think I laid with a thousand men and a maiden all the while\
 ***A maiden all the while, a maiden all the while***\
@@ -50,7 +53,7 @@ It's a pity we should lose you such a handsome young maid\
 
 So fare thee well my captain you've been so kind to me\
 And fare thee well my shipmates I must depart from thee\
-But if the Navy ever needs a lad a sailor I'll remain\
+But if the navy ever needs a lad a sailor I'll remain\
 I'll take off my hat and feathers and I'll run the rigging again\
 ***I'll run the rigging again, I'll run the rigging again***\
 ***I'll take off my hat and feathers and I'll run the rigging again***
