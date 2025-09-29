@@ -15,7 +15,7 @@ tags:
 date: 2019-03-13T21:39:20.290Z
 description: >-
   In a [2015 sketch](http://criticalmediaproject.org/key-peele-pirate-chantey/)
-  by comedy duo Keegan Michael Key and Jordan Peele, a group of pirates sing
+  by comedy duo Keegan-Michael Key and Jordan Peele, a group of pirates sing
   this song and undercut expectations about gender relations on the high seas.
 ---
 I once met a lass so fine,\
