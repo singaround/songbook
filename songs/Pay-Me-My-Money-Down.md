@@ -11,6 +11,8 @@ tags:
   - African_or_African-American_origin
   - more_chorus_than_verse
 date: 2019-03-07T08:05:12.000Z
+description: >-
+  We've added some improved gender representation alongside some Oxford-relevant verses.
 ---
 I thought I heard our captain say\
 ***Pay me my money down***\
@@ -28,11 +30,21 @@ He knocked me down with the end of a spar
 >***Pay me, Oh pay me...***
 
 I wish I was Mr Howard's son\
-Sit in the house and drink good rum
+Sit in the house and drink strong rum
 
 >***Pay me, Oh pay me...***
 
-I wish I was Mr Steven's son\
+I wish I was Ms Steven's son\
 Sit on the bank and watch the work done
+
+>***Pay me, Oh pay me...***
+
+I wish I was Mr Dexter's daughter\
+Sit in the shade and drink fine porter
+
+>***Pay me, Oh pay me...***
+
+I wish I was Mr Pullmans's child\
+Sit in the pub and drink good mild
 
 >***Pay me, Oh pay me...***
