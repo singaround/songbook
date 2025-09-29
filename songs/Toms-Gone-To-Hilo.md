@@ -29,7 +29,7 @@ Tommy's gone to Mobile Bay\
 Tommy's gone to Mobile Bay\
 ***Away down Hilo***
 
-Tommy fought At Trafalgar
+Tommy fought at Trafalgar
 
 The brave old Victory led the way
 
