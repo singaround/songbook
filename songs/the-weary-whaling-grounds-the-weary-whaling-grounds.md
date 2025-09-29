@@ -2,6 +2,8 @@
 templateKey: song
 title: The Weary Whaling Grounds
 published: true
+wordsBy: Tradition, Adapted
+tuneBy: Traditional
 songLine: If I had the wings of a gull my boy
 tags:
   - song
