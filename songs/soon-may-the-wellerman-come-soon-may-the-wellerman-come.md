@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title: Soon may the Wellerman come
+title: Wellerman / Soon may the Wellerman come
 published: true
 wordsBy: Traditional
 tuneBy: Traditional
