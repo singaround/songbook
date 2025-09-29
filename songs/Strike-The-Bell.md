@@ -60,7 +60,14 @@ And everything is well"\
 He's wishing that the Second Mate\
 Would **strike, strike the bell**
 
-> ***Strike the bell, Second Mate...***
+> ***Strike the bell, Second Mate***\
+> ***Let us go below***\
+> ***Look away to windward***\
+> ***You can see it's going to blow***\
+> ***Look at the glass***\
+> ***You can see that it is fell***\
+> ***We wish the you would hurry up***\
+> ***And strike, strike the bell***
 
 Aft the quarterdeck\
 The gallant Captain stands\
