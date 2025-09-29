@@ -12,8 +12,9 @@ tags:
   - rewritten
 date: 2019-03-13T22:59:25.352Z
 description: >-
-  There are loads of verses for this one - you might not want to sing **all** of
-  them. Pick which ones to sing and/or improvise your own.
+  This is a very adaptable song with a well-known tune.
+  Improvise your own verses. Some suggestions are below
+  if you need inspiration.
 ---
 What shall we do with the Patriarchy?\
 What shall we do with the Patriarchy?\
@@ -25,35 +26,14 @@ Hooray and up she rises\
 Hooray and up she rises\
 Smash the Patriarchy!***
 
-A fair day’s wage for a fair day’s work x3\
-Smash the Patriarchy!
-
 >***Hooray and up she rises...***
-
-Girls just wanna have fundamental human rights x3\
-Smash the Patriarchy!
-
->***Hooray and up she rises...***
-
-End circumcision and FGM x3\
-Smash the Patriarchy!
 
 No human being is illegal x3\
 Smash the Patriarchy!
 
-Open minds and open hearts x3\
-Smash the Patriarchy!
-
-It’s my body, so it’s my choice x3\
-Smash the Patriarchy!
-
-We want shared parental leave x3\
-Smash the Patriarchy!
+>***Hooray and up she rises...***
 
 Fight for change, and fight for freedom x3\
-Smash the Patriarchy!
-
-Why are you so obsessed with my uterus? x3\
 Smash the Patriarchy!
 
 We want bread and we want roses x3\
@@ -61,3 +41,20 @@ Smash the Patriarchy!
 
 Love is love is love is love x3\
 Smash the Patriarchy!
+
+Girls just wanna have fundamental human rights x3\
+Smash the Patriarchy!
+
+## Suggested extra verses
+
+End circumcision and FGM
+
+Open minds and open hearts
+
+It’s my body, so it’s my choice
+
+We want shared parental leave
+
+Why are you so obsessed with my uterus?
+
+A fair day’s wage for a fair day’s work
