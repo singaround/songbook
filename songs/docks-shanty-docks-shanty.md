@@ -18,8 +18,7 @@ date: 2019-03-13T22:43:12.838Z
 description: >-
   Carlo Ritchie, comedian and founder of the Redfern Shanty Club in Sydney,
   wrote this song based on the life of Jeanne de Clisson and kindly gave us
-  permission to reproduce it here. We've struggled to find a version recorded
-  online, but Hannah knows it! 
+  permission to reproduce it here. [Here's](https://www.youtube.com/watch?v=MMDxnAD1fmU) a version on YouTube.
 
 
   Born in 1300, Jeanne de Clisson and her third husband, Olivier, sided with
@@ -38,7 +37,7 @@ But away 'cross the waves I am forced now to fly,\
 For the king whom I faithfully once bent my knee,\
 Has taken my lover away from me
 
-***So I'll paint my sails red, and I'll sail out to sea,***\
+> ***So I'll paint my sails red, and I'll sail out to sea,***\
 ***And I don't care who they send to subjugate me***\
 ***With my axe I'll avenge on this patriarchy,***\
 ***On those w’took my lover, away from me***
@@ -48,21 +47,21 @@ Or his head is at least and his body's somewhere,\
 Though your eyes fill with pity, my own fill with rage,\
 We will have our vengeance, I swear it this day
 
-***So I'll paint my sails red, and I'll sail out to sea,***\
-***And I don't care who they send to subjugate me,***\
-***With my axe I'll avenge on this patriarchy,***\
-***On those w’took my lover, away from me***
+> ***So I'll paint my sails red, and I'll sail out to sea...***
 
 So the French call me "traitor", that England is "home",\
 Though I fight for myself, I am no-ones to own,\
 'long this small stretch of coastline, shall my ship sail free,\
 A nightmare before whom the French will soon flee
 
-***So I'll paint my sails red, and I'll sail out to sea...***
+> ***So I'll paint my sails red, and I'll sail out to sea,***\
+***And I don't care who they send to subjugate me,***\
+***With my axe I'll avenge on this patriarchy,***\
+***On those w’took my lover, away from me***
 
 Oh my name is De Clisson, a pirate am I,\
 And as mother and matriarch proudly I'll die,\
 And those men who so bravely, besmirch'd my name,\
 So quickly turn cowards out here on the main
 
-***So I'll paint my sails red, and I'll sail out to sea...***
+> ***So I'll paint my sails red, and I'll sail out to sea...***
