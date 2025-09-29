@@ -2,6 +2,8 @@
 templateKey: song
 title: Running Down To Cuba
 published: true
+wordsBy: Traditional
+tuneBy: Traditional
 chorusLine: 'Way, me boys, for Cuba'
 songLine: To Cuba’s coast we’re bound me boys
 tags:
@@ -36,7 +38,8 @@ Oh, I've got a sister who's nine feet tall\
 She sleeps in the kitchen with her feet in the hall\
 ***Running down to Cuba.***
 
-> ***Way, me boys, for Cuba...***
+> ***Way, me boys, for Cuba\
+Running down to Cuba***
 
 Give me a gal who can dance Fandango\
 ***Way, me boys, for Cuba***\
