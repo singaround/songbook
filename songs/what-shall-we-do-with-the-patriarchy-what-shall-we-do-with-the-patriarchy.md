@@ -31,8 +31,6 @@ Smash the Patriarchy!***
 No human being is illegal x3\
 Smash the Patriarchy!
 
->***Hooray and up she rises...***
-
 Fight for change, and fight for freedom x3\
 Smash the Patriarchy!
 
