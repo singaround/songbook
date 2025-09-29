@@ -11,43 +11,41 @@ tags:
   - Assassins_Creed
   - minor_key
 date: 2019-03-07T08:05:12.000Z
+description: >-
+  Some versions sing the final line in each verse as
+  Poor Old Horse, feel free to sing whichever you prefer.
 ---
 They say, old man, your horse will die\
 ***And they say so, and we hope so***\
 They say, old man, your horse will die\
-***Oh poor old man***
+***Oh poor old horse***
 
 And if he dies then we'll tan his hide\
 ***And they say so, and we hope so***\
 Aye and if he dies then we'll tan his hide\
-***Oh poor old man***
+***Oh poor old horse***
 
 And if he lives then we'll ride again\
 ***And they say so, and we hope so***\
 Aye and if he lives then we'll ride again\
-***Oh poor old man***
+***Oh poor old horse***
 
 He's as dead as a nail in the lamp room floor\
 ***And they say so, and we hope so***\
 He's as dead as a nail in the lamp room floor\
-***Oh poor old man***
+***Oh poor old horse***
 
 Aye and he won't bother us no more\
 ***And they say so, and we hope so***\
 Aye and he won't bother us no more\
-***Oh poor old man***
+***Oh poor old horse***
 
 It's mahogany beef and the weevily bread\
 ***And they say so, and we hope so***\
 It's mahogany beef and the weevily bread\
-***Oh poor old man***
-
-And I thought I heard the old man say\
-***And they say so, and we hope so***\
-Just one more pull and then belay\
-***Oh poor old man***
+***Oh poor old horse***
 
 Just one more pull and that will do\
 ***And they say so, and we hope so***\
 For we're the lads to kick her through\
-***Oh poor old man***
+***Oh poor old horse***
