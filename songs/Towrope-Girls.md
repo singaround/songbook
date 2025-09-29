@@ -4,8 +4,8 @@ title: Towrope Girls
 published: true
 wordsBy: Traditional
 tuneBy: Traditional
-chorusLine: 'Goodbye Serafina, Rosita and Luz'
-songLine: Some’s loading at 'frisco with cargoes of grain
+chorusLine: And it's haul away girls
+songLine: Oh, a ship in the Tropics, a-foaming along
 tags:
   - non-male_writer
   - women_on_the_shore
@@ -17,37 +17,45 @@ tags:
   - song
 date: 2019-03-07T08:05:12.000Z
 ---
-Some's loading at 'frisco with cargoes of grain\
-Or Oregon timber in the fog and the rain\
-But we're loading nitrate at old iquique\
-And the girls have a got a hold of our tow rope today
+Oh, a ship in the Tropics, a-foaming along,\
+With every stitch drawing, the Trade blowing strong,\
+The white caps around her all breaking in spray,\
+For the girls have got hold of her tow-rope today.
 
-***Goodbye Serafina, Rosita and Luz,***\
-***The girls on the tow rope are steady and true,***\
-***Mothers and sisters and sweethearts and all,***\
-***It's haul away! All the way! Haul away haul!***
+>***And it’s "Haul away, girls, steady an' true,\
+Polly an' Dolly an' Sally and Sue, —\
+Mothers an' sisters an' sweethearts an' all,\
+Haul away, all the way, haul away, haul!"\***
 
-The last sack of nitrate is stowed down at last\
-The southern cross burns at the head of the mast\
-We'll sing fare thee well as we get under way\
-For the girls have got a hold of our tow rope today
+The Old Man he stood on the poop at high noon;\
+He paced fore and aft and he whistled a tune,\
+Then put by his sextant and thus he did say:\
+"The girls have got hold of her tow-rope to-day."
 
-We're rounding the horn with our gallants all set\
-Our lee rail is under, we're cursing, you bet\
-But the old man's a driver he'll brook no delay\
-For the girls have got a hold of our tow rope today
+>***And it’s "Haul away, girls...***
 
-Cape stiff is behind us blue waters beneath\
-Our wake's like a millrace and bone in her teeth\
-We've entered the trades now, we'll soon make her pay\
-For the girls have got a hold of our tow rope today
+"Of cargoes and charters we’ve had our full share,\
+Of grain and of lumber enough and to spare.\
+Of nitrates at Taltal and rice for Bombay,\
+And the girls have got hold of our tow-rope to-day."
 
-The mate's on the poop deck a-shootin the sun\
-He'll soon be deducing how far the ship's run\
-Let's crack the old hooker and get on our way\
-For the girls have got a hold of our tow rope today
+>***And it’s "Haul away, girls...***
 
-At last we're in harbour the rags are all furled\
-The girl's are all waiting, we're on top of the world\
-That'll do cries the mate. Now it's fourteen month's pay\
-And the girls have got a hold of our tow rope today.
+"She has dipped her yards under, hove to off the Horn,\
+In the fog and the floes she has drifted forlorn,\
+Becalmed in the Doldrums a week long she lay,\
+But the girls have got hold of her tow-rope to-day."
+
+>***And it’s "Haul away, girls...***
+
+Oh, hear the good Trade wind a-singing aloud,\
+A homeward bound shanty in sheet and in shroud,\
+Oh, hear how he whistles in the halliard and stay,\
+“The girls have got hold of the tow-rope to-day!”
+
+>***And it’s "Haul away, girls...***
+
+And it’s oh! for the chops of the Channel at last,\
+The cheer that goes up when the tug hawser’s passed —
+The mate’s “That’ll do” — and a fourteen months’ pay — \
+For the girls have got hold of our tow-rope to-day
