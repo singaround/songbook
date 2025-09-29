@@ -11,7 +11,7 @@ tags:
   - more_chorus_than_verse
   - Assassins_Creed
 date: 2025-04-04T08:05:12.000Z
-description: Note - This is based on the Harry Belafonte version, with some cuts. Could potentially be replaced with a more 'work song' version.
+description: Note - This is based on the Harry Belafonte version, with some cuts. 
 ---
 >***Round the Bay of Mexico\
 Way up Suzianna\
@@ -19,7 +19,7 @@ Mexico is the place that I belong in\
 Round the Bay of Mexico***
 
 Been to sea for a month or more\
-***Way up Suzyanna***\
+***Way up Suzianna***\
 Lookin' forward to my time on shore\
 ***Round the Bay of Mexico***
 
