@@ -6,8 +6,8 @@ templateEngineOverride: njk,md
 
 <article>
   <h1>{{ songNumber}} - {{ title }}</h1>
-{% if wordsBy %}<small>Words by {{ wordsBy }}</small><br />{% endif %}
-{% if tuneBy %}<small>Tune by {{ tuneBy }}</small>{% endif %}
+{% if wordsBy %}<small>Words: {{ wordsBy }}</small><br />{% endif %}
+{% if tuneBy %}<small>Tune: {{ tuneBy }}</small>{% endif %}
   <p>
 {% if description %}
 <div class="message is-info">
