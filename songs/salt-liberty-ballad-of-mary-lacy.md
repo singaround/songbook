@@ -50,7 +50,9 @@ As the sun rose I stole from my chamber\
 With a pack of men’s clothes that I’d stole from the line\
 I strode out, little minding the danger
 
->***But I longed for the sea...***
+>***But I longed for the sea\
+Salt liberty\
+And the name that I chose was William***
 
 As I roved out I scattered my old clothes behind\
 Leaving stockings in ditches and hedgerows\
@@ -74,7 +76,9 @@ The Sandwich, a ninety gun ship of the line\
 My master was Baker, the carpenter there\
 A foul-tempered drunk though when sober quite kind
 
->***But I longed for the sea...***
+>***But I longed for the sea\
+Salt liberty\
+And the name that I chose was William***
 
 As I lived as a man I’d my corner to fight\
 One knave William Severy would taunt me\
@@ -93,7 +97,9 @@ I learned to coax boats from the lumber\
 And found love in the arms of sweet Sarah Chase\
 And coaxed from her kisses so tender
 
->***But I longed for the sea...***
+>***But I longed for the sea\
+Salt liberty\
+And the name that I chose was William***
 
 After seven long years I was shipwright made free\
 But my joints were seized up with the rheumatism\
