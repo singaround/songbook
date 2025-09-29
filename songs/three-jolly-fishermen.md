@@ -1,9 +1,9 @@
 ---
 templateKey: song
-title: The Three Jolly Fishermen
+title: The Three Jolly Fishermen (While The Merry Merry Bells Do Ring)
 published: true
-wordsBy: © Traditional
-tuneBy: © Traditional
+wordsBy: Traditional
+tuneBy: Traditional
 chorusLine: Make haste, make haste, you'll be too late
 songLine: 'My bonny silver herring'
 tuneLink: ''
@@ -22,7 +22,7 @@ We are three jolly fishermen,\
 While the merry, merry bells do ring.***
 
 > Make haste, make haste, you'll be too late,\
-***One fish, my dear, I cannot wait,\
+***What fish, my dear? I cannot wait,\
 For me fine fry of herring\
 My bonny silver herring,\
 Mind how you sell them\
@@ -41,7 +41,7 @@ We’ve white an’ speckled bellied uns\
 While the merry, merry bells do ring.***
 
 > Make haste, make haste, you'll be too late,\
-***One fish, my dear, I cannot wait,\
+***What fish, my dear? I cannot wait,\
 For me fine fry of herring\
 My bonny silver herring,\
 Mind how you sell them\
