@@ -39,7 +39,10 @@ Of grain and of lumber enough and to spare.\
 Of nitrates at Taltal and rice for Bombay,\
 And the girls have got hold of our tow-rope to-day."
 
->***And it’s "Haul away, girls...***
+>***And it’s "Haul away, girls, steady an' true,\
+Polly an' Dolly an' Sally and Sue, —\
+Mothers an' sisters an' sweethearts an' all,\
+Haul away, all the way, haul away, haul!"\***
 
 "She has dipped her yards under, hove to off the Horn,\
 In the fog and the floes she has drifted forlorn,\
@@ -53,7 +56,10 @@ A homeward bound shanty in sheet and in shroud,\
 Oh, hear how he whistles in the halliard and stay,\
 “The girls have got hold of the tow-rope to-day!”
 
->***And it’s "Haul away, girls...***
+>***And it’s "Haul away, girls, steady an' true,\
+Polly an' Dolly an' Sally and Sue, —\
+Mothers an' sisters an' sweethearts an' all,\
+Haul away, all the way, haul away, haul!"\***
 
 And it’s oh! for the chops of the Channel at last,\
 The cheer that goes up when the tug hawser’s passed —
