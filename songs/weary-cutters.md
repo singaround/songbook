@@ -14,7 +14,7 @@ tags:
   - more_chorus_than_verse
   - impressment
   - lament
-  - minor_key
+  - musically_melancholy
 date: 2025-04-03T08:05:12.000Z
 description: 
 ---
