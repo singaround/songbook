@@ -9,11 +9,11 @@ songLine: 'They say, old man, your horse will die'
 tags:
   - song
   - Assassins_Creed
-  - minor_key
+  - musically_melancholy
 date: 2019-03-07T08:05:12.000Z
 description: >-
-  Some versions sing the final line in each verse as
-  Poor Old Horse, feel free to sing whichever you prefer.
+  Some versions have the final line in each verse as
+  Poor Old *Man*. If you're leading the song, sing whichever you prefer.
 ---
 They say, old man, your horse will die\
 ***And they say so, and we hope so***\
