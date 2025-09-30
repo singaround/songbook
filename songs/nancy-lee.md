@@ -4,7 +4,7 @@ title: Nancy Lee
 published: false
 wordsBy: Frederic Weatherly
 tuneBy: Stephan Adams
-chorusLine: 'The sailor's wife, the sailors' star shall be
+chorusLine: The sailor's wife, the sailors' star shall be
 songLine: Of all the wives as e'er you know
 tags:
   - women_on_the_shore
@@ -12,9 +12,9 @@ tags:
   - song
 date: 2019-03-07T08:05:12.000Z
 description: >-
-  This song was written in 1840 in Oxford by Frederic Weatherly, who also wrote the words to "Danny Boy". *Nancy Lee* was described by Oake Marten as a "good old tarry song". The version here is based on the varsion by the Lübeck Shanty Choir.
+  This song was written in 1840 in Oxford by Frederic Weatherly, who also wrote the words to "Danny Boy". *Nancy Lee* was described by Oake Marten as a "good old tarry song". The version here is based on the version by the Lübeck Shanty Choir.
 
-It is perhaps best sung in dialogue with other songs that consider the lives of the women left behind, such as [Twiddles](https://www.auntieshanty.org/songs/twiddles/) and [Sweet Mary Starbuck](https://www.auntieshanty.org/songs/sweet-mary-starbuck/). 
+  It is perhaps best sung in dialogue with other songs that consider the lives of the women left behind, such as [Twiddles](https://www.auntieshanty.org/songs/twiddles/) and [Sweet Mary Starbuck](https://www.auntieshanty.org/songs/sweet-mary-starbuck/). 
 ---
 Of all the wives I ever saw, Yeo ho!\
 ***Yeo ho! Let's go! Yeo ho! Let's go!***\
