@@ -9,7 +9,7 @@ songLine: General Taylor's dead and gone
 tags:
   - more_chorus_than_verse
   - lament
-  - minor_key
+  - musically_melancholy
   - song
 date: 2019-03-13T21:14:24.077Z
 description: >-
