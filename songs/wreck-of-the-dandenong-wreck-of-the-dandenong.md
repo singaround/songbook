@@ -9,7 +9,7 @@ songLine: Oh wild and furious blew the blast
 tags:
   - shipwreck
   - Australia
-  - minor_key
+  - musically_melancholy
   - lament
   - technicolour
   - song
