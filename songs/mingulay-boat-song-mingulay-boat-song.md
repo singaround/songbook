@@ -8,7 +8,7 @@ chorusLine: 'Hill-yo-ho, boys! Let her go, boys!'
 songLine: 'What care we though, white the Minch is?'
 tags:
   - song
-  - minor_key
+  - musically_melancholy
   - Scotland
   - coming_home
 date: 2019-03-14T20:47:06.251Z
