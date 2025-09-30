@@ -11,7 +11,7 @@ tags:
   - women_on_the_shore
   - ballad
   - romantic_love
-  - minor_key
+  - musically_melancholy
 date: 2019-04-06T20:40:04.739Z
 ---
 Adieu, sweet lovely Nancy, ten thousand times adieu,\
