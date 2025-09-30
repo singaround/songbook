@@ -66,11 +66,11 @@ This is an alphabetical list of the tags that we've used to categorise the songs
 
 **[maritime_trade](/tags/maritime_trade)** - songs relating to carrying cargo from place to place
 
-**[minor_key](/tags/minor_key)** - songs literally or metaphorically in a minor key - sad or sad-sounding songs. If singing in a session, please be aware that these might sometimes change the atmosphere - if there's been a series of fast, upbeat songs, a sad one may cause 'musical whiplash', so please handle with caution.
-
 **[modern_seafaring](/tags/modern_seafaring)** - songs that focus on the changing world of life at sea, and the passing of the ‘age of sail’, possibly with nostalgia for the past. The archetypal songs for this tag are "Shantyman" by Bob Watson and "The Last Shanty" by Tom Lewis.
 
 **[more_chorus_than_verse](/tags/more_chorus_than_verse)** - a song with more "join in" lines than solo lines. In general, these are the easiest to lead well. This is one of the most-used tags, so we can be discerning about using it – if it doubt, do not include this tag
+
+**[musically_melancholy](/tags/musically_melancholy)** - sad or sad-sounding songs. If singing in a session, please be aware that these might sometimes change the atmosphere - if there's been a series of fast, upbeat songs, a sad one may cause 'musical whiplash', so please handle with caution.
 
 **[Nancy_Kerr](/tags/Nancy_Kerr)** - songs written by or otherwise associated with [🌐Nancy Kerr](https://en.wikipedia.org/wiki/Nancy_Kerr)
 
