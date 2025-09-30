@@ -11,7 +11,7 @@ tags:
   - sea_creatures
   - lament
   - whaling
-  - minor_key
+  - musically_melancholy
   - whales
 date: 2019-11-11T19:42:45.837Z
 ---
@@ -39,3 +39,4 @@ The elephant or the seal or your sons and daughters?
 My heart it has been rent and I am crying\
 For the beauty around me pales and I am screaming\
 I am the last of the great whales and I am dying.***
+
