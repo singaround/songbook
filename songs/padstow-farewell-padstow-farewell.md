@@ -9,7 +9,7 @@ tags:
   - song
   - farewell
   - Assassins_Creed
-  - minor_key
+  - musically_melancholy
   - Southern_England
 date: 2019-11-11T19:40:53.015Z
 ---
