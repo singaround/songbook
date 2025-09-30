@@ -9,7 +9,7 @@ tags:
   - women_on_the_shore
   - ballad
   - farewell
-  - minor_key
+  - musically_melancholy
 date: 2019-10-20T21:21:58.148Z
 description: >-
   There are many versions of this old farewell song to the tune of The
