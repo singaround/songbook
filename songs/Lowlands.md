@@ -13,7 +13,7 @@ tags:
   - Assassins_Creed
   - romantic_love
   - supernatural
-  - minor_key
+  - musically_melancholy
   - lament
 date: 2019-03-07T08:05:12.000Z
 description: >-
