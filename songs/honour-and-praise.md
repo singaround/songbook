@@ -11,7 +11,7 @@ tags:
   - song
   - shipwreck
   - ballad
-  - minor_key
+  - musically_melancholy
 date: 2025-04-03T08:05:12.000Z
 description:
 ---
