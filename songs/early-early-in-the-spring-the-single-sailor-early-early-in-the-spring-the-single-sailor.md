@@ -9,7 +9,7 @@ tags:
   - song
   - ballad
   - lament
-  - minor_key
+  - musically_melancholy
   - two_voices
 date: 2019-04-06T19:23:47.880Z
 description: A ballad telling of a sailor's sweetheart who marries a rich man.
