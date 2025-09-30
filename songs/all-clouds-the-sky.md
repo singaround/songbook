@@ -11,7 +11,7 @@ tags:
   - song
   - fishing
   - lament
-  - minor_key
+  - musically_melancholy
   - farewell
   - Northeast_England
 date: 2025-04-03T08:05:12.000Z
