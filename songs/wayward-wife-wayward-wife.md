@@ -34,6 +34,11 @@ I thought about what could evolve \
 And worked to harden his resolve.\
 He rose to the occasion and Himself took me to wife.
 
+>***Fol-di-rol-di-riddly-rye\
+Fol-di-rol-di-ray\
+Fol-di-rol-di-riddly-rye\
+Fol-di-rol-di-ray***
+
 With a ring upon me finger, \
 I was inclined to linger-\
 At least until a better opportunity should knock.\
@@ -47,6 +52,8 @@ I nabbed that sailor's pocketwatch, lookin' forward to some fun.\
 No sooner had I left the store,\
 The sailor spied me at the door.\
 Gallantly he took my arm, and we set off at a run.
+
+>***Fol-di-rol-di-riddly-rye...***
 
 He led me to a tavern where\
 The better sort would never dare\
@@ -62,6 +69,11 @@ We all went helter skelter\
 Seeking any kind of shelter,\
 For by his looks Himself was keen on settling the score.
 
+>***Fol-di-rol-di-riddly-rye\
+Fol-di-rol-di-ray\
+Fol-di-rol-di-riddly-rye\
+Fol-di-rol-di-ray***
+
 Now my sailor with a nimble twist\
 Did clutch some iron in his fist\
 And faced Himself undaunted as he yelled out, "Better run!"\
@@ -76,6 +88,8 @@ But Himself was on a bender,\
 And he shot the poor bartender.\
 When they hauled him off to jail, I was left quite on my own.
 
+>***Fol-di-rol-di-riddly-rye...***
+
 Now sure worse things could happen\
 To a girl who might be grapplin'\
 With the question of her future and what next she ought to do.\
@@ -89,3 +103,5 @@ And took to handling business like the butter takes the knife.\
 And now I do my sporting\
 When the sailors come a'courting,\
 And at every chance, I lift my glass and drink to the single life.
+
+>***Fol-di-rol-di-riddly-rye...***
