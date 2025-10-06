@@ -2,7 +2,7 @@
 templateKey: song
 title: Mingulay Boat Song
 published: true
-wordsBy:  Hugh S. Roberton
+wordsBy:  Hugh S. Robertson
 tuneBy: Traditional
 chorusLine: 'Hill-yo-ho, boys! Let her go, boys!'
 songLine: 'What care we though, white the Minch is?'
