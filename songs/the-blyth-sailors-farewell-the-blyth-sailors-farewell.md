@@ -38,10 +38,13 @@ Then turn her around for Blyth Harbour once more
 
 We're loaded with coal to Holland we're bound\
 Then away on down channel where trade can be found\
-Calling ports there from France through to Spain\
+Calling at ports there from France through to Spain\
 With a westerly breeze turning homeward again
 
-> ***Then trusting our vessel to captain and mate...***
+> ***Then trusting our vessel to captain and mate\
+For health and for fortune we're subject to fate\
+But we'll dare even death on the wide-ranging main\
+And return to Blyth Harbour again and again***
 
 Then heave her home boys we are now homeward bound\
 With a valuable cargo no matter where found\
