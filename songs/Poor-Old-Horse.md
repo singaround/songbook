@@ -49,3 +49,8 @@ Just one more pull and that will do\
 ***And they say so, and we hope so***\
 For we're the lads to kick her through\
 ***Oh poor old horse***
+
+We'll rop him down with a long, long rope\
+***And they say so, and we hope so***\
+Where the sharks'll have his body and the devil take his soul!\
+***O, poor old horse***
