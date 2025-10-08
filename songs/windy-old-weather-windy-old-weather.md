@@ -32,13 +32,13 @@ We first saw the herring, the queen of the sea.\
 She says "you old skipper you’ll never catch me"\
 In this…
 
-> ***Windy old weather, stormy old weather…
+> ***Windy old weather, stormy old weather…***
 
 We next saw the mackerel, with stripes on his back\
 "Time you old skipper to change your port tack"\
 In this…
 
-> ***Windy old weather, stormy old weather…
+> ***Windy old weather, stormy old weather…***
 
 We then saw the plaice, with spots on her side.\
 She says "you old skipper, these seas you can’t ride"\
@@ -51,16 +51,16 @@ We next saw a thresher, as strong as a horse.\
 He says "you old skipper, you’re miles off your course"\
 In this…
 
-> ***Windy old weather, stormy old weather…
+> ***Windy old weather, stormy old weather…***
 
 We next saw the conger, as long as a mile.\
 "Wind’s rising easterly" he says with a smile.\
 In this…
 
-> ***Windy old weather, stormy old weather…
+> ***Windy old weather, stormy old weather…***
 
 Now I think what these fishes is saying is right.\
 So we’ll haul in our nets and we’ll make for the Light\
 In this…
 
-> ***Windy old weather, stormy old weather…
+> ***Windy old weather, stormy old weather…***
