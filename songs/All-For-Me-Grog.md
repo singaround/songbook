@@ -43,8 +43,8 @@ Far across the Western Ocean I must wander***
 
 Where is my bed, my nogging, nogging bed?\
 ***All gone for beer and tobacco***\
-Well the sheets they got all worn\
-And the mattress got all torn\
+Well the sheets they got all torn\
+And the mattress got all worn\
 And the springs are looking out for better weather
 
 > ***And it's all for me grog, me jolly, jolly grog...***
