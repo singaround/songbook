@@ -25,7 +25,7 @@ As we were a fishing off Happisburgh Light,\
 Shooting and trawling and hauling all night.\
 It was…
 
-> ***Windy old weather, stormy old weather.
+> ***Windy old weather, stormy old weather.\
 When the wind blows we all pull together***
 
 We first saw the herring, the queen of the sea.\
@@ -44,7 +44,7 @@ We then saw the plaice, with spots on her side.\
 She says "you old skipper, these seas you can’t ride"\
 In this…
 
-> ***Windy old weather, stormy old weather.
+> ***Windy old weather, stormy old weather.\
 When the wind blows we all pull together***
 
 We next saw a thresher, as strong as a horse.\
