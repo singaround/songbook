@@ -2,7 +2,7 @@
 templateKey: song
 title: Don't Forget Your Old Shipmate
 published: true
-wordsBy: Traditional
+wordsBy: Richard C. Saunders, 1860
 tuneBy: Jim Mageean
 chorusLine: Long we've tossed on the rolling main
 songLine: Safe and sound at home again
