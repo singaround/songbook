@@ -44,7 +44,7 @@ Sit in the shade and drink fine porter
 
 >***Pay me, Oh pay me...***
 
-I wish I was Mr Pullmans's child\
+I wish I was Mr Pullman's child\
 Sit in the pub and drink good mild
 
 >***Pay me, Oh pay me...***
