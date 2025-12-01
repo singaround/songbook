@@ -46,18 +46,6 @@ A bully good mate and a good skipper too\
 So fare thee well, my bonny young girl\
 We're bound for the Rio Grande***
 
->***Then away, boys, away\
-'way down Rio\
-So fare thee well, my bonny young girl\
-We're bound for the Rio Grande***
-
-Cheer up, Mary Ellen, and don't look so glum,\
-***'way down Rio***\
-On white-stocking day you'll be drinking hot rum\
-***And we're bound for the Rio Grande***
-
->***Then away, boys, away...***
-
 So lift up your glasses and sing fare thee well\
 ***'way down Rio***\
 There's a bonny young lass there to love you so well\
