@@ -39,7 +39,10 @@ Her cheeks red as roses, her eyes all a-shine\
 Then she kissed me so gently, so soft and so sure\
 The world spun round once, and at once I was hers 
 
->***Sweet Mary Starbuck...***
+>***Sweet Mary Starbuck from Nantucket town\
+If she were the sea I would willingly drown\
+And her voice like a bell on a clear winter’s day\
+Sets my heart a-ringing and winging away***
 
 On Nantucket our men go to hunt for the whale\
 And they live at the mercy of teeth, sea, and gale\
@@ -51,4 +54,7 @@ And a good whaleman’s wife I will be for a while\
 And in time I’ll stand watching his sail fade at sea\
 Then go home where my true love lies waiting for me
 
->***Sweet Mary Starbuck...***
+>***Sweet Mary Starbuck from Nantucket town\
+If she were the sea I would willingly drown\
+And her voice like a bell on a clear winter’s day\
+Sets my heart a-ringing and winging away***
