@@ -8,14 +8,12 @@ tags:
 The Auntie Shanty session is at the [Jolly Farmers](https://www.jollyfarmers-oxford.co.uk) pub in central Oxford (OX1 1LD).
 
 ### Dates
-<sup>(last updated: 12th November 2025)</sup> 
+<sup>(last updated: 9th December)</sup> 
 
-**Monday 1st December** - Auntie Shanty Session. Arrive from 6pm, singing from 6:30.
+**Monday 5th January 2026** - Auntie Shanty Session. Arrive from 6pm, singing from 6:30. We'll be singing in the Shadow Gallery, the downstairs in the pub.
 
-**Monday 5th January 2026** - Auntie Shanty Session. Arrive from 6pm, singing from 6:30.
+**Monday 2nd February 2025** - Auntie Shanty Session. Arrive from 6pm, singing from 6:30. We'll be singing in the Shadow Gallery, the downstairs in the pub.
 
-**Monday 2nd February 2025** - Auntie Shanty Session. Arrive from 6pm, singing from 6:30.
+**Monday 2nd March 2026** - Auntie Shanty Session. Arrive from 6pm, singing from 6:30. We'll be singing in the Shadow Gallery, the downstairs in the pub.
 
-**Monday 2nd March 2026** - Auntie Shanty Session. Arrive from 6pm, singing from 6:30.
-
-**Monday 30th March 2025** - a special "songbook session" - singing and discussing new songs to potentially add to the songbook. All welcome, but it may not be the best introduction if you've not been to Auntie Shanty before. From 6pm.
+**Monday 30th March 2025** - a special "songbook session" - like the standard session, but doing songs which aren't currently in the songbook, so we can talk about adding them. All welcome, but it may not be the best introduction if you've not been to Auntie Shanty before. From 6pm.
