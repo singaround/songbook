@@ -1,6 +1,6 @@
 ---
 title: Dates of next sessions
-date: 2025-05-28T07:19:33.012Z
+date: 2026-01-6T07:19:33.012Z
 summary: List of the dates of forthcoming sessions 
 tags:
   - blog
@@ -8,9 +8,7 @@ tags:
 The Auntie Shanty session is at the [Jolly Farmers](https://www.jollyfarmers-oxford.co.uk) pub in central Oxford (OX1 1LD).
 
 ### Dates
-<sup>(last updated: 9th December)</sup> 
-
-**Monday 5th January 2026** - Auntie Shanty Session. Arrive from 6pm, singing from 6:30. We'll be singing in the Shadow Gallery, the downstairs room in the pub.
+<sup>(last updated: January 2026)</sup> 
 
 **Monday 2nd February 2025** - Auntie Shanty Session. Arrive from 6pm, singing from 6:30. We'll be singing in the Shadow Gallery, the downstairs room in the pub.
 
