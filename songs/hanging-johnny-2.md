@@ -27,7 +27,7 @@ They dries out quick and easy\
 
 I hang out shirts and blouses,\
 **Away, boys, away!**\
-And pantaloons and trousers\
+And t-shirts, socks and trousers\
 ***So it's hang, boys, hang!***
 
 I hang out stretchy leggings,\
@@ -47,7 +47,7 @@ While singing stupid shanties\
 
 The hanging's just beginning,\
 **Away, boys, away!**\
-we'll have fresh-scented linen\
+We'll have fresh-scented linen\
 ***So it's hang, boys, hang!***
 
 I hang out my attire\
