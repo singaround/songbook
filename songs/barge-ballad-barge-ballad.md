@@ -31,7 +31,7 @@ But now I'm the skipper and that young nipper had better be holding fast
 
 > ***Oh, we're loaded down with bales so high***\
 > ***You've got to lean backwards if you want to see the sky***\
-> ***Oh, the Thames may forgive us, but the old never will***\
+> ***Oh, the Thames may forgive us, but the Alde never will***\
 > ***So eyes front and away we sail***
 
 Oh, you've got to be able\
@@ -43,7 +43,7 @@ But now I'm the skipper and that young nipper is hardy enough to last
 
 > ***Oh, we're loaded down with bales so high***\
 > ***You've got to lean backwards if you want to see the sky***\
-> ***Oh, the Thames may forgive us, but the old never will***\
+> ***Oh, the Thames may forgive us, but the Alde never will***\
 > ***So eyes front, keep your head, and away we sail***
 
 Oh, you've eyes like an eagle\
@@ -55,7 +55,7 @@ But now I'm the skipper and that young nipper will keep us from taking a bath
 
 > ***Oh, we're loaded down with bales so high***\
 > ***You've got to lean backwards if you want to see the sky***\
-> ***Oh, the Thames may forgive us, but the old never will***\
+> ***Oh, the Thames may forgive us, but the Alde never will***\
 > ***So eyes front, keep your head, clear your throat, and away we sail***
 
 Oh, you've got to remember\
@@ -67,7 +67,7 @@ But now I'm the skipper and that young nipper is taking the rivers to heart
 
 > ***Oh, we're loaded down with bales so high***\
 > ***You've got to lean backwards if you want to see the sky***\
-> ***Oh, the Thames may forgive us, but the old never will***\
+> ***Oh, the Thames may forgive us, but the Alde never will***\
 > ***So eyes front, keep your head, clear your throat,***\
 > ***Know your way, fill your pipe,***\
 > ***Grab on tight, look for the light and away we sail***
