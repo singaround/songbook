@@ -1,18 +1,14 @@
 ---
-title: Accessibility
+title: Accessibility at our sessions
 date: 2026-03-18T22:00:00.012Z
 summary: Overview of accessibility
-tags:
-  - 
 ---
-<H2>Accessibility at our sessions</H2>
-
 Auntie Shanty takes place in [a historic pub](https://www.jollyfarmers-oxford.co.uk/the-pub), so are some limits on how accessible the sessions are. We sing in one of two spaces, depending on the weather. Please check the [dates page](https://www.auntieshanty.org/posts/dates-of-next-sessions/) for the likely space for the next sessions and [contact us](https://www.auntieshanty.org/contact/) with any questions.
 
-<H3>☀️When the weather is warm we sing in **The Garden**</H3>
+<H3>☀️When the weather is warm we sing in The Garden</H3>
 
 <H4>👩‍🦽Physical access (The Garden)</H4>
-The garden is a covered outdoor space to the rear of the pub. It is physically possible for a person in a wheelchair to access the garden through the (usually locked) gate at the back of the garden. However, in practice it has been found to be very difficult. Pub staff must lock and unlock the gate, and the route is not always clear of furniture. There are no wheelchair-accessible toilets on site.
+The garden is a covered outdoor space to the rear of the pub. It is physically possible for a person in a wheelchair to access the garden through the (usually locked) gate. However, in practice it has been found to be very difficult. Pub staff must lock and unlock the gate, and the route is not always clear of furniture. There are no wheelchair-accessible toilets on site.
 
 There are two steps up from the street into the pub, and a further three steps up to the bar. There are three steps between the pub entrance and the garden.
 
@@ -34,7 +30,7 @@ The garden space has heat lamps which we use, but the temperature varies with we
 
 ---
 
-<H3>❄️When the weather is cold we sing in **The Shadow Gallery**</H3>
+<H3>❄️When the weather is cold we sing in The Shadow Gallery</H3>
 
 <H4>👩‍🦽Physical access (The Shadow Gallery)</H4>
 The Shadow Gallery is at the bottom of a flight of stairs. There is no step-free access to the session when we are there. 
@@ -66,9 +62,9 @@ Auntie Shanty takes place at a pub. If you want to take a break from the session
 
 <H4>🚲 Transport access</H4>
 - The Jolly Farmers pub postcode is OX1 1LD
-- The Jolly Farmers is approximately 150 metres from the [Westgate bus stops](https://bustimes.org/stations/340G02074WES) (various routes)
+- The Jolly Farmers is approximately 150 metres from the [Westgate bus stops](https://bustimes.org/stations/340G02074WES/) (various routes)
 - The Jolly Farmers is approximately 0.4 of a mile from Oxford Railway Station
-- The nearest bicycle parking is in the Castle Complex, with access from Paradise Street (50 metres from the Jolly Farmers). [W3W](https://w3w.co/skins.notes.swung)
+- The nearest bicycle parking is in the Castle Complex, with access from Paradise Street (50 metres from the Jolly Farmers). [W3W](https://w3w.co/skins.notes.swung/)
 - Vehicle drop-off outside the pub is possible
 - The nearest car parking is in the Westgate Centre car park
 
