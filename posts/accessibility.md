@@ -1,6 +1,6 @@
 ---
 title: Accessibility
-date: 2026-01-6T07:19:33.012Z
+date: 2026-03-18T22:00:00.012Z
 summary: Overview of accessibility
 tags:
   - 
