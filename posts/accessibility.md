@@ -7,23 +7,35 @@ Auntie Shanty takes place in [a historic pub](https://www.jollyfarmers-oxford.co
 
 <H3>☀️When the weather is warm we sing in The Garden</H3>
 
+<br/>
+
 <H4>👩‍🦽Physical access (The Garden)</H4>
-The garden is a covered outdoor space to the rear of the pub. It is physically possible for a person in a wheelchair to access the garden through a (usually locked) gate. However, in practice it has been found to be very difficult. Pub staff must lock and unlock the gate, and the route is not always clear of furniture. There are no wheelchair-accessible toilets on site.
+The garden is a covered outdoor space to the rear of the pub. It is physically possible for a person in a wheelchair to access the garden through a (usually locked) gate. However, in practice it has been found to be very difficult. Pub staff must lock and unlock the gate, and the route is not always clear of furniture. There are no wheelchair-accessible toilets on site.\
 
 There are two steps up from the street into the pub, and a further three steps up to the bar. There are three steps between the pub entrance and the garden.
+
+<br/>
 
 <H4>🪑Seating (The Garden)</H4>
 In the garden, seating is in large wide hard chairs with backrests and armrests (seat width: 40cm, seat height 41cm).
 
+<br/>
+
 <H4>💡Light levels (The Garden)</H4>
 Some orange-coloured light is emitted by the patio heaters when they are turned on.
+
+<br/>
 
 <H4>👂Sound levels (The Garden)</H4>
 In the garden space, there is often background noise from other pub users, and the bathroom hand-dryers are sometimes audible. 
 There is some background noise from music playing on the speakers in the pub. This is usually quietly audible in the periods between our shanties, but can't be heard when we are singing.
 
-<H4>*️⃣Smoking (The Garden)</H4>
+<br/>
+
+<H4> *️⃣Smoking (The Garden)</H4>
 In the garden, we sit in a ‘no smoking’ area, adjacent to the rest of the garden. There are occasional smells of cigarettes and vapes which blow towards us. If you are particularly sensitive to this we recommend getting a seat closer to the ‘pub end’ rather than the ‘garden end’. 
+
+<br/>
 
 <H4>🌡 Temperature (The Garden)</H4>
 The garden space has heat lamps which we use, but the temperature varies with weather. It's advisable to dress suitably and bring extra layers if needed.
