@@ -8,7 +8,7 @@ Auntie Shanty takes place in [a historic pub](https://www.jollyfarmers-oxford.co
 <H3>☀️When the weather is warm we sing in The Garden</H3>
 
 <H4>👩‍🦽Physical access (The Garden)</H4>
-The garden is a covered outdoor space to the rear of the pub. It is physically possible for a person in a wheelchair to access the garden through the (usually locked) gate. However, in practice it has been found to be very difficult. Pub staff must lock and unlock the gate, and the route is not always clear of furniture. There are no wheelchair-accessible toilets on site.
+The garden is a covered outdoor space to the rear of the pub. It is physically possible for a person in a wheelchair to access the garden through a (usually locked) gate. However, in practice it has been found to be very difficult. Pub staff must lock and unlock the gate, and the route is not always clear of furniture. There are no wheelchair-accessible toilets on site.
 
 There are two steps up from the street into the pub, and a further three steps up to the bar. There are three steps between the pub entrance and the garden.
 
@@ -50,6 +50,7 @@ The Shadow Gallery has bare bulbs mounted on the wall, which some people have fo
 <H4>👂Sound levels (The Shadow Gallery)</H4>
 We're singing sea shanties, so it can get loud. The Shadow Gallery is an enclosed room, which can make sound louder and more concentrated.
 
+---
 
 <H3>General information (both spaces)</H3>
 
@@ -61,6 +62,7 @@ The nearest wheelchair-accessible toilets are in the Westgate Centre
 Auntie Shanty takes place at a pub. If you want to take a break from the session, there may be tables in other spaces within the pub or the garden available. You are very welcome to take a break from the session and then return. There is no designated ‘quiet space’, and the pub usually has music playing throughout the main indoor space.
 
 <H4>🚲 Transport access</H4>
+
 - The Jolly Farmers pub postcode is OX1 1LD
 - The Jolly Farmers is approximately 150 metres from the [Westgate bus stops](https://bustimes.org/stations/340G02074WES/)
 - The Jolly Farmers is approximately 0.4 of a mile from Oxford Railway Station.
@@ -75,7 +77,8 @@ The session takes place in a pub. Other people will likely be drinking alcohol. 
 The Auntie Shanty Session is free. We are grateful that the Jolly Farmers allow us to use this space, and encourage participants to support them by spending money at the bar if they are able to. The Jolly Farmers bar accepts both card and cash payments.
 
 <H4>🤢 If you're feeling unwell, please don't come to the session</H4>
-Please consider others, and avoid spreading the germs.\
+Please consider others, and avoid spreading the germs.
+
 😷If you wish to wear a face mask for any reason, you are welcome to do so.
 
 <H4>⏳️Start Time</H4>
@@ -91,7 +94,4 @@ If you arrive earlier than 6, the pub will be open.
 You are welcome to leave the session at any point, and there is no expectation that people will stay to ‘the end’. It's often quite an informal ending - depends on who is there and how late they want to stay. We usually finish at around 10:30. 
 
 <H4>❔️I have another need or a question?</H4>
-Please [message us](https://www.auntieshanty.org/contact/), or talk to one of the organisers on the night. 
-
-
-
+[Contact us](https://www.auntieshanty.org/contact/) with any questions.
