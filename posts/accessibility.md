@@ -62,9 +62,9 @@ Auntie Shanty takes place at a pub. If you want to take a break from the session
 
 <H4>🚲 Transport access</H4>
 - The Jolly Farmers pub postcode is OX1 1LD
-- The Jolly Farmers is approximately 150 metres from the [Westgate bus stops](https://bustimes.org/stations/340G02074WES/) (various routes)
-- The Jolly Farmers is approximately 0.4 of a mile from Oxford Railway Station
-- The nearest bicycle parking is in the Castle Complex, with access from Paradise Street (50 metres from the Jolly Farmers). [W3W](https://w3w.co/skins.notes.swung/)
+- The Jolly Farmers is approximately 150 metres from the [Westgate bus stops](https://bustimes.org/stations/340G02074WES/)
+- The Jolly Farmers is approximately 0.4 of a mile from Oxford Railway Station.
+- The nearest bicycle parking is in the Castle Complex, with access from Paradise Street (50 metres from the Jolly Farmers). [W3W](https://w3w.co/skins.notes.swung)
 - Vehicle drop-off outside the pub is possible
 - The nearest car parking is in the Westgate Centre car park
 
@@ -81,7 +81,7 @@ Please consider others, and avoid spreading the germs.\
 <H4>⏳️Start Time</H4>
 If you're coming to the session for the first time, we recommend arriving at around 6:30.
 
-A core group of organisers _aim_ to arrive at 6pm, but we might be delayed. So if you arrive at 6pm, you may be the only person there. In the first half-hour we might rearrange chairs/tables, adjust temperature in the room, and chat about the session. We start singing when it feels like enough people have arrived, which is usually at about 6:30.
+A core group of organisers _aim_ to arrive at 6pm, but we might be delayed. So if you arrive at 6pm, you may be the only person there. In the first half-hour we might rearrange chairs/tables, adjust temperature in the room and chat. We start singing when it feels like enough people have arrived, which is usually at about 6:30.
 
 You can arrive at any time through the session. 
 
