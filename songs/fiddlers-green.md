@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Fiddler's Green
-published: false
+published: true
 wordsBy: John Connolly
 tuneBy: John Connolly
 chorusLine: Wrap me up in me oilskins and jumper
@@ -21,7 +21,7 @@ I heard an old fisherman, singing this song –\
 >***Wrap me up in me oilskins and jumper\
 No more on the docks I’ll be seen\
 Just tell me old shipmates, I’m taking a trip, mates,\
-And I’ll see you someday, in Fiddlers’ Green …***
+And I’ll see you someday, in Fiddlers’ Green***
 
 Now, Fiddlers’ Green is a place, I’ve heard tell,\
 Where fishermen go if they don’t go to Hell\
@@ -33,16 +33,19 @@ And the cold coast of Greenland is far, far away
 The sky’s always clear, and there’s never a gale\
 And the fish jump on board with a flip of their tails\
 You can lie at your leisure, there’s no work to do\
-And the Skipper’s below, making tea for the crew …
+And the skipper’s below, making tea for the crew
 
 >***Wrap me up in me oilskins and jumper...***
 
 And when you’re in dock, and the long trip is through\
 There’s pubs and there’s clubs, and there’s lasses there too\
 The girls are all pretty, the beer is all free\
-And there’s bottles of rum, growing on every tree …
+And there’s bottles of rum, growing on every tree
 
->***Wrap me up in me oilskins and jumper...***
+>***Wrap me up in me oilskins and jumper\
+No more on the docks I’ll be seen\
+Just tell me old shipmates, I’m taking a trip, mates,\
+And I’ll see you someday, in Fiddlers’ Green***
 
 I don’t want a harp nor a halo, not me\
 Just give me a breeze and a good rolling sea\
