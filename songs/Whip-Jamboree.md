@@ -1,7 +1,7 @@
 ---
 templateKey: song
-title: '*Whip Jamboree'
-published: false
+title: 'Whip Jamboree'
+published: true
 tags:
   - song
   - coming_home
@@ -15,7 +15,7 @@ Jenny get your Oatcakes done
 ***Whip Jamboree, whip Jamboree\
 Oh you pig-tailed sailor hanging down behind\
 Whip Jamboree, Whip Jamboree\
-Oh Jenny get your Oatcakes done***
+Jenny get your Oatcakes done***
 
 And now Cape Clear it is in sight\
 We'll be off Holyhead by tomorrow night\
@@ -32,7 +32,7 @@ Jenny get your Oatcakes done
 ***Whip Jamboree, whip Jamboree\
 Oh you pig-tailed sailor hanging down behind\
 Whip Jamboree, Whip Jamboree\
-Oh Jenny get your Oatcakes done***
+Jenny get your Oatcakes done***
 
 And now we're rounding Fort Perch Rock\
 All hammocks lashed and sea-chests locked\
@@ -43,5 +43,5 @@ Jenny get your Oatcakes done
 
 And now my lads we're all in dock\
 We'll be off to Dan Lowry's on The Spot\
-And there we'll sup from a **Big Pint Pot**\
+And there we'll sup from a **Big Pint Pot!**\
 Jenny get your Oatcakes done
