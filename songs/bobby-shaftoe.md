@@ -1,12 +1,12 @@
 ---
 templateKey: song
-title: Bobby Shafto
+title: Bobby Shaftoe
 
-published: false
+published: true
 wordsBy: Traditional (Roud 1359)
 tuneBy: Traditional
 chorusLine: 
-songLine: Bobby Shafto's gone to sea
+songLine: Bobby Shaftoe's gone to sea
 tags:
   - song
   - short_song
