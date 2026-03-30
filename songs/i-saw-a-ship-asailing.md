@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: I Saw a Ship A-Sailing
-published: false
+published: true
 wordsBy: Walter Crane
 tuneBy: Traditional
 chorusLine: 
@@ -29,7 +29,7 @@ And the masts were made of gold
 The four-and-twenty sailors\
 That stood between the decks\
 Were four-and-twenty white mice\
-With chains about their necks
+With ribbons round their necks
 
 The captain was a duck\
 With a packet on his back\
