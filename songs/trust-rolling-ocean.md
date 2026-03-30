@@ -2,7 +2,7 @@
 templateKey: song
 title: Trust in the Rolling Ocean
 
-published: false
+published: true
 wordsBy: Rachael McShane
 tuneBy: Rachael McShane
 chorusLine: I'll sail and I'll sail
@@ -25,10 +25,17 @@ Where the waters are high or the pulleys are low\
 I'll follow the trade winds wherever they go\
 ***And trust in the rolling ocean***
 
+>I'll sail and I'll sail...
+
 I'll sail and I'll sail and I'll leave this behind\
 Though the crossing be cruel and the currents unkind\
 I'll open my heart to whatever I find\
 ***And trust in the rolling ocean***
+
+>I'll sail and I'll sail\
+***I'll sail and I'll sail***\
+I'll sail and I'll sail\
+***I'll sail and I'll sail***
 
 I'll sail and I'll sail and wherever I land\
 I'll gather the bones and the stones in my hand\
