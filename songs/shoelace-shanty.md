@@ -2,7 +2,7 @@
 templateKey: song
 title: The Shoelace Shanty
 
-published: false
+published: true
 wordsBy: © Jack Pritchard
 tuneBy: © Jack Pritchard
 chorusLine: Cos if there’s rope or cord or string
@@ -80,8 +80,6 @@ And when at last the glass is fell\
 And when they sound my funeral knell\
 ***They'll shout the shanty loud and haul away***
 
->***Cos if there’s rope...***
- 
-Away, haul away,\
-We’re all bound away\
-***Shout the shanty loud, haul away***
+>***Cos if there’s rope or cord or string\
+You’ll be sure to hear us sing\
+Shout the shanty loud and haul away***
