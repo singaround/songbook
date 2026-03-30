@@ -78,7 +78,7 @@ Like stranded whales to no avail.
 
 Now, we're heroic men,\
 With medals and with money for our courage then\
-The centuries most tragic wreck\
+The century's most tragic wreck\
 The rescued ones do not suspect,\
 We do it for our self respect.
 >***'Tis true***
