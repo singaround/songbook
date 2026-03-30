@@ -2,7 +2,7 @@
 templateKey: song
 title: All Clouds the Sky
 
-published: false
+published: true
 wordsBy: John Tams
 tuneBy: John Tams
 chorusLine: Then go we must, no longer can we tarry
@@ -45,7 +45,12 @@ Some planks of wood no thicker than your thumb\
 It's all that keeps the telling of the story\
 From being lost or maybe being won
 
->***Then go we must...***
+>***Then go we must\
+No longer can we tarry\
+The water's wide\
+Yet we must go and try\
+And like a bird on a silvery morning\
+Home to your side we will chance to fly***
 
 All clouds the sky\
 The boats are leaving\
