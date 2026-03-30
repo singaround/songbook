@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Rolling Down to Rio
-published: false
+published: true
 wordsBy: Rudyard Kipling
 tuneBy: Edward German
 chorusLine: I've never sailed the Amazon
@@ -25,9 +25,9 @@ Will go there when they will!
 Yes, weekly from Southampton,\
 Great steamers, white and gold, \
 Go rolling down to Rio\
-Roll down—roll down to Rio!\
+Roll down, roll down to Rio!\
 I'd like to roll to Rio\
 Some day before I'm old!
 
-Yes I'd like to roll to Rio\
-Some day before I'm old!
+***Yes I'd like to roll to Rio\
+Some day before I'm old!***
