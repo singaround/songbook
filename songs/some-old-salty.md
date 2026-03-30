@@ -2,7 +2,7 @@
 templateKey: song
 title: Some Old Salty
 
-published: false
+published: true
 wordsBy: Lal Waterson
 tuneBy: Lal Waterson
 chorusLine: Some old salty, how he used to rock me
@@ -20,7 +20,7 @@ description:
 Jelly Roll or Jerry Lee, how he used to rock me***
 
 Salt fare, North Sea,\
-Weird stare. Further than the eye can see.\
+Weird stare, further than the eye can see\
 He had a head like a toy shop, bow legged stance off,\
 Must have been the rolling sea.
 
@@ -40,7 +40,7 @@ Play “Delia’s Gone” for one more round, some old salty’s on his feet
 Jelly Roll or Jerry Lee, how he used to rock me***
 
 Salt fare, North Sea,\
-Weird stare. Further than the eye can see.\
+Weird stare, further than the eye can see\
 He had a head like a toy shop, bow legged stance off,\
 Must have been the rolling sea.
 
