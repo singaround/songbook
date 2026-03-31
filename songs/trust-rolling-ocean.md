@@ -3,8 +3,8 @@ templateKey: song
 title: Trust in the Rolling Ocean
 
 published: true
-wordsBy: Rachael McShane
-tuneBy: Rachael McShane
+wordsBy: Darwin Song Project
+tuneBy: Darwin Song Project
 chorusLine: I'll sail and I'll sail
 songLine: I'll sail and I'll sail and wherever I go
 tags:
@@ -13,7 +13,18 @@ tags:
   - post-2000
   - hope
 date: 2025-04-03T08:05:12.000Z
-description: 
+description: >-
+  In March 2009 eight folk artists gathered together in rural Shropshire
+  to take part in the '[Darwin Song Project] (https://en.wikipedia.org/wiki/Darwin_Song_Project)'.
+  Chris Wood, Karine Polwart, Emily Smith, Jez Lowe, Mark Erelli, Krista Detor,
+  Stu Hanna and Rachael McShane spent a week collaboratively writing and creating
+  new works that have a 'resonance and relevance' to [Charles Darwin](https://en.wikipedia.org/wiki/Charles_Darwin),
+  who was born in Shrewsbury in 1809.
+
+
+  'Trust in the Rolling Ocean' takes its inspiration from a wassailing song recorded by 
+  Ralph Vaughan Williams, and we've added some more repeats of the chorus to 
+  make it more suitable for a shanty-singing crowd. 
 ---
 >I'll sail and I'll sail\
 ***I'll sail and I'll sail***\
