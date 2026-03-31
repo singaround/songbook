@@ -3,8 +3,8 @@ templateKey: song
 title: Some Old Salty
 
 published: true
-wordsBy: Lal Waterson
-tuneBy: Lal Waterson
+wordsBy: Lal Waterson and Oliver Knight
+tuneBy: Lal Waterson and Oliver Knight
 chorusLine: Some old salty, how he used to rock me
 songLine: Salt fare, North Sea
 tags:
