@@ -15,7 +15,7 @@ tags:
 date: 2025-04-03T08:05:12.000Z
 description: >-
   In March 2009 eight folk artists gathered together in rural Shropshire
-  to take part in the [Darwin Song Project] (https://en.wikipedia.org/wiki/Darwin_Song_Project).
+  to take part in the [Darwin Song Project](https://en.wikipedia.org/wiki/Darwin_Song_Project).
   Chris Wood, Karine Polwart, Emily Smith, Jez Lowe, Mark Erelli, Krista Detor,
   Stu Hanna and Rachael McShane spent a week collaboratively writing and creating
   new works that have a 'resonance and relevance' to [Charles Darwin](https://en.wikipedia.org/wiki/Charles_Darwin),
