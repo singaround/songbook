@@ -11,13 +11,20 @@ tags:
   - more_chorus_than_verse
   - rewritten
 date: 2025-04-03T08:05:12.000Z
-description: "A version of the traditional 'Saltpetre Shanty' (aka 'Slav Ho'), with lyrics adapted for the Auntie Shanty session (less 'devious flash girls', more booze).\
+description: >-
+   A version of the traditional 'Saltpetre Shanty' (aka 'Slav Ho'),
+with lyrics adapted for the Auntie Shanty session (less 'devious
+flash girls', more booze).
 
 
-The sound of 'hooo-roooou' is somewhere between 'Oh roll' and 'Oh row', but not quite resolving into either. The leader can start the new line over the end of the previous 'roooou'.\
+  The sound of 'hooo-roooou' is somewhere between 'Oh roll' and 
+  'Oh row', but not quite resolving into either. The leader can 
+  start the new line over the end of the previous 'roooou'.
 
 
-The 'bars', we assume to be the oars, and the singers are on a tender going back to the ship before setting sail from Liverpool. Most of the song is told in the future tense."
+  The 'bars', we assume to be the oars, and the singers are on a 
+  tender going back to their ship before setting sail from 
+  Liverpool. Most of the song is told in the future tense.
 ---
 To old Callio we are bound to go\
 ***Hooo-roooooou***\
