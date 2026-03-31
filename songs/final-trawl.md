@@ -20,12 +20,12 @@ description: >-
 Now it’s three long years since we made her pay\
 ***Sing haul away, my laddie-o***\
 And the owners say that she’s had her day\
-***Sing haul away, my laddie-o***
+***And sing haul away, my laddie-o***
 
 So heave away for the final trawl\
 ***Sing haul away, my laddie-o***\
 It’s an easy pull, for the catch is small\
-***Sing haul away, my laddie-o***
+***And sing haul away, my laddie-o***
 
 Then stow your gear, lads, and batten down\
 And I’ll take the wheel, lads, and I’ll turn her ’round
