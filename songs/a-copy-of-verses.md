@@ -19,12 +19,12 @@ description: >-
   in Oxford, providing musical accompaniment to an evening with the
   pirate-studying academic and writer [Dr Richard Blakemore](https://www.reading.ac.uk/history/our-staff/dr-richard-blakemore). 
 
+
   Blakemore's book, "[Enemies of All: The Rise and Fall of the Pirates](https://uk.bookshop.org/p/books/enemies-of-all-the-rise-and-fall-of-the-pirates-richard-blakemore/7579217)", 
-  includes a description of this song, so we found the words and the tune and performed a version of it. 
+  includes a description of this song, so we were inspired to find the words and the tune and perform a version of it at the event. 
+
   
-    The song was written (allegedly) by the 
-    pirate [Henry Every](https://en.wikipedia.org/wiki/Henry_Every), and was 
-    used as evidence in the trial of some of his crew.
+    The song was written (allegedly) by the pirate [Henry Every](https://en.wikipedia.org/wiki/Henry_Every) in around 1694, and was used as evidence in the trial of some of his crew.
 
 ---
 **A COPY of VERSES,\
