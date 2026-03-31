@@ -3,7 +3,7 @@ templateKey: song
 title: A Copy of Verses... (Henry Every)
 published: true
 wordsBy: Traditional (adapted by Roary Skaista)
-tuneBy: Traditional (adapted by Roary Skaista)
+tuneBy: Traditional
 chorusLine: ''
 songLine: Come all you brave boys, whose courage is bold
 tags:
