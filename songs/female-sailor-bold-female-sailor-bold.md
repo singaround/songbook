@@ -5,7 +5,6 @@ published: true
 wordsBy: Traditional
 tuneBy: Traditional
 songLine: 'Come, all ye good people, and listen to my song'
-tuneLink: ''
 tags:
   - song
   - seafaring_women

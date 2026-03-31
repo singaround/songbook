@@ -6,7 +6,6 @@ wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: Make haste, make haste, you'll be too late
 songLine: 'My bonny silver herring'
-tuneLink: ''
 tags:
   - song
   - more_chorus_than_verse
