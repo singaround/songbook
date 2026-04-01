@@ -13,7 +13,11 @@ tags:
   - post-2000
   - comedy
 date: 2025-04-04T08:05:12.000Z
-description: A shanty to sing while doing small tasks that don't quite deserve a proper shanty
+description: >-
+  'Sailors were so accustomed to singing   at their work that even when the job was not sufficiently taxing to merit a real song, they would grunt, holler and yowl anyway -- even when they were pulling the laces tight on their shoes'
+
+
+  ~ John Faunce Leavitt (quoted by Stuart M Frank in “Sea Chanteys and Sailor Songs”, 2000)
 ---
 On the transatlantic routes\
 When you’re lacing up your boots\
