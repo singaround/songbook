@@ -14,7 +14,7 @@ tags:
   - women_on_the_shore
   - Northeast_England
 date: 2025-04-03T08:05:12.000Z
-description: 
+description: This song mentions a number of other songs and artists, some of which were unfamiliar to us. We've put together this Spotify playlist of [songs and artists referenced in Some Old Salty](https://open.spotify.com/playlist/2FUpBRXiwYwxRdPYNLbMx5?si=mYklU_uCR6y47UvkEyxuFw&pi=TfJTAaWXTpCkI).
 ---
 >***Some old salty, how he used to rock me,\
 Jelly Roll or Jerry Lee, how he used to rock me***
