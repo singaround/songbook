@@ -6,7 +6,6 @@ wordsBy: © Stan Rogers
 tuneBy: © Stan Rogers
 chorusLine: 'Rise again'
 songLine: 'Make the Mary Ellen Carter rise again'
-tuneLink: ''
 tags:
   - song
   - ship
