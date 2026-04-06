@@ -13,7 +13,7 @@ tags:
   - whales
   - Nancy_Kerr
 date: 2025-04-03T08:05:12.000Z
-description: A sony by Nancy Kerr, which can be found on the Melrose Quartet album [Dominion](https://www.melrosequartet.co.uk/lyrics-dominion)
+description: A song by Nancy Kerr, which can be found on the Melrose Quartet album [Dominion](https://www.melrosequartet.co.uk/lyrics-dominion)
 
 ---
 What mired Jonah’s creature\
