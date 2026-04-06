@@ -33,14 +33,14 @@ I met with a pretty girl my heart it was a quiver\
 
 I said how are you doing this morning\
 ***Ranzo my boys, oh Ranzo Ray***\
-She said none the better for the seeing of you\
+She said "none the better for the seeing of you\
 ***Ranzo my boys, oh Ranzo Ray***
 
 >***Ranzo, you'll rue the day...***
 
-You broke my heart oh you broke it full sore\
+"You broke my heart oh you broke it full sore\
 ***Ranzo, my boys, oh Ranzo Ray***\
-If I sail like the wild goose, you'll break it no more\
+If I sail like the wild goose, you'll break it no more"\
 ***Ranzo, my boys, oh Ranzo Ray***
 
 >***Ranzo, you'll rue the day...***
