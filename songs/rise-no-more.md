@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Rise No More
-published: false
+published: true
 wordsBy: Nancy Kerr
 tuneBy: Nancy Kerr
 chorusLine: Rise no more, oh rise no more
@@ -47,7 +47,7 @@ Of casting ore and grinding\
 The echoes only ring\
 Bright tears upon us raining\
 From steelos gone before\
-For all that streamed is nought but dream\
+For all that steamed is nought but dream\
 So sleep and rise no more
 
 >***Rise no more, oh rise no more\
