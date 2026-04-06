@@ -13,10 +13,12 @@ tags:
   - lifeboats
   - shipwreck
   - historic_events
+  - musically_melancholy
 date: 2025-04-03T08:05:12.000Z
-description: This modern ballad tells the harrowing true story of the wreck of the City of Columbus, a luxury passenger steamer that ran aground on Devil’s Bridge off Gay Head (now Aquinnah), Martha’s Vineyard, on January 18, 1884. Of the 132 people on board, 103 perished.
-Dillon Bustin’s lyrics focus on the volunteer lifesavers of the Massachusetts Humane Society - specifically the Aquinnah Wampanoag men who launched their lifeboats to rescue the survivors.
-Before the US Coast Guard was established, "Humane Societies" were volunteer organizations that maintained lifeboats and stations along dangerous coasts.
+description: >-
+  This modern ballad tells the harrowing true story of the wreck of the City of Columbus, a luxury passenger steamer that ran aground on Devil’s Bridge off Gay Head (now Aquinnah), Martha’s Vineyard, on January 18, 1884. Of the 132 people on board, 103 perished.
+  Dillon Bustin’s lyrics focus on the volunteer lifesavers of the Massachusetts Humane Society - specifically the Aquinnah Wampanoag men who launched their lifeboats to rescue the survivors.
+  Before the US Coast Guard was established, "Humane Societies" were volunteer organizations that maintained lifeboats and stations along dangerous coasts.
 ---
 Come, listen to the news\
 Of the City of Columbus and her pleasure cruise\
