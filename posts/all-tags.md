@@ -88,8 +88,6 @@ This is an alphabetical list of the tags that we've used to categorise the songs
 
 **[Northwest_England](/tags/Northwest_England)** - Songs originating from or otherwise related to England's north-western coast, including Liverpool and Merseyside. We understand this coastline to run from the northern end of the England/Wales border to the western end of the England/Scotland border  
 
-**[Northwest_Passage](/tags/Northwest_Passage)** - songs about the [🌐Northwest Passage](https://en.wikipedia.org/wiki/Northwest_Passage), and/or attempts to find and pass through it.
-
 **[originally_a_poem](/tags/originally_a_poem)** - songs to which the words were originally published as poetry, and set to music later
 
 **[parody](/tags/parody)** - a song that is a parody of another song. This is distinct from 'rewrite'. A parody can be only fully appreciated when the listener is familiar with the original song, whereas a 'rewrite' would make full sense without knowledge of any 'original' version.
