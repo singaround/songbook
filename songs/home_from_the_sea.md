@@ -17,6 +17,7 @@ description: >-
   This powerful anthem was written by Phil Coulter to commemorate the 175th anniversary of the RNLI. The song is deeply rooted in personal loss; Coulter lost both a sister and a brother to drowning in separate incidents on Lough Swilly. Phil was a key figure in the subsequent campaign to establish a lifeboat station on the Lough, which eventually opened in 1987.
 
 
+
   Note on Performance: To capture the rising emotion of the tribute, we recommend singing the final repeated chorus with a key change (modulating up a whole step).
 ---
 On a cold winter's night\
@@ -32,7 +33,7 @@ But each volunteer\
 Had to live with his fear\
 As they joined in a silent prayer
 
-To carry them ...\
+To carry them ...
 > ***Home, home, home from the sea***\
 > ***Angels of mercy, answer our plea***\
 > ***And carry us home, home, home from the sea***\
@@ -51,7 +52,7 @@ She's an old fishing boat\
 And she's barely afloat\
 Please God, there are souls we can save
 
-And carry them ...\
+And carry them ...
 > ***Home, home, home from the sea...***
 
 And back in the town\
@@ -67,7 +68,7 @@ Came a hush and a faraway sound\
 All survivors on board\
 Thank God and we're homeward bound
 
-To carry them ...\
+To carry them ...
 > ***Home, home, home from the sea***\
 > ***Angels of mercy, answer our plea***\
 > ***And carry us home, home, home from the sea***\
