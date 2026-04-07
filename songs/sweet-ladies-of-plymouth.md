@@ -2,7 +2,7 @@
 templateKey: song
 title: Sweet Ladies of Plymouth
 published: true
-wordsBy: Peter Bellamy
+wordsBy: Peter Bellamy (as part of his folk opera 'The Transports')
 tuneBy: Peter Bellamy
 chorusLine: Roll down!
 songLine: 'Sweet ladies of Plymouth, we’re saying goodbye'
@@ -36,7 +36,8 @@ In the wide Bay of Biscay the seas will run high\
 And the poor sickly transports they'll wish they could die\
 ***Walk her round, me brave boys and roll down!***
 
->***And we will ro-o-o-oll down!...***
+>***And we will ro-o-o-oll down!***\
+>***Walk her round, me brave boys and roll down!***
 
 When the wild coast of Africa it do appear\
 ***Ro-o-o-oll down!***\
@@ -57,7 +58,8 @@ When the great southern whales on our quarter do spout\
 The poor simple transports they'll goggle and shout\
 ***Walk her round, me brave boys and roll down!***
 
->***And we will ro-o-o-oll down!...***
+>***And we will ro-o-o-oll down!***\
+>***Walk her round, me brave boys and roll down!***
 
 And when we arrive off Australia's strand\
 ***Ro-o-o-oll down!***\
@@ -78,4 +80,5 @@ Then sweet ladies of Plymouth we'll pay all your rent\
 And go roving no more till our money's all spent\
 ***Walk her round, me brave boys and roll down!***
 
->***And we will ro-o-o-oll down!...***
+>***And we will ro-o-o-oll down!***\
+>***Walk her round, me brave boys and roll down!***
