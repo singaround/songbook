@@ -25,7 +25,7 @@ With a storm at its height\
 The lifeboat answered the call\
 They pitched and they tossed\
 Till we thought they were lost\
-As we watched from the harbor wall\
+As we watched from the harbour wall\
 Though the night was pitch black\
 There was no turning back\
 For someone was waiting out there\
