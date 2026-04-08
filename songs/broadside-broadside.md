@@ -6,7 +6,6 @@ wordsBy: © Nancy Kerr
 tuneBy: '© Nancy Kerr, John Smith, Martin Simpson'
 chorusLine: 'Broadside to broadside, two captains collide'
 songLine: 'Keep your land you gentry of England, France and Spain'
-tuneLink: ''
 tags:
   - non-male_writer
   - seafaring_women
