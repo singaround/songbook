@@ -5,7 +5,7 @@ published: true
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: The water is wide, I can not cross o'er
-songLine: The water is wide, I can not cross o'er
+songLine: The water is wide, I cannot cross o'er
 tags:
   - song
   - musically_melancholy
@@ -14,7 +14,7 @@ date: 2019-03-07T08:05:12.000Z
 description: >-
   
 ---
-The water is wide, I can not cross o'er
+The water is wide, I cannot cross o'er
 And neither have, I wings to fly
 Give me a boat that can carry two
 And both shall row, my love and I
@@ -29,7 +29,7 @@ She's loaded deep as deep can be
 But not as deep, as the love I'm in
 I know not how I sink or swim
 
-The water is wide, I can't cross o'er
+The water is wide, I cannot cross o'er
 And neither have, I wings to fly
 Give me a boat that can carry two
 And both shall row, my love and I
