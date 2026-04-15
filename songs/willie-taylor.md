@@ -10,6 +10,8 @@ tags:
   - song
   - ballad
   - impressment
+  - naval_warfare
+  - Royal_Navy
   - seafaring_women
 date: 2026-04-03T17:00:00.000Z
 ---
@@ -64,8 +66,8 @@ Walking along with his lady gay
 
 > ***Dally-dilly-dum, dilly-um-dum-dum-dum...***
 
-She drew out a brace of pistols
-That she had at her command
+She drew out a brace of pistols\
+That she had at her command\
 There she shot her Willie Taylor\
 With his bride at his right hand
 
