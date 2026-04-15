@@ -6,7 +6,6 @@ wordsBy: The Arrogant Worms / Libbi Wittenberg
 tuneBy: © The Arrogant Worms
 chorusLine: And it's a heave! ho! hi! ho! Cycling round the Plain
 songLine: 'I used to be a tutor, and I made a living fine'
-tuneLink: 
 tags:
   - song
   - parody
