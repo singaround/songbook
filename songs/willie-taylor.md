@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: Willie Taylor
-published: false
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: 'Dally-dilly-dum, dilly-um-dum-dum-dum'
