@@ -11,7 +11,7 @@ tags:
   - Scotland
   - musically_melancholy
 date: 2019-03-07T08:05:12.000Z
-description: >- The politics of many Auntie Shanty regulars are at odds with the notion that anyone should ever be 'born to be king'. But, despite its implied acceptance of a heriditary monarchy, this is a lovely tune.
+description: The politics of many Auntie Shanty regulars are at odds with the notion that anyone should ever be 'born to be king'. But, despite its implied acceptance of a heriditary monarchy, this is a lovely tune.
 ---
 >**Speed, bonnie boat, like a bird on the wing,\
 Onward! the sailors cry;\
