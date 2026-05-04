@@ -41,7 +41,9 @@ We are not sailors captain dear\
 We come from the land and we won't work here\
 ***Fall down Billy O'Shea***
 
-> ***Fall down, fall down...***
+> ***Fall down, fall down, fall down me Billy\
+We're bound away for Americay\
+Fall down Billy O'Shea***
 
 Says the captain, "I've a cure for that"\
 ***Fall down me Billy***\
@@ -64,7 +66,9 @@ So we wrapped him in the Captain's sail\
 And lowered him gently o'er the rail\
 ***Fall down Billy O'Shea***
 
-> ***Fall down, fall down...***
+> ***Fall down, fall down, fall down me Billy\
+We're bound away for Americay\
+Fall down Billy O'Shea***
 
 Over the side and down he goes\
 ***Fall down me Billy***\
