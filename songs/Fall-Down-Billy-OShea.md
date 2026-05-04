@@ -41,9 +41,7 @@ We are not sailors captain dear\
 We come from the land and we won't work here\
 ***Fall down Billy O'Shea***
 
-> ***Fall down, fall down, fall down me Billy\
-We're bound away for Americay\
-Fall down Billy O'Shea***
+> ***Fall down, fall down...***
 
 Says the captain, "I've a cure for that"\
 ***Fall down me Billy***\
