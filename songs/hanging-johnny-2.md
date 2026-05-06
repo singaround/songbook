@@ -15,7 +15,7 @@ date: 2019-03-07T08:05:12.000Z
 description: >-
    A rewritten version of the traditional shanty 'Hanging Johnny', with a less violent subject matter.
 ---
-<H3>For singing along, this is all you need to know. We suggest not scrolling to the full words </H3>
+<H4>For singing along, this is all you need to know. We suggest not scrolling down to the full words </H4>
 
 They call me hanging Johnny,\
 **Away, boys, away!**\
@@ -26,56 +26,69 @@ I hangs 'em when it's breezy,\
 **Away, boys, away!**\
 They dries out quick and easy, So it's\
 ***Hang, boys, hang!***
-●
-●
-●
-●
-●
-●
-●
-●
-●
-●
-●
-●
-●
-●
-●
-●
-●
-●
-●
-●
-●
-●
-●
-●
-we think it's far more fun to hear the words rather than be reading them
-●
-●
-●
-●
-●
-●
-●
-●
-●
-●
-●
-●
-●
-●
-●
-●
-●
-●
-●
-●
-●
-●
-●
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+we think it's more fun to hear the words than read them
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
 
-<H3>Full words - useful when you're leading the song</H3>
+<H4>Full words - may be useful when you're leading the song</H4>
 
 They call me hanging Johnny,\
 **Away, boys, away!**\
