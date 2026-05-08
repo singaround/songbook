@@ -60,9 +60,9 @@ Take in your slack ***(take in your slack)***\
 ***About ship's station boys be handy*** (be handy!)\
 ***For we're off to Valparaiso round the Horn***
 
-🔹Well I wish I was in the Jolly Farmers **(the Farmers!)**\
-Along with Irish navvies drinkin' beer **(beer, beer!)**\
-When I thought what jolly lads were sailors **(were sailors!)**\
-And with me flipper I wiped away a tear **(tear, tear!)**
+🔹Well I wish that I was in the Jolly Farmers **(the Farmers!)**\
+Singing with the folkies and the queers **(queers, queers!)**\
+For we all have such a laugh at Auntie Shanty **(shanty!)**\
+And the [herring songs](https://www.auntieshanty.org/tags/herring/) they bring us all to tears! **(tears, tears!)**
 
 >Paddy lay back ***(Paddy lay back)***...
