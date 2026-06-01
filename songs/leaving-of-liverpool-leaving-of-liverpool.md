@@ -67,6 +67,6 @@ Before I see you again
 Oh the sun is on the harbour, love\
 And I wish I could remain\
 For I know it will be a long, long time\
-until I see you again 
+Until I see you again 
 
 >***So fare thee well...***
