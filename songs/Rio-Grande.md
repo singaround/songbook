@@ -6,6 +6,7 @@ wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: '''way down Rio'
 songLine: Our ship is a-sailing out over the Bar
+description: The word "Rio" can be pronounced here as either "Ree-o" (rhyming with trio) or "Rye-o" (rhyming with cry-o). Follow whoever's leading the song and match whichever one they sing.
 tags:
   - song
   - farewell
@@ -36,7 +37,7 @@ Them Judies we're leaving will draw half our pay\
 
 >***Then away, boys, away...***
 
-We've a bully good ship & a bully good crew,\
+We've a bully good ship and a bully good crew,\
 ***'way down Rio***\
 A bully good mate and a good skipper too\
 ***And we're bound for the Rio Grande***
