@@ -33,13 +33,13 @@ I'll sail and I'll sail\
 
 I'll sail and I'll sail and wherever I go\
 Where the waters are high or the pulleys are low\
-I'll follow the trade winds wherever they go\
+I'll follow the trade winds wherever they blow\
 ***And trust in the rolling ocean***
 
 >I'll sail and I'll sail...
 
 I'll sail and I'll sail and I'll leave this behind\
-Though the crossing be cruel and the currents unkind\
+Though the crossing be cruel or the currents unkind\
 I'll open my heart to whatever I find\
 ***And trust in the rolling ocean***
 
@@ -56,6 +56,6 @@ And count all my blessings like grains in the sand\
 >I'll sail and I'll sail...
 
 I'll sail and I'll sail and wherever I roam\
-I pray for the frigate that slices the foam\
+I'll pray for the frigate that slices the foam\
 And long for the moss and the meadow of home\
 ***And trust in the rolling ocean***
