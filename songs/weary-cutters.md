@@ -2,7 +2,7 @@
 templateKey: song
 title: The Weary Cutters
 
-published: false
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: Oh the weary cutters, they’ve taken my laddie from me
@@ -25,8 +25,8 @@ Oh the weary cutters, they’ve taken my laddie from me.
 
 ***Oh the weary cutters, they’ve taken my laddie from me,\
 Oh the weary cutters, they’ve taken my laddie from me.***\
-They aalwes come in the neet, they nivor come in the day,\
-They aalwes come in the neet to steal the laddies away.
+They always come in the night, they never come in the day,\
+They always come in the night, to steal the laddies away.
 
 ***Oh the weary cutters, they’ve taken my laddie from me,\
 Oh the weary cutters, they’ve taken my laddie from me.***\
