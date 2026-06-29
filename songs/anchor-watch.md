@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: The Anchor Watch
-published: false
+published: true
 wordsBy: Cicely Fox Smith
 tuneBy: Daniel Kelly
 chorusLine: Blow, boys, blow
@@ -11,8 +11,9 @@ tags:
 - non-male_writer
 - supernatural
 - Cicely_Fox_Smith
+- originally_a_poem
 date: 2025-04-05T08:05:12.000Z
-description: Be aware of the sixth line in each verse (it's _not_ 'Blow boys blow') and the additional line in the final verse.
+description: Be aware of the sixth line in each verse (it's _not_ 'Blow boys blow') and of the additional line in the final verse.
 ---
 O shipmates as you lay sleeping\
 ***Blow, boys, blow!***\
