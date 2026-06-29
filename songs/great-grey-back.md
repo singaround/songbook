@@ -2,10 +2,10 @@
 templateKey: song
 title: Great Grey Back
 
-published: false
+published: true
 wordsBy: Eliza Carthy
 tuneBy: Eliza Carthy
-chorusLine: oo-oo-oo on the James Clark Ross
+chorusLine: Oo-oo-oo on the James Clark Ross
 songLine: Your great grey back seems so peaceful in the ocean
 tags:
   - non-male_writer
@@ -20,13 +20,13 @@ description:
 
 
 Your great grey back seems so peaceful in the ocean\
-***oo-oo-oo on the James Clark Ross***\
+***Oo-oo-oo on the James Clark Ross***\
 Here we come a-chasin' you and causing a commotion\
 ***look, there she blows with a hurry hurry-o\
 On the James Clark Ross***
 
 We sailed out of Immingham a-hoping for some fair winds\
-***oo-oo-oo on the James Clark Ross***\
+***Oo-oo-oo on the James Clark Ross***\
 When we reached Ascension we were dancing with the penguins\
 ***look, there she blows with a hurry hurry-o\
 On the James Clark Ross***
@@ -38,16 +38,13 @@ I'd quit the cosy pad-and-pen and be a penguin scientist\
 On the James Clark Ross***
 
 Your great grey back seems to know just what the game is\
-***oo-oo-oo on the James Clark Ross***\
+***Oo-oo-oo on the James Clark Ross***\
 I wish that I could talk to you, I'd ask you what your name is\
 ***look, there she blows with a hurry hurry-o\
 On the James Clark Ross***
 
-[Down at the bottom of the deep blue sea\
-Catching fishes, one, two, three.]
-
 Your great grey back seems so peaceful in the ocean\
-***oo-oo-oo on the James Clark Ross***\
+***Oo-oo-oo on the James Clark Ross***\
 Here we come a-chasin' you and causing a commotion\
 ***look, there she blows with a hurry hurry-o\
 On the James Clark Ross***
