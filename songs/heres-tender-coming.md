@@ -43,6 +43,5 @@ They took my bonny laddie, best of all the crew
 **Here's the tender coming** off at Shields Bar\
 **Here's the tender coming** full of men of war
 
-Here's the tender, coming pressing all the men\
-Oh dear hinny what shall we do then?
-v
+**Here's the tender coming** pressing all the men\
+**Oh dear hinny** what shall we do then?
