@@ -17,7 +17,7 @@ date: 2025-04-05T08:05:12.000Z
 description:
 ---
 >**I've worked all my life in the cannery shed\
-And if I am dying or you think I am dead\
+And if I'm dying or you think I am dead\
 Don't bury my bones but put me instead\
 In a can in the cannery shed**
 
@@ -41,7 +41,7 @@ We won't get a rest till the next schooner sails\
 From the dock at the cannery sheds
 
 >**I've worked all my life in the cannery shed\
-And if I am dying or you think I am dead\
+And if I'm dying or you think I am dead\
 Don't bury my bones but put me instead\
 In a can in the cannery shed**
 
