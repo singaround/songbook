@@ -2,9 +2,9 @@
 templateKey: song
 title: The Colours
 
-published: false
-wordsBy: 	Paul Simmonds
-tuneBy: 	Paul Simmonds
+published: true
+wordsBy: 	The Men They Couldn't Hang
+tuneBy: 	The Men They Couldn't Hang
 chorusLine: Red is the colour of the new Republic
 songLine: I am a member of the council of the naval mutiny
 tags:
@@ -49,12 +49,15 @@ Every cask and cannon and compass sheet\
 And we flew a Jacobite flag to give us heart\
 While Pitt stood helpless we were waiting for Bonaparte
 
->***Red is the colour of the new Republic...***
+>***Red is the colour of the new Republic\
+Blue is the colour of the sea\
+White is the colour of my innocence\
+Not surrender to your mercy***
 
 All you soldiers, all you sailors,\
 All you labourers of the land\
 All you beggars, all you builders,\
-All you come here to watch me hang
+You've come here to watch me hang
 
 To the masters we are the rabble,\
 We are the 'swinish multitude'
