@@ -2,7 +2,7 @@
 templateKey: song
 title: Hold the Lantern High
 
-published: false
+published: true
 wordsBy: Barrie Temple and Steve Evans
 tuneBy: Barrie Temple and Steve Evans
 chorusLine: Hold the lantern high lad
