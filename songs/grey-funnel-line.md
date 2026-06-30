@@ -55,6 +55,6 @@ And tell the boys that we're homeward bound\
 
 I'll pass the time like some machine\
 Until the waters turn to green\
-Then I'll dance on down that walk ashore\
+Then I'll dance on down that walkashore\
 ***And sail the Grey Funnel Line no more***\
 ***And sail the Grey Funnel Line no more***
