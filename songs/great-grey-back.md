@@ -32,7 +32,7 @@ When we reached Ascension we were dancing with the penguins\
 On the James Clark Ross***
 
 If I had my life again I'd be what [Claire Waluda](https://www.bas.ac.uk/profile/clwa/) is\
-***oo-oo-oo on the James Clark Ross***\
+***Oo-oo-oo on the James Clark Ross***\
 I'd quit the cosy pad-and-pen and be a penguin scientist\
 ***Look, there she blows with a hurry hurry-o\
 On the James Clark Ross***
