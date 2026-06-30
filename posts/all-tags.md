@@ -24,7 +24,7 @@ This is an alphabetical list of the tags that we've used to categorise the songs
 
 **[ballad](/tags/ballad)** - songs which are ballads - generally songs telling a story, with not much 'joining in' opportunity. If leading a ballad in a session it is useful to be familiar with the song, and "tell the story" through your performance rather than just "singing the right words".
 
-**[childhood](/tags/childhood)** - songs derived from nursery rhymes, playground chants or lullabies.
+**[childhood](/tags/childhood)** - songs for children, about children, or derived from nursery rhymes, playground chants or lullabies.
 
 **[Cicely_Fox_Smith](/tags/Cicely_Fox_Smith)** - songs written by or otherwise associated with [🌐Cicely Fox Smith](https://en.wikipedia.org/wiki/C._Fox_Smith)
 
@@ -122,7 +122,7 @@ This is an alphabetical list of the tags that we've used to categorise the songs
 
 **[short_song](/tags/short_song)** - very short songs, which may be sung through a few times or used as a round. Our working assumption is that songs with 16 lines or fewer will get this tag.
 
-**[Southern_England](/tags/Southern_England)** - Songs originating from or otherwise related to southern England. This includes any part of the English coastline that is not included in the "Northeast England" or "Northwest England" tags.
+**[Southern_England](/tags/Southern_England)** - songs originating from or otherwise related to southern England. This includes any part of the English coastline that is not included in the "Northeast England" or "Northwest England" tags.
 
 **[Stan_Rogers](/tags/Stan_Rogers)** - songs written by or otherwise associated with [🌐Stan Rogers](https://en.wikipedia.org/wiki/Stan_Rogers)
 
