@@ -30,7 +30,7 @@ My opinion of the cannery shed
 
 There's no time to rest and there's no time to linger\
 And you'd better move sharp or you might lose a finger\
-It's make you stomach turn if you knew everything here's\
+It's make you stomach turn if you knew everything that's\
 Been canned in the cannery shed
 
  >**I've worked all my life...**
