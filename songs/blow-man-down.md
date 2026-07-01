@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title: Blow The Man Down
+title: Blow the Man Down
 published: true
 wordsBy: Traditional
 tuneBy: Traditional
