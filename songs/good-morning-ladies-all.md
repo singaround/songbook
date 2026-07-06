@@ -1,7 +1,7 @@
 ---
 templateKey: song
 title: 'Good Morning Ladies All'
-published: false
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: With a heave-o, haul!
