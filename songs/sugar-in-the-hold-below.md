@@ -8,12 +8,12 @@ chorusLine: Hey, ho, below, below
 songLine: Stowing sugar in the hold below
 tags:
   - song
-  - historic_events
+  - African_or_African-American_origin
   - maritime_trade
   - ship
   - perserverance
 date: 2026-07-06T17:28:12.000Z
-description: This song was created and sung by Black roustabouts—the deckhands and cargo loaders who worked the Mississippi River levees during the Reconstruction era. Though legally free, these workers faced brutally harsh, low-paying, and exploitative conditions that heavily mirrored the plantation labor of the pre-Civil War South.
+description: This song was created and sung by Black roustabouts — the deckhands and cargo loaders who worked the Mississippi River levees during the Reconstruction era. Though legally free, these workers faced brutally harsh, low-paying, and exploitative conditions that heavily mirrored the plantation labor of the pre-Civil War South.
 ---
 Well, I wish I was in Mobile Bay\
 Screwing cotton all the day\
