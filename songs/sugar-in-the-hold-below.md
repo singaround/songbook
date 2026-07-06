@@ -32,9 +32,9 @@ Stowing sugar in the hold below
 
 >***Hey, ho, below, below...***
 
-Tell the mate we got bad news\
-Can’t get no steam from the fire in the flue\
-The engineer he did bellow\
+The engineer shouts through his trumpet\
+"Tell the mate we've got bad news\
+Can't get no steam for the fire in the flue"\
 Stowing sugar in the hold below
 
 >***Hey, ho, below, below\
