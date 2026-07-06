@@ -4,7 +4,8 @@ title: 'Good Morning Ladies All'
 published: false
 wordsBy: Traditional
 tuneBy: Traditional
-songLine: With a heave-o, haul! / Good morning ladies all
+chorusLine: With a heave-o, haul!
+songLine: We are outward bound for Kingston town
 tags:
   - song
   - Assassins_Creed
