@@ -15,7 +15,7 @@ date: 2025-04-04T08:05:12.000Z
 description: 
 ---
 Where is Henry Adams now that planned the Agamemnon?\
-Foundered on the River Plate, in Maldonaldos Bay\
+Foundered on the River Plate, in Maldonaldo's Bay\
 Oak and iron and blood of her, his fine one, his darling\
 ***Sink him in his hammock, boys, he's gone far away***
 
