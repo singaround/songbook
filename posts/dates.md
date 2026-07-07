@@ -8,10 +8,7 @@ tags:
 The Auntie Shanty session is at the [Jolly Farmers](https://www.jollyfarmers-oxford.co.uk) pub in central Oxford (OX1 1LD).
 
 ### Dates
-<sup>(last updated: 2nd July 2026)</sup> 
-
-
-**Monday 6th July** - Auntie Shanty Session. Arrive from 6pm, singing from 6:30. Finish singing at 10pm. We will likely be singing in the covered area in the pub garden, unless the weather is unsuitable.
+<sup>(last updated: 7th July 2026)</sup> 
 
 **Monday 3rd August** - Auntie Shanty Session. Arrive from 6pm, singing from 6:30. Finish singing at 10pm. We'll likely be singing in the covered area in the pub garden, unless the weather is unsuitable.
 
