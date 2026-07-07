@@ -55,7 +55,7 @@ Sink them in their hammocks, boys, they've gone far away***
 They're foundered, sunk, or broken and they've gone far away***
 
 Where is Henry Adams now that planned the Agamemnon?\
-Founded on the River Plate, in Maldonaldo's Bay\
+Foundered on the River Plate, in Maldonaldo's Bay\
 Oak and iron and blood of her, his fine one, his darling\
 ***Sink him in his hammock, boys, he's gone far away***
 
