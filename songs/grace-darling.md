@@ -15,8 +15,7 @@ tags:
   - song
 date: 2019-04-04T22:46:40.260Z
 description: >-
-  A
-  [ballad](http://ballads.bodleian.ox.ac.uk/static/images/sheets/10000/05093.gif)
+  A ballad
   telling the true story of Grace Darling, the daughter of William Darling, 
   keeper of the Longstone Lighthouse in the Farne Islands off the coast of
   Northumberland. On 7 September 1838, the paddle steamer "Forfarshire" wrecked
