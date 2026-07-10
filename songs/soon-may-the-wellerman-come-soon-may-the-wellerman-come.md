@@ -12,6 +12,7 @@ tags:
   - coming_home
   - appears_in_a_film
   - appears_in_Fishermans_Friends
+  - Assassins_Creed
 date: 2019-03-11T19:50:58.245Z
 description: >-
   This is a New Zealand shore whaler's song, made by those who went to live on
