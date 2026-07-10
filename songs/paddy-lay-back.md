@@ -10,6 +10,7 @@ tags:
   - song
   - drinking
   - more_chorus_than_verse
+  - Assassins_Creed
 date: 2019-03-14T21:28:31.196Z
 ---
 
