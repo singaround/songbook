@@ -60,5 +60,5 @@ And how I fought at Battle Nile\
 And still I see my lady’s smile\
 **At Nelson’s courtesy**
 
->**My lady sang, my lady sang, 
+>**My lady sang, my lady sang,\
 And by God, she sang for me**
