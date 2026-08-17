@@ -1,10 +1,9 @@
 ---
 templateKey: song
 title: Lady Emma Hamilton
-
-published: false
+published: true
 wordsBy: Lt George Samuel Parsons / George Tudor-Hart
-tuneBy: George Tudor-Hart
+tuneBy: Lt George Samuel Parsons / George Tudor-Hart
 chorusLine: She sang, she sang, for me
 songLine: A midshipman in Napoli
 tags:
@@ -14,9 +13,10 @@ tags:
   - two_voices
   - historic_events
   - post-2000
-date: 2025-04-03T08:05:12.000Z
-description: 
----A midshipman in Napoli\
+date: 2026-08-17T08:05:12.000Z
+description: This is a song we learned from the [Colliers Wood Shanty singers](https://www.facebook.com/p/Colliers-Wood-Shanty-Singers-61550718627160), which recounts the true story of how [Dame Emma Hamilton](https://en.wikipedia.org/wiki/Emma,_Lady_Hamilton), the mistress of Horatio Nelson, used to intercede with him on behalf of sailors to reduce their punishments.
+---
+A midshipman in Napoli\
 **She sang, she sang, for thee**\
 A midshipman, and fancy free\
 **She sang to set you free**\
@@ -26,8 +26,6 @@ A hero of the fleet I’d be\
 **And she sang, she sang for thee**
 
 >**My lady sang, my lady sang\
-She sang, she sang for me\
-My lady sang, my lady sang\
 She sang, she sang for me**
 
 A fool I was, and easy led\
@@ -51,11 +49,9 @@ She begged my Lord to let me live\
 **She sang, she sang for thee**
 
 >**My lady sang, my lady sang\
-She sang, she sang for me\
-My lady sang, my lady sang\
 She sang, she sang for me**
 
-So nine times, nine, it was to be\
+So nine times, (nine!), it was to be\
 **Granted so generously**\
 And so I lived to tell this tale\
 **Fortuitously for thee**\
@@ -64,7 +60,5 @@ And how I fought at Battle Nile\
 And still I see my lady’s smile\
 **At Nelson’s courtesy**
 
->**My lady sang, my lady sang\
-She sang, she sang for me\
-My lady sang, my lady sang, 
+>**My lady sang, my lady sang, 
 And by God, she sang for me**
