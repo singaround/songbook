@@ -2,7 +2,7 @@
 templateKey: song
 title: The Sinking Of The Reuben James
 
-published: false
+published: true
 wordsBy: Woody Guthrie
 tuneBy: Woody Guthrie
 chorusLine: Tell me what were their names, tell me what were their names
