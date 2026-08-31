@@ -2,7 +2,7 @@
 templateKey: song
 title: Honour and Praise 
 
-published: false
+published: true
 wordsBy: John Richards
 tuneBy: John Richards
 chorusLine: Fight for honour and for praise
@@ -41,11 +41,7 @@ A gale was a-blowing and the wind gathered force\
 And I wondered if ever we would reach our home port\
 Or if we'd all be lost in the storm
 
->***I for honour and for praise\
-Sailed the sea throughout me days\
-In cold ground I'll never lay\
-I'd rather die on the ocean\
-Rather die on the ocean***
+>***I for honour and for praise...***
 
 Well, the waves washed the deck, in the wind we were locked\
 I fought with the wheel to stay clear of the rocks\
@@ -68,8 +64,4 @@ That I'd given the lives of the crew just to pay\
 In search of the garlands of honour and praise\
 And I wish that I'd drowned in the storm
 
->***I for honour and for praise\
-Sailed the sea throughout me days\
-In cold ground I'll never lay\
-I'd rather die on the ocean\
-Rather die on the ocean***
+>***I for honour and for praise***
