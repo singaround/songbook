@@ -53,7 +53,7 @@ And he took the best prize of the lot.
 Then the *Georgette*, armed with bold warriors,\
 Went out the poor Yanks to arrest.\
 But she runs up her star-spangled banner,\
-Saying, “You'll not arrest me, I guess.”
+Saying, "You'll not arrest me, I guess."
 
 >***So come all you screws, warders and jailers,\
 And remember Perth regatta day:\
@@ -63,10 +63,10 @@ Away away, away away, away away, away***
 
 And they've landed all safe in America\
 And there they are able to cry,\
-“Hoist up the green flag in The Shamrock,\
-Hurrah for old Eire we'll die!
+"Hoist up the green flag in The Shamrock,\
+Hurrah for old Eire we'll die!"
 
-”So remember those six prisoners colonial\
+So remember those six prisoners colonial\
 And sing all of these verses with skill\
 And remember the whaleship that stole them away\
 And the home that they left on the hill
