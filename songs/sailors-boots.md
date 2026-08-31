@@ -11,7 +11,7 @@ tags:
   - modern_seafaring
   - post-2000
 date: 2025-04-03T08:05:12.000Z
-description: See [https://frank-turner.com/tracks/sailors-boots/](https://frank-turner.com/tracks/sailors-boots/)
+description: See <https://frank-turner.com/tracks/sailors-boots/>
 ---
 
 If I had been born two hundred years ago,\
