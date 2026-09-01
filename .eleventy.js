@@ -105,6 +105,22 @@ module.exports = function(eleventyConfig) {
       return a.data.chorusLine.localeCompare(b.data.chorusLine)
     });
   });
+  // Create a list of songs sorted by date
+  eleventyConfig.addCollection("songsByDate", function(collection) {
+    return collection.getAll().filter(function (item) {
+      // Exclude any pages not for a song
+      return item.inputPath.match(/^\.\/songs\//) !== null;
+    }).filter(function (item) {
+      // Exclude any songs without dates 
+      return item.data.date != null;
+    }).filter(function (item) {
+      // Exclude any songs that aren't yet published
+      return item.data.published === true;
+    }).sort(function (a,b) {
+      // Sort by date, newest first
+      return b.data.date - a.data.date;
+    });
+  });
 
   // Don't process folders with static assets e.g. images
   eleventyConfig.addPassthroughCopy("static/img");

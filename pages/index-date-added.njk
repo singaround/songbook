@@ -1,0 +1,17 @@
+---
+layout: layouts/base.njk
+title: Index by Date Added
+tags:
+  - navIndex
+navtitle: Index by Date Added
+date: 2026-09-01
+permalink: /index-date-added/index.html
+---
+<small>The song index, sorted by the date they were first added to this songbook. Newly-added songs are at the top of the list.</small>
+
+<h1>Songs by Date Added (Most recent first)</h1>
+
+{% set indexlist = collections.songsByDate %}
+{% set indexItem = "date" %}
+{% set indexIsDate = true %}
+{% include "components/indexlist.njk" %}
