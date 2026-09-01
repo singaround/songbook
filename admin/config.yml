@@ -41,6 +41,7 @@ collections:
       - { label: Visible, name: published, widget: boolean, default: false, required: false}
       - { label: Words by, name: wordsBy, widget: string, required: false }
       - { label: Tune by, name: tuneBy, widget: string, required: false }
+      - { label: Roud number, name: roudNum, widget: number, value_type: int, min: 1, required: false }
       - { label: Chorus first line, name: chorusLine, widget: string, required: false }
       - { label: Song first line, name: songLine, widget: string, required: false }
       - { label: Tune link, name: tuneLink, widget: string, required: false }

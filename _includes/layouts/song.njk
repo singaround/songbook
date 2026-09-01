@@ -9,6 +9,7 @@ templateEngineOverride: njk,md
 {% if wordsBy %}<small>Words: {{ wordsBy }}</small><br />{% endif %}
 {% if tuneBy %}<small>Tune: {{ tuneBy }}</small><br />{% endif %}
 {% if tuneLink %}<small>Song/Tune Link: <a href="{{ tuneLink }}" target="_blank" rel="noopener noreferrer">{{ tuneLink }}</a></small>{% endif %}
+{% if roudNum %}<small>Roud Number: <a href="https://archives.vwml.org/search/all:combined/0_50/all/score_desc/extended-roudNo_tr:{{ roudNum }}" target="_blank" rel="noopener noreferrer">Roud {{ roudNum }}</a></small>{% endif %}
   <p>
 {% if description %}
 <div class="message is-info">
