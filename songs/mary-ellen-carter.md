@@ -13,7 +13,7 @@ tags:
   - perseverance
   - Stan_Rogers
   - shipwreck
-date: 2023-13-04T18:06:27.563Z
+date: 2024-04-13T18:06:27.563Z
 description: >-
   A song about a sunken ship, but also about hope and common humanity,
   and triumph over adversity. Note that the chorus changes after the final verse.
