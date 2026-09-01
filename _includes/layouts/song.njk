@@ -7,8 +7,8 @@ templateEngineOverride: njk,md
 <article>
   <h1>{{ songNumber}} - {{ title }}</h1>
 {% if wordsBy %}<small>Words: {{ wordsBy }}</small><br />{% endif %}
-{% if tuneBy %}<small>Tune: {{ tuneBy }}</small>{% endif %}
-{% if tuneLink %}<small>Song/Tune Link: {{ tuneLink }}</small>{% endif %}
+{% if tuneBy %}<small>Tune: {{ tuneBy }}</small><br />{% endif %}
+{% if tuneLink %}<small>Song/Tune Link: <a href="{{ tuneLink }}" target="_blank" rel="noopener noreferrer">{{ tuneLink }}</a></small>{% endif %}
   <p>
 {% if description %}
 <div class="message is-info">
