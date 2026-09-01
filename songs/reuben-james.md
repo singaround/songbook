@@ -19,14 +19,14 @@ description:
 ---
 
 Have you heard of a ship called the good Reuben James\
-Manned by hard fighting men both of honor and fame?\
+Manned by hard fighting men both of honour and fame?\
 She flew the Stars and Stripes of the land of the free\
 But tonight she's in her grave on the bottom of the sea
 
->***Tell me what were their names, tell me what were their names\
+>***Tell me what were their names, tell me what were their names?\
 Did you have a friend on the good Reuben James?\
 What were their names, tell me, what were their names?\
-Did you have a friend on the good Reuben James***
+Did you have a friend on the good Reuben James?***
 
 Well, a hundred men went down in that dark watery grave\
 When that good ship went down only forty-four were saved\
@@ -40,10 +40,10 @@ That we watched for the you-boats and waited for a fight\
 Then a whine and a rock and a great explosion roared\
 And they laid the Reuben James on that cold ocean floor
 
->***Tell me what were their names, tell me what were their names\
+>***Tell me what were their names, tell me what were their names?\
 Did you have a friend on the good Reuben James?\
 What were their names, tell me, what were their names?\
-Did you have a friend on the good Reuben James***
+Did you have a friend on the good Reuben James?***
 
 Now tonight there are lights in our country so bright\
 In the farms and in the cities they're telling of the fight\

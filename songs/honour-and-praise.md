@@ -57,7 +57,7 @@ And I wished that I'd drowned in the storm
 Sailed the sea throughout me days\
 In cold ground I'll never lay\
 I'd rather die on the ocean\
-Rather die on the ocean***
+I'd rather die on the ocean***
 
 And I've lived with the thought for the rest of me days\
 That I'd given the lives of the crew just to pay\

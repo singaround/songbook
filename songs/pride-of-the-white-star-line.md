@@ -6,14 +6,13 @@ wordsBy: © The Longest Johns
 tuneBy: © The Longest Johns
 chorusLine: She's the pride of the White Star Line
 songLine: In the Belfast yard where she was made of Harland-Wolff design
-tuneLink: 'https://music.youtube.com/watch?v=f6Z2eL9EY0Q'
 tags:
   - historic_events
   - hope
   - ship
   - song
 date: 2026-08-31T19:00:00.000Z
-description:
+description: https://music.youtube.com/watch?v=f6Z2eL9EY0Q
 ---
 In the Belfast yard where she was made of Harland-Wolff design\
 The plan was struck to build three ships that funds would not define\
@@ -31,7 +30,7 @@ Smoking rooms and Turkish baths and palm trees rail to rail\
 As sleek and striking as could be, and speed second to none\
 She sailed from Portsmouth dock and showed the world how it was done
 
-> ***She's the pride of the White Star Line\
+> ***She's the pride of the White Star Line***
 
 The Hawke was running 'long her side around the Isle of Wight\
 A swing to starboard up and took the helmsman by surprise\
