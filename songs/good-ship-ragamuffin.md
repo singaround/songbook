@@ -1,6 +1,6 @@
 ---
 templateKey: song
-title: Good Ship Ragamuffin
+title: Good Ship Ragamuffin / Shores of Botany Bay
 
 published: true
 wordsBy: Traditional
@@ -14,7 +14,7 @@ tags:
   - Australia
   - Ireland
 date: 2026-09-27T10:45:00.000Z
-description: This Irish classic is sung from the perspective of an Irish labourer, preparing to depart for Australia. Some people sing "immigrant ship" instead of "emigrant ship" - we are using "emigrant" to reflect the perspective of the character.
+description: This Irish classic is sung from the perspective of an Irish labourer, preparing to depart for Australia. Some people sing "immigrant ship" instead of "emigrant ship" - we are using "emigrant" to reflect the perspective of the character. Following folk tradition, we suggest pronouncing "quay" to rhyme with "bay".
 ---
 I'm on me way down to the quay\
 Where the ship at anchor lays\
