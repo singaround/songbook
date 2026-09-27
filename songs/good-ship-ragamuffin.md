@@ -2,7 +2,7 @@
 templateKey: song
 title: Good Ship Ragamuffin
 
-published: false
+published: true
 wordsBy: Traditional
 tuneBy: Traditional
 chorusLine: To the shores of Botany Bay
