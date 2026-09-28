@@ -16,114 +16,41 @@ description: >-
    A rewritten version of the traditional shanty 'Hanging Johnny', with a less violent subject matter.
 ---
 They call me hanging Johnny,\
-**Away, boys, away!**\
-Cos when the weather's sunny, I\
-***Hang, boys, hang!***
-
-I hangs 'em when it's breezy,\
-**Away, boys, away!**\
-They dries out quick and easy, So it's\
-***Hang, boys, hang!***
-
-<H4>For singing along, these lines are all you need to know. We suggest not scrolling down to the full words </H4>
-
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-we think it's more fun to hear the words than to read them
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-They call me hanging Johnny,\
-**Away, boys, away!**\
+***Away, boys, away!***\
 Cos when the weather's sunny\
 ***I hang, boys, hang!***
 
 I hangs 'em when it's breezy,\
-**Away, boys, away!**\
+***Away, boys, away!***\
 They dries out quick and easy\
 ***So it's hang, boys, hang!***
 
-I hang out shirts and blouses,\
-**Away, boys, away!**\
+I hang out skirts and blouses,\
+***Away, boys, away!***\
 And t-shirts, socks and trousers\
 ***So it's hang, boys, hang!***
 
 I hang out stretchy leggings,\
-**Away, boys, away!**\
+***Away, boys, away!***\
 So careful with my peggings\
 ***So it's hang, boys, hang!***
 
 I even hanged a ballgown,\
-**Away, boys, away!**\
+***Away, boys, away!***\
 Made sure it wouldn't fall down\
 ***So it's hang, boys, hang!***
 
 I hang my skimpy panties,\
-**Away, boys, away!**\
+***Away, boys, away!***\
 While singing stupid shanties\
 ***So it's hang, boys, hang!***
 
 The hanging's just beginning,\
-**Away, boys, away!**\
+***Away, boys, away!***\
 We'll have fresh-scented linen\
 ***So it's hang, boys, hang!***
 
 I hang out my attire\
-**Away, boys, away!**\
+***Away, boys, away!***\
 Ain't got no tumble-dryer\
 ***So it's hang, boys, hang!***
