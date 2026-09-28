@@ -14,7 +14,11 @@ tags:
   - Australia
   - Ireland
 date: 2026-09-27T10:45:00.000Z
-description: This Irish classic is sung from the perspective of an Irish labourer, preparing to depart for Australia. Some people sing "immigrant ship" instead of "emigrant ship" - we are using "emigrant" to reflect the perspective of the character. Following folk tradition, we suggest pronouncing "quay" to rhyme with "bay". If you're singing-along please follow the pronunciation of whoever is leading the song.
+description: >-
+  This Irish classic is sung from the perspective of an Irish labourer, preparing to depart for Australia. Some people sing "immigrant ship" instead of "emigrant ship" - we are using "emigrant" to reflect the perspective of the character.
+  
+  
+  Following folk tradition, we suggest pronouncing "quay" to rhyme with "bay". If you're singing-along please follow the pronunciation of whoever is leading the song.
 ---
 I'm on me way down to the quay\
 Where the ship at anchor lays\
