@@ -22,12 +22,12 @@ Tommy's gone, what will I do?\
 Tommy's gone to Liverpool\
 ***Away down Hilo***\
 Tommy's gone to Liverpool\
-***Away down Hilo***
+***Tom's gone to Hilo***
 
 Tommy's gone to Mobile Bay\
 ***Away down Hilo***\
 Tommy's gone to Mobile Bay\
-***Away down Hilo***
+***Tom's gone to Hilo***
 
 Tommy fought at Trafalgar
 
