@@ -43,7 +43,7 @@ Des mers du nord aux mers du sud.\
 
 >***Pique la baleine...***
 
-Je l'ai retrouvée quand j'm'ai noyé.\
+Dans les grands fonds, elle m'espérait\
 ***Oh mes boués, ouh là ouh là là.***\
 Dans les grands fonds, elle m'espérait\
 ***Oh mes boués, ouh là ouh là là.***
@@ -74,13 +74,6 @@ Peek-eh la Ba-le-neh-joh-voo Na-vi-gay***
 
 Oh meal mear jay Na-vi-gay\
 ***Oh, May Bwey, Ooh-la Ooh-laa-laa***\
-Pour Retro-Vear Ma Doose-Ah-Me\
-***Oh, May Bwey, Ooh-la Ooh-laa-laa***
-
->***Peek-eh la Ba-le-neh...***
-
-Day mare-doo-Nord oh mare-doo-Soo\
-***Oh, May Bwey, Ooh-la Ooh-laa-laa***\
 Day mare-doo-Nord oh mare-doo-Soo\
 ***Oh, May Bwey, Ooh-la Ooh-laa-laa***
 
@@ -95,13 +88,6 @@ Don les-grau-fōn, ell mes-per-ayt\
 Peek-eh la Ba-le-neh-joh-voo Na-vi-gay***
 
 Toos day en-som-blon eh pleh-reh\
-***Oh, May Bwey, Ooh-la Ooh-laa-laa***\
-Toos day en-som-blon eh pleh-reh\
-***Oh, May Bwey, Ooh-la Ooh-laa-laa***
-
->***Peek-eh la Ba-le-neh...***
-
-On coo-plah-ell, jeh swee coo-sheh\
 ***Oh, May Bwey, Ooh-la Ooh-laa-laa***\
 On coo-plah-ell, jeh swee coo-sheh\
 ***Oh, May Bwey, Ooh-la Ooh-laa-laa***
