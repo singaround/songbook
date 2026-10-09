@@ -18,13 +18,13 @@ description: >-
   whaling shanty out there. Massive thanks from Auntie Shanty to [Shanty Sam Wheatley](https://soundcloud.com/shanty-sam-wheatley) for transcribing the phonetic version of the French, and for his assistance in pointing us in the direction of a singable English translation.  
 ---
 
-[🇫🇷  French language](#french)\
-[🗣 Phonetic version of the French](#phonetic)\
-[🏴󠁧󠁢󠁥󠁮󠁧󠁿 English adaptation](#english)
+[French language](#french)\
+[Phonetic version of the French](#phonetic)\
+[English adaptation](#english)
 
 <a name="french"> </a>
 
-<H2>🇫🇷 French Version</H2>
+<H2>French Version</H2>
 
 Pour retrouver ma douce amie\
 ***Oh mes boués, ouh là ouh là là.***\
@@ -58,10 +58,9 @@ En couple à elle, j'm'suis couché.\
 
 
 <a name="phonetic"> </a>
-\
-\
 
-<H2>🗣 Phonetic French version</H2>
+
+<H2>Phonetic French</H2>
 
 Pour Retro-Vear Ma Doose-Ah-Me\
 ***Oh, May Bwey, Ooh-la Ooh-laa-laa***\
@@ -109,10 +108,11 @@ On coo-plah-ell, jeh swee coo-sheh\
 
 
 #<a name="english">  </a>
-\
-\
-<H2>🏴󠁧󠁢󠁥󠁮󠁧󠁿 English Language</H2>
-(these words were adapted by the Auntie Shanty Crew from a translation by [Jesse Ferguson](https://www.jessefergusonmusic.com/))
+
+
+<H2>English Language</H2>
+these words were adapted by the Auntie Shanty Crew from a translation by [Jesse Ferguson](https://www.jessefergusonmusic.com/)\
+
 
 For to find my lost true-love\
 ***Oh, my boys, ooh la, ooo la la***\
