@@ -2,7 +2,7 @@
 templateKey: song
 title: Pique la Baleine
 published: true
-wordsBy: traditional
+wordsBy: traditional (translated by Jesse Ferguson)
 tuneBy: traditional
 chorusLine: Pique la Baleine
 songLine: Pour retrouver ma douce amie
@@ -14,15 +14,17 @@ tags:
   - romantic_love
 date: 2019-11-11T19:46:27.670Z
 description: >-
-  A French South Seas Sperm Whale Fishery song, this might be the most romantic
-  whaling shanty out there. Massive thanks from Auntie Shanty to [Shanty Sam Wheatley](https://soundcloud.com/shanty-sam-wheatley) for transcribing the phonetic version of the French, and for his assistance in helping us find a good English translation.  
+  A French South Seas Sperm Whale Fishery song, we think this might be the most romantic
+  whaling shanty out there. Massive thanks from Auntie Shanty to [Shanty Sam Wheatley](https://soundcloud.com/shanty-sam-wheatley) for transcribing the phonetic version of the French, and for his assistance in pointing us in the direction of a singable English translation.  
 ---
 
 [🇫🇷  French language](#french)\
 [🗣 Phonetic version of the French](#phonetic)\
 [🏴󠁧󠁢󠁥󠁮󠁧󠁿 English adaptation](#english)
 
-#<a name="french">🇫🇷 French Version</a>
+<a name="french"> </a>
+
+<H2>🇫🇷 French Version</H2>
 
 Pour retrouver ma douce amie\
 ***Oh mes boués, ouh là ouh là là.***\
@@ -55,7 +57,11 @@ En couple à elle, j'm'suis couché.\
 >***Pique la baleine...***
 
 
-#<a name="phonetic">Phonetic French</a>
+<a name="phonetic"> </a>
+\
+\
+
+<H2>🗣 Phonetic French version</H2>
 
 Pour Retro-Vear Ma Doose-Ah-Me\
 ***Oh, May Bwey, Ooh-la Ooh-laa-laa***\
@@ -102,7 +108,11 @@ On coo-plah-ell, jeh swee coo-sheh\
 >***Peek-eh la Ba-le-neh...***
 
 
-#<a name="english">English</a> version (adapted by the Auntie Shanty Crew from a translation by Jesse Ferguson)
+#<a name="english">  </a>
+\
+\
+<H2>🏴󠁧󠁢󠁥󠁮󠁧󠁿 English Language</H2>
+(these words were adapted by the Auntie Shanty Crew from a translation by [Jesse Ferguson](https://www.jessefergusonmusic.com/))
 
 For to find my lost true-love\
 ***Oh, my boys, ooh la, ooo la la***\
@@ -112,9 +122,9 @@ For to find my lost true-love\
 >**You strike at the whale now, joli whalerman\
 You strike at the whale while I take helm in hand***
 
-For a thousand seas I set sail\
+Through a thousand seas I set sail\
 ***Oh, my boys, ooh la, ooo la la***\
-For a thousand seas I set sail\
+Through a thousand seas I set sail\
 ***Oh, my boys, ooh la, ooo la la***
 
 >***You strike at the whale...***
