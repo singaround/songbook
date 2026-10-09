@@ -15,16 +15,21 @@ tags:
 date: 2019-11-11T19:46:27.670Z
 description: >-
   A French South Seas Sperm Whale Fishery song, this might be the most romantic
-  whaling shanty out there.
-
-  An English-language translation is provided at the bottom of the page
+  whaling shanty out there. Massive thanks from Auntie Shanty to [Shanty Sam Wheatley](https://soundcloud.com/shanty-sam-wheatley) for transcribing the phonetic version of the French, and for his assistance in helping us find a good English translation.  
 ---
+
+[🇫🇷  French language](#french)\
+[🗣 Phonetic version of the French](#phonetic)\
+[🏴󠁧󠁢󠁥󠁮󠁧󠁿 English adaptation](#english)
+
+#<a name="french">🇫🇷 French Version</a>
+
 Pour retrouver ma douce amie\
 ***Oh mes boués, ouh là ouh là là.***\
 Pour retrouver ma douce amie\
 ***Oh mes boués, ouh là ouh là là.***
 
-> ***Pique la baleine, joli baleinier\
+>***Pique la baleine, joli baleinier\
 Pique la baleine, je veux naviguer.***
 
 Aux mille mers j'ai navigué.\
@@ -32,15 +37,14 @@ Aux mille mers j'ai navigué.\
 Des mers du nord aux mers du sud.\
 ***Oh mes boués, ouh là ouh là là.***
 
-> ***Pique la baleine, joli baleinier\
-Pique la baleine, je veux naviguer.***
+>***Pique la baleine...***
 
 Je l'ai retrouvée quand j'm'ai noyé.\
 ***Oh mes boués, ouh là ouh là là.***\
 Dans les grands fonds, elle m'espérait\
 ***Oh mes boués, ouh là ouh là là.***
 
-> ***Pique la baleine, joli baleinier\
+>***Pique la baleine, joli baleinier\
 Pique la baleine, je veux naviguer.***
 
 Tous deux ensemble on a pleuré.\
@@ -48,25 +52,97 @@ Tous deux ensemble on a pleuré.\
 En couple à elle, j'm'suis couché.\
 ***Oh mes boués, ouh là ouh là là.***
 
-> ***Pique la baleine, joli baleinier\
-Pique la baleine, je veux naviguer.***
+>***Pique la baleine...***
 
-## English translation
-(this is a translation of the meaning - these words don't fit to the tune!) 
 
-To find my sweet love,\
-***Oh my boys, oh la la,***\
-To find my sweet love,\
-***Oh my boys, oh la la,***
+#<a name="phonetic">Phonetic French</a>
 
-> ***Lance the whale, jolly whalerman,\
-You lance the whale, I'll steer.***
+Pour Retro-Vear Ma Doose-Ah-Me\
+***Oh, May Bwey, Ooh-la Ooh-laa-laa***\
+Pour Retro-Vear Ma Doose-Ah-Me\
+***Oh, May Bwey, Ooh-la Ooh-laa-laa***
 
-I sailed many seas\
-From the north to the south.
+>***Peek-eh la Ba-le-neh, Jo-lee Ba-loo-ner\
+Peek-eh la Ba-le-neh-joh-voo Na-vi-gay***
 
-I found my love when I drowned.\
-In the great depths she was waiting for me,
+Oh meal mear jay Na-vi-gay\
+***Oh, May Bwey, Ooh-la Ooh-laa-laa***\
+Pour Retro-Vear Ma Doose-Ah-Me\
+***Oh, May Bwey, Ooh-la Ooh-laa-laa***
 
-The two of us together we cried.\
-Entwined with her will be my bed.
+>***Peek-eh la Ba-le-neh...***
+
+Day mare-doo-Nord oh mare-doo-Soo\
+***Oh, May Bwey, Ooh-la Ooh-laa-laa***\
+Day mare-doo-Nord oh mare-doo-Soo\
+***Oh, May Bwey, Ooh-la Ooh-laa-laa***
+
+>***Peek-eh la Ba-le-neh...***
+
+Don les-grau-fōn, ell mes-per-ayt\
+***Oh, May Bwey, Ooh-la Ooh-laa-laa***\
+Don les-grau-fōn, ell mes-per-ayt\
+***Oh, May Bwey, Ooh-la Ooh-laa-laa***
+
+>***Peek-eh la Ba-le-neh, Jo-lee Ba-loo-ner\
+Peek-eh la Ba-le-neh-joh-voo Na-vi-gay***
+
+Toos day en-som-blon eh pleh-reh\
+***Oh, May Bwey, Ooh-la Ooh-laa-laa***\
+Toos day en-som-blon eh pleh-reh\
+***Oh, May Bwey, Ooh-la Ooh-laa-laa***
+
+>***Peek-eh la Ba-le-neh...***
+
+On coo-plah-ell, jeh swee coo-sheh\
+***Oh, May Bwey, Ooh-la Ooh-laa-laa***\
+On coo-plah-ell, jeh swee coo-sheh\
+***Oh, May Bwey, Ooh-la Ooh-laa-laa***
+
+>***Peek-eh la Ba-le-neh...***
+
+
+#<a name="english">English</a> version (adapted by the Auntie Shanty Crew from a translation by Jesse Ferguson)
+
+For to find my lost true-love\
+***Oh, my boys, ooh la, ooo la la***\
+For to find my lost true-love\
+***Oh, my boys, ooh la, ooo la la***
+
+>**You strike at the whale now, joli whalerman\
+You strike at the whale while I take helm in hand***
+
+For a thousand seas I set sail\
+***Oh, my boys, ooh la, ooo la la***\
+For a thousand seas I set sail\
+***Oh, my boys, ooh la, ooo la la***
+
+>***You strike at the whale...***
+
+From cold north seas to far south seas\
+***Oh, my boys, ooh la, ooo la la***\
+From cold north seas to far south seas\
+***Oh, my boys, ooh la, ooo la la***
+
+>***You strike at the whale...***
+
+I found my love when I was drowned\
+***Oh, my boys, ooh la, ooo la la***\
+In darkened depths, waiting for me\
+***Oh, my boys, ooh la, ooo la la***
+
+>**You strike at the whale now, joli whalerman\
+You strike at the whale while I take helm in hand***
+
+Together there we wept for joy\
+***Oh, my boys, ooh la, ooo la la***\
+Together there we wept for joy\
+***Oh, my boys, ooh la, ooo la la***
+
+>***You strike at the whale...***
+
+And there, entwined, we took our rest\
+***Oh, my boys, ooh la, oooh la la***\
+And there, entwined, we took our rest\
+***Oh, my boys, ooh la, oooh la la***
+
