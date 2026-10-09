@@ -109,7 +109,7 @@ For to find my lost true-love\
 For to find my lost true-love\
 ***Oh, my boys, ooh la, ooo la la***
 
->**You strike at the whale now, joli whalerman\
+>***You strike at the whale now, joli whalerman\
 You strike at the whale while I take helm in hand***
 
 Through a thousand seas I set sail\
@@ -131,7 +131,7 @@ I found my love when I was drowned\
 In darkened depths, waiting for me\
 ***Oh, my boys, ooh la, ooo la la***
 
->**You strike at the whale now, joli whalerman\
+>***You strike at the whale now, joli whalerman\
 You strike at the whale while I take helm in hand***
 
 Together there we wept for joy\
