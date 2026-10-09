@@ -5,7 +5,7 @@ published: true
 wordsBy: traditional (translated by Jesse Ferguson)
 tuneBy: traditional
 chorusLine: Pique la Baleine
-songLine: Pour retrouver ma douce amie
+songLine: Pour retrouver ma douce amie / For to find my lost true-love
 tags:
   - song
   - non-english-language
@@ -13,13 +13,16 @@ tags:
   - France
   - romantic_love
 date: 2019-11-11T19:46:27.670Z
-description:  A French South Seas Sperm Whale Fishery song, we think this might be the most romantic
-  whaling shanty out there. Massive thanks to [Shanty Sam Wheatley](https://soundcloud.com/shanty-sam-wheatley) for transcribing the phonetic version of the French, and for his assistance in helping us find a singable English translation.  
----
+description: >-
+  A French South Seas Sperm Whale Fishery song, we think this might be the most romantic
+  whaling shanty out there. Massive thanks to [Shanty Sam Wheatley](https://soundcloud.com/shanty-sam-wheatley) for transcribing the phonetic version of the French, and for his assistance in helping us find a singable English version.
 
-[French language](#french)\
-[Phonetic version of the French](#phonetic)\
-[English adaptation](#english)
+
+---
+  
+   [French language lyrics](#french)\
+   [Phonetic version of the French](#phonetic)\
+   [English version](#english)
 
 <a name="french"> </a>
 
@@ -110,7 +113,7 @@ On coo-plah-ell, jeh swee coo-sheh\
 
 
 <H2>English Language</H2>
-these words  adapted by the Auntie Shanty Crew from a translation by 
+these words were adapted by the Auntie Shanty Crew from a translation by 
 
 [Jesse Ferguson](https://www.jessefergusonmusic.com)
 
@@ -157,3 +160,4 @@ And there, entwined, we took our rest\
 And there, entwined, we took our rest\
 ***Oh, my boys, ooh la, oooh la la***
 
+>***You strike at the whale...***
