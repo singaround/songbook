@@ -13,9 +13,8 @@ tags:
   - France
   - romantic_love
 date: 2019-11-11T19:46:27.670Z
-description: >-
-  A French South Seas Sperm Whale Fishery song, we think this might be the most romantic
-  whaling shanty out there. Massive thanks from Auntie Shanty to [Shanty Sam Wheatley](https://soundcloud.com/shanty-sam-wheatley) for transcribing the phonetic version of the French, and for his assistance in pointing us in the direction of a singable English translation.  
+description:  A French South Seas Sperm Whale Fishery song, we think this might be the most romantic
+  whaling shanty out there. Massive thanks to [Shanty Sam Wheatley](https://soundcloud.com/shanty-sam-wheatley) for transcribing the phonetic version of the French, and for his assistance in helping us find a singable English translation.  
 ---
 
 [French language](#french)\
@@ -107,11 +106,13 @@ On coo-plah-ell, jeh swee coo-sheh\
 >***Peek-eh la Ba-le-neh...***
 
 
-#<a name="english">  </a>
+<a name="english">  </a>
 
 
 <H2>English Language</H2>
-these words were adapted by the Auntie Shanty Crew from a translation by [Jesse Ferguson](https://www.jessefergusonmusic.com/)\
+these words  adapted by the Auntie Shanty Crew from a translation by 
+
+[Jesse Ferguson](https://www.jessefergusonmusic.com)
 
 
 For to find my lost true-love\
