@@ -5,10 +5,12 @@ summary: List of the dates of forthcoming sessions
 tags:
   - blog
 ---
-The Auntie Shanty session is at the [Jolly Farmers](https://www.jollyfarmers-oxford.co.uk) pub in central Oxford (OX1 1LD).
+The Auntie Shanty session is usually at the [Jolly Farmers](https://www.jollyfarmers-oxford.co.uk) pub in central Oxford (OX1 1LD).
 
 ### Dates
-<sup>(last updated: 6th October 2026)</sup> 
+<sup>(last updated: 14th October 2026)</sup> 
+
+**Monday 26th October** - Hallowe'en Special** - **Shipwrecks, Sirens, Selkies, Seamonsters and Spooky Songs of the Sea**. All things ghostly or supernatural on or under the waves, plus some of the usual shanties. From 6:30 at the **Royal Blenheim** pub in central Oxford (note change from usual venue).
 
 **Monday 2nd November** - Auntie Shanty Session. Singing from 6:30. We will likely be singing in the 'Shadow Gallery', the downstairs room at the Jolly Farmers. (We may be in the garden if the weather is mild).
 
