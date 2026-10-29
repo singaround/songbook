@@ -10,8 +10,6 @@ The Auntie Shanty session is usually at the [Jolly Farmers](https://www.jollyfar
 ### Dates
 <sup>(last updated: 14th October 2026)</sup> 
 
-**Monday 26th October** - Hallowe'en Special - **Shipwrecks, Sirens, Selkies, Seamonsters and Spooky Songs of the Sea**. All things ghostly or supernatural on or under the waves, plus some of the usual shanties. Singing from 6:30 at the **Royal Blenheim** pub in central Oxford (note change from usual venue).
-
 **Monday 2nd November** - Auntie Shanty Session. Singing from 6:30. We will likely be singing in the 'Shadow Gallery', the downstairs room at the Jolly Farmers. (We may be in the garden if the weather is mild).
 
 ⭐ **Monday 30th November** - a special "songbook session" - a chance to talk through songs in the song book, collectively make edits and nominate new songs to add. Some singing, but more chat than usual. All welcome, but may not be the best introduction if you've not been before. From 6:30⭐
