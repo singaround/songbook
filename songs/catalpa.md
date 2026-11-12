@@ -2,7 +2,7 @@
 templateKey: song
 title: The Catalpa
 
-published: false
+published: true
 wordsBy: Traditional (Australian)
 tuneBy:  Traditional
 chorusLine: So come all you screws, warders and jailers
