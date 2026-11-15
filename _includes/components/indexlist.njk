@@ -4,7 +4,7 @@
         <!-- Left side -->
         <div class="column">
                 <p>
-                    {{ entry.data[indexItem] }}
+                    {% if indexIsDate %}{{ entry.data[indexItem] | readableDate }}{% else %}{{ entry.data[indexItem] }}{% endif %}
                     -
                     <a href="{{ entry.url | url }}">
                         {% if entry.data.title %}
